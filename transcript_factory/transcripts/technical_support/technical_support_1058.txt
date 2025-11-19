@@ -1,0 +1,113 @@
+# Frontier Communications Customer Support Call
+
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. So, um, my internet's been down since this morning and I'm not really sure what's going on. I've got stuff I need to do for work and it's just... it's not working.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me help you get this sorted out. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's... (pause) ...555-0147. That's my phone number on the account.
+
+Agent: (typing sounds) Okay, 555-0147. And can I get the last name on the account?
+
+Customer: It's Henderson. H-E-N-D-E-R-S-O-N.
+
+Agent: Perfect, thank you, Mr. Henderson. I'm just pulling up your account here. (brief pause) Alright, I've got you. So you mentioned your internet has been down since this morning. Have you tried restarting your modem yet?
+
+Customer: I... well, no, not yet. I didn't really think about that. Is that something I should do?
+
+Agent: Yeah, absolutely. That actually fixes a lot of issues. So what I want you to do is locate your modem—it's probably a white or black box with some lights on it—and just unplug it from the power. Then wait about thirty seconds and plug it back in.
+
+Customer: Okay, um, one second. (background noise) Yeah, I can see it. It's under my TV stand. The lights are... they're not really lit up very much, which is probably not a good sign, right?
+
+Agent: Well, that could definitely be part of the issue. Go ahead and unplug it for me.
+
+Customer: (background noise) Okay, it's unplugged.
+
+Agent: Great. Now let's just give it about thirty seconds while we wait. (pause) So just out of curiosity, did anything change before the internet stopped working? Like, did you have a power outage or a storm last night?
+
+Customer: Actually, yeah. There was a storm. Pretty bad one, actually. I didn't even think about that being connected.
+
+Agent: That could very well be it. Sometimes surges can affect the modem. Okay, go ahead and plug that back in for me now.
+
+Customer: (background noise) Plugging it back in... okay, it's in.
+
+Agent: Good. Now watch those lights on the front. They should start lighting up one by one. You should see a power light first, and then maybe an internet light. Can you tell me what you're seeing?
+
+Customer: Um... (pause) ...the power light just came on. It's green. But the other lights... I'm not sure. There's like a, um... there's an orange light now.
+
+Agent: Okay, orange isn't ideal. That typically means it's still booting up or there's a connection issue. Let's give it another minute or so to fully initialize. How long has it been since you plugged it in?
+
+Customer: Maybe like twenty seconds?
+
+Agent: Perfect. While we wait, I'm actually showing here that there was a service alert in your area this morning. So that might be related to what you're experiencing. Let's give it another thirty seconds and then we'll see where we're at.
+
+Customer: Okay. (pause) ...So this storm thing happens a lot in your service area?
+
+Agent: It can, depending on the season. We do have pretty good infrastructure to handle weather events, but sometimes we can't prevent all outages. (pause) Alright, how are those lights looking now?
+
+Customer: Um, still orange. And now... wait, I see a blue light blinking too. Is that good?
+
+Agent: The blue blinking light is actually good—that means data is being transmitted. But that orange light is concerning. Let me try something else. Can you check if there's a cable going into the modem? Probably a coaxial cable—it looks kind of like a TV cable?
+
+Customer: Oh, yeah. There's definitely a cable. It's plugged in pretty tight.
+
+Agent: Okay, could you just unplug that cable from the back of the modem and plug it back in? Sometimes they can get slightly loose.
+
+Customer: (background noise) Yeah, I can do that. (pause) Okay, it's back in.
+
+Agent: Good. And while you're down there, is there any damage to that cable at all? Any kinks or pinches?
+
+Customer: (pause) No, I don't think so. Looks pretty normal to me.
+
+Agent: Alright. Let's check the modem lights again.
+
+Customer: Still orange. Still blinking blue. (frustration in voice) This isn't looking good, is it?
+
+Agent: (pause) Well, let me check a few things on my end. (typing sounds) I'm seeing that service alert I mentioned is still active in your area, but it should have been resolved hours ago. Let me run a line test to see if we're getting a signal to your modem.
+
+Customer: Okay, yeah. Do whatever you need to do.
+
+Agent: (pause, typing sounds) Hmm. Okay, so the signal is getting to your modem, which is good news. The bad news is I'm not seeing it authenticate properly with our network. That orange light usually indicates an authentication failure.
+
+Customer: So what does that mean? Like, what's wrong?
+
+Agent: It could be a few things. It might be an issue with your modem itself, or it could be something on our network end. Let me try rebooting the modem one more time, but this time I'm going to do it from our system here. So just watch the lights.
+
+Customer: Okay. Watching.
+
+Agent: (typing sounds) Alright, I'm sending the reboot command now. You should see the lights go dark and then come back on.
+
+Customer: (pause) Yeah, the lights went dark. Now they're coming back. Power's green again. But... (pause) ...the orange is back. And the blue.
+
+Agent: (pause) Okay, I'm seeing the modem come back online on my end, but I'm still not seeing a successful authentication. Let me escalate this to our technical team because this might be a modem hardware issue or a provisioning issue that I can't resolve from here.
+
+Customer: Wait, so you're saying it's broken? What does that mean for me?
+
+Agent: It could mean the modem itself needs to be replaced. It could also mean there's something with how your account is configured in our system. But I want to be honest with you—the troubleshooting steps we've tried should have worked if it was just a simple reset. Since they haven't, I think we need to get a technician out to your location.
+
+Customer: A technician? How long will that take? I really need my internet working.
+
+Agent: I completely understand. Let me check availability. (pause, typing sounds) We have availability tomorrow afternoon between 2 and 4 PM, or we could potentially get someone out on Friday morning. What works better for you?
+
+Customer: Tomorrow afternoon is... I mean, that's not ideal, but I guess that's better than Friday. Can I make sure someone will actually be there?
+
+Agent: I'm going to schedule you for tomorrow from 2 to 4 PM. You'll get a confirmation call about an hour before they arrive. And I'm going to add a note to this ticket that this is a priority issue so they come prepared with replacement equipment if needed.
+
+Customer: Alright. Okay, I guess that's... that's the best we can do then.
+
+Agent: I do apologize for the inconvenience, Mr. Henderson. Before I let you go, is there anything else I can help clarify?
+
+Customer: No, I think... I think that's it. So someone's going to call me tomorrow?
+
+Agent: Yes, about an hour before your appointment window. And if you have any other questions before then, you can always call back and reference your ticket number, which is going to be... (pause, typing sounds) ...779452.
+
+Customer: Got it. 779452. Okay, thanks.
+
+Agent: Thank you for calling Frontier, and again, I apologize for the trouble. We'll get your internet back up and running tomorrow.
+
+Customer: Thanks.
+
+Agent: Have a good day.
+
+(call ends)

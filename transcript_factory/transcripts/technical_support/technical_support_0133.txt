@@ -1,0 +1,95 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet went out this morning and I can't get it back online. I've tried restarting the modem and everything, but nothing's working.
+
+Agent: I'm sorry to hear that. Let me pull up your account here. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, got it. So your internet service went down this morning? Do you remember what time that happened?
+
+Customer: I'd say around 7 or 8 o'clock? I went to check my email and nothing was loading. Been down ever since.
+
+Agent: Alright. And you've already tried restarting the modem—that's great. Let me ask you a few quick questions. Do you see any lights on the modem right now?
+
+Customer: Um... (pause) Yeah, there's like, a red light on the front. I think it says... it looks like it says "offline" or something.
+
+Agent: Okay, that red light indicates the modem isn't connecting to our network. Before we go further, let me just check on our end if there are any service outages in your area. (typing sounds) What's your address again?
+
+Customer: It's 427 Maple Street in Henderson.
+
+Agent: (typing sounds) Okay, 427 Maple Street. (pause) I'm not seeing any reported outages on our end in that area right now, so it's likely an issue with your equipment. Let's try a few things. First, can you locate the power cable on your modem?
+
+Customer: Yeah, I see it.
+
+Agent: Okay, can you unplug it for me and wait about 30 seconds? Sometimes we need a full power cycle.
+
+Customer: (pause) Okay, it's unplugged. (pause) Alright, waiting... (pause) It's been about 30 seconds. Should I plug it back in?
+
+Agent: Go ahead and plug it back in for me.
+
+Customer: (sounds of plugging in device) Okay, it's back in. Now what?
+
+Agent: Give it about a minute to boot back up. You should see the lights start coming on. Let me know once you see that.
+
+Customer: (pause) Okay, so... I'm seeing some lights now. There's a blue light, and then like a green light, and... (pause) wait, now there's a red light again. Is that bad?
+
+Agent: The red light is concerning. Can you tell me exactly which lights you're seeing? Sometimes the modem has multiple lights for different things—internet, phone, WiFi. Do you know which light is which?
+
+Customer: (pause) Uh... not really, man. There's just a bunch of lights on the front. I'm not really a tech person.
+
+Agent: No worries, that's totally fine. Can you read me what it says underneath each light? Like, are there any labels?
+
+Customer: (pause) Okay, so I see one that says "Power," and that one's green. Then there's one that says "Internet" and that one's red. And then there's... "Phone" I think? And that's amber.
+
+Agent: Alright, so the Internet light being red means we're not getting a signal to the modem. Let me check a few things on my end. (typing sounds, pause) Okay, I'm looking at your account here and I do see that your service should be active. Let's try something else. Can you check the cable coming into your modem? It should be a coaxial cable—it looks kind of like a thick antenna cable.
+
+Customer: Yeah, I see it. It's plugged in.
+
+Agent: Can you give it a gentle twist to make sure it's secure? Sometimes they can come loose.
+
+Customer: (sounds of movement) Okay, I'm tightening it. (pause) Hmm, it seems pretty tight already.
+
+Agent: Okay, no problem. Um, let me try rebooting your modem from our end here. (typing sounds) I'm sending a remote reboot command to your device right now. Give it another minute or so to restart.
+
+Customer: Okay... (pause) ...is that supposed to help?
+
+Agent: It should reset the connection. We'll see if the Internet light turns green.
+
+Customer: (long pause) ...still red.
+
+Agent: Still red, okay. That's... that's not what we want to see. Can you check one more thing for me? Can you look at the back of the modem where that cable comes in? Is there any visible damage to the port? Any corrosion or anything like that?
+
+Customer: (pause) I mean... not that I can see? It looks kind of normal to me.
+
+Agent: Alright. Let me try to run a test from our network operations center. (typing sounds, pause) I'm going to send a signal to your modem and see if it responds. (pause) Hmm, it's not responding to the ping. That means the modem isn't communicating with our network at all.
+
+Customer: So... what does that mean? Is my modem broken?
+
+Agent: It could be a few things. It might be a faulty modem, or there could be an issue with the line coming into your house. Unfortunately, I've done most of the standard troubleshooting I can do over the phone. At this point, I think we need to get a technician out to your location to do an in-person diagnosis.
+
+Customer: Really? Like, how long would that take? I need my internet for work. I'm working from home today.
+
+Agent: I totally understand that. Let me check our availability. (typing sounds, pause) We have some appointments available. We could get someone out to you either tomorrow between 8 AM and 12 PM, or the day after that in the afternoon between 1 and 5 PM.
+
+Customer: (sigh) Tomorrow morning, I guess? Can you make sure they bring a new modem or whatever, just in case?
+
+Agent: Absolutely. I'll add a note to the work order that you may need equipment replacement. The technician will bring what they need. For tomorrow morning, can I get a callback number to confirm the appointment?
+
+Customer: It's 555-0147, same as my account number.
+
+Agent: [inaudible] Perfect. So just to recap—we have you scheduled for tomorrow between 8 AM and noon. A technician will come out to diagnose the issue and we'll get your internet back up and running for you.
+
+Customer: Okay. Thanks, I guess. This is frustrating.
+
+Agent: I completely understand, and I'm sorry you're dealing with this. We'll get it sorted out tomorrow. Is there anything else I can help you with today?
+
+Customer: No, that's it.
+
+Agent: Alright, well, thank you for calling Frontier Communications, and we'll see you tomorrow morning.
+
+Customer: Yeah, thanks.
+
+Agent: Have a good day.
+
+(call ends)

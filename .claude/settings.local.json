@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Bash(dir /B)",
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(npx create-next-app@latest outage-dashboard-nextjs --typescript --tailwind --app --eslint --no-src-dir --import-alias \"@/*\")",
+      "Bash(node --version:*)",
+      "Bash(npm:*)",
+      "Bash(chmod:*)",
+      "Bash(npx prisma:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(npx tsx:*)",
+      "Bash(del test-data.ts test-query.ts)",
+      "Bash(timeout:*)",
+      "Bash(curl:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

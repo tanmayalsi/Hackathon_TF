@@ -1,0 +1,107 @@
+# Frontier Communications Support Call
+
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi Derek. Um, my internet's been down since this morning and I have no idea what's going on. I've got work calls coming up and I really need to get this fixed.
+
+Agent: I'm sorry to hear that, sir. I understand how frustrating that can be. I'm going to do everything I can to help get you back online. Can I start by getting your account number or the phone number associated with your account?
+
+Customer: It's, uh, 555-0147. That's my phone number.
+
+Agent: (typing sounds) Perfect, thank you. And can I get your name please?
+
+Customer: James. James Mitchell.
+
+Agent: Great, James. I've got you here in the system. So you're saying your internet is completely down as of this morning? When did you first notice it stopped working?
+
+Customer: I'd say around... I dunno, 7:30 maybe? I tried to check my email and nothing was loading. I restarted the modem like three times but it's still not working.
+
+Agent: Okay, so you've already done a restart, which is great. That's actually the first thing I was going to suggest. Let me ask you a few quick questions. Do you have power to your modem and router right now?
+
+Customer: Yeah, yeah, they're both lit up. The lights are on. I can see them from here.
+
+Agent: Good. And when you say the lights are on, can you tell me which lights you're seeing? Are they solid or blinking?
+
+Customer: Um, okay, so on the modem there's like a green light on the front and it's... it's blinking. And then there's another one that's red.
+
+Agent: Okay, there's a red light. That's what we need to focus on. The red light typically indicates there's no connection coming in from outside. That could mean a few things. James, I'm going to have you try something for me. I'd like you to unplug the modem from the power source, wait about 30 seconds, and then plug it back in. Can you do that?
+
+Customer: Yeah, sure. (pause) Give me one second. (rustling sounds) Okay, unplugging it now.
+
+Agent: Thanks. And just let it sit for about 30 seconds while we wait.
+
+Customer: (pause) Alright, it's been like 30 seconds. Should I plug it back in?
+
+Agent: Yes, go ahead and plug it back in now.
+
+Customer: (sounds of plugging in) Okay, it's plugged back in. Now what?
+
+Agent: Now we're just going to give it about two to three minutes to fully boot back up. You should see the lights cycle through different statuses while it initializes. Why don't you tell me a little bit about what happened before the internet went out? Did you experience any storms last night or this morning?
+
+Customer: Oh, actually, yeah. There was pretty bad lightning around midnight. Really loud. Woke me up actually.
+
+Agent: That could definitely be related. Surge events from lightning can sometimes damage equipment or affect the line coming into your home. Okay, has it been about three minutes now?
+
+Customer: (pause) Yeah, roughly. Um, the green light is still blinking and... yeah, that red light is still there too.
+
+Agent: (pause) Okay, so unfortunately the red light is persisting. That indicates there's still no signal coming in from the street. I'm going to check a few things on my end here. (typing sounds) Let me see... when was the last time your modem went online successfully?
+
+Customer: Like I said, this morning at 7:30 is when I first noticed it. Before that it was working fine yesterday. I was using it all day without any issues.
+
+Agent: Right, understood. Hmm. Okay, James, I'm looking at your account and I'm not seeing any reported outages in your area right now, but let me try something else. I'm going to send a remote restart signal to your modem from here. This might take a minute.
+
+Customer: Okay, yeah, go ahead.
+
+Agent: (typing sounds, pause) Alright, I've sent that signal. That should initialize in just a moment. Do you see any activity?
+
+Customer: (pause) Um, the lights are changing... they're cycling again... okay, it looks like it's starting to restart. Green light's still blinking though.
+
+Agent: Alright, let's give it another minute or two to fully cycle through. I know this is frustrating.
+
+Customer: Yeah, I mean, it's pretty aggravating. I really need this working. Is there anything else you're seeing on your end?
+
+Agent: (pause) Well, I'm checking a few diagnostic indicators here, and I'm not seeing a connection being established. That red light on your modem is typically a signal issue coming from the network side. It's possible that the storm knocked something out on the line or at the node level. But let me... let me try one more thing with you. Can you check your physical connections for me?
+
+Customer: Like the cables?
+
+Agent: Yes, exactly. Can you look at where the coaxial cable comes into your modem? That's the thick cable that usually has a connector on both ends. Is it plugged in tightly?
+
+Customer: (sounds of movement) Yeah, I'm looking at it now. It looks... it looks pretty tight actually. I don't think that's the issue.
+
+Agent: Okay. And there's a cable that goes from your modem to your router, correct?
+
+Customer: Oh, yeah, I see that one too. Ethernet cable. That looks fine.
+
+Agent: Alright. (pause) James, I'm going to be honest with you here. Based on what we're seeing, it really does appear to be an issue with the line coming into your property from our network, not your equipment. The lightning strike last night may have damaged something. We might need to send a technician out to your location to physically inspect the line and the equipment outside.
+
+Customer: Really? How long would that take? I need internet today if possible.
+
+Agent: (typing sounds) Let me see what our availability looks like. When would be best for you? We have same-day appointments available if you're home right now.
+
+Customer: Same-day? Really? I mean, yeah, I'm home. How soon could someone get out here?
+
+Agent: It looks like we have a window between 2 and 6 PM today. Would that work for you?
+
+Customer: Yeah, that works. But I mean, is there any chance this could just resolve itself? Like, maybe it just needs more time?
+
+Agent: (pause) It's possible, but unlikely given the red light status and the fact that we've already done the standard troubleshooting steps. The red light almost always indicates a line issue outside of your home. I really do think a technician visit is going to be necessary.
+
+Customer: Alright, yeah, okay. Let's do it then.
+
+Agent: Perfect. So I'm going to schedule a technician for today between 2 and 6 PM. I have your address here as 447 Maple Street. Is that correct?
+
+Customer: Yes, that's right.
+
+Agent: Great. And just to confirm, that's the address the appointment should be for?
+
+Customer: Yep, that's it.
+
+Agent: (typing sounds) Wonderful. You're all set, James. Your confirmation number is 8847-FR-219. The technician will call you about 30 minutes before they arrive to give you an exact time. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. Hopefully they can get this sorted out quickly.
+
+Agent: I'm sure they will. I apologize again for the inconvenience, especially with your work calls. We really appreciate your patience, and we'll get you back online as soon as possible. Thank you for calling Frontier, James.
+
+Customer: Thanks, Derek. Appreciate it.
+
+Agent: You're welcome. Have a great day.

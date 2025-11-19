@@ -1,0 +1,105 @@
+Agent: Thank you for calling Frontier Communications. This is Marcus speaking. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet went down this morning and I can't get it back up. It's been out for like two hours now.
+
+Agent: I'm sorry to hear that. I'd be happy to help you get back online. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm pulling that up here... and I'm seeing your account for... is this David Martinez?
+
+Customer: Yeah, that's me.
+
+Agent: Great, David. So you mentioned your internet has been down for about two hours. Is your modem currently powered on? Do you see any lights on it?
+
+Customer: Yeah, the modem's on. I can see... um... there's a red light where the internet connection should be. The power light is green, but the internet one is definitely red.
+
+Agent: Okay, that's helpful information. The red light on the internet port typically means there's no connection coming from the wall. Have you noticed any recent storms in your area, or has anything changed with your setup?
+
+Customer: No, no storms or anything. It was working fine this morning when I got up. I was checking my email and everything was good, and then like an hour later I tried to use it again and nothing.
+
+Agent: Alright. Let's try a few basic troubleshooting steps. First, can you locate the power cord on your modem and unplug it for me?
+
+Customer: (pause) Okay, unplugging it now.
+
+Agent: Good. Now let's wait about thirty seconds while that powers down completely.
+
+Customer: (pause) Okay... (pause) ...still waiting?
+
+Agent: Yes, just a few more seconds... and go ahead and plug it back in now.
+
+Customer: (pause) Plugging it back in. (pause) Okay, it's back on. The lights are coming back... the green one is on again, but... (pause) ...the red light is still there.
+
+Agent: Hmm. The red light is still showing?
+
+Customer: Yeah, definitely still red.
+
+Agent: Okay. Can you check the cable that goes from the wall outlet into your modem? Make sure it's firmly connected on both ends?
+
+Customer: (pause) Yeah, I'm looking at it now. It looks... well, it looks pretty snug to me. I can see it's in there. (pause) Should I try wiggling it or something?
+
+Agent: You can try gently reseating it. Just pull it out an inch or so and then plug it back in firmly.
+
+Customer: (pause) Okay, doing that now... (pause) Okay, it's back in. (pause) Nope, still red.
+
+Agent: Still red. Let me try something else. Can you tell me what model modem you have? You should see it printed on the front or back of the device.
+
+Customer: (pause) Um... it says... Frontier... something... (pause) ...FX-2000 I think?
+
+Agent: FX-2000, okay. Thank you. And just to confirm—you're not seeing any lights that might indicate a connection at all? Not even a yellow or orange?
+
+Customer: No, it's definitely red. Pretty solid red.
+
+Agent: (typing sounds) Let me take a look at what we're seeing on our end. (pause) Can you give me just one moment please?
+
+Customer: Sure, no problem.
+
+Agent: (pause) (typing sounds) (pause) Okay, David, I'm checking our systems here and I'm not seeing any active outages in your area, which is good news. However, I am seeing that the line test on our end is showing... (pause) ...it's actually not connecting to the equipment on our side.
+
+Customer: Oh no. What does that mean?
+
+Agent: It likely means there's an issue with the physical line coming into your home, or possibly the connection at the pole. It could be a break in the line or a loose connection on our end. Before we go further, let me ask—do you have a landline phone through us as well?
+
+Customer: No, just the internet.
+
+Agent: Okay. And are there any other devices you've tried connecting to the modem? Like a computer or phone via WiFi?
+
+Customer: I tried my laptop and my phone wouldn't connect either. I mean, the WiFi network isn't even showing up.
+
+Agent: Right, that makes sense if the modem isn't getting a connection from our line. (pause) Okay, I think we've narrowed this down. I'm going to need to escalate this to our technical team. They may need to send a technician out to your location to check the line.
+
+Customer: Really? How long would that take?
+
+Agent: Let me check our availability. (typing sounds) (pause) What does your schedule look like today? Are you home?
+
+Customer: Yeah, I'm here all day. I'm working from home and... well, I was trying to work from home anyway.
+
+Agent: I understand. Unfortunately... (pause) ...our next available technician appointment for your area is tomorrow between 2 and 6 PM. I can book you for that if you'd like?
+
+Customer: Tomorrow? Is there anything sooner? I really need this fixed today if possible.
+
+Agent: I wish I had something available sooner, David. Let me see... (typing sounds) (pause) Unfortunately, we're fully booked for emergency calls in your area for the rest of today. Tomorrow is the earliest we have.
+
+Customer: (pause) Okay... I guess I don't have much choice then.
+
+Agent: I know it's frustrating. And I apologize for the inconvenience. We'll get you back online as soon as possible. Can I get a callback number where our technician can reach you tomorrow?
+
+Customer: Yeah, it's 555-0147. Same number.
+
+Agent: Perfect. So to confirm, we have you scheduled for a technician visit tomorrow, anytime between 2 and 6 PM. They should be able to diagnose the issue with the line and get you reconnected.
+
+Customer: Okay. Do I need to do anything else before they get here?
+
+Agent: No, just make sure you're home during that window. You don't need to do anything with the modem. Our technician will take care of everything. They'll have all your information when they arrive.
+
+Customer: Alright. And you'll call me before they come?
+
+Agent: Yes, the technician will call about thirty minutes before they arrive. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. Thanks for trying.
+
+Agent: You're welcome, David. I apologize again that we couldn't resolve this over the phone. We appreciate your patience, and we'll have you back online tomorrow. Thank you for choosing Frontier Communications.
+
+Customer: Thanks. Bye.
+
+Agent: Goodbye.

@@ -1,0 +1,117 @@
+Agent: Thank you for calling Frontier Communications. This is Marcus speaking. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet's been down since this morning and I really need to get it working. I've got work calls coming up in like an hour.
+
+Agent: Oh, I'm sorry to hear that. Let me help you get that sorted out. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0847. That's my phone number.
+
+Agent: (typing sounds) Okay, perfect. And what's the name on the account?
+
+Customer: David Chen.
+
+Agent: Great, David. I'm pulling up your account now. (pause) Alright, I've got you here. So you're saying your internet is completely down as of this morning?
+
+Customer: Yeah, I woke up around 7 and tried to check my email and nothing. Like, the modem's on, I can see the lights and everything, but there's just... no internet.
+
+Agent: Okay, that's helpful information. Can you tell me which lights are on? Like, is the internet light green, red, or is it off?
+
+Customer: Um, let me look. (pause) There's a green light, there's another green light... and then there's like a red or orange one on the right side.
+
+Agent: Okay, so there's a red or orange light. Do you know what that light represents? Sometimes it'll say next to it—
+
+Customer: Oh yeah, it says... it looks like it says "WAN" or something? Is that bad?
+
+Agent: Yeah, WAN stands for Wide Area Network, and that red light typically indicates there's a connection issue between your modem and our network. Let's try a few things here. First, can you unplug the modem for me? Just pull the power cable out.
+
+Customer: Sure, hold on. (pause) Okay, it's unplugged.
+
+Agent: Great. Now, while that's unplugged, can you also unplug your router if you have a separate one?
+
+Customer: I have... yeah, I have a router. One second. (pause) Okay, both are unplugged now.
+
+Agent: Perfect. Now let's let those sit for about 30 seconds. Just give them a moment to fully power down. (pause) While we're waiting, have you had any storms in your area recently or any changes to your setup?
+
+Customer: No storms that I know of. It was working fine yesterday. I didn't change anything.
+
+Agent: Alright, good. Go ahead and plug the modem back in first, and then we'll plug the router back in about 30 seconds after that.
+
+Customer: (pause) Okay, modem's back in. I can see the lights starting to come back on.
+
+Agent: Good, good. Just give it a moment to fully boot up. That usually takes about a minute. While that's happening, go ahead and plug your router back in.
+
+Customer: (pause) Okay, router's plugged in too.
+
+Agent: Excellent. Now let's give these about another minute or so to fully connect and sync up. (pause) While we're waiting, have you tried using any devices to test the connection yet?
+
+Customer: I tried my laptop but nothing came up. And my phone... well, I was using my phone data, but I definitely can tell the WiFi isn't broadcasting or something because my phone's not picking up my network name.
+
+Agent: Okay, so you're not seeing your WiFi network name appearing at all?
+
+Customer: No, I'm not.
+
+Agent: Alright, let me have you try something. Can you check your modem again? Are all the lights back to what they were before, or is that WAN light still red?
+
+Customer: (pause) Um, still red. Yeah, it's still red.
+
+Agent: Okay, the WAN light is still red. That's... (pause) that's what we need to fix. So the modem isn't establishing a connection to our network yet. Let me try something here. Are you able to access the modem's settings page? Do you know how to do that?
+
+Customer: Uh, not really. Is that like... on the computer or something?
+
+Agent: Yeah, so on your computer, you'd open a web browser and type in 192.168.0.1 and that should bring up your modem settings. But actually, let me first try something on my end. (typing sounds) I'm going to restart your modem remotely and see if that helps establish the connection.
+
+Customer: Oh, you can do that?
+
+Agent: Yeah, I can restart it from here. (typing sounds) Okay, doing that now. It should take about two to three minutes. Can you just give it a moment and then let me know when you see the WAN light turn green?
+
+Customer: Sure, I'll watch it. (long pause) Um, okay, so... the lights turned off and now they're coming back on again. (pause) Still red though.
+
+Agent: Hmm, still red. Okay, that's... that's concerning. (pause) Let me check something here. (typing sounds) Do you have a battery backup or any kind of surge protector that the modem's plugged into?
+
+Customer: No, it's just plugged directly into the wall outlet.
+
+Agent: Okay, good. And the cable coming into your modem from the wall—that's the coax cable, the thick one—have you checked to see if that's securely connected?
+
+Customer: Oh, uh... I didn't check that yet. Let me look back there. (pause) Okay, I can see... it looks pretty tight to me, but let me... (sounds of effort) ...yeah, I'm giving it a little tighten. It seemed a little loose.
+
+Agent: Okay, good thinking. Go ahead and tighten that up, and let's give the modem another minute or two to see if that helps it reconnect.
+
+Customer: (pause) Okay. (long pause) Alright, so... still red.
+
+Agent: Still red. Okay. (pause) You know what, let me check for any service outages in your area. Can you give me your address?
+
+Customer: It's 412 Maple Street, Apartment 3B.
+
+Agent: (typing sounds) Okay, checking that now. (pause) Alright, I'm not seeing any active outages reported in your area. So that's actually good news and bad news. (pause) What I think might be happening here is either a service-side issue specific to your account, or there could be a problem with the modem itself.
+
+Customer: So like... is the modem broken?
+
+Agent: It could be, or it could be something with how it's provisioned on our network. What I'd really like to do is have a technician come out and check both the line itself and the equipment. That way we can get you a definitive answer.
+
+Customer: How soon can someone come out? Like I said, I have work stuff coming up.
+
+Agent: Let me check our availability. (typing sounds) (pause) The earliest I'm seeing is tomorrow morning between 8 and 12. Would that work for you?
+
+Customer: (sighs) Tomorrow morning? That's not going to work for today. Can't you fix it now?
+
+Agent: I wish I could, David. I really do. (pause) What I can do is flag this as urgent so when a technician does come out, they prioritize it. And if something opens up sooner, we can try to contact you to see if you can get an earlier slot.
+
+Customer: [inaudible] ...okay, I guess I don't have much choice. Can you at least set it up?
+
+Agent: Absolutely. So I'm putting you down for tomorrow, 8 AM to 12 PM, at 412 Maple Street, Apartment 3B. You should receive a confirmation email and potentially a text message with the appointment details and a window for when to expect the technician.
+
+Customer: Okay, fine. Anything else I should try in the meantime?
+
+Agent: You can try the restart process one more time tonight if you'd like, but honestly, with that WAN light still red after all these troubleshooting steps, I think it's going to need a technician visit. Just make sure that coax cable stays tight and keep the modem and router plugged in and powered on so we can monitor it from our end.
+
+Customer: Alright, I will. Thanks, I guess.
+
+Agent: I'm really sorry we couldn't get this resolved over the phone for you today, David. Is there anything else I can help you with before we wrap up?
+
+Customer: No, that's it. I'll see the technician tomorrow.
+
+Agent: Perfect. Thank you for choosing Frontier, and we appreciate your patience. Have a good day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

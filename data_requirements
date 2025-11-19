@@ -1,0 +1,122 @@
+Requirements for fake data:
+1. Limit the states and cities to TX and CT only
+
+CT City: Bridgeport
+TX City: Dallas
+
+Customer Distribution by ZIP Code:
+
+Bridgeport, CT:
+- 06673: 65 customers
+- 06604: 61 customers
+- 06611: 51 customers
+- 06606: 50 customers
+Total Bridgeport: 227 customers
+
+Dallas, TX:
+- 75201: 56 customers
+- 75234: 55 customers
+- 75219: 54 customers
+- 75232: 54 customers
+- 75209: 53 customers
+- 75228: 52 customers
+- 75230: 51 customers
+- 75217: 50 customers
+- 75252: 50 customers
+Total Dallas: 475 customers
+
+Total Customers: 702 customers across 13 ZIP codes
+
+
+4. Call Data (Most Essential)
+-To simulate call data we need to create 5-10 network outage events. To show case this in the data we need surge of calls in a certain time frame. We already have the call transcripts generated, but we need to map them to the customer data within the proper distribution
+ For example:
+Outage in CA, Murrieta, 92562 started on 11/16/2025 at 10 AM. We should have surge of calls from the customers in the region from 10 am to 11 am Most of the time customer will call in the first hour of the outages and 
+the volume will drop later on. So we need to fill the fake data in the datetime column accordingly.
+
+- Transcripts: We would require variety of transcripts with various issues. But the transcript talking about outages should be concentrated between the outage time frame to simulate the reality in synthetic data.
+
+
+Outage examples:
+
+Outage Events (Total: 5 events, ~350 customers affected)
+
+Outage Event 1
+TX, Dallas, (4 zipcodes)
+ 
+Zipcodes: 75201, 75234, 75219, 75232
+Total Customers Affected: 219 customers (56+55+54+54)
+Outage Start: 11/16/2025 10:15 AM
+Outage End: 11/16/2025 11:32 AM
+Duration: 77 minutes
+ 
+Outage Event 2
+CT, Bridgeport, (2 zipcodes)
+ 
+Zipcodes: 06673, 06604
+Total Customers Affected: 126 customers (65+61)
+Outage Start: 11/18/2025 1:11 PM
+Outage End: 11/18/2025 2:21 PM
+Duration: 70 minutes
+ 
+Outage Event 3
+TX, Dallas, (3 zipcodes)
+ 
+Zipcodes: 75209, 75228, 75230
+Total Customers Affected: 156 customers (53+52+51)
+Outage Start: 11/19/2025 10:32 AM
+Outage End: 11/19/2025 12:01 PM
+Duration: 89 minutes
+ 
+Outage Event 4
+CT, Bridgeport, (2 zipcodes)
+ 
+Zipcodes: 06611, 06606
+Total Customers Affected: 101 customers (51+50)
+Outage Start: 11/20/2025 2:20 PM
+Outage End: 11/20/2025 3:25 PM
+Duration: 65 minutes
+ 
+Outage Event 5
+TX, Dallas, (2 zipcodes)
+ 
+Zipcodes: 75217, 75252
+Total Customers Affected: 100 customers (50+50)
+Outage Start: 11/21/2025 11:05 AM
+Outage End: 11/21/2025 12:20 PM
+Duration: 75 minutes
+ 
+ 
+Total Summary
+ 
+Total Outage Events: 5
+Total Customers Affected: 702 (all customers will experience at least one outage)
+Duration Range: 65-89 minutes
+Date Range: 11/16/2025 - 11/21/2025
+ 
+ 
+Call Volume Distribution Guidelines
+For each outage event, distribute calls as follows:
+Time-based Call Distribution:
+ 
+First 15 minutes: 40% of total calls (high surge)
+15-30 minutes: 30% of total calls (continued high volume)
+30-45 minutes: 20% of total calls (declining)
+45-60 minutes: 7% of total calls (tapering off)
+60+ minutes: 3% of total calls (residual)
+ 
+Example for Outage Event 1 (219 customers in Dallas):
+ 
+10:15-10:30 AM: ~88 calls (40%)
+10:30-10:45 AM: ~66 calls (30%)
+10:45-11:00 AM: ~44 calls (20%)
+11:00-11:15 AM: ~15 calls (7%)
+11:15-11:32 AM: ~6 calls (3%)
+
+Example for Outage Event 2 (126 customers in Bridgeport):
+
+1:11-1:26 PM: ~50 calls (40%)
+1:26-1:41 PM: ~38 calls (30%)
+1:41-1:56 PM: ~25 calls (20%)
+1:56-2:11 PM: ~9 calls (7%)
+2:11-2:21 PM: ~4 calls (3%)

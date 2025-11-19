@@ -1,0 +1,121 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, so my internet just went out about an hour ago and I've tried everything I can think of. It's just completely down.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot this. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0847.
+
+Agent: (typing sounds) Okay, I'm pulling that up now. And can I have your name please?
+
+Customer: It's Michael. Michael Torres.
+
+Agent: Perfect, Michael. I've got your account here. I can see you're on our Fiber 500 plan. So the internet went out about an hour ago, you said?
+
+Customer: Yeah, right around 2 o'clock. I was working from home and everything just... stopped.
+
+Agent: Okay. Well, let me walk you through a few quick troubleshooting steps. First, can you tell me what you're seeing right now? Is the modem powered on?
+
+Customer: Um, the modem... let me look at it. Yeah, it's on. I can see the lights are on, but... actually, now that I look closer, they're not doing what they normally do. Normally there's like a blue light that pulses, but right now it's just red.
+
+Agent: Okay, a red light is typically an indicator that there's no signal coming into the modem. That's actually helpful information. Have you noticed any storms in your area recently? Sometimes that can affect the line.
+
+Customer: (pause) No, it's been pretty clear actually. Nothing unusual.
+
+Agent: Alright. What I'd like you to do is unplug the modem for me. Just pull the power cable out completely.
+
+Customer: (pause) Okay, done.
+
+Agent: Great. While that's unplugged, let's also unplug your router if you have one separate from the modem.
+
+Customer: Yeah, I do. (pause) It's unplugged.
+
+Agent: Perfect. Now I want you to wait about 30 seconds before you plug anything back in. This helps reset the system.
+
+Customer: (background noise, pause) Alright, counting down... (pause) ...okay, it's been 30 seconds.
+
+Agent: Go ahead and plug the modem back in first, and then the router.
+
+Customer: (pause, sound of plugging in) Okay, modem's back in. (pause) And router's in. Now what?
+
+Agent: Now we just give it about two to three minutes to fully boot up and reestablish connection. Sometimes the lights will flash or change color during that time, which is completely normal.
+
+Customer: (pause) Okay, I'm watching them now. Um... they're still red though. The modem light is still red.
+
+Agent: (pause) Okay, still red. Hmm. Let me check something on your account. (typing sounds) I'm looking at our network in your area. Is there anything else unusual you've noticed? Any power outages, flickering lights, anything like that in your home?
+
+Customer: No, everything else is working fine. The lights are all on, TV's on, all that stuff.
+
+Agent: That's good to know. Let me ask you this – do you see any lights on the ONT box? That's the box outside your home, the optical network terminal?
+
+Customer: Oh, uh... (pause) I'd have to go outside to check that. It's on the side of the house.
+
+Agent: Yeah, if you could do that for me, that would be really helpful.
+
+Customer: (pause, background noise of door opening, wind) Okay, I'm looking at it. Um... I don't see any lights on it at all, actually. Is that bad?
+
+Agent: That's actually the issue. The ONT box should have lights on it. If there are no lights at all, that means there's no power to the unit, or there could be a line break somewhere. Can you see if the power cable is plugged in?
+
+Customer: (pause) Yeah, it looks plugged in from what I can see. It goes into the wall outlet... oh wait, actually, the outlet – it doesn't look like anything's plugged in. I see the cable but it's not... oh no. (pause) I think maybe the wind knocked it loose or something.
+
+Agent: Ah, that might be it! Go ahead and plug it back in for me.
+
+Customer: (pause) Okay, plugging it in... (sound of plugging in) It's in.
+
+Agent: Okay, great. Now let's give that a minute to power on, and then we should see some lights.
+
+Customer: (pause) Okay, I'm waiting... (pause) ...still nothing. No lights.
+
+Agent: Hmm. (pause) Well, this is a bit unusual. Let me ask – are there any other outlets on that side of the house? Sometimes the outlet itself could be faulty.
+
+Customer: (pause) There's one right next to it, actually.
+
+Agent: Perfect. Can you try plugging the power cable into that outlet instead?
+
+Customer: (pause, sound of unplugging and replugging) Okay, I plugged it into the other one. (long pause) ...nothing. Still no lights at all.
+
+Agent: (pause) Okay. Michael, I'm thinking there might be an issue with the ONT unit itself, or possibly a line issue that's affecting power to the unit. Let me see what I can do on my end. Can you go back inside and check the modem one more time for me?
+
+Customer: Yeah, sure. (pause, door closing, background noise) I'm back at the modem.
+
+Agent: Okay, and the lights are still red?
+
+Customer: Yeah, still red. All of them.
+
+Agent: (typing sounds) Alright, I'm going to run a diagnostic on your line. (pause) Give me just one second here. (longer pause) (typing sounds) Okay, the system is showing that we're detecting no signal coming into your home at all, which correlates with what we're seeing with the ONT box. 
+
+Customer: So what does that mean? Is there like a break in the line or something?
+
+Agent: It could be a few things. It could be a line break, an issue with the ONT unit itself, or potentially a problem at the network level in your area. Unfortunately, I'm not able to diagnose that remotely, and I'm also not able to power cycle the ONT from here if there's a power issue.
+
+Customer: Okay... so what do we do?
+
+Agent: (pause) I think we're going to need to get a technician out to your location to investigate this further. They'll be able to check the ONT box, the line running to your home, and potentially replace equipment if necessary.
+
+Customer: Okay. How long would that take? I really need the internet back up – I'm working from home.
+
+Agent: I completely understand. Let me check our availability for you. (typing sounds, pause) Okay, I can get someone out to you tomorrow between 8 AM and 12 PM, or we also have an afternoon slot from 1 PM to 5 PM. Which would work better for you?
+
+Customer: Um... (pause) I guess the morning slot is better. I don't want to wait around all day.
+
+Agent: Perfect. Let me get that scheduled for you. (typing sounds) Alright, I've got you down for tomorrow, 8 AM to 12 PM. You'll receive a confirmation email, and a technician will reach out to you about 30 minutes before they arrive.
+
+Customer: Okay. And if they find a problem with the ONT box itself, would that be covered under warranty or would I have to pay for it?
+
+Agent: That's a great question. The ONT box is actually owned by Frontier, so if it's defective, we'll replace it at no charge. If we find something else is the issue, we'll discuss that with you at the time.
+
+Customer: Alright, that's good to know.
+
+Agent: Is there anything else I can help clarify for you today?
+
+Customer: (pause) No, I think that's it. I'm just hoping this gets resolved quickly.
+
+Agent: I completely understand. I wish I could get it fixed for you today, but our technician should be able to get you up and running. We really appreciate your business, Michael, and we apologize for the inconvenience.
+
+Customer: Okay, thanks for your help.
+
+Agent: You're welcome. You have a great day, and we'll see you tomorrow morning.
+
+Customer: Yep, bye.
+
+Agent: Bye now.

@@ -1,0 +1,85 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. So, um, my internet went out this morning and I can't get it back online. I've tried unplugging everything and waiting, but nothing's working.
+
+Agent: I'm sorry to hear that. We'll get this sorted out for you. Let me pull up your account real quick. Can I get your account number or the phone number associated with your service?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, I've got you here. And just to confirm, this is at the address on Maple Street?
+
+Customer: Yeah, that's right.
+
+Agent: Perfect. So you mentioned you unplugged everything—that's a great first step. When exactly did you notice the internet go down?
+
+Customer: Um, sometime around 8 this morning. I was working from home and just... everything stopped. I've been trying to figure it out for like twenty minutes before I called.
+
+Agent: Okay, I understand. Let me walk you through a few troubleshooting steps. First, can you tell me what you're seeing right now? Do you have any lights on the modem or router?
+
+Customer: Yeah, so the modem has a couple lights on. There's like a... a green light and then I think a red one?
+
+Agent: Alright, so we want to see if we can get those connected properly. The red light usually indicates an issue. Let me have you do something for me. Can you unplug the modem—not the router, just the modem—and wait about thirty seconds?
+
+Customer: (pause) Okay, unplugging now. How long do I wait?
+
+Agent: About thirty seconds should do it. Just count to thirty in your head or so.
+
+Customer: (pause) Alright... and now?
+
+Agent: Go ahead and plug it back in. Let's give it about two minutes to fully boot back up.
+
+Customer: Okay. (pause) I'm looking at it now and... still got that red light.
+
+Agent: Hmm, let me check something on my end. (typing sounds) Can you tell me—are you seeing a solid red light or is it blinking?
+
+Customer: It's... I think it's blinking? It's hard to tell, honestly.
+
+Agent: That's okay. A blinking red light typically means there's an issue with the connection coming into your home. Let me ask you—have there been any storms in your area recently? Or any construction work?
+
+Customer: No storms that I'm aware of. Though, come to think of it, there were some utility workers out here a few days ago. I'm not sure what they were doing, but they were digging around near the street.
+
+Agent: Ah, that could potentially be related. They may have disturbed the line. Let me try to run a line test from my end here. (typing sounds) This might take just a moment... (pause) Okay, so I'm showing that we're not getting a signal on our end either, which tells me it's likely an issue with the external line rather than your equipment.
+
+Customer: So what does that mean? What do I do?
+
+Agent: Well, the good news is it's not your modem or router. The issue is with the fiber line running to your house. We're going to need to send a technician out to check that and see what's going on, especially given the utility work you mentioned.
+
+Customer: How long would that take? I really need my internet for work.
+
+Agent: I completely understand. Let me see what we have available. (typing sounds) The earliest I can get someone out to you would be... tomorrow between 8 AM and 12 PM. Does that work for you?
+
+Customer: Tomorrow? I mean... I guess it has to, but I was hoping to get this fixed today.
+
+Agent: I know, and I apologize for that. Unfortunately, we don't have any same-day availability, but the technician should be able to get you up and running pretty quickly once they assess what's happening with that external line.
+
+Customer: Alright, fine. Tomorrow morning then.
+
+Agent: Great. Before I let you go, let me just try one more thing. Can you check the back of your modem? There should be a cable coming in from outside. Can you see if it's fully connected?
+
+Customer: (pause) Uh, yeah, I see it. It looks pretty secure to me. I mean, the cord is plugged in all the way.
+
+Agent: Okay, and you're not seeing any visible damage to the cable or anything?
+
+Customer: No, it looks fine to me.
+
+Agent: Alright. Unfortunately, that suggests the issue is either further down the line or at the junction point outside. That's definitely something the tech will need to look at. (pause) I'm going to go ahead and get you scheduled. Can you make sure someone's home tomorrow morning between 8 and noon?
+
+Customer: Yeah, I'll be here. Do I need to do anything to prepare or...?
+
+Agent: Nope, just have someone available to let the technician in. They'll have all the tools they need. I'm putting a note in your account that you mentioned the utility work, so the tech will be aware of that context.
+
+Customer: Okay. So that's tomorrow, 8 to noon. Got it.
+
+Agent: Perfect. You're all set. I've got your appointment confirmed. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. I'm just frustrated I have to wait until tomorrow.
+
+Agent: I totally get it, and I apologize for the inconvenience. We really do appreciate your patience, and hopefully this will be a quick fix once our technician gets eyes on it.
+
+Customer: Alright. Thanks, Derek.
+
+Agent: You're welcome. Have a good day, and we'll see you tomorrow morning.
+
+Customer: Thanks. Bye.
+
+Agent: Bye now.

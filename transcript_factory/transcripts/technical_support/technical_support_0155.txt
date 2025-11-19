@@ -1,0 +1,103 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hey, yeah, um... my internet's been down since this morning and I'm not sure what's going on. I've got a work call in like twenty minutes and I really need to get this figured out.
+
+Agent: I understand, and I'm sorry to hear you're experiencing an outage. Let me get some information from you so we can troubleshoot this together. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's... (pause) ...555-0147. My name's Kevin Hartley.
+
+Agent: (typing sounds) Okay, Kevin, thank you. Let me pull up your account here... Alright, I've got you. I see you're on our Fiber 500 plan in the Maple Grove area. Now, when you say the internet went down this morning, was there a specific time, or did you just notice it at some point?
+
+Customer: Um, I'd say around eight o'clock? I tried to log into work and nothing was loading. I rebooted the modem already—I unplugged it, waited like thirty seconds, plugged it back in. Nothing.
+
+Agent: Good thinking on the reboot. That's usually the first step. So the modem—do you know if it's powering back on fully? Are the lights coming back on like they normally do?
+
+Customer: Yeah, yeah, the lights are... they're on. The power light is green, the WiFi light is blinking like it normally does, but... I don't know, it's not connecting to anything. My phone's trying to connect to the WiFi but it just keeps asking for the password again and again.
+
+Agent: Okay, so it sounds like the modem is powered on but maybe not establishing a connection to our network. Let me ask you this—do you see any lights on the modem that might be red or orange? Usually that would indicate an issue.
+
+Customer: (pause) Let me look... no, I don't see any red or orange. It's mostly green and blue. Oh, wait—there's a little orange light on the side. It's kind of small.
+
+Agent: That orange light is important. That typically indicates that we're not detecting a connection on our end. Now, can you check the back of the modem for me? I need you to make sure the fiber optic cable is plugged in securely. It's the thin cable, usually white or clear.
+
+Customer: (pause) (background noise of movement) Okay, I'm looking at the back here... yeah, it's plugged in. It looks pretty secure.
+
+Agent: Alright, and does the fiber optic port itself—does it look clean? Sometimes dust or debris can cause connection issues.
+
+Customer: It looks fine to me. I don't see anything obviously wrong with it.
+
+Agent: Okay. Let me try something else. On the modem itself, there should be a small reset button. It's usually recessed so you need something thin like a paperclip. Don't press it yet, but can you locate it for me?
+
+Customer: (pause) Yeah, I see it. It's on the bottom. You want me to press it?
+
+Agent: I do, but I want to be clear—this will reset the modem to factory settings, which means you'll have to set up your WiFi network again. But let's try it since the standard reboot didn't work. Go ahead and hold it for about ten seconds.
+
+Customer: (pause) Okay... holding it... and... (pause) ...letting go. It's rebooting now. The lights are going crazy.
+
+Agent: That's normal. Why don't we give it about a minute to fully boot back up? While we wait, let me ask—have you noticed any outages in your area? Sometimes we have maintenance scheduled.
+
+Customer: No, I haven't heard anything. This is really sudden.
+
+Agent: (pause) Okay, so the modem should be back up. Are you seeing that orange light again, or has anything changed?
+
+Customer: (pause) Still orange. And my phone is... still not connecting to the WiFi.
+
+Agent: Hmm, okay. Let me check something on my end. (typing sounds) I'm looking at your service address and... (pause) ...I'm not showing any outages in your area right now. The system is showing your modem as offline though, which aligns with what you're seeing. Let me pull up your service history real quick to see if there's anything unusual.
+
+Customer: (pause) How long do you think this is going to take? I've really got to get online soon.
+
+Agent: I understand the time pressure, Kevin. Let me try one more thing before we escalate this. Can you unplug the fiber optic cable from the modem and look at the connection point? Just visually inspect it to see if there's any damage or if anything looks off?
+
+Customer: (pause) Okay, unplugging it now. (pause) It looks... normal? There's like a little connector piece inside the port. It looks fine.
+
+Agent: Is the connector piece clean? It should be bright and shiny, not dirty or scratched.
+
+Customer: Yeah, it looks clean.
+
+Agent: Alright, go ahead and plug that back in, making sure it clicks into place. You should hear a little click.
+
+Customer: (pause) Okay... clicked in. Now what?
+
+Agent: Now let's wait another minute or so for it to reestablish the connection. (pause) While we're waiting, has anything else changed with your setup recently? Did you get any new equipment delivered, or have you had any weather lately that might have affected the line outside?
+
+Customer: No, nothing new. And the weather's been fine—no storms or anything.
+
+Agent: (pause) Okay, and we're checking... do you see the orange light still, or has it changed?
+
+Customer: Still orange. It's been like thirty seconds, so... maybe it needs more time?
+
+Agent: Yeah, let's give it a full minute. (longer pause) How about now?
+
+Customer: (pause) Nope. Still the same. Orange light, no internet connection.
+
+Agent: (pause) Okay, Kevin, I've run through all our standard troubleshooting steps here, and I'm not able to establish a connection on our end either. The issue is that we're not seeing your modem registering on our network at all, which could indicate a problem with the fiber line itself, the modem's equipment, or potentially something at the network level.
+
+Customer: So... what does that mean? Can you fix it remotely or something?
+
+Agent: Unfortunately, no. What I'm going to need to do is escalate this to our Technical Support team, and they'll likely need to send a technician out to your location to physically inspect the fiber line and the modem. They can determine if there's a hardware issue or a line problem.
+
+Customer: How long would that take? I have calls today.
+
+Agent: (typing sounds) Let me see what we have available... I can schedule a technician visit for you as soon as tomorrow between 8 AM and 4 PM, or we have some openings Thursday afternoon if that works better for you?
+
+Customer: Tomorrow morning would be better. Can they come early?
+
+Agent: The earliest window I can book is 8 AM to 12 PM. Does that work?
+
+Customer: (pause) Yeah, okay. That works. Do they need access to anything specific?
+
+Agent: They'll need access to where your fiber optic line enters your home and to the modem, obviously. Just make sure someone's home during that window. I'm going to send you a confirmation to the email on file, and you should also get a text message with the appointment details. Does that email address still look correct?
+
+Customer: (pause) Should be... yeah, that should be fine.
+
+Agent: Great. And Kevin, I'm sorry we weren't able to get this resolved over the phone. Just to recap, I've tried a soft reboot, a factory reset, and verified all your connections. The issue is persisting, so it needs an on-site visit. Is there anything else I can help you with today?
+
+Customer: No, I guess... I guess I'll just wait for the technician. Thanks for trying anyway.
+
+Agent: Absolutely. I appreciate your patience, Kevin. Your confirmation number is 847291. You can reference that if you need to reschedule. You're all set, and we'll see you tomorrow morning.
+
+Customer: Thanks, Derek.
+
+Agent: Have a good day, Kevin.
+
+(call ends)

@@ -1,0 +1,125 @@
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Hi, yeah, um, my internet went out about an hour ago and I've tried everything I can think of. I just need to get it back up and running.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot. Let me pull up your account real quick. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, got it. I'm seeing your account here. So your internet just went out about an hour ago, is that right?
+
+Customer: Yeah, maybe a little longer actually. I was working from home and everything just... stopped. One minute it was fine and the next thing I knew, nothing.
+
+Agent: Okay, let me start with the basics here. Can you tell me what you're seeing right now? Is your modem powered on?
+
+Customer: Um, yeah, the modem is on. I can see the lights. They're... (pause) ...they're like, some are green, but I think one of them is red? Or maybe orange? I'm not totally sure.
+
+Agent: Okay, that's helpful. Can you describe which lights are which color for me? Let's start from the top of the modem.
+
+Customer: Okay, so there's a power light and that's green. Then there's one that says... internet? I think? And that one is red. And then there's a couple others that are blinking green.
+
+Agent: Alright, so the power light is green, which is good. The internet light being red typically means there's no internet connection coming into the modem. Have you checked to make sure all your cables are plugged in securely?
+
+Customer: Yeah, I checked that. Everything looks like it's plugged in.
+
+Agent: Okay, good. And this is happening on all your devices, not just one?
+
+Customer: Yeah, no internet on anything. My phone won't even connect to the WiFi. So it's definitely the internet.
+
+Agent: Right, that makes sense. Let me have you try a restart. Can you locate the power button on the back of your modem?
+
+Customer: (pause) Yeah, I see it.
+
+Agent: Go ahead and press and hold that button for about ten seconds until all the lights go off.
+
+Customer: Okay, holding it now... (pause) ...and they're all off. Now what?
+
+Agent: Now just let it sit for about thirty seconds while it powers down completely.
+
+Customer: (long pause) Alright, it's been about thirty seconds.
+
+Agent: Okay, go ahead and press the power button again to turn it back on.
+
+Customer: Pressing it now. (pause) Okay, the lights are coming back on. The power light is green... the internet light is still... (pause) ...still red.
+
+Agent: Still red? Okay, um... (typing sounds) Let me check something on my end. Have you experienced any outages in your area recently, or is this the first time?
+
+Customer: No, this is the first time. Everything's been working great up until today.
+
+Agent: Okay. So, the light is staying red even after the restart. That typically indicates that the signal isn't coming from our end. Let me have you check one more thing. Can you unplug the coaxial cable—that's the cable that goes into the modem from the wall outlet?
+
+Customer: The thick cable?
+
+Agent: Exactly, the thick cable with the round connector on the end.
+
+Customer: (pause) Okay, I've got it unplugged.
+
+Agent: Can you look at the connector on both ends? Are there any visible signs of damage, corrosion, or anything that looks off?
+
+Customer: (pause) Um, no, they look pretty normal to me. Just... metal connectors.
+
+Agent: Alright, go ahead and plug that back in, making sure it's hand-tight.
+
+Customer: Okay, plugged back in. (pause) Still red though.
+
+Agent: Yeah, I'm not surprised. The issue is likely on the line side. Let me try something else here. I'm going to send a reset signal to your modem. This should take just a moment.
+
+Customer: Okay. (pause) Is that going to fix it?
+
+Agent: Well, let's see. Give it about sixty seconds after I send the signal and we'll see if that internet light changes.
+
+Customer: (long pause) Um, nothing's changed. Still red.
+
+Agent: (pause) Okay. Let me check the line status on my end here. (typing sounds, pause) I'm not seeing any signal coming down your line, which is unusual. When did you last have service working normally?
+
+Customer: This morning. I was on a video call until around... I dunno, 11:30? And then when I came back from lunch around 1, it was just gone.
+
+Agent: Okay. And you haven't had any storms or anything like that in your area?
+
+Customer: No, it's actually been pretty nice out. Clear skies.
+
+Agent: Alright. (pause) Let me check something else real quick. Hold on one second.
+
+Customer: Okay.
+
+Agent: (hold music plays briefly, then stops) Thank you for holding. So I'm looking at the line here and I'm not detecting any active signal on your modem at all. This could indicate an issue either at the junction point outside your home or possibly at our network hub. Have you noticed any cable boxes or equipment outside your home that might look damaged?
+
+Customer: Um, I mean, there's a box on the side of my house but I don't really go out there. I can check if you want?
+
+Agent: Yeah, if you don't mind, that would be helpful.
+
+Customer: (pause, footsteps, wind noise) Okay, I'm looking at it. It's just a gray box. I don't... (inaudible) ...don't see anything wrong with it.
+
+Agent: Is the cover on tight, or does it look like anything's been disturbed?
+
+Customer: No, it looks fine. Pretty secure.
+
+Agent: Okay. (pause, typing sounds) You know what, I think at this point we're looking at a service-side issue. Since there's no signal getting to your modem and we've eliminated the basic troubleshooting steps, this is likely something that needs to be looked at by our service team. They can check the line outside your home and at our network level.
+
+Customer: So you can't fix this over the phone?
+
+Agent: Unfortunately not this time. But I can absolutely schedule a technician to come out. Are you available tomorrow, or would you prefer another day?
+
+Customer: How long does it usually take?
+
+Agent: A technician visit typically takes between 1 to 2 hours. They should arrive within a four-hour window on the day we schedule.
+
+Customer: (sighs) Yeah, okay. Tomorrow works if you have an opening.
+
+Agent: Great. Let me get that scheduled for you. (typing sounds) I've got a technician available tomorrow between 8 AM and 12 PM. Does that work?
+
+Customer: Yeah, that's fine.
+
+Agent: Perfect. (typing) Okay, I've got you booked for tomorrow. You'll receive a confirmation email within the next few minutes, and you can also track the technician's arrival on your account portal. Is there anything else I can help you with?
+
+Customer: No, I think that's it. I just hope they can fix it.
+
+Agent: They'll definitely take good care of you. I apologize for the inconvenience. Is there anything else before we wrap up?
+
+Customer: No, I think we're good.
+
+Agent: Alright, well thank you for calling Frontier Communications, and we'll get this resolved for you tomorrow. Have a great day.
+
+Customer: Thanks. Bye.
+
+Agent: Bye now.

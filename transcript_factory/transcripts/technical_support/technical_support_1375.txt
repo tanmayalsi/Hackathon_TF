@@ -1,0 +1,137 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi Derek, yeah, so I'm calling because my internet just went out. It's been down for about an hour now and I really need to get it back up and running.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we can troubleshoot this together. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm seeing your account here. Just to confirm, this is for the address on Oak Street, correct?
+
+Customer: Yeah, that's right.
+
+Agent: Perfect. So let me ask you a few questions first. When the internet went out, did you notice anything else? Like, did the lights on your modem change at all?
+
+Customer: Um, well, the modem... let me look at it. (pause) Yeah, so the light on the front—I think it's usually solid green—but right now it's... it's blinking red. Is that bad?
+
+Agent: Okay, so a blinking red light typically indicates a connection issue. That's helpful information. Let's try a few things. First, can you tell me, is your modem powered on? Is it plugged in?
+
+Customer: Yeah, it's plugged in. I mean, it's obviously on because it's got the light on it, but...
+
+Agent: Right, right. Good. So here's what I'd like you to do. Can you unplug the modem for about thirty seconds? Let's do a hard reset and see if that helps.
+
+Customer: Okay, hang on. (pause) Yeah, I'm unplugging it now. (pause) Okay, it's unplugged.
+
+Agent: Great. Now let's just wait about thirty seconds for it to fully power down. While we're waiting, have you had any recent weather in your area? Any storms or anything like that?
+
+Customer: Actually, now that you mention it, there was a pretty bad storm earlier today. A lot of rain, some wind. Could that be related?
+
+Agent: It definitely could be. Sometimes weather can affect the lines, or occasionally it'll knock out service temporarily. So once we get your modem back online, we should be good. Go ahead and plug it back in whenever you're ready.
+
+Customer: (pause) Okay, plugging it back in now. (pause) Alright, it's in.
+
+Agent: Good. Now let's give it about a minute or so to boot back up. You should see the lights start to cycle through different colors. Just let me know when it settles down.
+
+Customer: Yeah, I'm watching it now. The lights are doing that thing... cycling through. (pause) Okay, it looks like... the green light is back. It's solid green again.
+
+Agent: Excellent! That's what we want to see. Now, try to connect to your internet. Do you have a computer or phone nearby that you can test with?
+
+Customer: Yeah, I've got my laptop right here. Let me... (pause) Okay, I'm trying to connect to the WiFi network. (pause) It's connecting... (pause, frustrated) ...and it's connected, but there's no internet. The pages aren't loading.
+
+Agent: Hmm, okay. So you're connected to the network but no internet access. Let me think about this. Did you restart your computer at all?
+
+Customer: No, not yet. Should I do that?
+
+Agent: Yeah, let's try that. Go ahead and restart your computer and we'll see if that helps establish the connection properly.
+
+Customer: (pause) Alright, restarting now. (typing sounds) This might take a minute.
+
+Agent: No problem. Take your time. While that's happening, let me check something on my end. (typing sounds) I'm looking at your line status here... (pause) Hmm, that's interesting.
+
+Customer: What? Is something wrong?
+
+Agent: Well, I'm not seeing any active signal from the ONT—that's the device that brings the fiber into your home. It's possible the line itself got affected by that storm you mentioned. Do you happen to know where your ONT is located?
+
+Customer: Um, I'm not sure what that is, actually. I didn't... I mean, the only thing I know about is the modem sitting in my living room.
+
+Agent: Okay, that's fine. The ONT is usually a white box, about the size of a small printer. It could be outside your house, or mounted on the side of your home, or sometimes inside near where the cables come in. Do you have a garage or a utility room?
+
+Customer: Oh! Yeah, I think I know what you're talking about. There's a white box on the side of my house, near the garage. Is that it?
+
+Agent: That's very likely it. Can you go take a look at that for me? See if any of the lights on it are lit up.
+
+Customer: (pause, footsteps) Okay, I'm looking at it now. (pause) Um, all the lights are off. Is that the problem?
+
+Agent: That could definitely be part of it. It's possible the unit lost power or there's an issue with it. Let me check—do you see any cables that might be loose or unplugged?
+
+Customer: (pause) Well, there are a couple of cables back here, and... oh, there's one that looks like it might not be fully plugged in. It's kind of... hanging there.
+
+Agent: Okay, can you try pushing that cable in firmly until you hear a click?
+
+Customer: (pause) Yeah, I'll try... (pause) Okay, I'm... I'm pushing it in. I think I feel it click. (pause) Yeah, that feels like it's in now.
+
+Agent: Great. Now, let's give that a moment to initialize and then check the lights again.
+
+Customer: (pause, waiting) Okay... still nothing. The lights are still off.
+
+Agent: Alright. Um, is there a power cable connected to the ONT?
+
+Customer: (pause) Oh... I'm looking more carefully now. There's a power cable, but... wait, I don't think it's plugged into anything. It's just hanging down.
+
+Agent: Oh! Okay, so that's likely the issue. Where does that cable lead? Can you see?
+
+Customer: (pause) It goes down to... there's an outlet down here, but it looks like there's a cover over it? Or something?
+
+Agent: It might be a weather-sealed outlet. Can you try to plug it in?
+
+Customer: (pause) I'm trying, but it's kind of tight. I don't want to force it and break something. (pause) Hold on... (struggling sounds) Okay, I think I got it. Let me... (pause) Yes! It's in. Now the lights are on!
+
+Agent: Oh, fantastic! (pause) Okay, give it another minute or so to boot up properly. You should see the lights cycle through and then settle.
+
+Customer: (pause, waiting) Okay, they're on now. There's like a steady green light and I think a blue light?
+
+Agent: That sounds perfect. That's exactly what we want to see. Now, try connecting to your WiFi on your laptop again.
+
+Customer: (pause) Okay, so the laptop finished restarting while I was outside. Let me... (pause) Reconnecting to the WiFi... (pause) It's connected. (pause, longer) Hmm... (pause) I'm still not getting anything. The browser is just loading and loading.
+
+Agent: Hmm, that's frustrating. What page are you trying to load? Maybe try a different website.
+
+Customer: I was trying to go to Google. Let me try... (pause) ...loading Amazon. (pause) Same thing. Just spinning. [inaudible]
+
+Agent: Okay, this is odd. The ONT is powered up, your modem is rebooted... (pause, typing) Let me run a line test from my end here. (pause, typing sounds) I'm not getting a strong signal reading on this line. It's possible there's damage to the fiber line itself, especially given that storm you mentioned.
+
+Customer: So... what does that mean? Can you fix it?
+
+Agent: Well, that would typically require a technician to come out and inspect the line and possibly repair it. But let me try one more thing first. Can you go back and check the cables on the ONT again? Sometimes after a storm, cables can get loose from vibrations or debris.
+
+Customer: (pause, footsteps) Okay, I'm back outside. (pause) The cables look pretty secure to me.
+
+Agent: And none of them look damaged or anything? Like, no visible cracks or exposed wires?
+
+Customer: No, they all look fine to me.
+
+Agent: Alright. (pause) You know what, let me escalate this. I'm going to need to get a technician dispatched to your location because it seems like there may be an issue with the external line that I can't troubleshoot remotely. Can you hold for just one moment while I check availability?
+
+Customer: Yeah, okay.
+
+Agent: (hold music, brief pause) Okay, I'm back. So I can get a technician out to you tomorrow between 12 and 4 PM. Would that work for you?
+
+Customer: Tomorrow? Is there any way to get someone today? My work depends on having internet.
+
+Agent: I completely understand, and I apologize for the inconvenience. Unfortunately, we're all booked for today, but I can absolutely note your account as urgent, and I'll make sure tomorrow's appointment is prioritized. We can also offer you a service credit for this outage.
+
+Customer: (sigh) Okay, I guess tomorrow will have to work. What time should I expect them?
+
+Agent: Anywhere between 12 and 4 PM. You'll get a courtesy call about an hour before they arrive with a more specific time window. The technician will be able to assess the line and get you back up and running.
+
+Customer: Alright. Do I need to do anything to prepare?
+
+Agent: Just make sure someone's home to let them in if they need to access anything inside. But most of the work will be outside. I'll make sure all the details are on the ticket.
+
+Customer: Okay, thank you.
+
+Agent: You're welcome. Again, I apologize for the trouble. We'll get this resolved for you tomorrow. Is there anything else I can help you with?
+
+Customer: No, I think that's it. Thanks, Derek.
+
+Agent: Thank you for choosing Frontier, and we'll see you tomorrow.

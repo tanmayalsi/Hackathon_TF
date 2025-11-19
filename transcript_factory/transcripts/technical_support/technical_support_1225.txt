@@ -1,0 +1,125 @@
+# Frontier Communications Customer Service Call
+
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Yeah, hi. So my internet just... it's not working. I've had service with you guys for like three years and it's never just gone out like this.
+
+Agent: I'm sorry to hear that. We'll definitely get this figured out for you. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm pulling that up here. And can I get the name on the account?
+
+Customer: It's David Chen.
+
+Agent: Perfect, David. Thank you. So when you say the internet isn't working, are you getting any lights on your modem or router at all?
+
+Customer: Um, yeah, actually. The modem has some lights on it. Like, the power light is on, but I think the internet light is... it's not lit up. Or it's red? I'm not totally sure.
+
+Agent: Okay, okay. That's actually really helpful information. So the power is on but the internet indicator isn't showing a good connection. Have you had any storms or power outages in your area recently?
+
+Customer: No, nothing like that. It was working fine this morning. I went to get coffee and came back like an hour ago, and my wife said it went out while I was gone.
+
+Agent: Alright. Let's try a few things here. First thing I'd like you to do is unplug the modem from the power outlet, okay? Just pull the power cable out.
+
+Customer: (pause) Okay, done.
+
+Agent: Great. Now let's wait about thirty seconds for the capacitors to discharge. While we're waiting, have you noticed any unusual sounds coming from the modem? Like buzzing or clicking?
+
+Customer: No, nothing like that. It's pretty quiet. Well, I mean, it has a fan, so there's a little bit of noise, but nothing weird.
+
+Agent: That's good. Alright, thirty seconds should be up. Go ahead and plug the power cable back in.
+
+Customer: (rustling sounds) Okay... it's plugging back in... (pause) Okay, it's on.
+
+Agent: Good. Now what I want you to do is just watch those lights for about a minute. Tell me when the internet light comes back on or if you see any changes.
+
+Customer: (long pause) Um... (pause) Okay, so the power light is solid green now, but the internet light is still... I mean, it looks like it might be yellow? Not green. Is that bad?
+
+Agent: Yellow typically means it's trying to establish a connection. That's actually a good sign. Let's give it another minute or so to fully connect.
+
+Customer: (pause) ...It's been like thirty seconds and it's still yellow.
+
+Agent: Okay. And you said you have a router as well, separate from the modem, right?
+
+Customer: Yes, I have a Netgear router. The WiFi is... I don't know. I think some lights are on but I'm not really paying attention to it right now. Should I check it?
+
+Agent: Yeah, if you could take a quick look at that for me. Just tell me what lights you're seeing on it.
+
+Customer: (pause) It's actually... it's pretty dark. Like, I think the power light might be on but everything else is off. That doesn't seem right, does it?
+
+Agent: It could be a few things. Is the router plugged in?
+
+Customer: (pause) Oh... oh no. No, it's not. I don't know... maybe it got knocked loose or something? (rustling) Let me plug that in.
+
+Agent: Go ahead.
+
+Customer: (pause) Okay, it's in now. (pause) Oh! Okay, now I'm seeing more lights come on the router. That's... that's probably a good sign, right?
+
+Agent: That's very likely it, David. Give the router a moment to boot up completely. That usually takes about two to three minutes.
+
+Customer: (pause) Okay, yeah, I can see the WiFi light blinking now. That's... that seems normal?
+
+Agent: Perfect. That's exactly what we want to see. Let me just have you try connecting to the WiFi on one of your devices. Do you have a phone or computer nearby?
+
+Customer: Yeah, I've got my phone right here. (pause) Okay, I'm opening the WiFi settings... (pause) I can see my network. (pause) ...It's connecting... (pause) And I'm in! I'm connected to the WiFi. But wait, it says "no internet" under the network name. That's still not working.
+
+Agent: (pause) Hmm. Okay, that's... that's unusual. Let me check a few things on my end here. (typing sounds) I'm going to run a line test to see if we're receiving a signal on our equipment. One moment please.
+
+Customer: Sure, no problem.
+
+Agent: (pause) (typing sounds) Alright, David, so I'm not actually seeing an active signal coming from our end. It looks like there might be an issue with the line itself or possibly at the junction point where the line comes into your house.
+
+Customer: Oh. So it's... on your end? Like, the service?
+
+Agent: It could be. I'm going to want to escalate this to our technical team to take a look. They might need to send someone out to check the line and the equipment at the street level. But before we do that, let me just try one more thing. I want to make sure it's not something simple we're missing. Did you notice if there were any loose cables when you were checking the modem and router?
+
+Customer: (pause) No, I didn't really... I didn't look that closely. Should I check now?
+
+Agent: Yeah, if you wouldn't mind. Can you look at the cables going into the modem? There should be one that's coaxial—it's the one that looks like a cable TV cord with the metal connectors.
+
+Customer: (pause) Okay, yeah, I see it. It looks pretty tight to me. But I mean, I'm not... I'm not really an expert. It looks connected.
+
+Agent: And the power cable is secure?
+
+Customer: Yes, that one's definitely secure.
+
+Agent: Okay. (pause) The ethernet cable running from the modem to the router—do you see that one?
+
+Customer: Um... (pause) I'm not really seeing one. I thought the router was getting WiFi from the modem?
+
+Agent: That's possible if you have WiFi enabled on the modem itself, but typically we'd recommend a wired connection for better reliability. Let me check your account here... (typing sounds) ...Okay, so you should have... yes, you should have an ethernet port on your modem. But if the WiFi is working, that might not be the issue anyway.
+
+Customer: So I'm getting WiFi from the modem itself then?
+
+Agent: It appears so, yes. Alright, David, I've done all the standard troubleshooting steps I can do from this end, and it really does look like the issue is with the line coming into your home. I'm going to want to schedule a technician visit for you.
+
+Customer: How soon can you get someone out here?
+
+Agent: (typing sounds) Let me check availability... (pause) The earliest I can get someone to you is tomorrow between 8 AM and 12 PM. Does that work for you?
+
+Customer: Tomorrow morning? Yeah, I guess that works. I'm not thrilled about it, but... yeah.
+
+Agent: I completely understand. I apologize for the inconvenience. The good news is that once the technician checks the line, we should be able to get this resolved pretty quickly. They'll be able to test the connection at multiple points and identify exactly where the problem is.
+
+Customer: Okay. What if it turns out to be something I have to pay to fix? Like, if it's my equipment or something?
+
+Agent: That's a great question. If it's something on our end—the line, the junction equipment, anything outside of your home—there's no charge for the visit. If it turns out to be something with your modem or equipment inside your home, we can discuss options at that time, but let's see what the tech finds first.
+
+Customer: Alright. And what's the reference number for this service call or whatever?
+
+Agent: (typing sounds) Your service request number is 847621. I'm going to send that to the phone number on file via text and email as well, so you'll have it handy.
+
+Customer: Great. So tomorrow morning, 8 to 12?
+
+Agent: That's correct. And we really appreciate your patience, David. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. I just hope you guys can figure out what's going on.
+
+Agent: We will. I'm confident the tech will be able to help. Thank you for choosing Frontier, and we'll see you tomorrow.
+
+Customer: Thanks. Goodbye.
+
+Agent: Goodbye, David. Have a good day.
+
+(call ends)

@@ -1,0 +1,129 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, um... my internet's been down since this morning and I'm not sure what's going on. I really need to get it working.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot. Can I start by getting your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm pulling that up now... Got it. So your internet went down this morning, you said?
+
+Customer: Yeah, sometime around 8 AM. I tried unplugging everything, waiting a few minutes, and plugging it back in, but nothing's changed.
+
+Agent: Alright, that's a good first step. Let me ask you a few questions. Are you able to see any lights on your modem or router right now?
+
+Customer: Um, let me look... The modem has a couple lights on it. There's like a green one and... I think there's an amber one blinking?
+
+Agent: Okay, so you're seeing an amber light blinking. That typically indicates the modem is trying to sync with the network. Can you tell me which light is blinking? Is it on the front of the modem?
+
+Customer: Yeah, it's on the front. There's like... I don't know, maybe four or five lights total? One's green, one's amber and blinking, and the rest are just... off I guess.
+
+Agent: Perfect. And the router—do you have a separate router or is it a combo unit?
+
+Customer: It's separate. The router's up there on top of the modem.
+
+Agent: Got it. And what lights are you seeing on the router?
+
+Customer: (pause) Um, nothing. It's just... dark. No lights at all.
+
+Agent: Hmm, okay. Let me check something on my end. (typing sounds) Can you tell me—have there been any outages or construction in your area recently that you're aware of?
+
+Customer: No, nothing that I know of. It was working fine yesterday. I was streaming stuff last night, no problems at all.
+
+Agent: Right, so this just started this morning. Okay, so the router being completely dark suggests it might not be getting power or... let me have you try something for me. Can you check that the router's power cable is firmly connected on both ends?
+
+Customer: (pause, sounds of movement) Yeah, I'm checking it now. Okay, the cable looks pretty firmly in there to me.
+
+Agent: Alright. Now check the modem as well—make sure that power cable is secure too.
+
+Customer: (more movement sounds) Yeah, both look fine. They're plugged in.
+
+Agent: Okay, good. Now what I'd like you to do is, let's do a full reboot. Go ahead and unplug the modem first, then the router.
+
+Customer: Unplugging now...
+
+Agent: And just leave them unplugged for about thirty seconds. I'll wait.
+
+Customer: (pause) ...Okay, thirty seconds are up. So I plug the modem back in first?
+
+Agent: Yes, start with the modem. Plug that in first.
+
+Customer: (pause) It's in. Lights are coming back... green light's on, and the amber's blinking again.
+
+Agent: Perfect. Now go ahead and plug the router back in.
+
+Customer: Okay. (pause) Alright, it's plugged in... and... still nothing. No lights coming on.
+
+Agent: Hmm. Still nothing on the router? That's unusual. Is the power switch on the back of the router—do you see an on/off switch?
+
+Customer: (pause, sound of movement) Oh, let me... yeah, there's like a button back here. Let me press it.
+
+Agent: Okay, try that.
+
+Customer: (pause) [inaudible] Still nothing though. The lights aren't turning on.
+
+Agent: Alright, let's try unplugging the router and plugging it back in one more time to see if that helps.
+
+Customer: (unplugging sound) Okay... (pause) Plugging back in... (pause) Nope, still no lights.
+
+Agent: I see. Well, it's possible the router may have an issue, but let me check something else first. Let me see if we're getting a signal on the modem side. When you look at the modem right now, what color is that amber light?
+
+Customer: Um, it's still blinking. It's like a steady amber blink.
+
+Agent: Okay, so it's still trying to sync. That's... (pause) Can you give me one moment? Let me check the line status on my end here.
+
+Customer: Sure, yeah.
+
+Agent: (hold music plays briefly, about 15 seconds, then agent returns) Hey, I'm back. So I'm seeing that we might have a line issue on our end. Can you tell me—when you look at the outside of your house, do you see a gray box mounted on the wall or anywhere on your property? That'd be your network terminal.
+
+Customer: Uh... yeah, I think so. It's on the side of the house, kind of near the front corner.
+
+Agent: Great. Can you take a quick look at that for me? Just see if there are any lights on it or if you notice anything unusual—any loose cables or anything like that.
+
+Customer: (sounds of movement, door opening) Okay, I'm looking at it... Um, there's... I don't see any lights on it. It just looks like a normal box. Wait, is there supposed to be lights on this thing?
+
+Agent: There should be, yes. Typically you'd see at least one indicator light. The fact that there's no lights suggests the signal might not be reaching that box. (pause) Let me ask you this—do you remember if there were any storms last night or early this morning?
+
+Customer: No, it was pretty clear out. Why?
+
+Agent: Just ruling out the possibility of weather-related damage to the line. (typing sounds) Okay, so here's what I'm thinking. The modem is trying to sync but it's not able to complete the handshake with the network, which would explain the blinking amber light. And the external terminal having no lights at all suggests the signal from our end might be down.
+
+Customer: So... what does that mean? Is it something you can fix?
+
+Agent: Well, that would require a technician to come out and check the line from our central office to your premises. It could be an issue with the fiber line itself or the equipment at the network terminal. (pause) But before we get to that point, let me try a couple more things. What I need you to do is go back inside and check your modem one more time. Look at the lights and tell me the exact status of each one.
+
+Customer: (sounds of movement returning inside) Okay... so the green light is solid green. The amber light is still blinking... and then there's like a third light that's... it looks like it might be slightly lit? It's like, really dim.
+
+Agent: Which light is that? Can you see what it corresponds to?
+
+Customer: Um... (pause) I can't really read the labels very well. It's just... there's a dim light somewhere in the middle.
+
+Agent: Okay. Is the router showing any signs of life at all at this point?
+
+Customer: Nope, still completely dark.
+
+Agent: Alright. At this point, I'm fairly confident we have a line issue on our end. I'm going to need to escalate this to our technical support team. They can dispatch a technician to your location to investigate further. Would you be available for a technician to come out? They can usually be there within the next couple of business days.
+
+Customer: A couple of days? I really need my internet today. Is there anything else we can try right now?
+
+Agent: I understand, and I wish I could get this resolved immediately. Unfortunately, without the signal reaching your network terminal, there's not much else we can troubleshoot from our end. It really does require someone to go out and check the physical line and equipment. But let me see what I can do. (typing sounds, pause) Okay, I can put in a priority service request. It's not guaranteed, but it might move your appointment up. They may be able to get someone out to you today or tomorrow morning.
+
+Customer: Okay, yeah, please do that.
+
+Agent: Perfect. I'm getting that set up for you now. (typing sounds) Alright, so I've placed a priority work order. You should receive a call within the next few hours confirming your appointment window. They'll have a four-hour window, unfortunately—that's standard. It'll be either today between 2 and 6 PM, or tomorrow morning between 8 AM and noon. They'll call to confirm.
+
+Customer: Okay, that's... I guess that's better than a couple days. So they'll just call me?
+
+Agent: Yes, someone from our dispatch team will call you to confirm the time. In the meantime, is there anything else I can help you with?
+
+Customer: No, I guess that's it. I just... I'm really hoping they can fix it quickly.
+
+Agent: I completely understand. I wish I had better news, but the technician should be able to get to the bottom of it once they're out there. Is there anything else before I let you go?
+
+Customer: No, I think that's everything. Thanks for your help, I guess.
+
+Agent: You're welcome. Thank you for calling Frontier Communications, and I apologize again for the inconvenience. We'll get this sorted out for you as soon as possible.
+
+Customer: Thanks. Bye.
+
+Agent: Goodbye.

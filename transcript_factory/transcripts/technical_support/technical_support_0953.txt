@@ -1,0 +1,105 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, thanks for picking up. So my internet just went out about an hour ago and I can't get it back online. I've got work stuff I need to do and I'm kind of stuck here.
+
+Agent: Oh man, I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll get to the bottom of this. Can I get your account number or the phone number associated with your account?
+
+Customer: Uh, yeah, it's the number you're probably calling from, actually. 555-0847.
+
+Agent: (typing sounds) Perfect, got it. So you're showing service at that address on Maple Street, correct?
+
+Customer: Yeah, that's right.
+
+Agent: Okay, great. So you mentioned the internet went out about an hour ago. Was there anything that happened right before that? Like a storm, power outage, or anything like that?
+
+Customer: No, nothing like that. It was just... working fine and then suddenly I got that little spinning wheel on everything. And then it just died.
+
+Agent: Right, okay. So nothing on your end that you can see. Let's start with the basics here. Can you tell me what lights you're seeing on your fiber modem right now?
+
+Customer: (pause) Okay, so I'm looking at it now. There's... um... I see a red light on top. And then below that there's just... nothing. Like, the other lights aren't on.
+
+Agent: Alright, so you've got a red light on top. That's your power indicator?
+
+Customer: I think so, yeah. The red one's on top.
+
+Agent: Okay, what I need you to do is unplug the modem for me. Just pull the power cable out of the back.
+
+Customer: Okay, doing that now. (pause) It's unplugged.
+
+Agent: Great. Now I want you to wait about 30 seconds. Just... give it a little time here.
+
+Customer: (pause) ...Alright, it's been about 30 seconds.
+
+Agent: Perfect. Now go ahead and plug it back in for me.
+
+Customer: (pause) Plugging it back in now. (pause) Okay, it's in.
+
+Agent: Alright, so when you plug it back in, the lights should start doing their thing. What are you seeing now?
+
+Customer: Um, yeah, the red light's back on. And now I'm seeing some... I think it's like an orange or yellow light? Below it?
+
+Agent: That's good, that's good. That's the internet light. It should turn blue or green once it connects. How long has it been since you plugged it back in?
+
+Customer: Just like 10 seconds.
+
+Agent: Okay, sometimes it takes a minute or two. Why don't you give it another 30 seconds or so and then check on it?
+
+Customer: Okay. (pause) ...So I'm looking at it again and that yellow light is still there. And I don't see any other lights coming on.
+
+Agent: Still just the yellow one underneath the red?
+
+Customer: Yeah, just those two.
+
+Agent: Okay, and you're not seeing any lights on your router either, right? Like, separate from the modem?
+
+Customer: Oh, well, I don't have a separate router. It's all one unit, I think.
+
+Agent: Got it, got it. So that all-in-one unit is what we're looking at. Alright, let me... (typing sounds) let me check your signal levels here on my end. Hmm, that's interesting. I'm actually showing... okay, yeah, I'm not seeing a good signal coming through from your ONT. That's the fiber box outside your house.
+
+Customer: So what does that mean? Does that mean something's wrong with the box outside?
+
+Agent: It could be a few things. It could mean there's a loose connection, or potentially a fiber line issue. Before we go down that road, let me have you check something. Can you go look at where the fiber cable comes into your house? Usually it's on the side or back of the house.
+
+Customer: Uh, yeah, give me a second. (pause) Okay, I'm looking. I see where it comes in. It looks fine to me. Everything looks like it's plugged in.
+
+Agent: Alright, it looks secure from your end. Let me try a few things here. (typing sounds) (pause) Okay, I'm going to send a reset signal to your equipment from here. (pause) Can you keep an eye on that modem and let me know if anything changes?
+
+Customer: (pause) ...Okay, still the same. Red light, yellow light. Nothing else is happening.
+
+Agent: Still nothing, huh? (pause) Alright, so I'm pulling up the diagnostics now and I'm actually seeing... this is strange. I'm not getting a good handshake between the network and your box. This could indicate a fiber line issue, like maybe a break or a cut in the line, or it could be your ONT has failed.
+
+Customer: So what do I do? Can you fix it remotely or...?
+
+Agent: Unfortunately, with what I'm seeing, this is probably something that's going to need a technician visit. If there's a fiber line issue, we need someone to physically inspect the line. Or if it's the ONT itself that's failed, we'd need to swap that out in person anyway.
+
+Customer: Okay, so when can someone come out? I really need this working. I've got... I'm supposed to be working from home today.
+
+Agent: I totally understand. Let me see what we have available. (typing sounds) (pause) So I can get someone out there tomorrow between 8 AM and 12 PM. Would that work for you?
+
+Customer: Tomorrow? That's... I mean, I guess it has to be, but do you have anything sooner? Like today?
+
+Agent: Let me check our emergency appointments. (pause) Unfortunately, we don't have any same-day slots available in your area. Tomorrow morning is the earliest I can get you in.
+
+Customer: Ugh, okay. Yeah, I'll take it. Do I have to be here the whole time?
+
+Agent: Yeah, you'll need to be home so they can access your equipment outside and inside if needed. It should only take about an hour or so, but the technician might need you to answer some questions or verify things inside.
+
+Customer: Alright, alright. So tomorrow between 8 and 12. Got it.
+
+Agent: Perfect. And just so we have everything right, I'm going to send a confirmation email and a text message to the number on the account. You should see that come through in just a moment.
+
+Customer: Okay, I got it. The text just came through.
+
+Agent: Great. Is there anything else I can help you with today?
+
+Customer: No, I think that's... I mean, I wish you could have fixed it, but I guess there's not much you can do. I'll see the technician tomorrow.
+
+Agent: I really wish I could have gotten it working for you too. I know this is frustrating. The good news is our team will get to the root of the issue tomorrow and get you back up and running. Thanks so much for being patient with me, and I apologize for the inconvenience.
+
+Customer: Yeah, no problem. Thanks for trying, anyway. I appreciate it.
+
+Agent: You're welcome. Have a good day, and we'll see you tomorrow morning.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

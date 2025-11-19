@@ -1,0 +1,121 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, so my internet went down this morning and I can't get it back up. I've been without service for like three hours now.
+
+Agent: Oh, I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll see what we can figure out. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0847.
+
+Agent: (typing sounds) Okay, got it here. I'm showing an account under the name... Robert Chen?
+
+Customer: Yeah, that's me.
+
+Agent: Perfect. So you're saying your internet is completely down? Like, you've got no connection at all right now?
+
+Customer: Correct. Nothing. The modem's on and everything, it's got power, but there's no internet. I tried unplugging it and plugging it back in, and that didn't work either.
+
+Agent: Okay, good thinking on the restart. Um, when you look at the modem, can you tell me what lights you're seeing? Are any of them lit up?
+
+Customer: (pause) Yeah, there's a power light that's solid green, and then there's one labeled "internet" and that one's... it's off, I think? Or maybe it's red? It's hard to tell with this lighting.
+
+Agent: Okay, so the internet light is either off or red. Is there a light that might say "WAN" or maybe has an up arrow?
+
+Customer: Uh... (pause) there's one that says "WAN" and that one's definitely red.
+
+Agent: Alright, so the WAN light being red typically means we're not getting a signal from our network to your modem. Let me just run a quick check on our end to see if there's an outage in your area or anything like that. (typing sounds) What's your address?
+
+Customer: It's 4127 Maple Drive in Springfield.
+
+Agent: (typing sounds) Okay... 4127 Maple Drive... Alright, I'm not seeing any outages reported in your area right now, so that's... that's a good sign and a bad sign, I guess. (chuckles awkwardly)
+
+Customer: What do you mean?
+
+Agent: Well, good news is it's probably not something affecting the whole neighborhood. Bad news is it might be something specific to your line or your equipment. Um, let me ask you this—did anything change before the internet went down? Like, did a storm roll through, or did you have a power outage, or...?
+
+Customer: No, nothing like that. I was just using it fine this morning, had my coffee, checked my email, and then when I came back like twenty minutes later, it was just... gone.
+
+Agent: Okay, and you've already tried unplugging the modem for a bit?
+
+Customer: Yeah, I unplugged it for like a minute and plugged it back in. Waited for it to boot back up. Still nothing.
+
+Agent: Alright. So let me try a few more things. Do you have a router, or are you using just the modem?
+
+Customer: I have a router. It's connected to the modem with an ethernet cable.
+
+Agent: Okay, perfect. Can you try disconnecting the ethernet cable from the router, and then plug a computer or a device directly into the modem with an ethernet cable? Just to see if the problem is with the router or the modem itself.
+
+Customer: (pause) Yeah, one second. (background shuffling sounds) Okay, I'm... I'm plugging my laptop directly into the modem now. (pause) Hmm, let me wait a moment for it to... (longer pause) No, still nothing. The ethernet icon on my laptop just shows no connection.
+
+Agent: Okay, so that tells me it's not a router issue. The problem is between the modem and our network. Um, I'm going to try something on my end. I'm going to restart your modem from here in the system. It might take a minute or so. You should see the lights blink and everything restart.
+
+Customer: Okay, I'm watching it... (pause) Yeah, the lights just went out and now they're coming back. (another pause) The power light's back to green, and the WAN light is... still red.
+
+Agent: Still red, huh? (sigh) Okay. Let me check something. So your modem model is the FG-4500, right?
+
+Customer: I... I think so? Let me look at the top. Yeah, FG-4500.
+
+Agent: Alright. Um, I'm seeing something in the system. It looks like your line might be having some signal issues, but I'm not seeing a complete signal loss, so it's... it's a little unclear what's happening. Have you noticed the internet has been slow recently, or dropping out before today?
+
+Customer: Actually, yeah, now that you mention it, it's been kind of spotty the last week or so. Like, I'd lose connection for like thirty seconds at a time, but then it'd come back. I figured it was just one of those things.
+
+Agent: Okay, that's actually helpful information. That suggests this might be a line-quality issue. Um, so what I'd normally recommend in a situation like this is we send out a technician to check the connection from the street to your house and make sure everything's solid. They can also check your modem to see if it might be failing.
+
+Customer: How long would that take? Can someone come out today?
+
+Agent: (typing sounds) Let me see what we have available. (pause) The earliest I'm seeing is... it looks like we might be able to get someone out tomorrow between 8 AM and 12 PM. Does that work with your schedule?
+
+Customer: (frustrated) Tomorrow? I really need internet today. Is there really nothing we can do right now?
+
+Agent: I understand, and I wish I had a quicker solution for you. Um, let me try a couple more things before we resort to a technician visit. Can you tell me—do you have a phone line connected to the modem? Like, if you have phone service through Frontier?
+
+Customer: No, I only have internet service.
+
+Agent: Okay. And the coax cable coming from the wall—the cable that connects to your modem—that's definitely plugged in securely?
+
+Customer: Yeah, I checked that already. It's tight.
+
+Agent: Alright. (pause) Um, I'm going to try one more reset. This time, instead of unplugging it, I want you to hold down the reset button on the back of the modem for about ten seconds. That'll do a hard reset and restore factory settings. You'll need to set everything back up, but sometimes that can help if the modem's software got corrupted.
+
+Customer: Okay... (background sounds of the customer moving around) I'm looking for the reset button... there's a little button here that looks like it might be it. It's hard to reach. (pause) Okay, I'm holding it down... (longer pause) Okay, I've been holding it for... I don't know, fifteen seconds? The lights have all gone out and now they're coming back up.
+
+Agent: Good, that's what should happen. Now let's give it about two minutes to fully boot back up and reconnect. (pause) Go ahead and, um, grab a drink of water or something while we wait.
+
+Customer: (pause) Alright, I'm just... sitting here waiting. (longer pause) Okay, it's been a couple minutes. The power light is green, the WAN light is... still red. (frustrated) It's still red.
+
+Agent: (long pause) Okay. Um. (sigh) I'm not seeing what I need to see from the modem. This really does seem like it might be a line issue on our end or potentially a modem that's failing. I hate to say it, but I think we're at the point where we need to get a technician out there.
+
+Customer: Can you at least check if the modem is under warranty or something? Because if it's dead, I don't want to pay to replace it.
+
+Agent: That's a good question. (typing sounds) Let me check. (pause) Okay, I'm seeing that the modem was installed on your account about... four years ago. So unfortunately, that's outside the manufacturer's warranty. However, if the technician determines the modem has failed, we can discuss options for you. Sometimes we can provide a replacement at a discounted rate or work something out.
+
+Customer: So there's no guarantee?
+
+Agent: Well, let's not get ahead of ourselves. The tech might find it's actually a line issue that can be fixed without needing a new modem. We won't know until they get out there and run some diagnostics. But I understand your concern.
+
+Customer: Yeah, okay. I guess I don't have much choice, do I? Can you get someone out tomorrow morning?
+
+Agent: (typing sounds) Let me book that appointment for you. Tomorrow between 8 AM and 12 PM. Is that the address on the account? 4127 Maple Drive?
+
+Customer: Yes, that's right.
+
+Agent: Perfect. And can I get a phone number for the technician to call when they're on their way?
+
+Customer: Sure, it's 555-0847.
+
+Agent: Oh, I already have that. Okay, great. So I'm confirming your appointment for tomorrow, [inaudible] between 8 and noon at 4127 Maple Drive. The tech will call when he or she is about thirty minutes away. In the meantime, if your internet somehow comes back on, great, but you don't need to cancel the appointment unless you want to. Sometimes these things fix themselves, right?
+
+Customer: (skeptical) Yeah, sure. Is there anything else I can do tonight? I really need to get work done.
+
+Agent: Unfortunately, not really. If you have a cell phone with a data plan, you could potentially use that if you absolutely need to do something online, but other than that... (pause) I'm sorry I couldn't get this resolved for you today.
+
+Customer: Yeah, no, I understand. Thanks for trying anyway, I guess.
+
+Agent: You're welcome. And again, we'll see you tomorrow morning. Your confirmation number for the appointment is 447829. That's 4-4-7-8-2-9. Keep that in case you need to reference it.
+
+Customer: Okay, I got it. 447829.
+
+Agent: Perfect. Thank you for calling Frontier, and we apologize for the inconvenience.
+
+Customer: Alright, thanks. Bye.
+
+Agent: Bye now.

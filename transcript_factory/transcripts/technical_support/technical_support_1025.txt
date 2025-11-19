@@ -1,0 +1,81 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, um... I'm calling because my internet just went out this morning and I can't get it back online. I've been without it for like two hours now.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll see what we can figure out. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, thank you. And can I get a name for the account?
+
+Customer: It's under James Patterson.
+
+Agent: Perfect, James. I've got you here. I can see you're on our fiber service in the Riverside area. So your internet just stopped working this morning, is that right?
+
+Customer: Yeah, it was working fine last night and when I woke up this morning around 7, it was just... gone. No lights on the router, nothing.
+
+Agent: Okay. So no lights on the router at all. That's definitely a good place to start. Let me ask you a few questions. Is the router plugged in? I know it sounds basic, but—
+
+Customer: (slight laugh) Yeah, I mean, it's plugged into the wall and everything. I already checked that.
+
+Agent: Gotcha. And do you see a power light or any indication that it's getting power?
+
+Customer: No, nothing. It's completely dark.
+
+Agent: Alright. Let's try this—can you unplug the router for me and wait about 30 seconds, then plug it back in?
+
+Customer: (pause) Okay, I'm unplugging it now. (pause) ...Alright, waiting. (pause) Okay, plugging it back in.
+
+Agent: Great. Now just give it about a minute to boot back up. While that's happening, do you have the ONT—that's the small white box—do you know where that is? It should be mounted on the outside of your home or in a utility closet.
+
+Customer: Um... there's a white box in the garage. Is that it?
+
+Agent: That could be it, yes. When you walk over there, does it have any lights on the front of it? What color are they?
+
+Customer: (pause, background noise) Okay, I'm looking at it now. There's... there's a red light on it. Just one red light.
+
+Agent: Okay, so a solid red light. That's actually indicating an issue. That's not what we want to see. Ideally it should be green or blue. Let me check something on our end. (typing sounds) 
+
+Customer: Is that bad?
+
+Agent: Well, it could indicate a few things. It could be the ONT itself, or it could be a line issue on our end. Let me look at your service status here... (pause) Okay, I'm not seeing any widespread outages in your area right now, so it seems like it's isolated to your location. Can you try unplugging the ONT as well? Leave it unplugged for about 30 seconds.
+
+Customer: Sure. (pause) Okay, unplugged. (pause) Alright, thirty seconds is up. Plugging it back in now.
+
+Agent: Good. Give that about two to three minutes to fully restart. Sometimes these devices just need a reset.
+
+Customer: (pause) Okay. Still red, though.
+
+Agent: Still showing red. (typing sounds) Alright, James, I'm going to be honest with you—a red light on the ONT usually means there's an issue with the connection to your line itself. This could be a few things: it could be a problem with the fiber optic cable, a splice issue, or potentially a problem with the ONT unit itself.
+
+Customer: So what does that mean? Is it something I can fix?
+
+Agent: Unfortunately, this is something we're going to need to get a technician out to take a look at. I don't want to have you keep troubleshooting because this particular issue really needs to be diagnosed on-site. Let me see what we have available for appointments... (typing sounds, pause) 
+
+Customer: How long is this going to take? I really need my internet back. I work from home.
+
+Agent: I completely understand. (pause) Okay, so our next available appointment would be tomorrow between 8 AM and 5 PM. I know that's a wide window, but that's what we have available today. Or we do have a slot on Friday morning between 9 and 11 AM if that works better for you.
+
+Customer: Tomorrow is fine, I guess. Can I do morning though?
+
+Agent: Let me see... (typing sounds) Unfortunately, the morning slots are completely booked. But I can get you in at 1 PM tomorrow if that works?
+
+Customer: Yeah, 1 PM tomorrow works. What should I do in the meantime?
+
+Agent: Just leave everything unplugged and powered down for now. Don't keep trying to restart it because that won't help until we can get that line issue resolved. The technician will have all the equipment they need. Is there anything else I can help clarify for you?
+
+Customer: No, I guess not. Just... hopefully it's a quick fix.
+
+Agent: I hope so too. And James, I'm going to add a $10 credit to your account for the service disruption today, just as a courtesy. Your appointment confirmation will be sent to your email on file, and the technician should call about 30 minutes before they arrive. Is that email still 555patterson@email.com?
+
+Customer: Yeah, that's correct.
+
+Agent: Perfect. Thank you for your patience, and we'll get this resolved for you tomorrow.
+
+Customer: Alright, thanks Derek.
+
+Agent: You're welcome, James. Have a good day.
+
+Customer: You too.
+
+(call ends)

@@ -1,0 +1,125 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, so my internet just... it's not working. I've been without it for like the past hour and I'm not sure what's going on.
+
+Agent: Oh, I'm sorry to hear that. Let me help you get that sorted out. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, just one moment here... Alright, I'm pulling up your account now. And your name is?
+
+Customer: It's James Mitchell.
+
+Agent: Perfect, James. Thanks for that. So you're experiencing a complete internet outage, correct? No connection at all?
+
+Customer: Right, nothing. My router's been on the whole time, the lights are still on, but there's no internet. My phone was working on data, so I knew I could call you guys.
+
+Agent: Okay, that's helpful information. Let me just check your service status real quick to see if there's anything on our end... (pause) Good news is I'm not seeing any reported outages in your area right now. So let's do some troubleshooting together. First, can you tell me what color the lights are on your modem? The modem, not the router—that's the box usually provided by us.
+
+Customer: Um, okay, hold on. (pause) I'm looking at it now. The power light is green, and the... I think there's like a blue light? It's hard to see from here.
+
+Agent: Right, so the blue light—that's typically your internet connection light. If that one's off or red, that would explain your issue. Can you see it clearly?
+
+Customer: It's kind of dim, but I think it's actually off. Is that bad?
+
+Agent: That could definitely be it. That light should be solid blue or blinking blue. The fact that it's off tells me the modem isn't connecting to our network. Let's try a quick reset. Can you unplug the modem from the power for about thirty seconds?
+
+Customer: Yeah, sure. (pause) Okay, unplugging it now.
+
+Agent: Great. Just let it sit there for thirty seconds while we're counting down... (pause) And go ahead and plug it back in.
+
+Customer: (pause) Okay, it's back in. I can see the lights are coming back on now.
+
+Agent: Perfect. Let's give it about a minute to fully boot up and reconnect. (pause) While we're waiting, let me ask—have you had any recent storms in your area, or has anything changed with your setup recently?
+
+Customer: No storms that I know of. It's been pretty clear out. And no, I haven't touched anything. It just stopped working this morning.
+
+Agent: (typing sounds) Alright. Okay, James, so I'm checking your modem status in our system here... and unfortunately, I'm not seeing it connect back. Let me check—do you see that internet light back on now?
+
+Customer: (pause) No, it's still off actually. It came on for a second but then went back off.
+
+Agent: Hmm, okay. That's unusual. It might be trying to sync but something's preventing it. Let me try another approach. Can you unplug everything for me? Both the modem and the router this time, and just leave them unplugged for about two minutes?
+
+Customer: Sure, give me a second... (pause) Alright, everything's unplugged. Should I wait the full two minutes or...?
+
+Agent: Yeah, let's go the full two minutes. This is a deeper reset. It'll clear out any connection issues that might be cached in the equipment.
+
+Customer: Okay. (long pause) So, uh, do you guys get a lot of calls like this?
+
+Agent: (chuckles) Actually, yeah, quite a bit. Usually it's something simple like this that fixes it. The modem just needs a good hard reset sometimes.
+
+Customer: Yeah, I guess that makes sense. Um, should be about two minutes now.
+
+Agent: Okay, go ahead and plug everything back in. Start with the modem first, then the router after about thirty seconds.
+
+Customer: (pause) Okay, modem's plugged in... and now the router. (pause) The lights are coming up again.
+
+Agent: Good. Let's give it about a minute and a half to fully boot and sync... (long pause) Okay, do you see that internet light on the modem now?
+
+Customer: (pause) No... it's still off. This is frustrating.
+
+Agent: I understand, and I apologize. This is odd. Usually the reset works. Let me check something here... (typing sounds) Okay, so I'm showing that your modem is not registering on our network at all right now. Have you looked at the cable connections on the back of the modem? Is the coax cable—that's the thick cable that comes in from the wall—is it connected firmly?
+
+Customer: Oh, good question. Let me... (pause) Yeah, it looks like it's connected pretty tight.
+
+Agent: Can you try unscrewing it and reconnecting it? Sometimes they can work themselves loose over time.
+
+Customer: (pause) It was pretty tight, but let me try anyway... (pause) Okay, I'm reconnecting it now. Anything different?
+
+Agent: Let me check the system... (pause) Still not showing a connection. Okay, James, I think at this point we might be looking at a hardware issue with the modem itself. It's not responding to any of our reset commands or reconnection attempts.
+
+Customer: So what does that mean? Do I need a new modem?
+
+Agent: It's looking like we may need to send you a replacement modem. Before we go down that route, though, let me try one more thing. Can you check—is there another coax outlet in your home that we could try the modem in? Just to rule out a problem with the wall outlet itself?
+
+Customer: Um... let me think. I have one in my bedroom, I think. Give me a moment.
+
+Agent: Sure, no problem.
+
+Customer: (pause) Okay, I found one. Should I move the modem there?
+
+Agent: Yeah, let's try that. Disconnect the modem, move the cable over, and set it up in that outlet.
+
+Customer: (pause) Alright, give me just a second... (pause) Okay, it's connected now.
+
+Agent: Alright, plug it in and let's see if we get a different result.
+
+Customer: (pause) Plugging it in... (pause) The lights are on... and... no. Same thing. Internet light is off.
+
+Agent: (sigh) Okay, that confirms it's not the outlet. So it does appear to be an issue with the modem hardware itself. Unfortunately, I'm unable to get it to sync to our network. 
+
+Customer: So what now? How long does it take to get a replacement?
+
+Agent: Let me set up a replacement order for you. We can typically get a new modem out within three to five business days, depending on your location. In the meantime, I unfortunately won't be able to restore your internet service with the current equipment.
+
+Customer: Three to five days? That's... that's a long time.
+
+Agent: I completely understand. Let me see if there's anything I can do to expedite this... (typing sounds) Okay, so I can flag this as urgent, and depending on your zip code, there might be an option for faster shipping. Your location is 90210, correct?
+
+Customer: Yeah, that's right.
+
+Agent: (pause) Okay, I'm checking... Unfortunately, the fastest we can do from our warehouse for your area is still three to four business days. But I will note this as a priority shipment in your account, so it should be at the faster end of that range.
+
+Customer: Alright, I guess that's better than nothing.
+
+Agent: And once you receive it, it should be a simple swap—just disconnect the old modem and connect the new one, and it should automatically provision on our network.
+
+Customer: Okay. Is there anything I need to do in the meantime?
+
+Agent: Just keep the current modem unplugged to avoid any potential issues. And you'll receive an email with a tracking number as soon as the modem ships out. 
+
+Customer: Alright. Well, thank you for trying, Derek. This is just really inconvenient timing.
+
+Agent: I'm really sorry about this, James. I know how frustrating it is to be without internet. Is there anything else I can help clarify about the replacement process or your account?
+
+Customer: No, I think I've got it. When should I expect the email?
+
+Agent: You should see it within the next 24 hours. If you don't receive it by tomorrow evening, feel free to give us back a call and we can check on it.
+
+Customer: Okay, will do. Thanks again.
+
+Agent: Thank you for choosing Frontier, James. We really appreciate your patience, and we'll get you back online as soon as possible. Have a great day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

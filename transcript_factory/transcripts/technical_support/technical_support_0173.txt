@@ -1,0 +1,105 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, um, my internet's been down since this morning and I can't get it back online. I've tried unplugging the modem a couple times but nothing's working.
+
+Agent: I'm sorry to hear that. We'll get this sorted out for you. Can I grab your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm pulling that up now... and I've got you here. Says here you're in the Millbrook area, is that correct?
+
+Customer: Yeah, that's right.
+
+Agent: Perfect. So you mentioned you've already tried unplugging the modem. Just to confirm—when you say it's not working, are you seeing any lights on the modem at all? Any red, green, blue...?
+
+Customer: Um, let me look... (pause) Okay, so there's no lights on it at all. It's completely dark.
+
+Agent: Okay, that's helpful. And the modem is plugged in? The power cable's connected?
+
+Customer: (slight frustration) Yeah, I mean, I already tried unplugging it from the power outlet and plugging it back in. That didn't help.
+
+Agent: Right, right. Let me just walk through a couple things with you. Is the power cable definitely in the outlet and not loose at the modem end?
+
+Customer: (pause) Hang on... (sounds of movement) Yeah, it's... it looks pretty secure to me.
+
+Agent: Okay, good. And do you see the cord that comes from the wall into the modem? That's usually a coaxial cable—kind of looks like a thick gray or white cable?
+
+Customer: Oh yeah, I see that. Should I check if that's loose too?
+
+Agent: Yeah, go ahead and make sure that's snug at both ends. Check where it connects to the modem and also where it comes out of the wall.
+
+Customer: (sounds of rustling) Okay, so the one on the wall side seems tight, but... (pause) oh, wait. The one on the modem is a little loose. Let me... (sound of connection clicking) Okay, I tightened that up.
+
+Agent: Great! Now let's give it about 30 seconds to boot up. Go ahead and keep watching the modem.
+
+Customer: (long pause) ...So now it's showing a green light. That's good, right?
+
+Agent: That's very good! So green means it's connecting. After the modem fully boots up, you should see maybe a couple different lights come on. Give it another minute or so.
+
+Customer: (pause) Okay, um... (pause) it's been a minute. I'm seeing two green lights now.
+
+Agent: Perfect. So do you want to go ahead and try opening a web browser and see if you can get online?
+
+Customer: Sure. (pause) (typing sounds) Um... (pause) Nope. I'm getting a "can't connect to this page" error. Still nothing.
+
+Agent: Hmm, okay. Let me check our systems here to see if there are any outages in your area. (typing sounds) (pause) I'm not seeing any widespread outages reported, so it might be specific to your equipment. Let me try one more thing. Can you restart the modem one more time for me? Just unplug it from the power, wait about 30 seconds, and plug it back in.
+
+Customer: Okay, doing that now. (sounds of unplugging) I'm waiting... (long pause) Plugged it back in.
+
+Agent: Alright, let's give it about two minutes to fully come back online.
+
+Customer: (pause) Should be good now...
+
+Agent: Try the browser again.
+
+Customer: (pause) No, still nothing. That's frustrating.
+
+Agent: I know, I'm sorry. Um, let me check a couple things on our end. (pause) (typing sounds) Okay, so I'm looking at your modem status here and it's actually showing that it's not registering a signal on our network. That could mean a few things. It could be an issue with the line coming into your house or possibly the modem itself.
+
+Customer: So... what does that mean? Can you fix it?
+
+Agent: Well, I can try one more troubleshooting step with you. Do you have another device you could connect to—maybe with WiFi? Do you have a router?
+
+Customer: No, I'm just using the modem.
+
+Agent: Okay, that's fine. Um... (pause) Let me see here. What type of modem are you looking at? Is there a model number or brand name on it?
+
+Customer: It says... Frontier... and then... (pause) I think it's a model... 3101?
+
+Agent: (typing sounds) Okay, we use a few different models. That sounds about right. Alright, so I've tried the standard troubleshooting with you, and unfortunately I'm not seeing the modem pick up our signal. At this point, it's likely either an issue with the line coming into your home or the modem itself may have gone bad.
+
+Customer: So what are my options here?
+
+Agent: Well, I could certainly send a technician out to your location. They could test the line and also check or replace the modem if needed. That would be a service call though, so... (pause) how soon would you need someone out there?
+
+Customer: I mean, ideally today? I've got work stuff I need to do online.
+
+Agent: Let me check availability. (typing sounds) (pause) It looks like we have a technician available this afternoon between 2 and 4 PM. Does that work for you?
+
+Customer: Yeah, that could work. I mean... is there a charge for this?
+
+Agent: Since we haven't confirmed it's your modem yet, if it turns out to be a line issue or if we replace the equipment, there shouldn't be a charge. But if the modem is fine and it's something on your end, there would be a service call fee of about $99.
+
+Customer: (pause) Okay... I guess we'll have to do it. What else can I try in the meantime?
+
+Agent: You could try unplugging everything for about five minutes—the modem, any equipment—and then plug it back in one more time. But honestly, based on the diagnostics I'm seeing, I don't think we'll get it working until the tech can get out there and take a look.
+
+Customer: Yeah, alright. So what's my confirmation for this appointment?
+
+Agent: (typing sounds) Okay, so I have you scheduled for today between 2 and 4 PM. Your confirmation number is FRN-7382905. You'll get a text message in about five minutes with that information and you can use that to reschedule if needed.
+
+Customer: Okay, got it.
+
+Agent: Is there anything else I can help you with today?
+
+Customer: No, I guess that's it. Hopefully the tech can get it working.
+
+Agent: I really hope so too. Thanks for calling Frontier, and sorry we couldn't resolve this today.
+
+Customer: Yeah, no problem. Thanks.
+
+Agent: Have a good day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

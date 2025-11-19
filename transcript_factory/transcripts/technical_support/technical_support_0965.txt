@@ -1,0 +1,117 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, um... my internet's been down since this morning and I have no idea what's going on. I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll see what we can do. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147. My name's James Mitchell.
+
+Agent: (typing sounds) Okay, James, I'm seeing your account here. It looks like you're on our Fiber 500 plan in the Lakewood area, is that correct?
+
+Customer: Yes, that's right.
+
+Agent: Great. So you mentioned your internet went down this morning. When exactly did you notice it stop working?
+
+Customer: Um, around 8 o'clock, maybe 8:30. I was trying to work from home and everything just... stopped. One minute I'm on a video call, the next minute I got nothing.
+
+Agent: Okay, and are you seeing any lights on your modem or router right now?
+
+Customer: Yeah, let me look... (pause) Okay, so the modem has a green light on it, but the router—it's got some red lights flashing. Is that bad?
+
+Agent: The red lights on the router definitely aren't ideal. That usually indicates a connection issue. Let's try a few basic troubleshooting steps. First, can you unplug the modem from the power outlet?
+
+Customer: Sure, unplugging it now... (pause) Done.
+
+Agent: Okay, good. Now let's wait about 30 seconds for it to fully power down.
+
+Customer: (pause) Alright, waiting...
+
+Agent: Perfect. Now while we're waiting, let me ask—have you experienced any outages in your area recently, or is this the first time something like this has happened?
+
+Customer: No, this is the first time. The internet's been pretty solid up until today. And actually, now that I think about it, there was a storm last night. Pretty bad one. Lightning and everything.
+
+Agent: Ah, that could definitely be a factor. Storms can sometimes cause issues with the equipment. Okay, go ahead and plug the modem back in now.
+
+Customer: (pause) Plugging it back in... (pause) Okay, it's powered back on. The lights are starting to come back up...
+
+Agent: Good. Let's give it about a minute to fully boot up and establish a connection.
+
+Customer: (pause) ...Alright, it's been about a minute. The green light's back on the modem, but that router still has red lights flashing all over it.
+
+Agent: Hmm. Okay, do me a favor—can you locate the router and check if there's any visible damage? Sometimes storms can actually fry equipment. Just look for any burn marks, melted plastic, or anything like that.
+
+Customer: (pause) No, it looks fine to me. No visible damage that I can see.
+
+Agent: Alright, let's try resetting the router. There should be a small reset button, usually recessed. You might need a paperclip or pen to press it. It's typically on the back.
+
+Customer: Oh yeah, I see it. (pause) Okay, pressing it... (pause) Nothing happened.
+
+Agent: You might need to hold it for a few seconds. Try holding it down for about 10 seconds.
+
+Customer: (pause) Okay, holding it... (pause) Alright, I'm holding... the lights just went out completely.
+
+Agent: That's normal. The router's rebooting. Give it another minute or two to come back up.
+
+Customer: (pause) Okay... (pause) The lights are coming back. The green light's back on the modem, but... yeah, the router's still showing red. Multiple red lights.
+
+Agent: (typing sounds) I'm checking our system here to see if there are any issues on our end. Let me put you on a quick hold while I look into this.
+
+Customer: Sure, no problem.
+
+Agent: (hold music plays briefly, then stops) Okay, I'm back. I'm not seeing any active outages in your area, which is good news. But based on what you're describing, it sounds like the router might have taken a hit from that storm. The modem's working fine—that's connecting to our network—but the router's not establishing the bridge properly.
+
+Customer: So what does that mean? Do I need a new router?
+
+Agent: It's possible, yeah. But let me try one more thing before we go down that road. Can you try connecting a computer or device directly to the modem with an ethernet cable? Just bypass the router entirely. That'll help us figure out if it's definitely a router issue.
+
+Customer: Okay, let me... I've got a laptop here. (pause) Grabbing an ethernet cable... (pause) Alright, plugging it in directly to the modem.
+
+Agent: Good. Let me know when it's connected.
+
+Customer: (pause) Okay, it's connected. The laptop is trying to connect now... (pause) Nothing. It's not connecting. It says "no internet connection."
+
+Agent: Hmm. Okay, that's... interesting. (pause) So the modem's showing green, but it's not actually getting a signal from our network. Let me check something on our backend here.
+
+Customer: (pause) What could be wrong?
+
+Agent: (typing sounds) Well, there are a few possibilities. It could be an issue with the ONT—that's the equipment outside that connects you to our fiber line. The storm could have damaged that. Or there could be a line issue somewhere. I'm checking our systems now to see if I can identify where the break is occurring.
+
+Customer: (pause) How long is this gonna take?
+
+Agent: Just give me one more minute here... (pause) Okay, so I'm not seeing any errors in our system that would indicate a problem on the network side, which is... unusual. Can you double-check that ethernet cable? Make sure it's firmly plugged in on both ends?
+
+Customer: (pause) Yeah, it's plugged in all the way. I can see the cable's connected tight.
+
+Agent: Okay. And just to confirm—no internet connection at all showing on the laptop?
+
+Customer: Correct. No connection. It's just saying "no internet" or "no network available." I forget the exact wording, but it's not connecting.
+
+Agent: Yeah, I understand. Alright, James, I've done what I can remotely, and honestly, at this point I think we need to have a technician come out to your location. It could be the ONT, it could be something with the outside line, or it could even be the modem itself—though that seems less likely given the green light. A tech will be able to do an in-person diagnostic.
+
+Customer: How soon can someone come out?
+
+Agent: Let me check availability... (typing sounds) (pause) The earliest I'm seeing is tomorrow between 8 AM and 12 PM. Does that work for you?
+
+Customer: Tomorrow? I really needed this fixed today...
+
+Agent: I completely understand, and I apologize. We do have limited same-day availability, but nothing's showing for your area at the moment. I'm really sorry about that. But the good news is a tech should be able to get you up and running quickly once they assess what's going on in person.
+
+Customer: (sighs) Alright, I guess tomorrow morning works. Can you just... make sure to send someone who actually knows what they're doing?
+
+Agent: Absolutely. I'm noting on your account that this is urgent and likely weather-related. They'll be prepared. I'm scheduling you for the 8 AM to 12 PM window tomorrow. Can I get a callback number to confirm?
+
+Customer: 555-0147, same number as the account.
+
+Agent: Perfect. I've got that down. You should receive a confirmation text and email within the next few minutes. Is there anything else I can help you with today?
+
+Customer: No, that's... no. Just, hopefully this gets fixed tomorrow.
+
+Agent: We'll do our best. Thanks for being patient with me today, James. We really appreciate it, and we'll get you back online as soon as we can.
+
+Customer: Alright, thanks.
+
+Agent: Thank you for calling Frontier Communications. Have a good rest of your day.
+
+Customer: You too.
+
+(call ends)

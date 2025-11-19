@@ -1,0 +1,121 @@
+Agent: Thank you for calling Frontier Communications. This is Marcus speaking. How can I help you today?
+
+Customer: Hi, yeah, um, my internet went down this morning and I've been without it for like three hours now. I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0847. That's my cell phone number.
+
+Agent: (typing sounds) Okay, pulling that up now. And what's the name on the account?
+
+Customer: David Chen.
+
+Agent: Perfect, David. I've got you here. I see you're on our Fiber 100 plan in the Riverside area. So your internet is completely down right now?
+
+Customer: Yeah, completely. I tried unplugging everything, waited a few minutes, plugged it back in... nothing. The modem's just not turning on.
+
+Agent: Okay, that's a good first step. So the modem has no lights on it at all?
+
+Customer: No lights, nothing. It's like... dead.
+
+Agent: Alright, let me just check our service map really quick to see if there are any outages in your area. (pause) (typing sounds) I'm not showing any reported outages on your street. That's good news and bad news, right? Means it's probably something with your equipment. Can you check the power cable going into the modem?
+
+Customer: (pause) Yeah, I'm looking at it now. It's plugged in. The outlet's got a lamp in it that's working, so... it's not the outlet.
+
+Agent: Good troubleshooting. Okay, so I want you to try something for me. Can you unplug the modem, wait for about thirty seconds, and then plug it back in?
+
+Customer: I just did that like twenty minutes ago, but... okay. (sounds of unplugging) Waiting... (pause) (pause) Alright, plugging it back in.
+
+Agent: Great. Watch it for about a minute. What lights do you see coming on?
+
+Customer: (pause) Uh... nothing yet. Still nothing. Wait... okay, I see a little light starting to come on. Yeah, it's... it's green. One green light.
+
+Agent: Okay, that's the power light. That's good. Now just give it a minute or two. It takes a bit to boot up. While we're waiting, David, can I ask... did anything happen before this? Like a power outage, a storm, anything like that?
+
+Customer: Now that you mention it, yeah. We had a pretty bad lightning storm last night around 2 AM. I actually woke up because of it. You think that could've fried my modem or something?
+
+Agent: That's very possible, actually. Lightning surge can definitely damage equipment. But let's see if we can get it back up first. Are you seeing any other lights now?
+
+Customer: (pause) Umm, I see the power light. There's... let me see... I think there's a second light that's amber or yellow? It's flickering. Is that normal?
+
+Agent: The amber light could be the internet light, and if it's flickering, that means it's trying to sync up. That's actually a good sign. Give it another minute.
+
+Customer: (pause) Okay. Still just the two lights. The amber one's still flickering. How long does this usually take?
+
+Agent: Usually it should stabilize within a couple minutes. (pause) Any change?
+
+Customer: No, not really. The amber light keeps flickering on and off. It's like... on for a second, off for a second.
+
+Agent: (typing sounds) Hmm, that's taking longer than it should. Let me ask you this – do you have a router separate from the modem, or do you have a combo unit?
+
+Customer: It's... I think it's just one unit? It's the box Frontier gave me when you guys installed everything.
+
+Agent: Okay, that's a combo unit then. Alright, David, I'm going to have you do one more hard reset. I want you to locate a small button on the back of the modem. It should be recessed. You might need a paperclip or a pen to press it. Do you see that?
+
+Customer: (pause) On the back? Let me look... Yeah, I see it. There's a little button that says "reset."
+
+Agent: Perfect. I want you to hold that down for about ten seconds. This will completely reset the unit, so fair warning – it's going to take a few minutes to boot back up after this.
+
+Customer: Okay... holding it down. (pause) (pause) How long?
+
+Agent: About ten seconds total.
+
+Customer: Okay, releasing. (pause) Now what?
+
+Agent: Now we wait. It's going to take a couple minutes to fully reboot this time. We should see the lights go out completely first, then they'll come back on. Should take about three to five minutes.
+
+Customer: (long pause) This is really frustrating. I have a video conference for work at eleven and I need the internet. (pause) Nothing's happening yet.
+
+Agent: I understand, David. Hopefully we'll have you up and running before then. (pause) Any lights coming on now?
+
+Customer: (pause) Yeah, actually. I see the power light again. And... (pause) ... okay, the amber light is back. But it's still flickering like before.
+
+Agent: (pause) Okay. Let me try something else. Can you tell me what model modem you have? There should be a sticker on the bottom or back with model information.
+
+Customer: (sounds of modem being moved) Uh, it says... "Frontier FibeRack G2050" or something like that?
+
+Agent: (typing sounds) Okay, I'm pulling up the specs on that. (pause) (pause) David, I hate to say this, but that modem might have been damaged by the surge. The fact that it's not fully syncing after the reset is not a great sign.
+
+Customer: So what does that mean? Does that mean I need a new one?
+
+Agent: It's possible. But let me check one more thing before we go down that road. Let me pull up your line status on my end. (typing sounds) (pause) I'm actually seeing that your line is having trouble maintaining a connection. It's dropping and reconnecting repeatedly. That could be the modem, or... it could actually be something on our end with the ONT – that's the box on the outside of your house that brings the fiber signal in.
+
+Customer: So how do we figure out which one it is?
+
+Agent: Well, if the lightning hit your house, it might've damaged both. But typically the ONT is better protected. What I can do is send a technician out. They can test everything and determine if it's your modem, the ONT, or something else. Unfortunately, the earliest I can get someone out there is... (typing sounds) ...tomorrow between 1 and 5 PM. I know that doesn't help you with your conference today.
+
+Customer: (pause) Yeah, that's... that's not ideal. Is there any way to get someone out sooner? Like, this morning?
+
+Agent: Let me check our emergency dispatch. (pause) (typing sounds) (pause) I'm not showing any available technicians this morning. We're pretty backed up. But if you want, I can mark this as an urgent appointment, which might get you bumped up in the queue, but I can't guarantee a morning slot.
+
+Customer: Okay, yeah, do that. Mark it as urgent. And the soonest it could possibly be is tomorrow?
+
+Agent: Unfortunately, yes. Tomorrow between 1 and 5 PM is what I'm showing. But with the urgent flag, there's a chance they might call you to move it up if they have a cancellation.
+
+Customer: Alright, I guess that's better than nothing.
+
+Agent: I'm going to get that scheduled for you. Can I confirm your best contact number?
+
+Customer: Yeah, 555-0847.
+
+Agent: Perfect. And just to make sure – is there anything else we can try right now? Any way I can help get you online before tomorrow?
+
+Customer: I mean... can I use a phone hotspot or something as a temporary fix? Would that work?
+
+Agent: Absolutely. That's actually a great temporary solution if you have a plan with enough data. You can tether your phone to your computer and use that for your conference.
+
+Customer: Yeah, I've got unlimited data. I can do that.
+
+Agent: Perfect. So here's what I've got set up for you: a technician appointment tomorrow, 1 to 5 PM, marked as urgent. They'll test your equipment and get you back online. Is there anything else I can help with?
+
+Customer: No, I think that's it. I'll use my hotspot for today and hope someone can get out here earlier. Thanks for trying.
+
+Agent: I'm sorry we couldn't get it working remotely, David. The technician will take good care of you tomorrow. Thanks for being a Frontier customer, and we appreciate your patience.
+
+Customer: Thanks.
+
+Agent: Have a great day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

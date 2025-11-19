@@ -1,0 +1,137 @@
+# Frontier Communications Technical Support Call
+
+Agent: Thank you for calling Frontier Communications. This is Marcus speaking. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet's been down since this morning and I really need to get it working. I've got work calls coming up in like an hour.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account real quick. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, I'm looking at that now. And your name is...?
+
+Customer: David Chen.
+
+Agent: Perfect, David. I've got your account here. So you're saying your internet went down this morning? When exactly did you notice it stopped working?
+
+Customer: I'd say around 8 AM or so. I was checking emails and it just... died. No warning or anything.
+
+Agent: Okay, and have you checked your modem and router? Are they powered on? Can you see any lights on them?
+
+Customer: Yeah, they're both lit up. The modem has the... uh... the blue light on, and the router's showing the green light.
+
+Agent: Good, so they're powered on. Let me ask you this—are you connected via Wi-Fi or Ethernet cable?
+
+Customer: Wi-Fi. Should I be using something else?
+
+Agent: No, Wi-Fi is fine. But what I'd like you to do first is try unplugging the modem. Just pull the power cable out in the back there.
+
+Customer: (pause) Okay, it's unplugged.
+
+Agent: Great. Now leave it unplugged for about 30 seconds. While we wait, I'm actually not seeing any outages in your area, so this is likely something we can fix pretty quickly.
+
+Customer: (pause) Alright, it's been like 45 seconds now.
+
+Agent: Perfect. Go ahead and plug it back in.
+
+Customer: (background noise of plugging in) Okay, plugging back in now.
+
+Agent: Give it about a minute or two to boot back up. You should see the lights come back on.
+
+Customer: (pause) Yeah, they're coming back. The blue light is on again. Um... but I'm still not seeing any internet. My phone's not connecting either.
+
+Agent: Okay, let me try a different approach. When you look at your modem, do you see any red lights or orange lights at all?
+
+Customer: No, just the blue one. Everything looks normal to me.
+
+Agent: Alright. And the router—what do the lights look like on that?
+
+Customer: The green light's still there. There's like a blinking amber light though... is that bad?
+
+Agent: That usually means it's trying to connect but hasn't established a connection to the modem. Let me try resetting your router now. There should be a small reset button on the back. You might need a paperclip or something thin to press it.
+
+Customer: (pause, rummaging sounds) Okay, I found it. Do I just... press it?
+
+Agent: Yes, press and hold it for about 10 seconds.
+
+Customer: (pause) Okay... (pause) ... done.
+
+Agent: Great. Let's give that a minute to restart. (pause) While that's booting up, David, do you know if you've had any recent storms or anything like that in your area?
+
+Customer: Um, there was some lightning last night actually. Pretty bad. Think that could be it?
+
+Agent: It's possible. That could definitely cause issues. Let me check your line status here. (typing sounds) Hm... (pause) Okay, I'm not seeing any obvious hardware issues on my end. Can you tell me if you're able to see your network name pop up on your Wi-Fi list now?
+
+Customer: Yeah, yeah I can see it. Let me try connecting again. (pause) Connecting... (pause) It says it's connected but I still don't have internet. Like, I can't load anything.
+
+Agent: Okay, so you're connecting to the network but no actual internet traffic. That's good information. Let me try running a diagnostic on your modem. This might take a minute. (typing sounds)
+
+Customer: Sure, take your time.
+
+Agent: (pause) Alright, the diagnostic is coming back... (pause) ...and I'm seeing that your modem is not receiving a signal from our network. That's the issue.
+
+Customer: Wait, so what does that mean? Is there an outage or something?
+
+Agent: Not on our end—I checked that already. But it could mean a few things. Either there's a problem with the line coming into your house, or there's an issue with the modem itself. Have you noticed any loose cables or anything like that? Maybe from the storm last night?
+
+Customer: I don't... I mean, I'm not really sure where to look. It's all kind of in the back there, you know?
+
+Agent: I understand. Okay, so here's what I need you to do. Look at where the cable comes into your house from outside. Can you locate that?
+
+Customer: (pause) Um, I think so? I see a cable running along the side of my house. There's a box thing attached to the wall.
+
+Agent: That's your network interface device. Can you see where the cable connects to it? Is it tight, or does it look loose at all?
+
+Customer: (pause) It looks pretty tight to me, but... wait. Actually, I see where another cable plugged in, and it looks kind of... uh... the connector looks bent or something.
+
+Agent: Oh, can you see if that's the coax cable? The one that looks like a TV cable?
+
+Customer: I think so? Yeah, it's got that kind of threaded end and it's definitely bent.
+
+Agent: Alright, this might be our problem. See if you can carefully unscrew it and screw it back in. Just make sure it's hand-tight, don't force it.
+
+Customer: (background noise) Okay, unscrewing it... (pause) ...there's some corrosion on the connector actually. That doesn't look great.
+
+Agent: Yeah, that could definitely affect your signal. Go ahead and reconnect it and see if that helps.
+
+Customer: (pause, screwing sounds) Okay, it's tightened back up. (pause) Hmm... I'm still not seeing a connection though.
+
+Agent: Okay, give it a few minutes. Sometimes it takes a moment to reestablish. While we wait, that corrosion is concerning. The connector might be damaged. How long have you been with Frontier?
+
+Customer: About three years, I think.
+
+Agent: And have you had any issues with that connection before? Like flaky internet, speeds dropping in the rain, anything like that?
+
+Customer: Now that you mention it... yeah. Last winter it was really spotty during rain. I just figured that was normal.
+
+Agent: (pause) It's not, actually. Corrosion and water damage on those outdoor connectors can cause exactly that. (typing sounds) Let me see what I can do here. (pause) Unfortunately, with that corrosion, that connector is probably compromised. We're going to need to send a technician out to replace that part.
+
+Customer: So I have to wait for a technician? I need my internet working today. Can't you send someone out quickly?
+
+Agent: I understand the urgency, David. Let me check our availability. (typing sounds) (pause) Our earliest availability is actually tomorrow between 8 AM and 12 PM. Would that work for you?
+
+Customer: (sigh) Tomorrow morning? I really need it today...
+
+Agent: I completely understand, but that connection definitely needs to be replaced. The corrosion is preventing the modem from communicating with our network, and there's no troubleshooting step that's going to fix a hardware issue like that. If we don't address it, you're going to keep having these problems, especially when there's moisture.
+
+Customer: Alright, fine. Tomorrow morning then. Can you get me confirmed for that?
+
+Agent: Absolutely. I'm going to get you scheduled for tomorrow between 8 and 12. You should receive a confirmation email shortly, and you'll also get a text message a few hours before the technician arrives with their contact information. The technician will bring a replacement connector and get everything set up for you.
+
+Customer: Okay. Is there anything I need to do before they show up?
+
+Agent: Just make sure someone's home to let them in, and make sure you have access to that box on the side of your house. Other than that, you're all set. And I apologize we couldn't get this resolved today.
+
+Customer: Yeah, well... I appreciate you trying. I guess I'll just have to use my phone's hotspot for now.
+
+Agent: That's a good workaround. If you need anything before the technician comes out, don't hesitate to give us a call back. Is there anything else I can help you with today?
+
+Customer: No, I think that's it.
+
+Agent: Alright, David. Thanks for choosing Frontier Communications, and we'll get you back online tomorrow. Have a good rest of your day.
+
+Customer: Thanks, you too.
+
+Agent: Take care.
+
+(call ends)

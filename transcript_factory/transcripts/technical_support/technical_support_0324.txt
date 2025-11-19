@@ -1,0 +1,97 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet's been down since this morning and I have no idea what's going on. I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot. Can I start by getting your account number or the phone number associated with your account?
+
+Customer: It's 555-0847. That's my phone number.
+
+Agent: (typing sounds) Okay, got it. And just to confirm, you're calling about service at... 2341 Maple Drive?
+
+Customer: Yes, that's correct.
+
+Agent: Perfect. So you mentioned your internet's been down since this morning. Have you tried restarting your modem and router yet?
+
+Customer: Uh, no, not yet. I wasn't sure if that would even help, but... yeah, I can try that.
+
+Agent: Great. That's usually a good first step. So what I'm gonna have you do is unplug your modem—that's the device that has the cables going into it—and then unplug your router, which is typically the box with the antennas on top. Leave them unplugged for about 30 seconds, okay?
+
+Customer: (background noise of unplugging) Okay, yeah, I'm doing that now. 30 seconds... (pause) Alright, they're both unplugged.
+
+Agent: Perfect. Now go ahead and plug the modem back in first, and we'll wait for it to boot up. That usually takes about a minute or so. You'll see some lights on the front of it.
+
+Customer: (pause) Okay... yeah, I see the lights coming on now. Like, it's got a red light and a green light blinking.
+
+Agent: That's normal. It's just starting up. Now plug your router back in and let's give it another minute or two to fully initialize.
+
+Customer: (pause) Alright, it's plugged in. I'm seeing lights on that too now.
+
+Agent: Great. So once everything's fully booted up, try connecting to your Wi-Fi network. Do you have a computer or phone nearby that you can test the connection with?
+
+Customer: Yeah, I've got my phone right here. (pause) Um... I'm trying to connect to my network now. Let me see... (longer pause) Okay, it's connected, but... I'm not getting any internet. Like, the Wi-Fi is connected but there's no actual internet. Nothing's loading.
+
+Agent: Okay, I understand. Let me check a few things on my end. (typing sounds) Can you tell me what color the internet light is on your modem right now?
+
+Customer: The internet light? Um... let me look... it's red.
+
+Agent: It's red? Okay, that's the issue. When that light is red, it means the modem isn't getting a signal from our network. Have you had any recent storms in your area, or has anything else unusual happened?
+
+Customer: No, nothing like that. It was working fine yesterday. I didn't do anything different.
+
+Agent: Okay, that's helpful information. Can you check the cables for me? So there should be a cable coming in from outside your house—that's the fiber line—and it should be connected securely to the modem.
+
+Customer: (pause) Yeah, I see it. It's... it looks like it's plugged in pretty tight, so I don't think that's it.
+
+Agent: Alright. And you don't see anything physically damaged on the cable itself?
+
+Customer: No, it looks fine. It's just a normal cable.
+
+Agent: Okay. Let me try a couple more things. I'm gonna send a reset signal to your modem from here. Can you keep an eye on those lights and let me know if anything changes?
+
+Customer: Sure, yeah. I'm watching the lights.
+
+Agent: (pause) (typing sounds) Alright, I've sent the reset. Let's give it about 30 seconds.
+
+Customer: (pause) Um... okay, the lights are doing different things now, but that internet light is still red.
+
+Agent: Still red. (pause) Okay, so unfortunately that didn't resolve the issue. Let me... let me check our network status in your area. (typing sounds) (pause) I'm not seeing any outages reported in your neighborhood, which is odd given the symptoms.
+
+Customer: So what does that mean? Is something wrong with the modem, or...?
+
+Agent: Well, at this point, it could be a few different things. It might be a modem issue, or it could be something with the line itself. There's also a possibility of damage at the network interface point where the fiber line enters your home. 
+
+Customer: That doesn't sound good.
+
+Agent: It might not be as bad as it sounds. Before we go down that road, let me just try one more thing. Can you hold for just one moment? I want to check with my supervisor about whether we have any other options.
+
+Customer: Yeah, sure. (pause)
+
+Agent: Thank you for holding. Okay, so I've consulted with my team, and unfortunately we've exhausted the remote troubleshooting options on my end. Given that the internet light is still red after all these attempts, this is likely either a modem hardware failure or an issue with the line or equipment outside your house.
+
+Customer: So what do I need to do?
+
+Agent: The best next step would be to schedule a technician visit. They can come out and diagnose the exact issue. They might need to replace the modem, or they might find that there's an issue with the external line that needs to be repaired.
+
+Customer: How long would that take? I really need my internet back. I work from home.
+
+Agent: I completely understand. Let me see what availability we have. (typing sounds) (pause) We have an opening tomorrow between 8 AM and 12 PM, or we have another window on Friday afternoon from 1 to 5 PM.
+
+Customer: Tomorrow morning would be better if that's available.
+
+Agent: Perfect. So I'm going to schedule you for tomorrow between 8 AM and 12 PM. Just to confirm, the address is 2341 Maple Drive, and the best number to reach you is 555-0847?
+
+Customer: Yes, that's right.
+
+Agent: Great. The technician will call you 15 to 30 minutes before they arrive to let you know they're on their way. Is there anything else I can help clarify about the appointment?
+
+Customer: No, I think that covers it. I just hope they can fix it quickly.
+
+Agent: I'm sure they'll take good care of you. I apologize that we couldn't resolve this remotely, but our technicians are really good at getting these issues sorted out. Your confirmation number is 784956. You can reference that if you need to reschedule or if you have any questions before tomorrow.
+
+Customer: Okay, got it. Thanks for your help, Derek.
+
+Agent: You're welcome. Thanks for being patient with us, and we'll get you back online as soon as we can. Have a good day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

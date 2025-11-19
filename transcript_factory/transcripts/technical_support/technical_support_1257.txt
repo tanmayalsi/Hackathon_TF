@@ -1,0 +1,125 @@
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Yeah, hi. So, um, my internet just went out completely. It's been down for like... I don't know, maybe twenty minutes now? And I can't get it back up.
+
+Agent: I'm sorry to hear that. Let me pull up your account here. Can I get the phone number associated with your account, please?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, great. And can I also get the address where you're experiencing the issue?
+
+Customer: Yeah, it's 2844 Maple Street, apartment 3B.
+
+Agent: Perfect, thank you. So just to confirm, you're experiencing a complete outage—no internet service at all right now?
+
+Customer: That's right. Yeah, nothing. My router's on, the lights are flashing like normal, but I can't connect to anything. It was working fine this morning and then just... stopped.
+
+Agent: Okay, I understand how frustrating that must be. Let me start by running a quick check on our end to see if there are any service issues in your area. (typing sounds) (pause) Alright, so I'm not seeing any widespread outages reported in your area at the moment. So let's do some troubleshooting together. First, can you tell me—are you looking at your router right now?
+
+Customer: Yeah, I'm right in front of it. It's a Frontier router, the white box thing.
+
+Agent: Perfect. Okay, so I'm going to walk you through a few things. First, can you check the lights on the front of the router? Are they lit up?
+
+Customer: Um, yeah. So I've got a white light on at the top, and then below that there's like... it looks like a couple of amber or orange lights blinking?
+
+Agent: Okay, okay. So you've got that white light at the top—that's good. That means it's powered on. The orange blinking lights, though... that typically indicates the router is trying to connect but hasn't fully synchronized yet. Can you tell me which lights specifically are orange? Is it the internet light?
+
+Customer: (pause) I'm not totally sure which one is which, to be honest. They're kind of small. But yeah, there's definitely some orange blinking going on below the power light.
+
+Agent: Right, that makes sense. Okay, here's what I want you to do. Can you locate the power cable on the back of the router?
+
+Customer: Yeah, I see it. It's plugged into the wall.
+
+Agent: Great. I'm going to have you unplug it for about thirty seconds. Just pull it right out of the wall outlet. This will do a hard reset of the router.
+
+Customer: Okay, unplugging now. (pause) Yeah, it's out.
+
+Agent: Perfect. Now just wait about... let's say thirty seconds. I know it feels like forever, but that gives it time to fully power down.
+
+Customer: Okay, counting... yeah, thirty seconds should be up about now.
+
+Agent: Alright, go ahead and plug it back in for me.
+
+Customer: (pause) Okay, plugging it back in. (pause) Alright, it's back in.
+
+Agent: Great. Now, what we're going to do is just wait for it to boot back up. You should see the lights cycle through a couple of times. This usually takes about two to three minutes. Can you watch that for me and let me know what happens?
+
+Customer: Sure, yeah. (pause) Okay, so it's cycling like you said. The white light came back on. (pause) Now I'm seeing more orange lights...
+
+Agent: Okay, that's normal during the startup process. Just give it another moment.
+
+Customer: (pause) Alright, it's been a couple of minutes now. The orange lights are still blinking. That's... that's not good, is it?
+
+Agent: Well, let's not worry just yet. Sometimes it takes a bit longer. Can you try opening a browser on your computer or phone? Just try going to any website and see if you get a connection.
+
+Customer: (pause) Nope. Still nothing. I'm just getting that "can't reach the server" message.
+
+Agent: Hmm, okay. Alright, let's check a couple other things. Can you look at the back of the router and tell me if there's a cable that goes from the router into the wall? Something that might look like a phone line or coaxial cable?
+
+Customer: Oh, yeah. I see what you're talking about. There's like a white cable going into the wall. Is that it?
+
+Agent: That could be it. Can you check if that cable is firmly connected? Sometimes these get loosened up and people don't realize it.
+
+Customer: (pause) Let me look... yeah, it feels pretty snug to me. I'm giving it a little push just to make sure... nope, doesn't seem like it's loose.
+
+Agent: Okay, good. And then on the router side, is that cable connected securely there as well?
+
+Customer: Yeah, it looks like it's in there pretty tight.
+
+Agent: (pause) Alright. Let me check something on my end here. (typing sounds) (pause) I'm going to reset your modem remotely. Sometimes these need a kick on the backend. Give me just one moment.
+
+Customer: Sure, take your time.
+
+Agent: (typing sounds) (pause) Okay, I've sent the reset signal. Your router's going to blink and cycle through its startup again. This might take another two or three minutes. Can you give that a shot?
+
+Customer: (pause) Okay, yeah, I see it going through the startup again. (pause) Still... still seeing those orange lights though. I'm not seeing any green lights or anything indicating it's connected.
+
+Agent: Okay, I'm not getting a good connection from our end either. I'm not seeing your router coming back online after that reset. That's... that's a bit concerning. Let me ask you this—have there been any storms recently in your area? Any power outages?
+
+Customer: No, actually, weather's been fine all day. And I didn't lose power or anything.
+
+Agent: Okay. (pause) And you mentioned the internet was working fine this morning?
+
+Customer: Yeah, absolutely. I was using it this morning, no problems at all.
+
+Agent: Alright. So here's what I'm thinking—it's possible that either the modem itself has failed or there's an issue with the line coming into your building. Since we're not able to get a connection established through troubleshooting, I think we're going to need to get a technician out to your location to do a physical inspection.
+
+Customer: Oh, man. Do I have to wait long for that?
+
+Agent: Let me check what we have available for your area. (typing sounds) (pause) So, typically we can get someone out within one to two business days. Given that today is Thursday, we could potentially schedule someone for tomorrow, Friday, or Monday. What works best for you?
+
+Customer: Yeah, Friday would be better if you can do that. What time frame are we looking at?
+
+Agent: The standard window we offer is between 9 AM and 5 PM. Can you do anytime within that window?
+
+Customer: Ugh, that's pretty wide. Can't you narrow it down?
+
+Agent: I understand, and I apologize. Unfortunately, that's the standard window we work with for scheduling. But I can note on the ticket that you're hoping for a specific time, and the technician may be able to call you ahead of time to give you a more specific window.
+
+Customer: Okay, I guess that's better than nothing. Let me just get Friday then, anytime in that window.
+
+Agent: Perfect. Let me get some information and set that up for you. Can I get a callback number to confirm with you?
+
+Customer: It's 555-0147, same as the account number.
+
+Agent: Great, thank you. And just to confirm everything—we have Friday between 9 AM and 5 PM at 2844 Maple Street, apartment 3B. The technician will come inspect both your external line and modem. There is no service call fee for this visit since you're currently without service.
+
+Customer: Okay, good. So they'll just fix whatever is wrong?
+
+Agent: The technician will diagnose the issue and make any necessary repairs. If it's a simple fix, they can handle it right there. If it turns out to be something more complex or if equipment needs to be replaced, they'll take care of that as well, and there would be no additional charge to you.
+
+Customer: Alright, I appreciate that. Is there anything I need to do before they get here?
+
+Agent: Just make sure you have access to the modem and router area. Beyond that, no. Oh, and if by some chance your internet comes back on on its own before Friday, just give us a call back and we can cancel the appointment.
+
+Customer: Will do. Thanks, Marcus.
+
+Agent: You're very welcome. I'm sorry we weren't able to resolve this today, but we'll get you back up and running as soon as possible. Your ticket number is 847293 if you need to reference anything. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. Thanks again.
+
+Agent: Thank you for calling Frontier Communications. Have a great day.
+
+Customer: You too. Bye.
+
+Agent: Bye.

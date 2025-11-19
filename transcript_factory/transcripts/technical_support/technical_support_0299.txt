@@ -1,0 +1,119 @@
+# Frontier Communications Customer Service Call
+
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, um, my internet just went out completely. It's been down for about an hour now and I can't get it back on.
+
+Agent: I'm sorry to hear that. I'll be happy to help you troubleshoot. Let me pull up your account here. Can I get your account number or the phone number associated with your service?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, got it. I'm showing you're in the Riverside area. So your internet service went down about an hour ago, is that right?
+
+Customer: Yeah, exactly. I was working from home and everything just... stopped. One minute I'm on a call and the next, nothing.
+
+Agent: Got it. That's frustrating, I totally understand. Let's start with some basic troubleshooting. Can you tell me... is your modem powered on right now? Do you see any lights on it?
+
+Customer: Um, yeah, it's on. I see... let me look here. I see a couple of lights. There's a green light on the front and... I think there's an orange one?
+
+Agent: Okay, so we've got a green light and an orange light. The orange light is actually what concerns me a bit. Can you tell me which port the orange light is near? Is it near the internet port, or is it more towards the phone or TV ports?
+
+Customer: (pause) Honestly, I'm not really sure. There's a lot of ports on this thing. Um... I think it might be near where the cable comes in?
+
+Agent: That could be the internet port, which would indicate a connection issue. Let me ask you this—do you see any lights that are blinking or are they all steady?
+
+Customer: The green one is steady, but the orange one is definitely blinking.
+
+Agent: Okay, yeah, that blinking orange light on the internet port typically means we're not getting a proper signal. Let's try a restart. Can you unplug the modem for me? Just pull the power cable out of the back.
+
+Customer: Sure, doing it now. (pause) Okay, it's unplugged.
+
+Agent: Great. I'm going to have you wait about thirty seconds while it's powered down. Just give it a moment...
+
+Customer: (background noise) Alright, waiting here...
+
+Agent: (typing sounds) And go ahead and plug it back in whenever you're ready.
+
+Customer: (pause) Okay, plugging it back in now. (pause) Alright, it's in.
+
+Agent: Perfect. Now let's give it about two minutes to boot back up. While we wait, let me ask you—have you experienced any outages in your area recently, or is this the first time something like this has happened?
+
+Customer: No, this is... this is the first time. We've had the service for about three years now and it's been pretty reliable, so...
+
+Agent: That's good to know. Okay, it's been about a minute. Let's check on those lights. What are you seeing now?
+
+Customer: Um... okay, so the green light is back, and the orange one is... it's still blinking. It didn't really change.
+
+Agent: (pause) Hmm. Okay, so the restart didn't resolve it. Let me check on our end. (typing sounds) I'm not seeing any outages reported in your area right now, so it seems like this might be specific to your line. Let me try resetting your modem through our system here and see if that helps.
+
+Customer: Oh, okay. What does that do?
+
+Agent: It's going to reinitialize your connection settings. Sometimes that clears things up. Give it just a moment...
+
+(pause - typing sounds)
+
+Agent: (pause) All right, so I've sent that reset through. Can you keep an eye on the modem? Let me know if you see any changes in those lights.
+
+Customer: (long pause) No... nothing yet. The orange light is still doing the same thing. Green is steady, orange is blinking.
+
+Agent: Okay, yeah, that's... that's not ideal. Let me ask you a few more questions. Is the cable running from the wall to your modem secure? Can you check that connection for me?
+
+Customer: (pause) Yeah, I'm looking at it now. It looks pretty tight. I can try wiggling it a bit... (pause) No, it seems okay.
+
+Agent: All right. And just to confirm, you're not seeing any physical damage to the cable itself? No cracks or anything like that?
+
+Customer: (pause) No, it looks fine to me.
+
+Agent: Okay. Let me check one more thing. Can you power cycle the modem one more time? Hold the power button on the back for about ten seconds.
+
+Customer: (pause) Okay, doing that now... (pause) And letting go... (pause) It's rebooting.
+
+(pause)
+
+Agent: (typing sounds) All right, while that's coming back up, I'm checking your line status on our end, and... huh. I'm actually seeing an issue here. It looks like there might be a signal strength problem coming from our connection point. The levels are lower than they should be.
+
+Customer: What does that mean exactly?
+
+Agent: Well, it could be a few things. It could be something on the infrastructure side, or it could be a connection issue inside your home. But based on what I'm seeing, I think this is going to require a technician to come out and investigate.
+
+Customer: (disappointed) A technician? How long would that take?
+
+Agent: (typing sounds) Let me see what we have available... We have same-day appointments available until about 6 PM if you need someone out there quickly, or we could schedule for tomorrow between 8 AM and noon.
+
+Customer: Same-day? It's already 3 o'clock...
+
+Agent: Right, so we'd have a narrow window there. The other option is tomorrow morning.
+
+Customer: (long pause) Okay, let me think... I really need internet for work. Can we do tomorrow morning?
+
+Agent: Absolutely. Let me get that scheduled for you. That'll be tomorrow between 8 and noon, and there's a $99 service call fee for the diagnostic visit—
+
+Customer: Wait, there's a fee? Even though it's your line that's having the problem?
+
+Agent: I understand your frustration. However, the service call fee applies for diagnostic visits unless we determine it's caused by our infrastructure. If we find the issue is on our end, we can waive that fee retroactively.
+
+Customer: (pause) ...Okay, I guess. So that's tomorrow morning then?
+
+Agent: Yes, tomorrow morning between 8 and noon. You should receive a confirmation text to the number on your account. Is that still 555-0149?
+
+Customer: No, it's 555-0162 actually. Can you update that?
+
+Agent: (typing sounds) 555-0162, got it. And is there anything else I can help you with tonight?
+
+Customer: No, that's... that's pretty much it. I just hope they can fix it tomorrow.
+
+Agent: I understand, and I really do apologize that we weren't able to get this resolved over the phone today. Our technician will be able to diagnose the exact cause and get you back up and running. Is there anything else I can help clarify before we wrap up?
+
+Customer: No, I think that's everything. Thanks, I guess.
+
+Agent: You're welcome. Just to recap, you have a technician visit scheduled for tomorrow between 8 and noon. You'll get a text confirmation shortly. Thank you for being a Frontier customer, and we appreciate your patience.
+
+Customer: Yeah, thanks.
+
+Agent: Have a good night.
+
+Customer: You too. Bye.
+
+Agent: Bye now.
+
+(call ends)

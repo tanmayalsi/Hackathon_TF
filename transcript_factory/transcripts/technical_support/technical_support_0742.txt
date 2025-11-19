@@ -1,0 +1,117 @@
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Hi, yeah, um, my internet just went out. It's been down for like... I don't know, maybe twenty minutes now? And I really need to get it back up. I'm working from home today.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll get this sorted out for you. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, perfect. I'm looking at your account now. And your name is... David Chen?
+
+Customer: Yes, that's right.
+
+Agent: Great, David. So your internet service is currently down. Just to start with some basic troubleshooting—can you tell me what you're seeing right now? Is your modem lit up at all?
+
+Customer: Um, let me look. (pause) Yeah, the modem is... it's got some lights on it. The power light is green, but I think... yeah, the internet light is red. Is that bad?
+
+Agent: Okay, the red light on the internet port typically means there's no connection coming in from our network. That's actually helpful information. And how about your router? Do you have a separate router?
+
+Customer: I do, yeah. It's also got some red lights on it. I think it's just not connecting to anything.
+
+Agent: Right, that makes sense if the modem isn't getting a signal. So let's start with the basics. Can you unplug the modem for me? Just take the power cable out.
+
+Customer: Okay, doing that now. (pause) It's unplugged.
+
+Agent: Good. Now while we wait, can you also unplug your router?
+
+Customer: Yep. (pause) Both unplugged.
+
+Agent: Perfect. Now let's wait about thirty seconds. This gives the equipment time to fully power down. (pause) While we're waiting, have you had any recent storms or power outages in your area?
+
+Customer: No, nothing like that. The power's been fine. It was working fine this morning when I started work, and then it just... died.
+
+Agent: Okay, that's good to know. Alright, go ahead and plug the modem back in first.
+
+Customer: (pause) Okay, it's plugged back in. (pause) The lights are coming back on. I see the power light... and it's going through some colors. Now it's blinking yellow and green.
+
+Agent: That's normal. It's booting up. Give it about a minute to fully connect. While that's happening, go ahead and plug your router back in too.
+
+Customer: (pause) Router's back in. (pause) Okay, so the modem... the internet light is still blinking. It's yellow right now.
+
+Agent: Still yellow, okay. Sometimes this takes a minute or two. Can you give it another thirty seconds or so?
+
+Customer: Sure. (pause) It's been like... forty-five seconds maybe? Still yellow.
+
+Agent: Still yellow. Hmm. Okay, David, can you do me a favor? On the back of your modem, there should be a small reset button. It's usually recessed, so you might need a paperclip or something thin to press it.
+
+Customer: A reset button? (pause) Yeah, I see it. Do I... do I press it?
+
+Agent: Yes, but I want you to press and hold it for about ten seconds. That'll do a factory reset on the modem.
+
+Customer: (pause) Okay, holding it. (pause) It's going through the startup sequence again. Lights are flashing.
+
+Agent: Good. Let's give it another minute to come back online.
+
+Customer: (pause) Okay. (pause) The internet light is... still yellow. Maybe a little bit more orange now? But it's still not solid green.
+
+Agent: Alright. You know what, let me check something on my end. (typing sounds) Let me see if there's any service alerts in your area. (pause) I'm not seeing any alerts for outages. But let me check the status of your line here. (pause) Hmm.
+
+Customer: What? What does that mean?
+
+Agent: Just give me a second. I'm looking at your provisioning information. (pause) Okay, so on my end, your modem should be registering with our network, but I'm not seeing an active connection registered right now.
+
+Customer: So... what does that mean? Is it something on my end or your end?
+
+Agent: That's a good question. It could be a few things. It could be an issue with the line itself coming into your home, or it could be something with the modem. Let me try something. Can you check the back of the modem? There should be a cable coming in from your wall or from outside. Can you see that?
+
+Customer: (pause) Yeah, I see it. It's connected. It looks fine from what I can see.
+
+Agent: Okay, can you try unplugging that cable from the modem and plugging it back in?
+
+Customer: Sure. (pause) Okay, unplugging it. (pause) And plugging it back in. (pause) The modem is doing the restart thing again.
+
+Agent: Let's see if that helps. (pause) What are you seeing now?
+
+Customer: (pause) The lights are going through it again... and (pause) it's still yellow. I don't think it's working.
+
+Agent: Okay. I hate to say this, but it sounds like we might have an issue with your line coming into the house, or potentially with the modem itself. Since the reset didn't bring the internet light to solid green, and I'm not seeing a connection on my end either, I think we're looking at either a line issue or a modem issue.
+
+Customer: So what does that mean? Like, what's the next step?
+
+Agent: Well, we have a couple of options. I can submit a ticket to have our technician come out to your home to check the line. That would typically be within the next 24 to 48 hours. Or, if you think it might be the modem, I can have a replacement modem sent out to you, though that might take a few days to arrive.
+
+Customer: (frustrated) Really? I need my internet working today. I'm working from home. Can't someone come out today?
+
+Agent: I completely understand the frustration, David. Let me check availability for today. (pause) (typing sounds) (pause) Unfortunately, we don't have any same-day appointments available in your area today. The earliest I can get a technician out to you would be tomorrow between 8 AM and 5 PM.
+
+Customer: That's... really not ideal. I need this working today. Is there anything else we can try?
+
+Agent: (pause) Well, let me try one more thing. Sometimes the issue is the cable connection itself. Do you have the coax cable—the cable that connects to the modem? Can you try a different coax cable if you have one?
+
+Customer: I don't think I have another one. These are usually not something people just have lying around, right?
+
+Agent: You know, that's a fair point. Most people don't. Um... (pause) I could have you try swapping the cables around to see if there's a bent pin or something, but honestly, if the modem isn't connecting after the reset, I'd be fairly confident we're looking at either a line issue or a modem failure.
+
+Customer: So you're saying I'm basically stuck until a technician comes out?
+
+Agent: I hate to say it that way, but yeah, that appears to be the case. What I can do is get a technician scheduled for tomorrow morning, and if it turns out to be the modem, we can replace it on-site at no charge. If it's a line issue, we'll get that fixed as well.
+
+Customer: (pause) Alright. Fine. Let's do tomorrow. I guess I'll have to figure out something else for today.
+
+Agent: I really am sorry about this, David. I know it's inconvenient. Let me get that scheduled for you. I'm going to set up a technician visit for tomorrow, and you should receive a confirmation call about an hour before they arrive. Is the number we have on file the best number to reach you?
+
+Customer: Yeah, that's fine.
+
+Agent: Perfect. So just to recap, we have a service appointment scheduled for tomorrow, [inaudible], between 8 AM and 5 PM. A technician will come out and diagnose whether it's a line issue or a modem issue and get it resolved.
+
+Customer: Okay. Thanks, I guess.
+
+Agent: Is there anything else I can help you with today?
+
+Customer: No, that's it. Thanks for trying anyway.
+
+Agent: No problem at all, David. Again, I'm sorry we couldn't get it working today. Thanks for calling Frontier Communications, and we'll see you tomorrow.
+
+Customer: Thanks. Bye.
+
+Agent: Bye now.

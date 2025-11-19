@@ -1,0 +1,109 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. So, uh, my internet has been down since this morning and I've tried basically everything. I'm not sure what else to do at this point.
+
+Agent: I'm sorry to hear you're experiencing an outage. I'd be happy to help you troubleshoot that. Can I get your account number or the phone number associated with your account, please?
+
+Customer: It's, uh... (pause) hold on, let me grab that real quick. It's 555-0147.
+
+Agent: (typing sounds) Okay, thank you. And just to confirm, is this for your service at 428 Maple Street?
+
+Customer: Yes, that's correct.
+
+Agent: Perfect. So you mentioned your internet's been down since this morning. Have you noticed any lights on your modem or router that might be off or behaving differently than usual?
+
+Customer: Yeah, so that's the thing. The modem has this red light on it, and it's been blinking on and off. I've never seen it do that before, honestly.
+
+Agent: Okay, a red blinking light typically indicates a connection issue. Let's start with the basics here. Can you try unplugging the modem for me? Just pull the power cable out.
+
+Customer: Sure thing. (pause) Okay, it's unplugged.
+
+Agent: Great. Now I want you to wait about thirty seconds and then plug it back in. That'll do a full restart.
+
+Customer: (pause) Alright, plugged it back in. Should I be seeing something happen?
+
+Agent: Yes, you should see the lights cycling through different colors. Give it about two minutes to fully boot up. While we wait, I'm going to check on your account here to see if there are any service alerts in your area.
+
+Customer: (pause) Okay... (pause) Alright, so the lights went through some colors, but now it's back to that red blinking light again. Same as before.
+
+Agent: Hmm, okay. And you're still not seeing any internet connection on your devices?
+
+Customer: No, nothing. I tried connecting my laptop and my phone. Neither one's picking up the WiFi network.
+
+Agent: (typing sounds) Alright, let me ask you this—do you have a separate router, or is that a combined modem and router unit?
+
+Customer: I think it's... it's a combined thing. The one Frontier provided when we set up the service.
+
+Agent: Okay, so I'm actually not seeing any service alerts in your area, which is good news. But that red blinking light is concerning. Can you look at the back of the modem for me? There should be several cable connections. Is the cable coming from the wall—the coaxial cable—is that plugged in securely?
+
+Customer: (pause) Let me check... yeah, it looks pretty secure to me.
+
+Agent: Okay, can you try unplugging it anyway and plugging it back in? Sometimes these connections get a little loose.
+
+Customer: Sure, one second. (pause) Okay, it's back in. (pause) Nope, still the same red light.
+
+Agent: Alright, and the power cable is definitely plugged in and the outlet is working?
+
+Customer: Yeah, the power cable is definitely in. And I know the outlet works because I have a lamp plugged into the same outlet and it's on.
+
+Agent: (pause) Okay, let me check something on my end here. (typing sounds) Are you still seeing that same red blinking light right now?
+
+Customer: Yes, still blinking red.
+
+Agent: When did this start happening? Was there a storm last night or any power outages in your area?
+
+Customer: Actually, now that you mention it, we did have a pretty bad storm roll through around midnight. The power flickered a couple times.
+
+Agent: That could very well be it. Power surges can sometimes damage the modem hardware. Let me try one more thing for you. I'm going to send a restart signal to your modem from my end. Hold tight for just a second.
+
+Customer: (pause) Okay.
+
+Agent: (typing sounds) Alright, I've sent that signal. Give it about a minute and let me know if anything changes.
+
+Customer: (pause) (pause) Hmm, nope. Same thing. Red light's still there.
+
+Agent: Okay, unfortunately, that's not working either. Based on what you're describing, it really sounds like the modem may have been damaged from that power surge. The red light, the inability to connect... these are pretty classic signs of hardware failure.
+
+Customer: So what does that mean? What do I need to do?
+
+Agent: Well, normally I would suggest we get you a replacement modem. [inaudible] typically we'd have a technician come out, but... (pause) let me see here. (typing sounds) Given the circumstances with the storm, we should be able to get you set up with a replacement unit. However, I do need to schedule a technician visit to confirm there's no issue with your line itself.
+
+Customer: How long would that take? I really need my internet back up and running.
+
+Agent: Let me check our availability. (pause) (typing sounds) The earliest I can get a technician out to you is tomorrow afternoon between 1 and 4 PM. Does that work for your schedule?
+
+Customer: (sigh) I guess it'll have to. Can they bring the new modem with them?
+
+Agent: Yes, absolutely. They'll bring the replacement modem and install it for you. But I do want to make sure we get you back online as quickly as possible. In the meantime, is there anything else I can try from my end? Have you tried any other troubleshooting steps?
+
+Customer: I mean, I unplugged everything, waited a bit, plugged it back in... I tried a hard reset on the modem if that's... I don't know if that even did anything.
+
+Agent: (pause) Actually, you know what? Can you try the hard reset one more time? But this time, hold the reset button for a full ten seconds. Make sure it stays depressed the entire time.
+
+Customer: Okay. (pause) Where's the reset button? I'm looking at the back...
+
+Agent: It should be a small recessed button. You might need a paperclip or a pen to press it.
+
+Customer: (pause) Oh, I see it. (pause) Okay, I'm holding it... holding it... (pause) Okay, let go.
+
+Agent: (pause) Do you see anything happening on the modem?
+
+Customer: The lights are flashing again, cycling through... but after it's done, we're back to the red light.
+
+Agent: (long pause) Yeah, unfortunately, I think we've exhausted the troubleshooting options on my end. The modem really does appear to be defective. I'm going to get you scheduled with that technician for tomorrow between 1 and 4 PM. You should receive a confirmation text and email within the next few minutes.
+
+Customer: Alright, I guess that's... that's what we have to do then. Is there anything else or...?
+
+Agent: Let me just make a note on your account here. (typing sounds) I've documented everything we tried today and the power surge incident. The technician will see all of this when they pull up your information. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. I'll just have to wait until tomorrow, I guess.
+
+Agent: I completely understand your frustration. I'm really sorry you're dealing with this, especially after that storm. The technician should have you back up and running by tomorrow evening. Is there anything else before we wrap up?
+
+Customer: No, that's all. Thanks, Derek.
+
+Agent: You're very welcome. Thanks for calling Frontier, and we'll get you taken care of tomorrow. Have a good day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

@@ -1,0 +1,155 @@
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Hey, yeah, hi. Um, so my internet just went out and I'm not really sure what's going on. I've been without service for like... maybe twenty minutes now?
+
+Agent: Oh no, I'm sorry to hear that. We'll get this figured out for you. Let me pull up your account real quick. Can I get the phone number associated with your account, please?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, perfect. I've got you here. And just to confirm, this is for the service at 2847 Maple Drive?
+
+Customer: That's right, yeah.
+
+Agent: Great. So you mentioned your internet went out about twenty minutes ago. Have you had any power outages in your area, or is everything else working normally at your home?
+
+Customer: No, no power outages or anything. The lights are all on, TV's working fine. It's just the internet. I tried unplugging the router and plugging it back in, which I know is like, the first thing everyone says to do, but that didn't help.
+
+Agent: (chuckles) Hey, you'd be surprised how many times that actually works, so good thinking. Okay, so when you plug the router back in, do you see any lights coming on? Are they blinking or solid?
+
+Customer: Um... let me look at it. (pause) Okay so I'm looking at it now. The power light is on, it's solid green. But the internet light... it's like, it's red. Is that bad?
+
+Agent: Okay, so a red internet light typically means there's no connection coming into your modem. That's helpful information. Do you see any other lights on the device?
+
+Customer: There's like... a WiFi light that's off, I think. And some other stuff but I can't really tell what they're for.
+
+Agent: No problem. That's actually pretty normal if the internet isn't connecting. Let me check something on my end. (typing sounds) I'm looking at your account and I'm not seeing any service outages reported in your area currently. But let me do a remote check on your modem here... (pause) Hmm, it looks like your modem might not be communicating with our network.
+
+Customer: Oh, so what does that mean? Is my modem broken?
+
+Agent: Not necessarily. Could be a few things. Let's try a few troubleshooting steps first. Can you locate where your modem is plugged in?
+
+Customer: Yeah, it's in the living room. It's plugged into the wall outlet.
+
+Agent: Okay, and is it plugged into a power strip or directly into the wall?
+
+Customer: It's directly into the wall.
+
+Agent: Perfect. So here's what I want you to do. I need you to unplug the modem from the wall, and then also unplug the router if they're separate devices.
+
+Customer: Oh, they're separate, yeah. The modem is like, this bigger box, and then the router is separate.
+
+Agent: Got it. So unplug both of those, and then wait about thirty seconds. I know it seems like a while, but it actually helps reset the system.
+
+Customer: (rustling sounds) Okay, unplugging now. (pause) Alright, both unplugged. I'm counting... (pause) ...okay, thirty seconds is up.
+
+Agent: Great. Now go ahead and plug the modem back in first, and give it about two minutes to boot up completely. While that's happening, do you remember if there were any storms last night or anything like that?
+
+Customer: Actually, yeah, now that you mention it, there was a pretty bad thunderstorm. I think it was like, around midnight? My power flickered a couple times.
+
+Agent: Ah, okay. That could definitely be related. Sometimes power surges from storms can affect these devices. Has it been working fine since the storm, or did it go out last night?
+
+Customer: No, it was working last night and this morning. It just went out like twenty minutes ago. I mean, that was hours after the storm.
+
+Agent: Right, gotcha. Okay, so the modem should be booting up now. Have you plugged in the router yet?
+
+Customer: Not yet. The modem light is... still red though. Is that normal while it's booting?
+
+Agent: It might still be initializing. Let's give it another minute or so. (pause) You know what, go ahead and plug the router back in too.
+
+Customer: (rustling sounds) Okay, plugging it in. (pause) Alright, it's in.
+
+Agent: (typing sounds) And what I'm doing here is sending a reset command to your modem from our end. This should help it reestablish the connection with our network.
+
+Customer: Okay. (pause) Uh... the lights are still the same though. Power is green, internet is red.
+
+Agent: (pause) Hmm. Let me check here... (typing sounds) Okay, I'm not seeing it respond to that reset command. Let me try one more thing. Are you able to access the modem's control panel? Do you know how to do that?
+
+Customer: I mean... not really? I don't know how to do that.
+
+Agent: That's okay. Normally you'd go to a web browser and type in like 192.168.0.1, but if the internet isn't working, that won't help us right now. Let me see here... (typing sounds, pause) 
+
+Have you checked the cables? Is the coax cable—that's the thick cable that comes from the wall—is that firmly connected to the modem?
+
+Customer: Oh! You know what, let me check. (rustling sounds) Um, I'm looking at it... the cable looks pretty loose actually now that I'm looking at it.
+
+Agent: Okay, try tightening that for me. Just screw it on by hand—you don't need any tools.
+
+Customer: (rustling sounds) Okay, I'm tightening it... can I screw it really tight or is there like a limit?
+
+Agent: Just hand-tight is fine. Don't overdo it. You should feel a little bit of resistance and that's good.
+
+Customer: (rustling sounds) Okay, got it. (pause) Oh! The internet light just turned... is that orange now? Or yellow?
+
+Agent: Orange is progress. That might mean it's trying to connect. Let's give it another minute to see if it goes green.
+
+Customer: (pause) ...Okay. (longer pause) It's still orange though.
+
+Agent: (pause) Okay, it's been about a minute and a half, so... let me check the status again on my end. (typing sounds, pause) I'm still not seeing a connection being established. This could mean the signal isn't making it from our network to your modem, or there could be an issue with the modem itself.
+
+Customer: So like... what do I do? Is my modem dead?
+
+Agent: It might be, or it could be a signal issue. Let me try one more thing. Is there anything else plugged into that coax outlet on the wall? Like a cable box or anything?
+
+Customer: No, just the modem. That's the only thing.
+
+Agent: And you're sure the coax cable is tight now?
+
+Customer: Yeah, I triple-checked it. It's definitely tight.
+
+Agent: Okay. (pause) Let me try restarting the modem from my end here. (typing sounds) I'm sending a restart command... (pause) ...and the modem is restarting now. This should take about a minute or two.
+
+Customer: (pause) Okay. How long do you think this will take to get it working again?
+
+Agent: Hopefully just a few more minutes once the restart completes. Let's see what happens.
+
+Customer: (long pause) Still orange.
+
+Agent: (typing sounds) Yeah, I'm showing it restarted, but I'm still not seeing a signal lock. At this point, I'm thinking there might be a hardware failure with your modem, especially given the thunderstorm last night. It's possible the surge damaged it even though it took a while to fail.
+
+Customer: Oh man. So I need a new modem?
+
+Agent: That's likely what we're looking at here, yeah. But let me check one more thing. Do you have a battery backup or anything that the modem's plugged into?
+
+Customer: No, it's just straight into the wall outlet like I said.
+
+Agent: Right, yeah. Okay, so based on everything we've tried here—the restart, the cable check, the remote resets—and the fact that you had that thunderstorm last night, I'm fairly confident the modem has experienced some damage. 
+
+What I can do is schedule a technician to come out and either repair or replace the modem for you. Or, if you want to save some time, we can send you a replacement modem and you can swap it out yourself. It's pretty straightforward.
+
+Customer: How long would it take for a tech to come out?
+
+Agent: Typically we have appointments available within two to three business days, depending on your area.
+
+Customer: (sighs) And how long if I do it myself with a replacement?
+
+Agent: We can have that shipped out to you, probably arrive in two to three days as well. And then you'd just hook it up the same way—power, coax cable, and you should be all set.
+
+Customer: I guess I'll do the replacement option then. I don't really want to wait around for someone to come to the house.
+
+Agent: Absolutely, that's no problem. Let me get that ordered for you right now. (typing sounds) Okay, and just to confirm, we'll ship it to 2847 Maple Drive, right?
+
+Customer: Yeah, that's correct.
+
+Agent: Great. And can I get a phone number to contact you with once it arrives?
+
+Customer: It's 555-0147, same as the account number.
+
+Agent: Perfect. So you're all set. Your replacement modem is being processed right now and should arrive within two to three business days. Once it gets there, just unplug your current modem, plug the new one in the same way, wait a couple minutes for it to boot up, and you should be back online.
+
+Customer: Okay, got it. So should I do anything with the old modem?
+
+Agent: Just keep it aside. We'll include a prepaid shipping label with the new modem, so you can send the old one back to us.
+
+Customer: Alright, that makes sense. Well, thank you for trying to troubleshoot all that with me.
+
+Agent: Of course, I'm sorry we couldn't get it working today, but at least we figured out what the issue was. Is there anything else I can help you with?
+
+Customer: No, I think that's it. Thanks again.
+
+Agent: You're very welcome. Thanks for being a Frontier customer, and we apologize for the inconvenience. Have a great day.
+
+Customer: You too, bye.
+
+Agent: Bye now.
+
+(call ends)

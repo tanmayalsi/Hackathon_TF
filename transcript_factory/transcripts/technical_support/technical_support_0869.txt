@@ -1,0 +1,123 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. My internet's been down since this morning and I have no idea what's going on. I need to get this fixed pretty quickly.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0847.
+
+Agent: (typing sounds) Okay, thank you. And can I get a name please?
+
+Customer: It's James. James Mitchell.
+
+Agent: Perfect, James. I'm pulling up your account now. (pause) Alright, I'm seeing you're on our Fiber 200 plan. Let me ask you a few quick questions. Are you able to see any lights on your modem right now?
+
+Customer: Uh, yeah. Let me look here... (pause) I see a couple lights. There's like a white one and a red one, I think.
+
+Agent: Okay, so you're seeing a white light and a red light. The red light is actually what we want to check on. That typically indicates there's a connection issue. Can you tell me... is the red light solid or is it blinking?
+
+Customer: It's solid. Just sitting there, solid red.
+
+Agent: Alright. And just to confirm, you're looking at an ONT device, right? It's a white box, probably about this big? (gestures with hands, though not visible to customer)
+
+Customer: Yeah, yeah, that's the one. It's sitting on the shelf by my TV.
+
+Agent: Great. So what I'd like you to do is unplug the power cable from the back of that device. Just pull it out completely.
+
+Customer: (pause) Okay, doing that now... it's unplugged.
+
+Agent: Perfect. Now I want you to wait about thirty seconds while that powers down. I'm gonna do the same thing from my end here. Let me just... (typing sounds) ...restart that device from our system. Go ahead and wait about ten seconds.
+
+Customer: (background noise of waiting) Alright...
+
+Agent: Okay, now after the thirty seconds, go ahead and plug it back in.
+
+Customer: (sounds of plugging in) Done. So now what?
+
+Agent: Now we're gonna let it boot back up. That should take about two to three minutes. While we're waiting, let me ask you—were there any storms in your area last night or this morning? Power outages, anything like that?
+
+Customer: Um... (pause) No, I don't think so. It was pretty clear this morning. Although my neighbor mentioned something about a power flicker last night. I was asleep so I didn't notice it.
+
+Agent: That could definitely be a contributing factor. Those power fluctuations can sometimes cause the ONT to get stuck in a loop. (pause) Okay, let me check the device status now. (typing sounds) Hmm, still booting. Let's give it another minute.
+
+Customer: Okay. So if this doesn't work, what happens? I really need my internet today.
+
+Agent: I understand completely. If the reboot doesn't resolve it, we can look at a few other options. We can try a factory reset, or if needed, I can schedule a technician to come out and take a look at the equipment. But let's see how this goes first. (pause) Alright, checking the status again... (typing sounds, slight pause) ...the device is showing as online now. Are you able to see any changes on the modem? Any different lights?
+
+Customer: Uh... (pause) No, still looks the same. Still got the red light.
+
+Agent: Still solid red?
+
+Customer: Yeah, still solid red.
+
+Agent: Okay, that's unusual. Let me try something else here. (typing sounds) I'm going to send a refresh signal to the device. This should take about thirty seconds. Just keep an eye on those lights for me.
+
+Customer: (pause) Okay... (long pause) ...nope. Nothing changed. Still red.
+
+Agent: Alright, I'm showing the device is online on our end, but it sounds like there might be a connection issue between the ONT and your router. Are you using your own router or the one we provided?
+
+Customer: I think it's yours. It's got the Frontier branding on it.
+
+Agent: Okay, good. Can you check the cable that's connecting the ONT to the router? It should be an ethernet cable. Is it plugged in securely on both ends?
+
+Customer: (pause, sounds of movement) Let me look... yeah, it looks pretty secure to me. It's the yellow cable, right?
+
+Agent: It could be yellow, white, or another color depending on the cable. But as long as it's connected on both ends, that's what matters. Can you try unplugging that ethernet cable from the router and plugging it back in?
+
+Customer: (sounds of unplugging) Okay... (pause) ...and back in. Did that help?
+
+Agent: (typing sounds) Let me check... (pause) No, still showing the same status. Hmm. (pause) James, I'm going to be honest with you—this is a bit unusual. The device is communicating with our network, but something is preventing the full connection. I want to try one more thing before we escalate this.
+
+Customer: Okay, what's that?
+
+Agent: I'm going to do a factory reset on the device. This will erase any configuration issues, but it also means we'll need to go through the setup process again. It should take about five minutes total. Are you comfortable with that?
+
+Customer: (pause) Yeah, I guess. As long as it works.
+
+Agent: Alright, give me just one second. (typing sounds, pause) Okay, I've initiated the reset from our end. The device should restart and go through the boot sequence again. This time, all the lights should cycle through different colors before settling. You should see blues, greens, reds—just let them all cycle through. Don't unplug anything, okay?
+
+Customer: (pause) Okay, I'm watching it now. (pause) Yeah, I see some lights changing... there's some blinking... (longer pause) ...okay, it's still blinking.
+
+Agent: Good, that's normal. Let me give it another minute to fully complete the reset.
+
+Customer: (pause) Yeah, okay...
+
+Agent: (typing sounds) How's it looking now?
+
+Customer: (pause) Um... it stopped blinking. I'm back to... it looks like white and red again. Red's still solid.
+
+Agent: (pause) Okay... and you're not seeing any internet connectivity on your devices, correct? Phones, computers, anything?
+
+Customer: Right, nothing. Can't get online at all.
+
+Agent: (typing sounds, longer pause) Alright, James. I've tried the reboot, the cable check, and the factory reset, and unfortunately we're not seeing the connection come through. At this point, I think we need to get a technician out to your location. There could be a hardware issue with the ONT itself or possibly something on the line side that I can't diagnose remotely.
+
+Customer: Really? How long does it take to get someone out here?
+
+Agent: Let me check our availability. (typing sounds, pause) We can get someone out tomorrow between 1 and 5 PM, or we have some availability on Thursday morning between 9 and noon. Which works better for you?
+
+Customer: (pause) Tomorrow would be better. Afternoon is fine.
+
+Agent: Perfect. (typing sounds) I'm scheduling that for you tomorrow, 1 to 5 PM. A technician will come out and assess the equipment and the line. Is the contact number on file 555-0847?
+
+Customer: No, actually it's 555-0923. Let me give that to you.
+
+Agent: (typing sounds) Okay, 555-0923. Got it. And just to confirm, this is for the address on file at 412 Maple Street, apartment 3B?
+
+Customer: Yes, that's correct.
+
+Agent: Great. You should receive a confirmation text and email within the next hour. Is there anything else I can help you with today, or any questions about the service visit?
+
+Customer: No, I think that's it. I just hope they can fix it tomorrow.
+
+Agent: I understand your frustration. I apologize that we couldn't get this resolved over the phone. Our technician will definitely take good care of you. Is there anything else?
+
+Customer: No, that's all. Thanks for trying anyway.
+
+Agent: You're welcome, James. Thank you for being a Frontier customer, and we'll get you back online as soon as possible. Have a good day.
+
+Customer: Thanks. Bye.
+
+Agent: Bye now.
+
+(call ends)

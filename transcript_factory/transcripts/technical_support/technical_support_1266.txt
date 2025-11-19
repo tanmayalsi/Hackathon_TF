@@ -1,0 +1,103 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. So my internet's been down since this morning and I have no idea what's going on. I need to get this fixed.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll get to the bottom of this. Can I get the phone number associated with your account, please?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, 555-0147. And what's the name on the account?
+
+Customer: Michael Chen.
+
+Agent: Perfect, Michael. I've got you here. So you're saying your internet went down this morning? Do you remember what time that was?
+
+Customer: Uh, around 8 o'clock or so? I was trying to work from home and nothing was loading. Just completely dead.
+
+Agent: Okay, and have you tried restarting your modem and router yet?
+
+Customer: Yeah, I did that like an hour ago. Unplugged them both, waited a few minutes, plugged them back in. Still nothing.
+
+Agent: Alright, that's a good troubleshooting step. So when you say nothing's working, do you have any lights on the modem at all? Is it powered on?
+
+Customer: Um, yeah. It's got some lights on it. Let me look... there's like a power light that's green, and then there's a couple other ones but they're not doing anything. They're just... off, I guess?
+
+Agent: (pause) Okay, so the power light is on. That's good. Now, do you see any light that might be labeled "Internet" or "WAN" on your modem?
+
+Customer: (pause) Let me see... there's one that says... "Internet." Yeah, I see that one.
+
+Agent: And what color is that light?
+
+Customer: It's red. Is that bad?
+
+Agent: Well, a red light typically means there's a connection issue between the modem and our network. But don't worry, we can figure this out. Let me ask you a few more things. Have there been any storms in your area recently, or any construction work?
+
+Customer: No, nothing like that. The weather's been fine. Why?
+
+Agent: Sometimes those things can affect the line. But it sounds like that's not the issue here. Can you check the cables for me? There should be a coaxial cable—it's kind of thick and has a connector on the end—going into the back of your modem. Can you see if it's plugged in securely?
+
+Customer: Yeah, I see it. Let me... (pause) it looks pretty secure to me. I don't know, it feels like it's in there.
+
+Agent: Okay, try unplugging it and plugging it back in just to make sure it's getting a good connection.
+
+Customer: (pause) Okay, unplugging... (pause) and plugging back in. Did that.
+
+Agent: Good. Now let's wait about 30 seconds for the modem to reboot and see if that Internet light changes color.
+
+Customer: (long pause) Okay... it's still red.
+
+Agent: Hmm, still red. Let me check something on my end. (typing sounds, pause) Michael, I'm not seeing any service outages in your area, so it's likely something specific to your line or equipment. Have you had any power outages recently, even brief ones?
+
+Customer: Not that I noticed, but... I guess it's possible.
+
+Agent: Right. Well, let me try restarting your service from here. This might take a minute or two. Can you hold tight?
+
+Customer: Sure, yeah, I'll hold.
+
+Agent: (pause, hold music plays briefly)
+
+Agent: Okay, I'm back. I've sent a restart signal to your modem. Go ahead and unplug it from power for about 60 seconds while we let that signal process.
+
+Customer: (pause) Unplugging now... (long pause) Okay, it's been like a minute. Should I plug it back in?
+
+Agent: Go ahead and plug it back in now.
+
+Customer: (pause) Plugging it in... (pause) Okay, it's powering back up. The lights are... the power light's on again... (pause) Nope, still red on the Internet light.
+
+Agent: (pause) Okay. That's... not ideal. Let me check the line diagnostics from here. (typing sounds, pause) I'm seeing some signal issues coming from your node. The signal strength is lower than it should be, which would explain the red light.
+
+Customer: Okay, so what does that mean? Can you fix it?
+
+Agent: Well, that could indicate a problem with the line coming into your house, or possibly an issue with the modem itself. Unfortunately, those aren't things I can fully diagnose over the phone. To get this resolved, we'd need to send a technician out to your location to inspect the line and test your equipment in person.
+
+Customer: How long would that take? When could someone come out?
+
+Agent: Let me check our availability. (typing sounds) What's your address?
+
+Customer: 412 Maple Drive, apartment 3B.
+
+Agent: (typing sounds) Okay, so we have availability... looks like we could get someone out there tomorrow between 9 AM and 2 PM, or there's another slot on Thursday afternoon if that works better for you?
+
+Customer: Tomorrow? I mean, I really need this fixed today if possible. I've got important calls for work.
+
+Agent: I completely understand, Michael. Unfortunately, we don't have any same-day appointments available right now. The soonest would be tomorrow morning.
+
+Customer: (sighs) Yeah, okay. Tomorrow morning works, I guess. That's frustrating though.
+
+Agent: I know, and I'm sorry. But our technician will be able to pinpoint exactly what's wrong and get you back up and running. Is the 9 to 2 window good for you?
+
+Customer: Yeah, that's fine. I'll be home.
+
+Agent: Perfect. Let me get you confirmed. Your appointment is tomorrow, [inaudible] Drive, apartment 3B, between 9 AM and 2 PM. You should receive a confirmation text and email shortly. Is there anything else I can help clarify before we wrap up?
+
+Customer: No, I think that's it. Just... hopefully they can fix it tomorrow.
+
+Agent: Absolutely. And Michael, if you have any other issues before the technician arrives, feel free to give us a call back. Is there anything else today?
+
+Customer: No, that's all. Thanks.
+
+Agent: Thank you for choosing Frontier, and we apologize again for the inconvenience. Have a good day.
+
+Customer: You too. Bye.
+
+Agent: Bye.

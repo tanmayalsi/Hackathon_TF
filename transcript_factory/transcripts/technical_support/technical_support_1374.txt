@@ -1,0 +1,121 @@
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Hey, yeah, hi. So my internet just went out completely and I can't get it back up. I've been without service for like... I don't know, twenty minutes now?
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account and we'll get this sorted out. Can I grab your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm looking at that now. I see your account here. So you're getting no connection at all right now?
+
+Customer: Right, nothing. The modem's lit up but I'm not getting any internet. It was working fine this morning and then just... died.
+
+Agent: Alright. Let me start with the basics here. The modem—is it showing any lights that are red or amber, or are they all green?
+
+Customer: Uh... (pause) let me look. I've got a green light on top, I think that's the power, and then there's like a white light that's blinking...
+
+Agent: Okay, that's the internet light. That blinking white typically means it's trying to connect. Have you done a power cycle on the modem yet?
+
+Customer: No, I haven't. Should I do that?
+
+Agent: Yeah, definitely. Go ahead and unplug it from the power source, wait about thirty seconds, and then plug it back in. I'll stay on the line while you do that.
+
+Customer: Sure, give me one second. (background noise, rustling) Okay, unplugged. I'm counting... thirty seconds. (pause) Alright, plugging it back in.
+
+Agent: Great. So while that boots back up, can you tell me—have there been any storms in your area recently, or any construction work?
+
+Customer: No, nothing like that. It's just a regular day out here. (pause) Wait, I'm... I'm seeing some lights come back on now.
+
+Agent: Okay, good. What are you seeing?
+
+Customer: The top light's green again, the power light. But that white one is still just blinking. It's been doing that for like... thirty seconds now?
+
+Agent: (typing sounds) Yeah, give it a minute or two to fully boot. These can take a little while sometimes. In the meantime, let me check our system here... (pause) I'm not seeing any outages in your area, so that's a good sign. Are you on WiFi or ethernet?
+
+Customer: WiFi. I'm on my laptop.
+
+Agent: Alright. While we're waiting for that modem to come back up, can you try forgetting the network on your laptop and then reconnecting? That sometimes helps.
+
+Customer: Okay, yeah. (pause) I'm going into my WiFi settings... I found the network, it's showing as connected but... wait, it says no internet. That's weird.
+
+Agent: Right, the connection's there but no actual data flowing through. (pause) Let me check something on my end. What type of modem do you have?
+
+Customer: It's... (pause) I think it's a Frontier one? It's got the Frontier branding on it.
+
+Agent: Okay. Do you see a model number on the back or bottom of it?
+
+Customer: (background noise) Uh, let me see... I'm looking... It says, uh, "FX-2500" or something like that?
+
+Agent: (typing sounds) Got it. I'm pulling up the specs on that now. So that light should turn solid green once it's fully connected. How long has it been now since you plugged it back in?
+
+Customer: Almost two minutes, I think.
+
+Agent: And it's still blinking?
+
+Customer: Yeah, still blinking. This is... this is not normal, right?
+
+Agent: It could just need a bit more time, but let me try something else. Can you check the cable that goes into the back of your modem? The coaxial cable—it looks like a thick cable with a connector on the end?
+
+Customer: Oh, yeah, I see it. It's plugged in.
+
+Agent: Is it hand-tight or does it look loose at all?
+
+Customer: It looks... pretty snug to me. I can try tightening it just in case though. (pause) I'm giving it a little twist... (pause) Nope, it seems to be... I mean, I don't want to break it.
+
+Agent: Just a quarter turn should be fine. Don't force it. Has that light changed at all?
+
+Customer: (pause) No, still blinking. I'm starting to think there's something wrong with the modem itself, you know?
+
+Agent: That's possible. Let me check a few more things first. Is your modem getting warm at all? Like, is it hot to the touch?
+
+Customer: No, it feels normal. Cool actually.
+
+Agent: Okay. Let me put you on a brief hold while I check something in our system. Should only be a minute.
+
+Customer: Sure.
+
+Agent: (hold music plays for approximately 45 seconds)
+
+Agent: Alright, I'm back. So I'm not seeing any provisioning issues on my end, which is actually strange. Let me try a factory reset on the modem from our side real quick and see if that helps reestablish the connection. This will take about five minutes to complete.
+
+Customer: Okay... will I lose my settings or anything?
+
+Agent: You might have to log into your WiFi again, but nothing major. Let me initiate that now. (typing sounds) Alright, it's processing. Why don't you give it ten minutes total from when you first unplugged it, and then try reconnecting again?
+
+Customer: Ten minutes? Okay, I can do that.
+
+Agent: (pause) So just a heads up, I'm also going to check whether there's a signal issue coming into your home. Do you have any other devices you could try connecting to the WiFi once it comes back up? Just to rule out a laptop issue?
+
+Customer: Yeah, I've got a phone. I can try that.
+
+Agent: Perfect. Let's plan for this—give it the full ten minutes, then check the modem lights again. If that internet light turns solid green, go ahead and try both your laptop and your phone. If you're still not getting anything, give us a call back and we'll troubleshoot further. Does that work?
+
+Customer: Yeah, I guess. But like... do you think it'll actually come back? I'm pretty concerned that it's like, broken or something.
+
+Agent: I understand the concern. It's hard to say at this point without seeing it in person. The good news is that factory reset fixes about seventy percent of these issues. If it doesn't work after the ten minutes, we can definitely look into sending a technician out to you or potentially replacing the modem.
+
+Customer: Okay, so I just... wait?
+
+Agent: Yeah, just give it some time. I know it's not ideal, but these things can take a minute. Let me give you a reference number for this call in case you need to reach back out. You ready?
+
+Customer: Yeah.
+
+Agent: It's 447892. Do you have that?
+
+Customer: Yeah, 447892. Got it.
+
+Customer: (pause) So... I'll just call back if it doesn't work?
+
+Agent: Exactly. Give it the full ten minutes, and if that light doesn't go solid green and you're still not getting connected, just call us back and reference that number. You'll get bumped to the front of the queue.
+
+Customer: Alright. I mean, I hope this works because I've got work stuff I need to do today.
+
+Agent: I totally get that. Hopefully this does the trick. Is there anything else I can help you with in the meantime?
+
+Customer: No, I think that's it. I'll just... wait and see what happens.
+
+Agent: Sounds good. Thanks for calling Frontier Communications, and sorry again for the trouble. Have a great day.
+
+Customer: Yeah, thanks. Bye.
+
+Agent: Bye now.

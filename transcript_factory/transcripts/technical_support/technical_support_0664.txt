@@ -1,0 +1,123 @@
+# Frontier Communications - Technical Support Call
+
+Agent: Thank you for calling Frontier Communications technical support. My name is Marcus. How can I help you today?
+
+Customer: Yeah, hi Marcus. Um, my internet went down this morning and I've been without service for like two hours now. I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I'll definitely help you get back online. Can I start by getting your account number or the phone number associated with your account?
+
+Customer: It's 555-0147. That's the number on my bill.
+
+Agent: (typing sounds) Perfect, thank you. And what's your name?
+
+Customer: It's David Chen.
+
+Agent: Great, David. I have your account here. I see you're on our fiber service in the Portland area, is that correct?
+
+Customer: Yes, that's right.
+
+Agent: Okay, so let's try to troubleshoot this together. First, can you tell me—when you say the internet went down, does that mean you have no connection at all, or is it very slow?
+
+Customer: No, it's completely down. Like, I have no connection. The modem lights are... well, actually, let me look at it again. (pause) The power light is on, but I don't think the internet light is on. It's not lit up.
+
+Agent: Okay, that's helpful information. The internet light being off usually indicates there's no connection to our network. Let me ask you a few quick questions. Have you tried unplugging the modem and plugging it back in?
+
+Customer: No, I haven't. Should I do that now?
+
+Agent: Yeah, let's try that first. That's a pretty common fix. Just unplug the power cable from the back of the modem, wait about thirty seconds, and then plug it back in. I'll wait on the line while you do that.
+
+Customer: Okay, unplugging it now... (pause) Yeah, it's unplugged. I'm gonna wait... (longer pause) Alright, plugging it back in.
+
+Agent: Good. Now just give it a minute or so to boot back up. You should see the lights start coming back on.
+
+Customer: (pause) Okay, the power light came back on. I'm waiting for the other ones... (pause) Um... the internet light is still not turning on. This isn't good.
+
+Agent: Hmm, okay. That is unusual. Let me pull up your account details here. (typing sounds) Alright, I'm not seeing any outages in your area from our end. Have you noticed any weather issues or anything like that? Any storms recently?
+
+Customer: No, it's been pretty clear out. The weather's fine.
+
+Agent: Got it. And just to make sure—is there any chance the cable got disconnected? Sometimes the fiber line can come loose, especially if there's been any work outside or...
+
+Customer: I don't... I mean, I haven't done anything to it. But I could go check outside if you want?
+
+Agent: That would actually be really helpful. Can you do that for me?
+
+Customer: Yeah, one second. (pause) (background noise of door opening) Okay, I'm looking at the box on the outside of my house. Everything looks normal to me. The cables look like they're plugged in.
+
+Agent: Alright, and you don't see any visible damage or anything that looks out of place?
+
+Customer: No, it all looks fine to me.
+
+Agent: Okay, let me try something else. Can you go back inside and check if there's a battery backup unit between your wall and your modem?
+
+Customer: A battery... backup? Um, (pause) yeah, I think I see something like that. There's like a white box.
+
+Agent: Perfect. Do you see a light on that box? Any lights at all?
+
+Customer: There's like a red light, I think? It's blinking red.
+
+Agent: (pause) Okay, that's actually the issue. That red blinking light means the battery backup has lost power or it's not functioning properly. That device is preventing your modem from getting power. Can you try disconnecting that box and plugging the modem directly into the wall outlet?
+
+Customer: Oh, okay. So I just... unplug this battery thing?
+
+Agent: Exactly. Just unplug it from the wall.
+
+Customer: (pause) Done. Now should I plug the modem directly in?
+
+Agent: Yes, go ahead and do that.
+
+Customer: (pause) Okay, it's plugged in and it's turning on again. (pause) Alright, the power light is on... and I'm waiting for the internet light... (longer pause) No, it's still not coming on. It's just the power light.
+
+Agent: (pause) Okay. Um, let me check something on my end. (typing sounds) (longer pause) David, I'm seeing something here. It looks like there might be an issue with the line itself, or possibly the modem. Have you had any recent storms or power outages?
+
+Customer: Not that I can remember, no. Just this morning it stopped working.
+
+Agent: Right. Okay, so what I'm thinking is this might be a line issue on our end, or the modem itself might have failed. Since the battery backup had that red light, it's possible there was a power surge or something that affected both devices. How long have you had that modem?
+
+Customer: Oh, probably... maybe three years? Four years?
+
+Agent: Okay, so it's gotten some age on it. That could definitely be a factor. Normally I would suggest we send you a replacement modem, but I want to verify a couple more things first. Can you tell me—do you see any other indicator lights on the modem at all? Besides the power light?
+
+Customer: (pause) No, just the power light is on. Everything else is dark.
+
+Agent: [inaudible] that's what I thought. Okay, let me try a different approach. I'm going to do a remote check on the line itself to see if there's any signal coming through. This might take a couple minutes. Just stay on the line.
+
+Customer: Alright, I'm here.
+
+Agent: (pause) (typing sounds) (longer pause) Okay, David? I'm actually not seeing any signal at all coming through your line. That's unusual. Normally I would see some kind of registration, but there's nothing there.
+
+Customer: So... what does that mean?
+
+Agent: Well, it could mean a couple of things. It could be an issue with the equipment at the node, which is the connection point from our network to your house. Or it could be a problem with the line itself. There's also the possibility it's the modem, but typically if it was just the modem, I'd still see some signal activity.
+
+Customer: Okay... so what do we do?
+
+Agent: (pause) So here's what I'm going to do. I'm going to create a service ticket for our field technician team to come out and check the line and the equipment. They'll be able to see what's going on physically and determine if it's a line issue or an equipment issue. Do you have availability for someone to come out? We have morning slots available tomorrow, or I can schedule for later this week.
+
+Customer: Tomorrow morning would be better. What time are we talking about?
+
+Agent: (typing sounds) We have an 8 AM to 10 AM window available, or we have 1 PM to 3 PM.
+
+Customer: The morning slot works for me. 8 to 10.
+
+Agent: Perfect. Let me get that scheduled. (typing sounds) Okay, I have you down for tomorrow morning, 8 to 10 AM. The technician will call you thirty minutes before they arrive. The ticket number is 447329. Do you want me to repeat that?
+
+Customer: Yeah, let me write that down. 447329?
+
+Agent: That's correct. And David, I'm really sorry we couldn't get this resolved remotely today. Usually it's something simple like the battery backup that we can fix over the phone, but in this case it looks like we're going to need someone to come out and take a look at the physical line.
+
+Customer: Yeah, I understand. So I should just keep the modem unplugged until tomorrow?
+
+Agent: Actually, you can leave it plugged in. It won't hurt anything. And just in case—sometimes these things do fix themselves—if your internet comes back on before the technician arrives, just give us a call back and let us know so we don't send someone out unnecessarily.
+
+Customer: Will do. Thank you, Marcus.
+
+Agent: You're welcome, David. Is there anything else I can help you with today?
+
+Customer: No, that's all. I appreciate your help.
+
+Agent: You got it. Thanks for being a Frontier customer, and we'll get you back online tomorrow. Have a good rest of your day.
+
+Customer: Thanks, you too. Bye.
+
+Agent: Bye now. (call ends)

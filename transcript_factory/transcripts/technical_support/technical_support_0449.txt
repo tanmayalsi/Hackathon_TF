@@ -1,0 +1,121 @@
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet went out this morning and I've been without it for like three hours now. I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, got it here. I see you're on our fiber plan. And you're saying your internet is completely down right now?
+
+Customer: Yeah, completely. Like, nothing. No lights on the modem, nothing. Well, actually, wait—there's one light that's like, orange or red or something. It's not the normal blue I usually see.
+
+Agent: Okay, that's helpful information. That red light typically indicates an issue with the connection. Let's try some basic troubleshooting first. Have you tried power cycling your modem yet?
+
+Customer: Um, no, I haven't. Like, unplugging it?
+
+Agent: Exactly. Go ahead and unplug the modem, and then we'll wait about 30 seconds before plugging it back in. That'll give it a chance to fully reset.
+
+Customer: (pause) Okay, unplugging it now. (pause) Yeah, it's unplugged. How long should I wait?
+
+Agent: About 30 seconds should do it. Just give it a moment... okay, go ahead and plug it back in.
+
+Customer: (pause) Alright, plugging it back in. (pause) Okay, it's back in. Now what?
+
+Agent: Now let's give it about a minute or two to boot back up. While that's happening, can you tell me—do you have a modem and a router, or is it a combo unit?
+
+Customer: I think it's a combo thing? It's one box.
+
+Agent: Perfect. Okay, and while we wait, is there any weather in your area? Any storms recently or anything like that?
+
+Customer: Actually, yeah. We had pretty heavy rain last night and this morning. Does that matter?
+
+Agent: It can sometimes, yeah. Fiber lines are generally pretty robust, but heavy rain or storms can occasionally cause issues. (pause) Okay, are you seeing any lights on the modem now?
+
+Customer: Um... let me look. (pause) Okay, so I see a light that's blue now. That's good, right? But it's still blinking. Isn't it supposed to be solid?
+
+Agent: It's blinking? Okay, so the light should be solid blue when everything's connected properly. The blinking typically means it's still trying to establish a connection. Let's give it another minute or so.
+
+Customer: (pause) Okay... still blinking.
+
+Agent: Still blinking, alright. Can you try opening a web browser on your computer or phone? Just see if you can connect to anything.
+
+Customer: (pause) Yeah, let me try... (pause) No, nothing's loading. It says I don't have internet connection.
+
+Agent: Okay. And you're connected to the WiFi network, correct?
+
+Customer: Yeah, I'm definitely connected to the network. I can see it.
+
+Agent: Got it. So the device is seeing the network, but you're not getting internet access. Let me check something on my end here. (typing sounds) I'm looking at your service status... [inaudible] ...and I'm not seeing any alerts in our system for your area, so it doesn't look like there's a widespread outage.
+
+Customer: So... what does that mean? Is it just my house?
+
+Agent: It could be. It could also mean the issue is somewhere between the network and your modem. Let me try resetting your modem from our end. This will take about a minute.
+
+Customer: Okay...
+
+Agent: (pause) And... (typing sounds) ...reset initiated. Give it just a moment to reboot.
+
+Customer: (pause) Should I do anything?
+
+Agent: Just leave it alone for now. Let it restart completely. It should take about 60 to 90 seconds. (pause) While that's happening, just out of curiosity—do you have a surge protector or is the modem plugged directly into the wall?
+
+Customer: It's plugged into like, a power strip thing. With other stuff.
+
+Agent: Okay, that's fine. Did the modem restart properly? Is the light stable yet?
+
+Customer: Uh... (pause) No, it's still blinking. Still the same orange... red... light. Wait, now it's back to blue, but still blinking.
+
+Agent: Hmm, okay. The light is cycling between colors, which suggests the modem isn't able to hold a stable connection. Let me try something else. Can you unplug the modem again, but this time also unplug your router—or actually, they're the same unit, so just unplug it once. Unplug it and leave it unplugged for a full three minutes this time.
+
+Customer: Three minutes? Okay... (pause) It's unplugged. I guess I'll just... wait here?
+
+Agent: Yeah, just wait. While we're waiting, I'm going to check a few things on the network side. (typing sounds) Let me see if there's been any recent activity on your line...
+
+Customer: (pause) So is this—is this a common thing? Like, should I be expecting this to happen again?
+
+Agent: Well, it's not super common, but it can happen. Given the weather you mentioned, it might be worth having a technician come out to check the exterior lines. Those are sometimes susceptible to heavy rain. (pause) Okay, it should be close to three minutes now. Go ahead and plug it back in.
+
+Customer: Alright, plugging it in. (pause) Okay, it's in.
+
+Agent: Perfect. Let's wait for it to boot back up again.
+
+Customer: (pause) Okay, it's powered on again. The light is... still blinking, actually.
+
+Agent: (pause) It's still blinking?
+
+Customer: Yeah. It went solid for like, half a second, and now it's blinking again.
+
+Agent: That's... that's unusual. Let me see what else I can troubleshoot here. Let me ask—do you have any splitters on the line between the modem and the wall outlet?
+
+Customer: Splitters? I don't think so? It's just plugged into the wall.
+
+Agent: Okay, that's good. (pause) You know what, I'm seeing some potential signal issues on this line that I'm not entirely comfortable trying to diagnose remotely. I think we might need to get a technician out to your location to do a physical inspection of the line.
+
+Customer: Oh... so you're saying you can't fix it over the phone?
+
+Agent: Unfortunately, not at this point. I've run through the standard troubleshooting steps, and while the modem is powering on, it's not establishing a stable connection. That usually indicates a hardware issue with the modem itself, or more likely, an issue with the line coming into your home. Those I can't diagnose remotely.
+
+Customer: How long would it take to get someone out here?
+
+Agent: (typing sounds) Let me check our availability... We have an opening tomorrow between 8 AM and 12 PM, or we have another slot on Friday afternoon. Which works better for you?
+
+Customer: Tomorrow morning is fine. I just really need to get this working.
+
+Agent: I completely understand. Let me get you scheduled for that. (typing sounds) Okay, I have you down for tomorrow, 8 AM to noon. A technician will come out and inspect both your modem and the exterior line. Is the number I have on file the best way to reach you?
+
+Customer: Yeah, that should be fine.
+
+Agent: Excellent. You'll receive a confirmation text message and email shortly. In the meantime, if you want to keep trying to connect, you're welcome to, but don't be alarmed if it continues to not work. The technician will get to the bottom of it tomorrow.
+
+Customer: Okay, thank you. I appreciate it.
+
+Agent: You're welcome. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. Just... hopefully it'll be fixed tomorrow.
+
+Agent: I'm sure we'll get it sorted out. Thanks for choosing Frontier, and have a great day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

@@ -1,0 +1,99 @@
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Hi, yeah, um, my internet just went out completely. I've had service with you guys for like three years and this has never happened before.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account real quick. (typing sounds) Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (pause) (typing sounds) Okay, I've got you here. Account under Michael Torres, is that correct?
+
+Customer: Yeah, that's me.
+
+Agent: Perfect. So you're saying your internet is completely down right now?
+
+Customer: Yeah, completely down. I tried unplugging the modem and router and everything. Waited like five minutes, plugged them back in, and nothing. The lights aren't even coming on properly on the modem.
+
+Agent: Okay, good troubleshooting on your part. Let me ask you a few questions. When you say the lights aren't coming on properly, which lights are we talking about? Are there any lights lit up at all?
+
+Customer: Um, there's like a faint blue light on the front, but it's not blinking like it normally does. It's just... solid. And I don't see the green internet light that's usually there.
+
+Agent: Alright, that's helpful. So no green internet indicator. Let me check something on my end. (typing sounds) Are you able to see your ONT—that's the small white box, usually mounted on your wall or outside your home—is that powered up? Do you see any lights on that?
+
+Customer: The... the small white box? I'm not sure... I think that's outside. Let me go check.
+
+Agent: Sure, take your time.
+
+Customer: (background noise, footsteps) Okay, yeah, I see it. There's... it looks like maybe one orange light on it? I'm not totally sure what I'm looking at to be honest.
+
+Agent: That's fine, that's fine. An orange light on the ONT usually indicates there's an issue with the connection coming into your home. This could be a few things. Let me check our system for any outages in your area first. (pause) (typing sounds) What's your service address?
+
+Customer: It's 4521 Maple Street, Boulder.
+
+Agent: (typing sounds) (pause) I'm not seeing any reported outages in your area at the moment. Hmm. Okay, let me walk you through a couple more things. First, can you check if there's a power cord running from your ONT to an outlet?
+
+Customer: Yeah, yeah, I see it. It's plugged in.
+
+Agent: Good. Is the cord itself visibly damaged in any way?
+
+Customer: (pause) No, it looks fine to me.
+
+Agent: Okay. And just to confirm, how long has your service been down?
+
+Customer: Since about... maybe two hours ago? I got home from work and noticed it wasn't working.
+
+Agent: Two hours, okay. Well, let me try a couple more things here. Can you go back to your modem and router setup?
+
+Customer: (background noise) Yeah, I'm back at it.
+
+Agent: I'm going to do a line test from my end to see if we can get the circuit to reactivate. (typing sounds) (pause) Okay, I'm going to need you to power off your modem and leave it off for about thirty seconds.
+
+Customer: (pause) Okay, it's off. (background noise) I'm counting... (longer pause) Okay, it's been thirty seconds.
+
+Agent: Great, go ahead and power it back on for me.
+
+Customer: (background noise) Okay, powering it back on. (pause) Uh... okay, so I'm seeing the blue light again, but it's still not blinking. Still no green light.
+
+Agent: (sigh) Yeah, I'm seeing something on my end too. Let me... let me try running a remote diagnostics. (typing sounds) (pause) (longer pause) I'm sorry, this is taking a moment. (pause) Okay, so what I'm seeing is that we're not getting a good connection from the line to your ONT. The modem should be receiving a signal and it's just... we're not picking that up.
+
+Customer: So what does that mean? Is it like... a bad modem or something?
+
+Agent: It could be a few things. It could be the modem, could be an issue with the line itself coming to your house, could be the ONT. Without being on-site, it's hard for me to say definitively. Let me check our schedule real quick. (typing sounds) (pause) I can actually get a technician out to you tomorrow between 8 AM and noon if that works for you?
+
+Customer: Tomorrow? Is there any way to get someone out today? I've been without internet for two hours and I really need it for work tomorrow.
+
+Agent: (pause) I completely understand. Unfortunately, our next available appointment today is already fully booked, and we're coming up on our end-of-day window. The earliest we can guarantee someone would be tomorrow morning. They'll be able to diagnose the issue once they're there.
+
+Customer: Ugh... okay, fine. Tomorrow morning works I guess. But like... is there anything else we can try right now? Any other troubleshooting steps?
+
+Agent: (pause) Well, one more thing we could attempt... Let me have you unplug the power from your ONT this time. Not the modem—the ONT itself, the white box outside.
+
+Customer: (background noise) Okay, give me a second. (pause) (background noise, wind sounds) Okay, it's unplugged.
+
+Agent: Leave that unplugged for about a minute this time. I'm going to try to restart the circuit from my end as well.
+
+Customer: (longer pause) A minute's up. Should I plug it back in?
+
+Agent: Go ahead.
+
+Customer: (background noise) (pause) Okay, it's plugged back in. (pause) (longer pause) Still just an orange light. Same as before.
+
+Agent: Yeah... (pause) I'm not seeing any change on my end either. I think at this point, we're going to need someone on-site to take a look at the physical connection and the equipment. I'm sorry I couldn't get this resolved for you tonight.
+
+Customer: It's... it's okay, I guess. So tomorrow morning, someone will come out?
+
+Agent: Yes, I'm going to set you up with an appointment tomorrow between 8 AM and noon. We'll send a technician to your address at 4521 Maple Street. Do you have a mobile number where we can reach you to confirm, or let them know they're on the way?
+
+Customer: Yeah, it's 555-0891.
+
+Agent: (typing sounds) Perfect. Let me just confirm everything here. Tomorrow, 8 AM to noon, technician will be out to your home at 4521 Maple Street, Boulder. We'll try to reach you at 555-0891 to confirm. Is there anything else I can help you with?
+
+Customer: No, I think that's it. I hope they can get it fixed tomorrow.
+
+Agent: I do too. And I do apologize we couldn't get it working tonight. We really appreciate your patience, and thank you for being a Frontier customer. Have a good night.
+
+Customer: You too. Thanks.
+
+Agent: Thank you for calling Frontier Communications. Goodbye.
+
+Customer: Goodbye.

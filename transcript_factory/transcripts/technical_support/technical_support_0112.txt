@@ -1,0 +1,113 @@
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Yeah, hi. Uh, my internet just went out about an hour ago, and I've tried everything I can think of. I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll get you back online. Can I get the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, perfect. I've got you here. So your service address is 428 Maple Street, is that correct?
+
+Customer: Yes, that's right.
+
+Agent: Great. And you're saying your internet went down about an hour ago. Have you rebooted your modem and router yet?
+
+Customer: Yeah, I already did that. I unplugged both of them, waited like two minutes, and plugged them back in. Still nothing.
+
+Agent: Okay, okay. That's a good first step. Um, so when you say nothing—are you getting any lights on the modem at all? Like, is it powered up?
+
+Customer: Yeah, the modem's powered up. I can see the lights, but... I don't know, they don't seem right. The internet light isn't on. It's just the power light and like, one other one. But nothing's green on the internet part.
+
+Agent: (pause) Alright, so the internet indicator light is off. That's helpful information. Let me check your line here. (typing sounds) I'm not seeing any service issues in our system on your end, so the problem might be with the modem itself or possibly the connection from outside. 
+
+Can you tell me—do you know where your ONT box is? That's the small white box that usually connects your fiber line to your equipment?
+
+Customer: Um... I think it's in my basement? Near the router?
+
+Agent: Okay, that's good. Can you go check on that for me? I want to see if there are any lights on that box as well.
+
+Customer: (background noise, footsteps) Yeah, hold on a second.
+
+Agent: Take your time.
+
+Customer: (pause) Okay, I'm looking at it now. There's a box here, it's got like... several ports on it. Is this it?
+
+Agent: That should be it. Do you see any lights on the front of it?
+
+Customer: Um, yeah. There's a few lights. There's a green one on the left, and then there's... (pause) ...an orange one next to it.
+
+Agent: An orange light. Hmm. Okay, that's—that's actually not ideal. The orange light usually means there's a connection issue. Is there anything unplugged or does anything look disconnected back there?
+
+Customer: Let me look... (pause) No, everything looks plugged in to me. The cable's going into the box, and everything looks... I don't know, normal?
+
+Agent: Alright. Sometimes these things just need a reset as well. Go ahead and—do you see a small reset button on the ONT box?
+
+Customer: (pause) I see a bunch of ports but... oh, yeah. There's a little button here. It's recessed in.
+
+Agent: Perfect. I'm going to have you hold that button down for about ten seconds. It might take a minute or two for the lights to come back, so just... just keep an eye on it.
+
+Customer: Okay, I'm pressing it now. (pause) How long?
+
+Agent: Just hold it for about ten seconds total.
+
+Customer: (pause) Okay, releasing now.
+
+Agent: Good. Now let's give it a minute to reboot. While we wait, let me ask—have you had any recent weather in your area? Any storms?
+
+Customer: No, it's been pretty clear today actually. But now that you mention it, we did have some heavy rain last night.
+
+Agent: Aha. Okay, that could be a factor. Sometimes moisture can get into the lines if there's any damage. But let's see if this reset helps first. Are you seeing any changes with those lights?
+
+Customer: (pause) Um... the green one's still there, but the orange one is still orange. It's not changing.
+
+Agent: Still orange. Okay. (pause) Alright, let me try a different approach. I'm going to send a refresh signal to your modem from here. This sometimes helps reestablish the connection. Give me just one second.
+
+Agent: (typing sounds) Okay, refresh sent. Can you check the modem now? What are the lights showing on the modem?
+
+Customer: (pause) Same thing as before. The power's on, but the internet light is still off.
+
+Agent: (pause) Hmm. Okay, um... (pause) I've got to be honest with you—this is pointing to either a line issue coming into your house or a problem with the ONT box itself. The fact that the orange light won't clear is concerning.
+
+Customer: So what does that mean? Can you fix it remotely or...?
+
+Agent: Unfortunately, no. What I can do is schedule a technician to come out to your location. They'll be able to check the physical connection from the street and test the equipment to see if something needs to be replaced.
+
+Customer: How long would that take? I really need internet working. I work from home.
+
+Agent: I completely understand. Let me check our availability. (typing sounds) Okay, so... the earliest I can get someone out would be tomorrow between 8 AM and 12 PM. Or we have an afternoon slot from 1 to 5 PM.
+
+Customer: Tomorrow? That's... (sigh) I mean, I guess I don't have a choice. Can you do the afternoon slot? I'd prefer that.
+
+Agent: Absolutely. So that would be tomorrow, 1 to 5 PM. Can you confirm that works for you?
+
+Customer: Yeah, that'll work. Do you need anything else from me?
+
+Agent: No, but before we wrap up, let me just go through a couple more quick things. You're sure you don't see anything physically wrong with the cables? Like, no damage or anything unplugged that we might've missed?
+
+Customer: (pause) No, I mean... I don't think so. Everything looks okay to me.
+
+Agent: Alright. And just to cover our bases—your filter is on your main line coming in, right? The small inline filter?
+
+Customer: (pause) I... I'm not sure what you mean. A filter? On the main line?
+
+Agent: Yeah, it's usually a small gray box near where the cable enters your house. It looks kind of like [inaudible]...
+
+Customer: I don't see anything like that down here. Should there be one?
+
+Agent: There should be, yeah. That's one more thing the technician can check on. They'll make sure everything is set up correctly.
+
+Customer: Okay. So, I've got the technician coming tomorrow afternoon, 1 to 5?
+
+Agent: That's correct. You should receive a confirmation text and email within the next few minutes. The technician will have your information and should be able to get you back online pretty quickly once they're there.
+
+Customer: Alright. Well, I appreciate your help, even though we couldn't get it working.
+
+Agent: I'm sorry we couldn't get it resolved over the phone. But I'm confident the technician will figure this out for you. Is there anything else I can help you with before I let you go?
+
+Customer: No, that's everything. Thanks.
+
+Agent: You're welcome. Have a good day, and sorry again for the inconvenience.
+
+Customer: Thanks. Bye.
+
+Agent: Bye now.

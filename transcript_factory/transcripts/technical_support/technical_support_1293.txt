@@ -1,0 +1,121 @@
+Agent: Thank you for calling Frontier Communications. This is Marcus speaking. How can I help you today?
+
+Customer: Hi, yeah, so my internet just went down about an hour ago and I can't get it back up. I've tried restarting the modem but nothing's working.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here. Can I get the phone number associated with your account please?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, and what's the best number to reach you at if we get disconnected?
+
+Customer: Same number is fine.
+
+Agent: Perfect. So you mentioned you've already restarted the modem—is that correct?
+
+Customer: Yeah, I unplugged it for like thirty seconds and plugged it back in. Still nothing.
+
+Agent: Okay, good. That's usually the first step. Let me ask you a few questions. When you look at the modem right now, what lights are you seeing? Are any of them on?
+
+Customer: Um, let me walk over there. (pause) Okay, so I've got... there's a power light that's on, it's like a green light. But the internet light—the one that's usually blue? It's not on at all. It's dark.
+
+Agent: Alright, so the power is on but the internet indicator is off. That's helpful information. And do you see any red lights or anything that looks like an error indicator?
+
+Customer: No, just the green power light. Everything else is basically dark.
+
+Agent: Okay. And just to confirm—you're not seeing any lights on the router either, correct? Do you have a separate router?
+
+Customer: Oh, yeah, I do have a router. Let me check that. (pause) It's got some lights on it. I see... maybe two or three lights that are on. They're blinking.
+
+Agent: Which lights are blinking? Can you describe them for me?
+
+Customer: There's like a power light, and then there's one that says "internet" or something... actually, I'm not really sure. The labels are pretty small. But yeah, a couple are blinking on and off.
+
+Agent: Hmm, okay. So the router is showing some activity. Let me have you try something. Can you unplug the modem again, and this time leave it unplugged for about two minutes? While we wait, I'm going to check if there are any outages in your area. What's your address?
+
+Customer: It's 247 Maple Street, apartment 3B. That's in Denver.
+
+Agent: (typing sounds) Thank you. And the zip code?
+
+Customer: 80203.
+
+Agent: (pause) Okay, I'm checking our system now... (longer pause) Alright, I'm not showing any reported outages in your area currently. So the issue is isolated to your service. How's that timer looking? Has it been about two minutes?
+
+Customer: (pause) Yeah, just about. Should I plug it back in?
+
+Agent: Yes, go ahead and plug the modem back in. Let's see if that helps reset the connection.
+
+Customer: (background noise of plugging in) Okay, it's plugged in. I'm watching the lights now.
+
+Agent: Great. Give it about thirty seconds to fully boot up.
+
+Customer: (pause) Okay, so the power light came back on, but... no internet light yet. Just like before.
+
+Agent: Alright, it's still booting. Sometimes it takes a full minute or so. Keep watching for me.
+
+Customer: (longer pause) ...Still nothing. It's been like, a minute and a half now.
+
+Agent: Hmm, that's not typical. Usually we'd see that internet light come on within that timeframe. Can you check the connection on the back of the modem? There should be a cable coming in from the wall. Can you make sure that's plugged in securely?
+
+Customer: (pause) Yeah, I see it. It looks like it's... (pause) actually, let me try wiggling it a little bit to make sure it's in all the way.
+
+Agent: Good idea.
+
+Customer: (pause) Okay, I pushed it in further. Is that—did anything change on your end?
+
+Agent: (typing sounds) Let me check the system... No, I'm not seeing any signal coming in from your location. The modem isn't registering any connection to our network.
+
+Customer: What does that mean?
+
+Agent: It could mean a few things. It could be the modem itself, or it could be an issue with the line coming into your apartment. Since you're in an apartment, there might be a wall jack involved. Do you know where the line comes in from?
+
+Customer: Um, I think it's behind the couch actually. I could look.
+
+Agent: Yeah, if you could check that for me, that would be helpful.
+
+Customer: (background noise) Okay, so I moved the couch and... yeah, there's a cable outlet here in the wall. The cable looks connected.
+
+Agent: Can you check if it's screwed in tight? Sometimes these connectors can come loose.
+
+Customer: (pause) I'm trying to turn it... yeah, it was actually a little loose. I just tightened it.
+
+Agent: (typing sounds) Okay, let me check if I'm getting a signal now... (pause) Unfortunately, still nothing coming through on our end. 
+
+Customer: That's weird. So what now?
+
+Agent: Well, at this point, it's likely an issue either with the modem itself or with the line from the street to your apartment. Do you have your modem documentation nearby? I want to check the model number.
+
+Customer: It should be... yeah, I'm looking at it. It says "Frontier Model FXM7622."
+
+Agent: (typing) Okay, that's a good model. Those are typically pretty reliable. Let me check if there's anything I can do remotely. (longer pause with typing sounds) Hmm, I'm attempting to reboot your modem from our end, but it's not responding to my command because I'm not even seeing it on the network.
+
+Customer: So that's bad?
+
+Agent: It's... not ideal, unfortunately. At this point, I think we're beyond what I can troubleshoot over the phone. I believe there may be a physical issue with either the modem or the external line. The fact that we're not seeing any signal from your address is concerning.
+
+Customer: So what do I need to do?
+
+Agent: I'd recommend we schedule a technician to come out and take a look. They can check the modem, test the line connection, and make sure everything is properly installed. Do you have availability in the next few days?
+
+Customer: Um, yeah, I'm pretty flexible. What day works?
+
+Agent: (typing sounds) Let me see what we have open. It looks like we could get someone out to you tomorrow between 1 and 5 PM, or Thursday morning between 9 AM and noon. Which works better for you?
+
+Customer: Tomorrow afternoon would be better, I guess.
+
+Agent: Perfect. So that's tomorrow, 1 to 5 PM window. Can you confirm that address again? 247 Maple Street, apartment 3B, Denver, 80203?
+
+Customer: Yeah, that's correct.
+
+Agent: Excellent. I'm going to send that to our scheduling team. You should receive a confirmation call or text within the next few hours. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. I just hope it's something quick to fix.
+
+Agent: I understand. Unfortunately, I can't determine the exact issue from here, but our technician is very skilled and should be able to get to the bottom of it. I apologize for the inconvenience today.
+
+Customer: Alright, thanks for your help anyway, Marcus.
+
+Agent: You're welcome. Again, sorry we couldn't resolve this today. Have a great rest of your day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

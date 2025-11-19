@@ -1,0 +1,129 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. So, um, my internet just went out about an hour ago and I've tried everything I can think of. It's just completely down.
+
+Agent: I'm sorry to hear that! We'll get this sorted out for you. Let me pull up your account here. Can I get your account number or the phone number associated with your service?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Perfect, I've got you here. So you're experiencing a complete outage—nothing's connecting at all?
+
+Customer: Right, yeah. Nothing. The lights on my router are... actually, let me look at it again real quick. (pause) Okay, so the power light is on, but I don't see any of the internet lights. They're usually blue but they're just off.
+
+Agent: Alright, that's helpful. First thing we're gonna do is just power cycle the equipment. Go ahead and unplug your router and modem—those are the two boxes—and we'll wait about thirty seconds before plugging them back in.
+
+Customer: Okay, unplugging now. (pause) How long should I wait?
+
+Agent: About thirty seconds. Just give it a good half minute and then plug 'em back in. We'll let them boot back up, which should take a couple minutes.
+
+Customer: (pause) Alright, plugging back in. (pause) Okay, so I'm looking at them now. The lights are... they're starting to come back. I see some blinking.
+
+Agent: Great! How many lights do you see? Are you seeing the internet lights coming on?
+
+Customer: Um, there's the power light, it's solid now. And I see like... two more lights blinking. But I'm not seeing the blue one that usually means internet.
+
+Agent: (pause) Okay, let's give it another minute or so to fully boot up. Sometimes it takes a little longer after a restart. While we wait, have you experienced any issues before this? Any outages in your area that you're aware of?
+
+Customer: No, it's been working fine until today. Just suddenly stopped.
+
+Agent: Understood. And you're in the Knoxville area, right?
+
+Customer: Yeah, Knoxville.
+
+Agent: Okay. (typing sounds) I'm not seeing any reported outages in your area at the moment. How are those lights looking now?
+
+Customer: Um... still the same. Power is solid, two lights blinking, but that blue internet light isn't on.
+
+Agent: Alright, let's try a few other things. Can you check the cables for me? First, is the coaxial cable—that's the cable that looks like a thick copper cable with the threads on the end—is that plugged firmly into the back of the modem?
+
+Customer: (pause) Yeah, it's... it's plugged in. Let me just make sure it's tight. (pause) It feels pretty secure.
+
+Agent: Okay, and the Ethernet cable coming out of the modem into your router—can you verify that's connected too?
+
+Customer: Yes, that one's plugged in.
+
+Agent: Good. Let me try resetting the modem itself. There should be a small reset button on the back. Do you see it?
+
+Customer: Oh, yeah, I see it. It's that tiny little hole, right?
+
+Agent: Exactly. You'll need something like a paperclip to press it. Hold it down for about ten seconds.
+
+Customer: (pause) Okay, I'm holding it... (pause) Ten seconds is up. (pause) Hmm, the lights went dark and now they're coming back on again.
+
+Agent: Perfect. Let's give it another minute or two to fully reconfigure. (pause) While that's booting up, let me ask—do you have any splitters on that coaxial line? Multiple cable outlets?
+
+Customer: Uh, I think so? There's the one the modem is plugged into, and there might be another outlet in the living room but nothing's connected to it.
+
+Agent: That could potentially be an issue. Cable splitters can sometimes degrade the signal. But... (typing sounds) okay, let me check if there have been any recent work done on your line or maintenance in your area. (pause) Hmm, I'm not showing anything recent. How are those lights now?
+
+Customer: Still... still no blue light. Just the blinking ones.
+
+Agent: (pause) Okay, um, let me try one more thing here. Can you try unplugging just the modem this time? Leave the router alone and just restart the modem.
+
+Customer: Just the modem?
+
+Agent: Yeah, just unplug the modem for about thirty seconds.
+
+Customer: (pause) Okay, unplugging... (pause) And waiting... (pause) Okay, plugging it back in. (pause) Starting up again... (pause) No, I'm still not getting that internet light.
+
+Agent: (sigh) Alright. I'm looking at your signal levels here from my end, and... (pause) actually, that might be the issue. Your downstream signal is showing as critically low. That could mean there's either an issue with the line coming into your house or something wrong with the modem itself.
+
+Customer: So what does that mean? Is it something I can fix?
+
+Agent: Well, typically a signal issue like this would require a technician to come out and check the line. They'd be able to see if there's a problem with the connection outside your house or determine if the modem needs to be replaced.
+
+Customer: Oh, great. (pause) How long would that take?
+
+Agent: Let me see what we have available. (typing sounds) (pause) The earliest I can get someone out there would be... looks like Thursday between 8 AM and 5 PM. Would that work for you?
+
+Customer: Thursday? I need my internet before then. Can't you get someone out sooner?
+
+Agent: Unfortunately, that's the earliest available appointment in your area. I know it's frustrating. Is Thursday not going to work with your schedule?
+
+Customer: Well, I work from home, so... [inaudible] I mean, I guess I can try to find somewhere else to work. But this isn't ideal.
+
+Agent: I understand. I wish I had an earlier slot for you. Let me just try one more couple things real quick before we schedule the tech visit, okay?
+
+Customer: (sigh) Yeah, okay.
+
+Agent: Can you try accessing the modem interface? Go to a computer or phone that you have, go to your web browser, and type in 192.168.100.1 and see if you can access the modem's settings page.
+
+Customer: (pause) Um, I don't really know how to do that. Is that necessary?
+
+Agent: It would help me verify what's going on with the modem, but if you're not comfortable with that, it's no problem. We can skip it.
+
+Customer: Yeah, I'd probably mess something up. (pause) So are we saying the modem might be broken?
+
+Agent: It's possible. The low signal issue could be external, but it could also be a modem malfunction. The technician will be able to confirm that when they come out.
+
+Customer: Okay, um, well, I don't really have much choice then. Let's schedule the Thursday appointment.
+
+Agent: Alright, let me get some details. Thursday between 8 and 5—that works for you?
+
+Customer: Yeah, that'll have to work.
+
+Agent: (typing sounds) Okay, I have you scheduled for Thursday. Is the contact number on the account still good? The 555-0147?
+
+Customer: Actually, it's a different number now. It's 555-0198.
+
+Agent: (typing sounds) Got it, updating that. So to recap, we'll have a technician come out on Thursday between 8 AM and 5 PM to investigate the low signal levels and determine if it's a line issue or a modem replacement situation. You'll receive a confirmation text to 555-0198 with more details.
+
+Customer: Okay... and there's nothing else we can try in the meantime?
+
+Agent: At this point, I think we've exhausted the basic troubleshooting steps. The signal levels are just too low to establish a connection. The tech will have better tools to diagnose the issue.
+
+Customer: Alright. Thank you, I guess.
+
+Agent: I'm sorry we couldn't get this resolved over the phone today. Is there anything else I can help you with before we wrap up?
+
+Customer: No, I think that's it.
+
+Agent: Okay. Well, thank you for being a Frontier customer, and we'll see you Thursday. If you have any questions or need to reschedule, just give us a call back.
+
+Customer: Will do. Thanks.
+
+Agent: You're welcome. Have a good day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

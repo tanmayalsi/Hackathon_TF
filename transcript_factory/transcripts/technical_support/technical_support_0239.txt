@@ -1,0 +1,157 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. So my internet's been down since this morning and I can't figure out what's going on. I've tried unplugging stuff but nothing's working.
+
+Agent: I'm sorry to hear that. We'll definitely get this sorted out for you. Let me pull up your account real quick. Can I get your account number or the phone number associated with your service?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, and just to confirm, is this a residential service?
+
+Customer: Yeah, residential. We just got Frontier Fiber installed like three months ago and it's been great until today.
+
+Agent: Perfect. I'm seeing your account here. So you're experiencing a complete internet outage? Like no connection at all?
+
+Customer: Yeah, nothing. I've got a router—the white box you guys installed—and the lights on it are... well, some are blinking and some are off. I'm not really sure which ones are supposed to be on.
+
+Agent: Okay, that's helpful. Let me walk you through some basic troubleshooting. First, can you tell me what lights you're seeing on the router right now?
+
+Customer: Um, there's one light that's solid blue, then there's a green one that's blinking, and I think the rest are dark.
+
+Agent: Alright, so the solid blue light is actually good—that means the router has power. The green blinking light typically indicates internet activity, so... hmm, that's actually a bit odd. Let me ask you this—when you try to connect a device, like a phone or a computer, does it show available networks?
+
+Customer: Let me check. (pause) Yeah, I can see the Frontier network showing up on my phone, so the WiFi is broadcasting.
+
+Agent: Good, good. And when you try to connect to it, what happens? Does it ask for a password?
+
+Customer: It connects, but then I try to open like a website or something and it just... nothing loads. It's stuck on loading.
+
+Agent: Okay, I see what you're saying. So you've got WiFi connectivity but no actual internet data. Let me try a few things. First, can you unplug the router for me? Just pull the power cable out.
+
+Customer: Sure, doing that now. (pause) It's unplugged.
+
+Agent: Perfect. While that's unplugged, can you also locate your modem? It should be a separate device, might be a small black box, possibly near the router.
+
+Customer: Oh, there's a black box next to it. Is that the modem?
+
+Agent: That's probably it. Can you unplug that as well?
+
+Customer: (pause) Yeah, unplugged.
+
+Agent: Great. Now I want you to wait about 30 seconds and then plug the modem back in first. The modem needs to come back online before the router.
+
+Customer: Okay... (pause) It's plugged in. There's lights coming on it now.
+
+Agent: Perfect. Give that about a minute to fully boot up. You should see the lights stabilize.
+
+Customer: (pause) Okay, I'm waiting.
+
+Agent: While we're waiting, have you experienced any weather issues today? Any storms or power outages?
+
+Customer: No, nothing like that. It's been clear all day. The power's been fine.
+
+Agent: Alright, that's good. How's the modem looking now?
+
+Customer: Um, okay so now I've got... it looks like there's maybe three or four lights on, and they seem to be staying solid. One is like orange though, which seems weird.
+
+Agent: (pause) Orange, okay. And is there a light that's specifically labeled "Internet" or maybe "WAN"?
+
+Customer: I... I'm not sure. Let me look closer. The labels are kind of small. I can barely read them.
+
+Agent: (typing sounds) I understand. What I'm looking for is whether that Internet or WAN light is green or if it's off. The orange light you're seeing might be something else. Can you describe where the orange light is positioned?
+
+Customer: It's like... second from the left? I'm honestly having a hard time reading these tiny labels.
+
+Agent: No worries. Let me try something different. Go ahead and plug the router back in now.
+
+Customer: Okay. (pause) Plugging it back in... got it.
+
+Agent: Give that about two minutes to fully restart.
+
+Customer: Alright, I'm waiting.
+
+Agent: [inaudible] Let me just check something on the account side while we're waiting here. (typing sounds) So I'm showing that your account is active and I'm not seeing any service disruptions in your area reported. That's actually a good sign.
+
+Customer: So it's not like a network-wide thing?
+
+Agent: Doesn't appear to be. It's looking pretty specific to your setup. Okay, has that two minutes passed?
+
+Customer: Yeah, pretty much. The router's lights are back to the same thing—solid blue, green blinking, and some dark ones.
+
+Agent: Alright. Let me try a factory reset on the modem. Now, this will reset it to default settings, so just be aware that the WiFi might go out for a minute while it reboots. Can you try to access your modem's reset button? It should be a small recessed button, usually on the back of the modem.
+
+Customer: A reset button? Um... (pause) I'm looking at the back... I see like a bunch of ports and stuff. There's a really small hole?
+
+Agent: That's it! That's the reset button. You'll need something thin like a paperclip to press it. Just hold it for about 10 seconds.
+
+Customer: Okay, hold on. (pause) I've got a paperclip. (pause) I'm pressing it... how long was it?
+
+Agent: About 10 seconds, so just keep holding it... three, two, one... you can let go.
+
+Customer: Okay, let go. Now what?
+
+Agent: Now the modem's going to reboot. This should take about a minute or two. The lights might go crazy or turn off and come back on. That's totally normal.
+
+Customer: (pause) Yeah, the lights went off. Now they're coming back... okay, the blue light is back to solid.
+
+Agent: Great. And just give it another minute to fully stabilize.
+
+Customer: (pause) Okay, I think everything's settled now. Lights are the same as before.
+
+Agent: Alright. Now try connecting your phone to the WiFi again and attempt to load a website.
+
+Customer: (pause) Connecting... (longer pause) ...it connected but... no, it's still not loading anything. It's just stuck.
+
+Agent: Hmm. Okay, that's... let me think about this. Can you tell me—do you see the internet light on the modem? The one that might say "Internet" or "WAN" or possibly "Link"?
+
+Customer: I honestly can't read the labels. I keep trying but they're just too small.
+
+Agent: I understand that's frustrating. Let me try a different approach. Can you try unplugging the modem one more time?
+
+Customer: [inaudible] ...again? Okay, sure.
+
+Agent: (typing sounds) Actually, hold on one second. Let me check something here. I'm pulling up the detailed account... (pause) I'm actually seeing something on the line here. It looks like... hmm. Can you tell me, when was the last time you actually had internet working properly?
+
+Customer: This morning. I got up around seven and checked email real quick, everything was fine. Then I went to work and came back around noon and it was just... gone.
+
+Agent: Alright, that's helpful timing. I'm actually seeing a potential issue here. It looks like there might be a signal problem coming into your modem from our line. Now, I want to schedule a technician to come out and check the connection at the box outside your home. Does that sound okay?
+
+Customer: How long would that take? Do they have to come today?
+
+Agent: The earliest I can get someone out there would be tomorrow between 1 and 5 PM. Would that work for you?
+
+Customer: Tomorrow? Do you not have anything sooner? This is my work internet—I work from home.
+
+Agent: I understand, and I apologize. Unfortunately, today's schedule is completely full, but tomorrow is the soonest available. However, let me try one more thing before we schedule that. Can you go outside and look at the utility box? It should be gray, possibly on the side of your house or near your property line.
+
+Customer: You want me to go check the box outside?
+
+Agent: Yes, if you don't mind. I want to see if there are any visible issues—like loose connections or anything obviously damaged.
+
+Customer: (pause) Hold on, I'm going outside. (background noise, wind) Okay, I see it. It's the gray box on the side of my garage.
+
+Agent: Perfect. Can you safely look at it? Don't touch anything, just tell me if anything looks loose or damaged.
+
+Customer: (pause) It looks... fine? I mean, there's a cable going into it and another one coming out, and they both look like they're connected.
+
+Agent: Good. And do you see any water damage or anything like that?
+
+Customer: No, looks pretty dry. Everything looks normal, honestly.
+
+Agent: Alright, unfortunately that means the issue is likely inside your modem or the line between the box and your house. I really do think we need to get a technician out. (pause) I apologize that we can't resolve this today over the phone.
+
+Customer: Yeah, this is really frustrating. Can you at least put me down for tomorrow?
+
+Agent: Absolutely. Let me get that scheduled for you. So tomorrow, between 1 and 5 PM. Is there anything else I should note on the appointment?
+
+Customer: No, just... hopefully they can fix it quick. I really need this working for work.
+
+Agent: I completely understand. Let me confirm everything here. (typing sounds) Okay, so you're all set for tomorrow, 1 to 5 PM. You'll receive a text confirmation shortly. The technician will inspect the external connections and your modem. Is there anything else I can help you with today?
+
+Customer: No, I guess that's it. Thanks for trying, I guess.
+
+Agent: I apologize we couldn't get this resolved right away. I know that's not what you wanted to hear. Our technician should have you back up and running tomorrow. Thanks for being patient with me.
+
+Customer: Alright, thanks. Bye.
+
+Agent: Take care. Goodbye.

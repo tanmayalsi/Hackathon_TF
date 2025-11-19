@@ -1,0 +1,161 @@
+# Frontier Communications Support Call
+
+Agent: Thank you for calling Frontier Communications customer support. My name is Marcus. How can I help you today?
+
+Customer: Yeah, hi Marcus. So, uh, my internet just went out about an hour ago and I can't get it back online. I've got a work call in like twenty minutes and I really need to get this figured out.
+
+Agent: I'm sorry to hear that. I know that's frustrating. Let me help you get back online. Can I grab your account number or the phone number associated with your account?
+
+Customer: It's 555-0147. That's my cell phone number on the account.
+
+Agent: (typing sounds) Okay, pulling that up now. One second... Alright, I've got your account here. I see you're on our Fiber 500 plan in the Phoenix area. And you're saying your internet is completely down right now?
+
+Customer: Yeah, nothing. I tried unplugging the router and the modem, waiting a few seconds, plugging them back in like I normally do when this happens, but... nothing. Still no lights on the modem. Well, not the internet light anyway. The power light is on.
+
+Agent: Okay, that's helpful information. So the modem's getting power but the internet indicator light isn't illuminated. Have you noticed any issues leading up to this, or did it just suddenly stop working?
+
+Customer: No, it was fine this morning. I was working from home earlier and everything was good. I stepped away for lunch, came back, and just... nothing. No connection on any of my devices.
+
+Agent: Got it. Alright, so when you unplugged everything and plugged it back in, how long did you wait before it came back on? Sometimes these need a full minute or two to boot up completely.
+
+Customer: I mean, probably like... thirty seconds? Maybe a minute? Should I try again and wait longer?
+
+Agent: Yeah, actually, that's a great idea. Why don't we do that right now? Unplug both the modem and router, and this time let's give it a full two to three minutes before plugging them back in. I'll wait on the line with you.
+
+Customer: Okay, (pause) unplugging now... (pause) Alright, they're both unplugged.
+
+Agent: Perfect. Now we're just gonna let them sit for a couple minutes. While we're waiting, let me ask you a few other questions. Have you noticed any storms in your area recently? Sometimes weather can affect the line.
+
+Customer: Um, there was some wind earlier, but no rain or lightning or anything. It's been pretty clear the last hour or so.
+
+Agent: Okay, that's good to know. (pause) And on your end, have you made any changes to your setup recently? New devices, moved anything around...?
+
+Customer: No, nothing like that. It's been the same setup for like six months.
+
+Agent: Alright. (pause) Actually, go ahead and plug the modem back in now. The one with all the lights on it.
+
+Customer: (pause) (background noise of plugging in) Okay, it's in... I see the power light coming on... (pause) ...and now I'm seeing some other lights but the internet light is still not on.
+
+Agent: The internet light is still off?
+
+Customer: Yeah. I mean, there's some green and amber lights, but not the one that usually indicates the internet connection.
+
+Agent: I see. Can you describe the lights you're seeing for me? Like, what's the color and which positions are they in?
+
+Customer: (pause) There's... it looks like there's power, which is green. And I think I see an upload and download light? One's green and one's amber. But the one that says, um, "internet" or "online" or whatever... nothing.
+
+Agent: Hmm. (typing sounds) Okay, so the modem is registering some signal activity but it's not fully syncing. Let me check something on my end. (typing) When's the last time you restarted your modem before today?
+
+Customer: I don't know, probably... a few weeks ago? I only really restart it when I have to.
+
+Agent: That's pretty normal. Let me pull up some diagnostics on your line here. (pause) (typing sounds) Okay, so what I'm seeing is that we did have an outage notification for your area about ninety minutes ago. It looks like it may have just been resolved on our end, but your modem might not have fully reconnected yet.
+
+Customer: Oh, okay. So there was an outage? That's not something I did wrong then?
+
+Agent: No, not at all. This would be on our end. But the good news is it should be coming back. Sometimes after an outage, modems can take a little while to fully resync. Let's try one more thing. Can you do a factory reset on the modem?
+
+Customer: A factory reset? Won't that like... erase everything?
+
+Agent: It'll reset the modem back to factory settings, yes, but in your case, the modem should just automatically reconfigure itself once it's back online. It shouldn't cause any issues with your service.
+
+Customer: I mean... okay. How do I do that? Is there a button or something?
+
+Agent: There should be a small recessed button, usually labeled "Reset," on the back or bottom of the modem. You'll need a paperclip or something thin to press it. Hold it down for about ten seconds.
+
+Customer: (pause) Okay, I'm looking at the back... yeah, I see it. It says "Reset" right here. (pause) Alright, I'm pressing it now... (pause) Okay, held it for ten seconds. (pause) Now what?
+
+Agent: Now let's just give it about two minutes to fully boot back up. While it's doing that, go ahead and plug the router back in as well.
+
+Customer: (background noise) Okay, router's plugged back in. (pause) So do you think the modem will just connect automatically?
+
+Agent: It should. Modems are pretty smart—once they power back up, they'll automatically try to connect to our network. (pause) Are you seeing any changes in the lights yet?
+
+Customer: (pause) The lights are cycling... I see power coming back, and the... wait, I'm seeing more activity now. It looks like it's trying to do something. One of the lights just came on and is staying solid...
+
+Agent: Okay, that's a good sign. Keep watching it for me.
+
+Customer: (pause) It's... hmm. The light is green now but then it's flickering and going back to like an amber color. It keeps doing that. It's not holding steady.
+
+Agent: It's flickering between green and amber?
+
+Customer: Yeah, like, green for a couple seconds, then amber, then kind of back to green again. It's not stable.
+
+Agent: (pause) Okay, that typically indicates the modem is searching for a stable connection but isn't quite locking on. Let me look at this from our side again. (typing sounds) (pause) This is interesting. So I'm showing on our end that your connection is registering, but it looks like there's a pretty significant signal degradation on the line. It's showing about half the signal strength it should be.
+
+Customer: What does that mean? Is something wrong with the line?
+
+Agent: It could mean a few different things. It could be degradation from the weather earlier, even if you didn't see rain. It could also be a physical issue with the fiber line itself, like a break or a bend somewhere in the pathway. Or it could be an issue with the equipment at our distribution point for your area.
+
+Customer: So... what do I do about that?
+
+Agent: Well, given that we just had an outage, and now we're seeing this signal degradation specifically on your line, I'd like to escalate this to our technical team. They can send someone out to check the physical line and make sure there's no damage from the outage.
+
+Customer: How long would that take? I really need my internet back. I have that work call coming up...
+
+Agent: I understand. Let me check availability. (typing sounds) (pause) We have a technician who can come out today between 4 and 6 PM, or tomorrow morning between 8 and 10 AM. Today would probably be better given your work situation, right?
+
+Customer: It's already 2:30. Can they come sooner than 4?
+
+Agent: (pause) (typing sounds) Unfortunately, 4 PM is the earliest availability we have today. But they should be able to diagnose and resolve the issue pretty quickly if it's a line problem.
+
+Customer: Okay, I'll... I'll take the 4 to 6 PM window. But what about my work call at like 2:20? Can we try anything else to get this working in the next like, ten minutes?
+
+Agent: (pause) We can try a couple more things. Is there any way you could use your mobile hotspot for that call?
+
+Customer: I guess I could, yeah. It's not ideal but it might work.
+
+Agent: That's probably your best bet for right now. As far as other troubleshooting steps... (pause) I hate to say it, but the signal degradation issue isn't something we can typically resolve on a customer end. The technician visit is really the next step.
+
+Customer: So there's nothing else we can do?
+
+Agent: (pause) Let me try one more thing. Sometimes a hard power cycle of everything—give it a longer period—can help. Why don't you unplug the modem, leave it unplugged for a full five minutes this time, and then plug it back in. Sometimes the capacitors need that longer drain time to fully reset.
+
+Customer: Five minutes? Okay, I mean, if you think it'll help. (pause) Should I unplug the router too?
+
+Agent: Go ahead and unplug both again. And just to set expectations—with the signal issue I'm seeing, this might not fully resolve it, but it's worth trying.
+
+Customer: (pause) Okay, unplugging now... (background noise) Both are unplugged. I'll wait five minutes.
+
+Agent: Perfect. And while we're waiting, let me go ahead and schedule that technician for you. (typing sounds) Alright, I've got a tech scheduled for today between 4 and 6 PM. You should get a confirmation text and email shortly. They'll assess the fiber line and get you back up and running.
+
+Customer: Okay, thanks. How much is this visit gonna cost me? Do I have to pay for the technician?
+
+Agent: Since we've just had an outage in your area and this is related to that, there shouldn't be any service call charge. It'll be covered under our outage recovery.
+
+Customer: Oh, okay. That's good. (pause) It's been about a minute. How much longer on this five-minute thing?
+
+Agent: You've got about four more minutes. Why don't you use this time to get ready for your work call? You've got everything ready with your mobile hotspot?
+
+Customer: Yeah, I mean, I think so. I'll just use the personal hotspot on my phone.
+
+Agent: That should work. Alright, let's go ahead and... oh, it's actually been about four and a half minutes, let's go ahead and plug the modem back in. Just the modem first.
+
+Customer: (pause) (background noise) Okay, plugging it in... (pause) Power light's coming on... I'm seeing the same thing as before. The lights are cycling through the startup sequence...
+
+Agent: And just watch the internet indicator light specifically.
+
+Customer: (pause) Okay, it's... it's starting to go green, and... (pause) ...still flickering. Still going back and forth between the amber and the green. It's not holding steady again.
+
+Agent: Yeah, I'm seeing the same thing from our end. It's not fully locking on. (pause) Go ahead and plug your router back in.
+
+Customer: (background noise) Router's in. (pause) But I'm guessing this isn't going to work either based on what you said?
+
+Agent: (pause) Unfortunately, no. Based on what I'm seeing, the underlying issue is that signal degradation on the line. Without that being resolved, the modem won't establish a stable connection. The technician visit is really what we need here.
+
+Customer: Alright, so I'm just... down until 4 PM?
+
+Agent: I'm afraid so. I'm really sorry about this. I know this is frustrating, especially with your work call coming up. The mobile hotspot should work in the interim, and the technician should have you up and running this afternoon.
+
+Customer: Okay. Well, I appreciate you trying. At least I know what's going on now.
+
+Agent: Absolutely. So just to recap, you've got a technician visit scheduled for today between 4 and 6 PM. They'll check the fiber line and equipment for any damage from the outage. You should get confirmation details shortly via text and email. Is there anything else I can help you with?
+
+Customer: No, I think that's it. Thanks, Marcus.
+
+Agent: You're welcome. Again, I'm sorry we couldn't get it working remotely. The tech should take care of you this afternoon. Thanks for calling Frontier, and we appreciate your business.
+
+Customer: Thanks. Bye.
+
+Agent: Have a good day.
+
+(end call)

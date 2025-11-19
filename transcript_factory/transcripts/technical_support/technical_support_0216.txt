@@ -1,0 +1,113 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet just went out completely about an hour ago and I can't get it back up. I've tried unplugging the modem and router already but nothing's working.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll see what we can figure out. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, I'm seeing your account here. It looks like you're in the Millbrook area, is that correct?
+
+Customer: Yeah, that's right.
+
+Agent: Great. And just to confirm, you've already done a hard reset on both your modem and your router, correct?
+
+Customer: Yeah, I unplugged both of them for like thirty seconds each and plugged them back in.
+
+Agent: Perfect. That's the right approach. Um, while those are rebooting, let me check our system here for any service outages in your area. (pause) Okay, I'm not seeing any reported outages on our end, so that's good news. Your modem should be coming back online now. Are you seeing any lights on the front of the modem?
+
+Customer: Yeah, so there's... there's one light that's on but it's like, it's not the right color. It's like orange or amber or something. Normally it's blue.
+
+Agent: Okay, that's actually helpful information. The orange light typically means it's still trying to establish a connection. It should turn blue once it's fully synced. Let's give it another minute or two. While we wait, can you tell me—when did you first notice the internet going out?
+
+Customer: Like I said, about an hour ago. I was just browsing and then everything just... stopped. And then my phone couldn't connect either, so I knew it wasn't just like, a single device thing.
+
+Agent: Right. And you haven't had any recent storms or power outages in your area?
+
+Customer: No, nothing like that. The power's been fine the whole time.
+
+Agent: (pause) Okay, let me check a few things on the backend here. (typing sounds) Hmm, I'm actually seeing that your modem is showing as offline on our system, which is consistent with what you're experiencing. Let me try to send a signal to your modem to see if we can reestablish the connection remotely.
+
+Customer: Okay, yeah, sure. What do I need to do?
+
+Agent: Just keep an eye on those lights for me. I'm sending a reset command now... (pause) Do you see anything changing?
+
+Customer: Um... no, not really. Still orange. Maybe a little bit brighter but that's it.
+
+Agent: Alright. Sometimes this takes a minute to process. Let's wait about ninety seconds and then we'll see if there's any change. While we're waiting, I do want to ask—have you noticed any physical damage to your modem or router? Any loose cables, anything like that?
+
+Customer: Let me look... (pause) No, everything looks fine. All the cables are plugged in. There's no visible damage or anything.
+
+Agent: Good. That rules out a few things. Okay, so the modem should have had enough time now. Are we still seeing that orange light?
+
+Customer: (pause) Yeah, it's still orange. Actually, it's kind of flickering a little bit now.
+
+Agent: The flickering is actually a sign that it's trying to communicate. That's... that's somewhat promising. Let me try a different approach here. Can you check the power cable on your modem? I want to make sure it's fully inserted on both ends.
+
+Customer: (rustling sounds) Yeah, I'm checking... it looks pretty secure from what I can see.
+
+Agent: Okay. And just to double-check, you are using the power cable that came with the modem, right? Not like, a random charger or anything?
+
+Customer: No, it's the original one. The one that came with it.
+
+Agent: Perfect. (pause) Alright, let me try one more thing. I'm going to send another reboot command to the modem, but this time I want you to count to about thirty after you see the lights go out, then turn the power strip off if you have it on a power strip.
+
+Customer: Uh, it's not on a power strip. I could just unplug it directly from the outlet though?
+
+Agent: Actually, let's leave it plugged in for this one. Let's see if the remote command works. Go ahead and let me know as soon as the lights go out.
+
+Customer: (pause) Okay... the lights just went dark.
+
+Agent: Great. Now count to about thirty for me, nice and slow.
+
+Customer: (counting) One... two... three... (continues counting) ...twenty-eight, twenty-nine, thirty.
+
+Agent: Perfect. Now tell me what you're seeing on the lights.
+
+Customer: (pause) Okay, so... they're coming back on now. Starting from the bottom, I see... green, and then... it's cycling through but it's still... it's back to orange again. It's just cycling between green and orange.
+
+Agent: (pause) Hmm. Okay, that's... that's a little different than what I was hoping to see, to be honest with you. It sounds like the modem is having trouble fully syncing with our network. Let me check something on my end here. (typing sounds) Is there any chance you've recently moved the modem or done anything different with your setup?
+
+Customer: No, everything's in the same spot it's always been. It's been running fine for like... I don't know, a couple years now.
+
+Agent: Right. And you haven't made any changes to your router settings or anything like that?
+
+Customer: No, I haven't touched anything. It's all been automatic.
+
+Agent: Okay. (pause) So, I want to be upfront with you here. Based on what I'm seeing both on your modem and in our system, it seems like we might be looking at a hardware issue with the modem itself. The repeated sync failures and that orange light cycling like that... that's not something we typically see with a simple connection issue.
+
+Customer: Wait, so you're saying the modem is broken?
+
+Agent: It's... it's looking that way, yeah. Usually when we can reset things remotely and they come back online, we're dealing with a software glitch. But in this case, the modem seems like it's not responding properly to our signals. This could be a failing modem.
+
+Customer: Oh man. Okay, so what do I need to do?
+
+Agent: Well, the good news is that you're still under warranty with us, so we can get you a replacement modem sent out. Now, the timeline on that is typically... let me check... (typing sounds) it looks like we have expedited shipping available, so I can get a modem sent out to you, and it should arrive within two to three business days.
+
+Customer: Two to three days? I really need my internet working before that. Is there anything else we can try?
+
+Agent: I completely understand. Um, let me just run through one more diagnostic here to make absolutely sure it's not something we can fix remotely. (pause) I'm checking the line signal strength coming into your home... okay, so that's actually... that's coming through fine on our end, which means the issue is definitely with your modem hardware and not with the line itself.
+
+Customer: So there's really nothing we can do right now?
+
+Agent: (pause) I'm afraid not at this point, no. I wish I had better news. The modem is just not responding. At this point, without getting a replacement unit in there, I don't see a path forward. I really wish I could be more helpful here.
+
+Customer: Yeah, I mean... I appreciate you trying. This is just really frustrating, you know? I have work stuff I need to do.
+
+Agent: I completely get it. I know this is frustrating. What I can do is, I can definitely expedite that modem for you and have it shipped out today. And I can put a note on your account that this is urgent. Is there a specific day you'd prefer it to arrive, or should I just go with the fastest option available?
+
+Customer: Just make it as fast as possible, I guess. I need to get back online ASAP.
+
+Agent: Absolutely. I'm going to get that started right now. And I'll include return shipping so you can send the old modem back to us. Your replacement should arrive by... let me see... Thursday at the latest. You'll get an email confirmation with the tracking number within the hour.
+
+Customer: Okay. Alright, I guess that's the best we can do.
+
+Agent: I'm sorry we couldn't resolve this more quickly. Is there anything else I can help you with today?
+
+Customer: No, that's it. Thanks for trying anyway.
+
+Agent: You're very welcome. Thanks for choosing Frontier, and again, I apologize for the inconvenience. You should see that tracking information very soon. Have a great day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

@@ -1,0 +1,151 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet has been down since this morning and I've tried everything I can think of. I really need to get this working.
+
+Agent: I'm sorry to hear you're experiencing issues with your service. I'd be happy to help you troubleshoot. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm pulling that up now. And what's your name?
+
+Customer: It's Michael Chen.
+
+Agent: Perfect, Michael. I've got your account here. I can see you're on our Fiber 500 plan in the Springdale area. So your internet's completely down right now, is that correct?
+
+Customer: Yeah, completely. No lights on the modem or anything. Well, actually there's like a red light on it, I think. Maybe orange? I'm not really sure.
+
+Agent: Okay, that's actually helpful information. That red or orange light typically indicates either a connection issue or a power problem. First thing we're gonna do is make sure everything is powered up correctly. Can you check if the power cable is firmly connected to the back of your modem?
+
+Customer: (pause) Um, yeah, it looks pretty secure to me. It's plugged into the wall.
+
+Agent: Good. Now, I'm gonna have you try a restart. Can you unplug the modem from power for about thirty seconds?
+
+Customer: Sure, give me a second. (pause) Okay, unplugging it now.
+
+Agent: Perfect. While we wait, do you remember the last time your internet was working normally?
+
+Customer: Last night, yeah. It was fine when I went to bed. But when I woke up this morning, nothing. No connection at all.
+
+Agent: Alright, and you haven't experienced any storms or power outages in your area overnight?
+
+Customer: No, nothing like that. Everything else in my house is working fine.
+
+Agent: Okay, good. Go ahead and plug that modem back in now.
+
+Customer: (sounds of plugging in) Done. It's... the lights are starting to come back. I see a green one now, and... I don't know what these other colors mean.
+
+Agent: (pause) Okay, so which lights are you seeing?
+
+Customer: There's a green light, and I think there's a blue one, maybe? And there's still one that looks kind of red or amber.
+
+Agent: Alright, that's pretty normal actually. The green usually means power, and the blue might be the WiFi. The amber light could just be the WAN port. Give it about a minute or two to fully boot up and see if we get a solid connection. Are you able to try connecting to your WiFi on your phone or computer while we wait?
+
+Customer: Yeah, okay, let me grab my laptop. (pause) Alright, I'm opening it up. (typing sounds) I'm seeing the Frontier WiFi network pop up, so that's... that's a good sign, right?
+
+Agent: That's a great sign! Go ahead and try connecting to it.
+
+Customer: (pause) Okay, connecting... it says it's connecting... (pause) ...and nothing. It's just, it's loading, but it's not actually connecting. I'm getting an error message now.
+
+Agent: What does the error say?
+
+Customer: Um, "unable to connect to network." That's what it says.
+
+Agent: (typing sounds) Alright. Let's try a couple more things. Can you go ahead and restart your router as well? It might be a separate device, or it could be combined with your modem.
+
+Customer: I think it's just the one device. It says "modem and router" on the label.
+
+Agent: Perfect, so that's an all-in-one unit. Go ahead and unplug that one more time for thirty seconds.
+
+Customer: Okay. (pause) Thirty seconds, yeah? (pause) Okay, plugging it back in.
+
+Agent: While that's rebooting, let me check a few things on my end. (typing sounds) I'm not seeing any service alerts in your area, and your account shows active service. The system is showing the device is registered, so... that's good. 
+
+Customer: (pause) So, um, should I be seeing different lights now?
+
+Agent: Let's see... do you see a light that might indicate internet connection? Sometimes it's labeled as "internet" or "WAN" or maybe "online."
+
+Customer: (pause) I see... okay, so I've got green, blue, and there's an orange one. But nothing's labeled, so I can't really tell which is which.
+
+Agent: Yeah, I understand. Unfortunately, I don't have the exact manual for your specific model in front of me right now, but typically if you're getting green and blue, those are good signs. The orange might actually be amber for the WAN port, which could just mean it's trying to establish a connection. Try your laptop again and see if you can connect now.
+
+Customer: (pause) No, still nothing. It's not connecting. Same error message.
+
+Agent: Alright, let me try a different approach. Let's do a factory reset on the device. This will erase any settings, but it should resolve any configuration issues. I'm gonna walk you through it. Is there a small reset button on the back of your modem?
+
+Customer: (pause) Um, there's like a little hole... with a label next to it that says "reset," I think.
+
+Agent: Perfect. That's the one. You're gonna need a paperclip or a small pointed object. Can you grab one?
+
+Customer: Yeah, hold on. (pause) Okay, I've got a paperclip.
+
+Agent: Alright, so with the device powered on, I want you to press and hold that reset button for about ten to fifteen seconds. This is gonna restart the device and restore it to factory settings.
+
+Customer: Okay... holding it... (pause) ...how long now?
+
+Agent: About ten more seconds if you can.
+
+Customer: (pause) Okay, letting go. Lights are going crazy right now. (pause) Everything just turned off and now it's powering back up.
+
+Agent: Good, that's what we want to see. Now this is gonna take a few minutes to fully reboot. While we wait, I should mention that once this completes, you're gonna need to set up your connection again. You might need your account PIN or account information.
+
+Customer: (pause) Okay. How long should I wait?
+
+Agent: Give it about three to five minutes. Why don't you try connecting again in just a moment.
+
+Customer: (pause, then typing sounds) Alright, I'm looking for the WiFi network again. (pause) I see it. Trying to connect... (pause) ...still loading... (pause) [inaudible] this is really frustrating.
+
+Agent: I understand. I know this is annoying. Let's give it another minute.
+
+Customer: (pause) Okay, still nothing. It's doing the same thing.
+
+Agent: (pause, typing sounds) Alright, Michael, I'm looking at a few other possibilities here. One thing I want to check—do you have a phone line or any other device connected to the modem through a cable?
+
+Customer: No, just the internet. I don't have phone service with you guys or anything.
+
+Agent: Okay, that helps. (pause) You know what, I'm wondering if this might be a modem issue on our end. Have you noticed any physical damage to the device? Any cracks, or does it feel hot to the touch?
+
+Customer: (pause) No, it looks fine. It's not hot or anything. Seems okay physically.
+
+Agent: Alright. Well, I'm running out of troubleshooting steps we can do over the phone. At this point, I think we might need to either replace the modem or have a technician come out and take a look at it. But before we go that route, let me check something. (typing sounds) Have you had any issues with billing on your account recently? Any service interruptions?
+
+Customer: No, everything's been fine until this morning. I paid my bill last week.
+
+Agent: Okay, good. That's not it then. (pause) Michael, here's what I think we should do. We can schedule a technician visit, but that would be... (typing sounds) ...probably not until tomorrow afternoon at the earliest, depending on our availability. Or, since it seems like there might be a hardware issue with the modem, we can have a replacement sent out to you. That would take a few business days.
+
+Customer: A few business days? I really need the internet today. Can't a technician come out sooner?
+
+Agent: Let me check availability. (typing sounds, pause) Unfortunately, our next available time slot in your area is tomorrow between one and five PM. I know that's not ideal.
+
+Customer: (pause) Yeah, that's... that's pretty frustrating. But I guess that's better than waiting for a new modem. Can you set that up?
+
+Agent: Absolutely. I can get that scheduled for you. The technician will be able to diagnose the exact issue and either repair it or replace the device if needed. Can you confirm you'll be available tomorrow afternoon between one and five?
+
+Customer: Yeah, I'll make sure I'm home.
+
+Agent: Great. (typing sounds) Okay, I've got that set up for you. Your appointment is tomorrow from one to five PM. You should receive a confirmation text and an email shortly. The technician's name and a phone number will be included in case you need to reschedule or if they need to reach you.
+
+Customer: Alright, I got it. Is there anything else I should try in the meantime?
+
+Agent: You know what, you could try one more thing—make sure the coaxial cable from the wall outlet is securely connected to the modem. Sometimes that can come loose.
+
+Customer: (pause, sounds of movement) I'm checking that now. It looks pretty tight to me.
+
+Agent: Okay, well, other than that, I'd just leave everything as is and let the technician take a look tomorrow. They'll get to the bottom of it.
+
+Customer: (sigh) Alright. Thanks for your help, even though we couldn't get it working.
+
+Agent: I'm really sorry we couldn't resolve this over the phone. But the technician tomorrow should be able to get you back up and running. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. I'll just wait for them tomorrow.
+
+Agent: Perfect. I appreciate your patience, Michael, and we apologize for the inconvenience. Your confirmation details will be coming through shortly. Is the phone number we have on file the best way to reach you if we need to contact you?
+
+Customer: Yeah, that's fine.
+
+Agent: Excellent. Well, thank you for calling Frontier Communications, and we'll get this sorted out for you tomorrow.
+
+Customer: Okay, thanks. Bye.
+
+Agent: Bye now.
+
+(call ends)

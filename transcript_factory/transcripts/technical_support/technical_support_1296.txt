@@ -1,0 +1,97 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, thanks for picking up. So um, my internet went out this morning and I've been without it for like three hours now. I really need to get this fixed.
+
+Agent: I'm sorry to hear that! I know how frustrating that can be. Let me pull up your account here and we'll see what we can do. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, got it. I'm seeing an account for... is this David Martinez?
+
+Customer: Yeah, that's me.
+
+Agent: Great, David. So you mentioned your internet went out this morning. Just to confirm, you're not seeing any lights on your modem or router right now, correct?
+
+Customer: Well, the modem has like... one light that's on? It's like a red light I think. Or maybe orange. It's definitely not the normal green.
+
+Agent: Okay, that's helpful. A red or orange light typically indicates a connection issue. Let me walk you through a few things we can try. First, can you unplug your modem for about thirty seconds and then plug it back in?
+
+Customer: (pause) Yeah, sure. Hold on one second.
+
+Agent: No problem, take your time.
+
+Customer: (background noise, unplugging sounds) Okay, I'm unplugging it now. (pause) Alright, it's unplugged. I'll wait... (longer pause) Okay, plugging it back in.
+
+Agent: Perfect. And while that's booting back up, can you tell me—have you experienced any outages in your area recently, or is this the first time?
+
+Customer: No, this is the first time. I've had the service with you guys for like two years and it's been pretty solid.
+
+Agent: Good to know. (typing sounds) I'm showing that we don't have any reported outages in your service area at the moment, so that's a good sign. Are you seeing any lights on the modem now?
+
+Customer: Um... yeah, so now I'm getting like... a blue light? And it's kind of flickering, I think.
+
+Agent: Okay, blue and flickering is... that's actually not quite what we want to see either. We want to see a solid green or solid blue typically. That flickering could indicate the modem is still trying to establish a connection. Let's give it about another minute to fully boot up. While we wait, let me check a couple other things on my end. Have there been any recent storms or weather where you are?
+
+Customer: No, it's been clear all day actually.
+
+Agent: Alright. And you haven't unplugged anything recently or had any work done at your house?
+
+Customer: No, nothing like that.
+
+Agent: Okay. (pause, typing sounds) Alright, David, let's check the cables. Can you look behind your modem and make sure all the cables are plugged in securely? There should be a coaxial cable—that's the one that looks like a TV cable—and an ethernet cable if you're using one.
+
+Customer: (background noise) Yeah, I'm looking now. Um... they both look... I mean, they look plugged in to me. Do you want me to check if they're like, really secure?
+
+Agent: Actually, yes. Can you try unplugging the coaxial cable—that's the cable coming from the wall—and plugging it back in? Sometimes they can get a little loose.
+
+Customer: (unplugging sound) Okay, unplugging it. (pause) And back in. (pause) Still got the flickering blue light.
+
+Agent: Alright. Hmm. (pause) Let me ask you this—is the modem a unit we provided, or is it your own equipment?
+
+Customer: Oh, it's one you guys gave me when I signed up.
+
+Agent: Okay, good. Let me check the model number real quick. Can you tell me what it says on the front of the modem?
+
+Customer: (pause) Uh... it says Arris. And then... SB8200? I think?
+
+Agent: (typing sounds) Okay, SB8200—that's a solid modem. (pause) David, I'm going to be honest with you, the persistent flickering and the issue we're seeing doesn't seem to be responding to the standard resets. There could be a few things going on—it could be a problem with the modem itself, or it could be a line issue coming from the street into your home.
+
+Customer: Oh. So what... what does that mean? Can you fix it?
+
+Agent: Well, I'd like to try one more thing before we escalate this. Can you try accessing the modem's admin panel? It's usually at 192.168.0.1 if you have another device like a phone or tablet connected to a different network.
+
+Customer: Um... I could try. I have my phone. But my phone's on the home WiFi, which isn't working either, so...
+
+Agent: Right, right. That's not going to work then. (pause) Okay, David, here's what I'm thinking. The troubleshooting I can do remotely seems to have hit a wall here. What I'd like to do is schedule a technician to come out to your place. They'll be able to check the line from the street, the connections at the box, and potentially swap out the modem if needed.
+
+Customer: How long would that take? I work from home, so I really need this up and running.
+
+Agent: I completely understand. (typing sounds) Let me see what appointments we have available... We have an opening tomorrow between 2 and 5 PM, or we do have a same-day appointment available, but it would be between 5 and 8 PM this evening.
+
+Customer: (pause) Tonight? Like tonight?
+
+Agent: Yes, we have a tech available this evening if that works for you.
+
+Customer: I mean... yeah, I guess. I really need the internet back. Will they definitely be able to fix it?
+
+Agent: A technician will be able to diagnose the issue much better than I can over the phone. They should be able to determine whether it's the modem, the line, or something else. In most cases, they can resolve it the same day, but I can't guarantee it without knowing exactly what we're dealing with.
+
+Customer: (pause) Okay, yeah. Let's do the evening appointment.
+
+Agent: Perfect. (typing sounds) I have you down for today between 5 and 8 PM. The technician will need access to where your modem is and potentially where the cable line enters your home. Is that going to be accessible for you?
+
+Customer: Yeah, sure. My garage has the cable line coming in, so that's fine.
+
+Agent: Great. (typing sounds) I'm sending that appointment confirmation to your email address on file. You should see that in the next few minutes. If you need to reschedule for any reason, you can do that through your account online or just call back. Is there anything else I can help you with in the meantime, or any questions about the visit?
+
+Customer: No, I think... I think that's it. But just to confirm—they're coming tonight?
+
+Agent: Yes, between 5 and 8 PM this evening. And again, you should see that confirmation email shortly.
+
+Customer: Alright. Thanks, Derek.
+
+Agent: No problem at all, David. I'm sorry we couldn't get it working over the phone, but the technician should be able to take care of you tonight. Thanks for being a Frontier customer, and we appreciate your patience.
+
+Customer: Thanks. Bye.
+
+Agent: Bye now.

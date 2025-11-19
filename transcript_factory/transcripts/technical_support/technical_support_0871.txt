@@ -1,0 +1,153 @@
+# Frontier Communications Support Call Transcript
+
+Agent: Thank you for calling Frontier Communications. This is Marcus speaking. How can I help you today?
+
+Customer: Hi, yeah, so my internet's been down since this morning and I have no idea what's going on. I need to get this fixed.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147. My name is David Chen, by the way.
+
+Agent: Perfect, thank you David. Let me pull up your account here. (typing sounds) Okay, I've got you. You're on our fiber service in the Portland area, is that correct?
+
+Customer: Yeah, that's right. I've had it for about two years now and it's usually pretty solid, but this morning I woke up and just... nothing. No internet at all.
+
+Agent: Alright, let's see what we can figure out. First things first—can you tell me what you're seeing right now? Are there any lights on your modem or router?
+
+Customer: Um... (pause) let me go look at it. (background noise of footsteps) Okay, so the modem... it's got a red light on it. Just red. And the router next to it has... I think it's also red? Or maybe orange? I'm not great with these things.
+
+Agent: No worries, that's helpful. So a red light on the modem typically means there's no connection coming in from our network. Let me check if there's been an outage in your area. (typing sounds) Okay, I'm not seeing any reported outages on our end. Have you tried restarting the modem yet?
+
+Customer: No, not yet. Do I just... unplug it?
+
+Agent: Exactly. Just unplug it from the power, wait about thirty seconds, and then plug it back in. While we're waiting, let me ask—have there been any recent storms or weather in your area? Sometimes that can affect the line.
+
+Customer: No, no storms. It's actually been really nice out. (pause) Okay, I'm unplugging it now. (background noise) Thirty seconds, you said?
+
+Agent: Yeah, thirty seconds should do it.
+
+Customer: (pause) Alright, plugging it back in... and... (pause) okay, I'm waiting for it to start up again.
+
+Agent: Great. These usually take a minute or two to fully boot up. While we wait, did anything change with your equipment recently? Any new devices, or did anything get moved around?
+
+Customer: No, nothing like that. It's all been in the same spot. (pause) Um, okay, so... the modem's showing green now. That's good, right?
+
+Agent: That's excellent, actually. That means it's reconnecting. How about the router? What's it showing?
+
+Customer: (pause) Still red, I think. Or... actually, I'm not sure. These lights are kind of confusing. Hold on, let me... (background noise) yeah, it's still not showing green.
+
+Agent: Okay, let's try the same thing with the router. Unplug that one and give it the same thirty-second restart.
+
+Customer: Okay. (pause) Unplugging... (background noise) thirty seconds... and... plugging back in. (pause) How long should this take to boot up?
+
+Agent: Should be similar, about a minute or two. Is your modem still showing green?
+
+Customer: Yeah, modem's still green.
+
+Agent: Good. And... how are we looking on the router now?
+
+Customer: (pause) Still... red. Or it's trying to, but... I don't know, it's not changing.
+
+Agent: Hmm, okay. Let me ask you this—do you have a computer or phone you could check right now? Can you see the WiFi network showing up?
+
+Customer: Oh, good idea. (pause) Let me grab my laptop. (background noise) Okay, so... no, I'm not seeing the WiFi network at all. Nothing from Frontier showing up.
+
+Agent: Alright, that's telling. The modem has connection but the router isn't connecting. Let me check something on my end. (typing sounds, pause) Can you tell me the model of your router? It should be on the back or bottom of the device.
+
+Customer: Yeah, let me... (pause) it says Frontier... and then... FXC-4620? I think. The sticker's a little worn.
+
+Agent: Perfect, I've got that. (typing sounds) Okay, so there's a reset button on that unit. Have you ever done a factory reset before?
+
+Customer: Uh, no. Will that... will that mess anything up?
+
+Agent: It shouldn't. It'll just restore the router to factory settings, which sometimes helps when it's not connecting properly. There should be a small recessed button on the back. You might need a paperclip or something thin to press it.
+
+Customer: Okay, let me... (background noise) got a paperclip. (pause) Where'd you say it was?
+
+Agent: On the back of the router. You'll see a small hole.
+
+Customer: (pause) Oh, okay, I see it. So I just... press it?
+
+Agent: Yes, hold it down for about ten seconds. Your router should reset and reboot.
+
+Customer: (background noise) Holding it... (pause) okay, the lights went off and now they're coming back on. (pause) I see amber lights now?
+
+Agent: That's normal during the boot process. Just give it another minute or so to fully come back online.
+
+Customer: (pause) Okay... waiting... (pause) you know what, it's still doing the same thing. Red or amber, not green.
+
+Agent: [inaudible] Let me... let me check on something real quick. Can you hold for just a moment?
+
+Customer: Sure.
+
+Agent: (hold music plays briefly) Thanks for your patience, David. I'm back. I want to verify something—are you looking at the internet light specifically, or all the lights on the router?
+
+Customer: Um, I'm looking at... I mean, there's multiple lights, right? I was looking at the one on the far left. Is that wrong?
+
+Agent: Actually, that might be the power light. The internet light should be... it's usually in the middle somewhere or might say "internet" next to it.
+
+Customer: Oh. (pause) Let me... (pause) oh, yeah, I see one that says "Internet" on it. That one is red.
+
+Agent: Okay, that's the one we need to be looking at. Here's what I want you to do—can you check the cable connection between your modem and router? Make sure it's plugged in tight on both ends?
+
+Customer: (background noise) Yeah, I'm looking at it... it seems pretty tight.
+
+Agent: Can you try unplugging it from the modem end and plugging it back in just to make sure it's seated properly?
+
+Customer: (background noise) Unplugging... (pause) okay, plugging back in.
+
+Customer: (pause) ...still red.
+
+Agent: Alright, let me check something on the modem side. Is there a phone cord plugged into your modem as well?
+
+Customer: A phone cord? No, I don't have a landline. Should there be?
+
+Agent: No, no, that's fine. That's just sometimes part of the setup, but if you don't have a landline it's not necessary. (pause, typing sounds) Okay, David, I'm going to be honest with you—everything looks fine on our end. The modem is showing a good connection from our network. The issue seems to be between the modem and router, or it could be the router itself.
+
+Customer: So... what does that mean? Can you fix it remotely or something?
+
+Agent: Unfortunately, I can't control the router remotely from here. Given that the reset didn't help and the connection between the two devices isn't working properly, it's likely that the router might be failing. Sometimes these units do that.
+
+Customer: Oh man, that's... great. So I need a new one?
+
+Agent: It's looking that way. We can definitely ship you a replacement. However, it would take about five to seven business days to arrive. In the meantime, you might be able to bypass the router altogether. Do you have an ethernet cable?
+
+Customer: An ethernet cable? I... I'm not sure. What does it look like?
+
+Agent: It looks similar to a phone cord but a bit wider. You could plug it directly from the modem into your computer if you have one nearby.
+
+Customer: Oh, okay. I might have one of those in a junk drawer somewhere. But that doesn't help with, like, my phone and other devices though.
+
+Agent: No, you're right, it would only work with the one device that's connected via cable. For your wireless devices, you'd be stuck without internet until we get you a replacement router.
+
+Customer: (pause) And you're sure it's the router? I mean, I just want to make sure before we go ordering a replacement.
+
+Agent: I understand your concern. We've tried the basic troubleshooting—power cycles, resets, cable connections—and the modem is working on our end. The router isn't receiving or transmitting the signal properly, so it's the most likely culprit.
+
+Customer: Alright... okay. Well, what do I do? How do I order a replacement?
+
+Agent: I can actually process that for you right now if you'd like. I'll set up an expedited replacement, and we'll waive the shipping fee for you. Unfortunately, I can't speed up the delivery beyond standard service, but at least you won't pay extra.
+
+Customer: That's... something, I guess. Yeah, go ahead.
+
+Agent: (typing sounds) Perfect. I've got that submitted for you. You should see an order confirmation email within the next hour or so. The new router will arrive between... let me see... five to seven business days. You'll get a tracking number once it ships.
+
+Customer: Okay. Is there anything else I should try in the meantime?
+
+Agent: Honestly, I'd say just try that ethernet cable if you can find one, just so you have some internet access. Beyond that, there's not much we can do on the troubleshooting front. When the new router arrives, just swap it out for the old one using the same connections.
+
+Customer: Alright, I'll see if I can find a cable. This is really frustrating, honestly. I was supposed to do some work from home today.
+
+Agent: I completely understand, and I'm sorry we weren't able to get this resolved immediately. If you have any other issues when the replacement arrives, please don't hesitate to call back.
+
+Customer: Yeah, okay. Thanks for trying, I guess.
+
+Agent: You're welcome, David. Is there anything else I can help you with today?
+
+Customer: No, that's it.
+
+Agent: Alright, well thank you for choosing Frontier Communications, and again, I apologize for the inconvenience. You should have that replacement soon.
+
+Customer: Thanks. Bye.
+
+Agent: Take care, bye now.

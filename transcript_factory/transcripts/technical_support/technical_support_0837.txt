@@ -1,0 +1,95 @@
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Hey, yeah, thanks for picking up. So, um, my internet has been down since this morning and I'm not sure what's going on. I really need to get it working because I'm supposed to be working from home today.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me help you get back online. Can I start by getting your account number or the phone number associated with your account?
+
+Customer: Sure, it's... uh, 555-0147. That's the phone number on the account.
+
+Agent: (typing sounds) Okay, great. And just to confirm, is this for your residential service?
+
+Customer: Yeah, yeah, residential. We've been with Frontier for about three years now and honestly, this is the first real issue we've had.
+
+Agent: That's good to hear. Well, let's get this sorted out for you. So the internet is completely down right now? No connection at all?
+
+Customer: Nothing. I checked the router this morning and, like, all the lights are kind of... they're not acting normal, I guess? Usually the blue ones are solid but now they're just flickering.
+
+Agent: Okay, that's helpful information. The flickering lights actually suggest the modem might be trying to establish a connection but can't quite get there. Let's do a few troubleshooting steps. First, can you tell me where your modem and router are located?
+
+Customer: They're, um, on a shelf in my office. They're sitting right next to each other.
+
+Agent: Perfect. And are they plugged in and powered on?
+
+Customer: (pause) Yeah, they're definitely on. I can see them from where I'm sitting right now.
+
+Agent: Great. Okay, so here's what I'd like you to do. Can you unplug the modem—that's the device that connects directly to your wall outlet for the internet line. Go ahead and unplug it and wait about thirty seconds.
+
+Customer: Okay, unplugging now... (pause) ...alright, waiting. This is thirty seconds, right? (pause) Okay, plugging it back in.
+
+Agent: Excellent. Now let's give it about a minute or two to boot back up. While that's happening, can you tell me if you're seeing any lights come back on?
+
+Customer: Um, yeah, some of the lights are coming back. There's like a green one and then... (pause) ...now the blue ones are flickering again like they were before.
+
+Agent: (typing sounds) Hmm, okay. The blue lights flickering for more than a minute or two usually means there's still a sync issue. Let me check a few things on my end here. (pause) Okay, I'm not seeing your modem registering a signal on our network right now, which could mean a few things. Let me try sending a reset signal to your modem. This might take about thirty seconds to process.
+
+Customer: Okay, sounds good. While you're doing that, I should mention—yesterday there was some construction happening on our street. They were digging or something. I don't know if that's related.
+
+Agent: Oh, that's actually really good information. Yeah, that could definitely be related. If they disturbed any of the fiber lines running to your area, that would cause an outage. Let me... (pause) ...okay, I've sent the reset. Are you seeing any change in the lights?
+
+Customer: (pause) Not really, no. Still the same flickering thing.
+
+Agent: Alright, let's try the router now. Can you unplug the router—that's the separate device—and wait about thirty seconds, same as before?
+
+Customer: Sure. (pause) Unplugging now. (long pause) ...and waiting. (pause) Okay, plugging it back in.
+
+Agent: Good. And your modem should still be on and running?
+
+Customer: Yeah, it's still plugged in. Hasn't changed.
+
+Agent: Okay, so now we should let the router boot up for about a minute. Give me a second—I'm going to pull up your service address and check if there are any outages reported in your area. (typing sounds) Okay, so I'm not seeing any reported outages in your service area at the moment, but you mentioned construction yesterday. Let me check our ticket system... (pause) ...I'm actually seeing a service ticket from yesterday afternoon about underground work in your neighborhood. The ticket says it was supposed to be completed and service restored by end of business yesterday.
+
+Customer: So, so does that mean the internet should be working? Because it's not.
+
+Agent: Right, I understand. It's possible the work caused damage that wasn't immediately apparent, or perhaps the service restoration didn't complete as scheduled. Has the router booted up yet?
+
+Customer: Yeah, it's on now. But those blue lights are still just... flickering. Is that, like, bad?
+
+Agent: Unfortunately, the flickering blue lights combined with the modem not registering on our network suggests that the issue is actually on our end—it's the connection coming into your house, not your equipment. Now, this could be a few different things. It could be a damaged line from the construction, or it could be something at the network level. 
+
+Let me try one more thing. I'm going to manually restart your line from here. Give me just a moment. (pause) Okay, I'm initiating the restart now. Can you watch the lights for about three to five minutes and see if they stabilize?
+
+Customer: Okay, I'm watching them. (long pause) ...still flickering. It's been like... what, a couple minutes now?
+
+Agent: (pause) Still the same?
+
+Customer: Yeah, same flickering. No change.
+
+Agent: Alright, I appreciate your patience with this. Unfortunately, at this point, I'm going to need to escalate this to our field service team because it does appear to be an infrastructure issue that was likely caused by the construction work yesterday. This isn't something I can fix remotely.
+
+Customer: Okay, so... what does that mean? When can someone come out?
+
+Agent: Let me get you scheduled. (typing sounds) I can get a technician out to your property to inspect the line. The earliest I have available is tomorrow between 2 PM and 5 PM. Does that work for you?
+
+Customer: Tomorrow? I really need this fixed today if possible. I have meetings starting at—
+
+Agent: I completely understand, and I wish I could get someone there sooner. Unfortunately, today's schedule is fully booked. The next available same-day emergency appointment would be... (pause) ...well, we can add you to a waitlist if a cancellation comes through, but I can't guarantee that. Would you like me to keep the tomorrow appointment and also put you on the same-day waitlist, or would you prefer to wait and see if something opens up?
+
+Customer: (frustrated pause) ...yeah, do both. Put me on the waitlist and keep the appointment tomorrow.
+
+Agent: Perfect. I've added you to both. You'll receive a call this afternoon if a same-day slot opens up, and if not, the technician will be there tomorrow between 2 and 5 PM. They'll inspect the fiber connection to your home and make any repairs needed. Is your phone number 555-0147?
+
+Customer: No, that's my account number. The phone number is 555-3482.
+
+Agent: (typing sounds) Got it. 555-3482. Great. Is there anything else I can help you with today?
+
+Customer: No, I guess that's it. I just... I really hope someone can come today or tomorrow morning before my 2 o'clock meeting.
+
+Agent: I understand, and I apologize that we can't get this resolved faster. The good news is our technicians are really efficient, so if we do get you in today, it would likely be a quick fix. And if not, tomorrow's appointment should have you back up and running quickly. Is there a preferred number we should call you at to confirm the appointment?
+
+Customer: The number you have, 555-3482, that's fine.
+
+Agent: Perfect. Well, thank you for your patience today. Your work order number is 847-FW-229847 if you need to reference it. We really appreciate you being a Frontier customer, and we'll get you back online as soon as possible.
+
+Customer: Thanks, Marcus. I appreciate your help.
+
+Agent: You're welcome. Have a good rest of your day, and we'll be in touch.

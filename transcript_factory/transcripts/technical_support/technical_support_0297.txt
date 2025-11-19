@@ -1,0 +1,97 @@
+# Frontier Communications - Technical Support Call
+
+Agent: Thanks for calling Frontier Communications technical support. My name is Marcus. How can I help you today?
+
+Customer: Hi, yeah, so my internet just... it's not working. It went out about an hour ago and I've tried unplugging everything, but nothing's coming back.
+
+Agent: I'm sorry to hear that. Let me get some information from you real quick. Can I get your account number or the phone number associated with your account?
+
+Customer: Uh, it's 555-0147. That's the phone number.
+
+Agent: (typing sounds) Okay, perfect. And just to confirm, I'm showing this is for the address on Maple Street, correct?
+
+Customer: Yes, that's right.
+
+Agent: Alright, thanks. So you mentioned the internet went out about an hour ago. Do you have any lights on your modem right now? Like, is it powered on?
+
+Customer: Yeah, the modem's on. I see... let me look at it. There's a couple lights that are usually on, but I don't see the internet light. It's usually blue and it's not there.
+
+Agent: Okay, that's helpful information. So the modem's powered on but you're not seeing the internet light. Let's do a few troubleshooting steps here. First, can you unplug the modem for me? Just pull it out of the power outlet.
+
+Customer: (pause) Yeah, I'm doing it now. It's out.
+
+Agent: Great. And while we're waiting, is your router a separate device or is it built into the modem?
+
+Customer: Oh, that's... I think it's a separate thing? There's like a box on top of the modem.
+
+Agent: Okay, that's your router then. Go ahead and unplug that one too, please.
+
+Customer: (unplugging sounds) Done.
+
+Agent: Perfect. Now let's wait about 30 seconds. This is called a power cycle and it clears the cache on both devices. (pause) Okay, while we're waiting, have you experienced any storms in your area recently? Any power outages or anything like that?
+
+Customer: No, no storms. But I did notice my neighbors' lights were flickering earlier. I'm not sure if that matters.
+
+Agent: That could actually matter, yeah. That might indicate a line issue. So let's go ahead and plug the modem back in first.
+
+Customer: (plugging sounds) Okay, it's back in. I see the lights starting to come back on.
+
+Agent: Great. Now plug in your router as well.
+
+Customer: (pause) Alright, plugged in. So what am I looking for? Should I see different lights now?
+
+Agent: Yeah, so on the modem you should see a few lights come on. There should be a power light, usually it's green or blue. Then there should be a downstream light, an upstream light, and that internet light that was missing. It'll take a minute or two to fully boot up, so just give it a second.
+
+Customer: (pause) Okay... I'm seeing the power light. It's blue and it's on. Um... I'm seeing another light come on now, looks like it's the downstream one, maybe? And then... (pause) ...and then the internet light is... it's not coming on. It's still not there.
+
+Agent: Okay, so we're getting some of the lights back but not the internet light. That's typically a connection issue on our end. Let me just check something real quick. (typing sounds) Can you see if there's a coaxial cable — it looks like a thick cord with a metal connector — plugged into the back of your modem?
+
+Customer: Yeah, I see it. It's plugged in.
+
+Agent: Okay, can you check if it's tight? Sometimes they can get a little loose.
+
+Customer: (pause) I'm gonna try to tighten it... (grunting sounds) Yeah, it was a little loose actually. I tightened it up.
+
+Agent: Good. Let's wait another minute and see if that internet light comes on.
+
+Customer: (long pause) ...Nothing. Still no internet light.
+
+Agent: Alright. Let me try something else. I'm going to check the signal levels coming to your modem. (typing sounds, pause) Hmm. Yeah, I'm seeing some issues here. The downstream signal is really low, and the upstream signal is even lower. That's not what we want to see. Have you had any recent construction or digging in your neighborhood?
+
+Customer: [inaudible] ...actually, yeah. There's been some road work a few blocks away. I didn't think that would affect anything though.
+
+Agent: That could definitely be it. Road work sometimes damages the underground fiber lines. I'm showing that you're connected to our network, but the signal quality is really degraded. (pause) Okay, so here's what I'd like to do. I'm gonna open up a ticket with our field service team to come out and check the lines in your area. They'll be able to tell us if there's been any damage or if there's a break somewhere.
+
+Customer: How long is that gonna take? I really need internet for work tomorrow.
+
+Agent: I understand. Let me see what availability we have. (typing sounds, pause) I can get someone out there tomorrow between 8 AM and 12 PM, or we have another slot on Thursday afternoon.
+
+Customer: Tomorrow morning works. Can they definitely fix it?
+
+Agent: They should be able to diagnose the issue, and if it's something on the line, they'll get it restored. If it's something inside your home, they might have to schedule a separate appointment, but most likely if it's a signal issue like what I'm seeing, it's going to be on our end.
+
+Customer: Okay, I'll take tomorrow morning. What time exactly?
+
+Agent: It'll be between 8 and noon, and I'll send you a confirmation text and email with all the details. Is the phone number 555-0147 still the best number to reach you?
+
+Customer: Yeah, that's good.
+
+Agent: Perfect. I'm gonna get that ticket set up for you right now. (typing sounds, pause) Alright, I've got the appointment scheduled. Your ticket number is FR-4872051. And just to recap everything we tried — we power cycled both devices, we checked all the connections, tightened the coaxial cable, and I pulled some diagnostics. Unfortunately the signal levels are too degraded for the internet to come online, so it does appear to be a line-side issue.
+
+Customer: So there's nothing else I can do on my end?
+
+Agent: Not really at this point, no. You've done all the standard troubleshooting steps. The field technician tomorrow will be able to take it from there. Is there anything else I can help you with?
+
+Customer: No, I think that's it. I just hope they can fix it fast.
+
+Agent: I hope so too. I've marked this as priority since it's affecting your service, so the technician will know to take a closer look. Your appointment is tomorrow between 8 and noon. Thanks for choosing Frontier, and sorry you had to deal with this today.
+
+Customer: Thanks, I appreciate it.
+
+Agent: Have a good night.
+
+Customer: You too, bye.
+
+Agent: Bye-bye.
+
+(call ends)

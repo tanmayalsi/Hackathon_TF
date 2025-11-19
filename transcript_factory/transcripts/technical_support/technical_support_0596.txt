@@ -1,0 +1,117 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, thanks for picking up. So, uh, my internet has been down since this morning and I'm not really sure what's going on. I work from home and I really need to get this fixed.
+
+Agent: I'm sorry to hear that, sir. I definitely understand how frustrating that can be. Let me pull up your account here and we'll get you back online. Can I get your account number or the phone number associated with your account?
+
+Customer: It's area code 503, 555-0147.
+
+Agent: (typing sounds) Perfect, I've got you here. I'm showing an account under the name... is this David Chen?
+
+Customer: Yes, that's me.
+
+Agent: Great, David. So you mentioned your internet went down this morning. Have you tried any troubleshooting steps yet, or is this the first time you're reporting it?
+
+Customer: Um, I unplugged the router and plugged it back in, like, an hour ago. I also tried restarting my computer but nothing's worked. The modem still has power—the lights are on and everything.
+
+Agent: Okay, that's good information. Let me check our system here to see if there are any outages in your area. (pause) (typing sounds) I'm not seeing any reported outages on our end, so this is likely something we can troubleshoot together. Can you tell me which lights are on on your modem right now?
+
+Customer: Uh, let me see... there's a blue light on the top that says "Power," and then there's... okay, there's like a green light that says "Online," but it's not steady. It's kind of blinking slowly. And there's another light that's not lit up at all.
+
+Agent: Alright, so the blinking green light—that typically indicates the modem is trying to connect but hasn't fully established a connection. That's what we're dealing with here. Can you walk me over to your router now? Is that a separate device from the modem?
+
+Customer: Yeah, it's separate. It's right next to the modem.
+
+Agent: Perfect. And what color are the lights on the router?
+
+Customer: (pause) Okay, so the power light is on—that's white—but... actually, none of the other lights are on at all. They're all dark.
+
+Agent: Hmm, okay. That's interesting. So the router isn't getting a signal from the modem. Let me have you try something. Can you unplug the modem, wait about thirty seconds, and then plug it back in? While we're waiting for it to reboot, I can ask you a few questions.
+
+Customer: Yeah, sure. (sounds of unplugging) Okay, it's unplugged. So, um... how long have you been working with Frontier?
+
+Agent: Oh, well, I've been with the company for about four years now. But more importantly, let's get your internet working. (chuckles) Go ahead and plug that modem back in now.
+
+Customer: (plugging sounds) Okay, it's back in. I can see the power light coming back on.
+
+Agent: Great. Let that sit for about a minute while it initializes. In the meantime, can you confirm—the modem and router are connected with an ethernet cable, correct?
+
+Customer: Yeah, there's definitely a cable running between them.
+
+Agent: Perfect. And just to make sure—is that cable plugged into the yellow port on the modem?
+
+Customer: (pause) Actually, I'm not sure. Let me check. (pause) It's... it looks like it might be in the gray port, actually. Does that matter?
+
+Agent: That could definitely be the issue. The ethernet cable needs to go into the yellow "Internet" port on the modem for the router to get a signal. Can you unplug it from the gray port and move it to the yellow one?
+
+Customer: Oh! Okay, let me do that. (pause) (sound of cable being unplugged and replugged) Alright, it's in the yellow one now. Do I need to restart anything?
+
+Agent: Let's give it a minute to recognize the connection. While we wait, can you check—what model router do you have?
+
+Customer: (pause) It says... it's a Netgear... R6350? I think?
+
+Agent: Okay, and are you seeing any lights coming on now?
+
+Customer: (pause) Uh... no, not yet. Still dark. (longer pause) Wait, I'm seeing something... there's a white light that just turned on. Is that good?
+
+Agent: That's a good sign. That's usually the power light. What about the other lights?
+
+Customer: (pause) No, still nothing. Just that one white light.
+
+Agent: Okay, that's... that's a little unusual. Let me have you try a factory reset on the router. On the back of the router, there should be a small reset button. You'll need something like a paperclip or a ballpoint pen to press it for about ten seconds.
+
+Customer: (pause) Okay, I found it. (sounds of searching) Alright, I'm pressing it... (pause) ...holding it down. Is ten seconds up?
+
+Agent: Yeah, go ahead and release it.
+
+Customer: (pause) Okay, I released it. Now what?
+
+Agent: Give the router about a minute to restart and reconfigure. Do you see any activity on the lights?
+
+Customer: (long pause) Nope. Still just the one white light. Nothing else is coming on.
+
+Agent: Alright. And the modem—can you tell me what's happening with those lights now?
+
+Customer: The power light is still blue and solid. The green "Online" light is... it's still blinking, actually. It hasn't changed.
+
+Agent: (typing sounds) That blinking light is the issue. The modem isn't fully connecting. Let me try something different. I'm going to send a reboot command to your modem from here. This should take about two to three minutes. Can you just hold tight?
+
+Customer: Yeah, no problem.
+
+Agent: (pause) Alright, I've sent the command through. Give it a moment to process... (pause) Okay, can you tell me if anything changed?
+
+Customer: (pause) Um, no... the lights are exactly the same. Still the same blinking green and solid blue.
+
+Agent: (pause) Hmm. David, I'm going to be honest with you—this is starting to look like it might be a hardware issue with the modem itself, or possibly a line issue from outside. Unfortunately, we might not be able to resolve this over the phone.
+
+Customer: Oh no, really? So I'm just stuck without internet?
+
+Agent: I don't want to leave you like that. Here's what I can do. I can schedule a technician to come out and take a look at both the modem and the line coming into your house. They should be able to diagnose the problem. Would you be available tomorrow between, say, 8 AM and 12 PM?
+
+Customer: (pause) Tomorrow morning is tough, but I could probably do afternoon. Like, after 2 PM?
+
+Agent: Let me check the availability for your area. (typing sounds, pause) I can get someone out there tomorrow between 2 and 4 PM. Does that work?
+
+Customer: Yeah, that works.
+
+Agent: Perfect. I'm going to get that scheduled for you. They'll have access to your account, so they'll know we've already tried the basic troubleshooting. You should receive a text confirmation within the next few minutes. Just a heads up—there is a $99 service call fee if it turns out to be an internal wiring issue, but if it's related to the modem or our line, that will be waived.
+
+Customer: Okay, understood. What about my bill? Am I still charged for internet I'm not getting?
+
+Agent: That's a fair question. I can note on your account that you were without service, and our billing team can look at a credit for you. I'd recommend contacting them after the technician visit so they have confirmation of the outage.
+
+Customer: Alright, I appreciate that. So, just to confirm, someone will be out tomorrow afternoon between 2 and 4?
+
+Agent: That's correct. And David, I'm sorry we couldn't get this resolved remotely today. I know how frustrating this is.
+
+Customer: Yeah, no, I understand. Hopefully the tech can figure it out. Thanks for trying, Derek.
+
+Agent: Of course. Is there anything else I can help you with today?
+
+Customer: No, that's everything. Thanks again.
+
+Agent: You're welcome. Thank you for calling Frontier Communications, and we'll see you tomorrow. Have a good day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

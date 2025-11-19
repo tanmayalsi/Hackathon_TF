@@ -1,0 +1,109 @@
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Hey, yeah, hi. Um, my internet has been down since this morning and I'm not sure what's going on. I really need to get it fixed because I'm working from home today.
+
+Agent: Oh man, I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account and we'll get to the bottom of this. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, pulling that up now... and I've got you here. I'm showing a Frontier Fiber account at 2841 Maple Street. Is that correct?
+
+Customer: Yes, that's right.
+
+Agent: Perfect. So you mentioned your internet went down this morning. Did anything happen before it stopped working? Like a power outage or storm in your area?
+
+Customer: No, nothing like that. I was just using it normally and then about... I dunno, 8:30 this morning, everything just stopped. I didn't do anything different. One minute it was working, the next it wasn't.
+
+Agent: Okay, I understand. Let's go through a few troubleshooting steps real quick. First thing—can you tell me what lights you're seeing on your router right now? Should be a box, probably white or black, might have a Frontier logo on it?
+
+Customer: Um, yeah, I see it. Let me look... okay, so there's a power light that's on, it's green. But the internet light, the one that usually blinks... it's off completely. It's not even showing.
+
+Agent: Alright, so no light on the internet port. That's helpful information. And do you remember what color that light usually is when everything's working normally?
+
+Customer: It's blue. It usually blinks blue when stuff is downloading or whatever, and it's solid blue when everything's idle.
+
+Agent: Got it. Okay, here's what I'd like you to do. Can you unplug the router from the power outlet? Just pull it straight out for me.
+
+Customer: (pause) Yeah, okay, doing that now.
+
+Agent: Good. Now let's wait about 30 seconds just to let everything discharge.
+
+Customer: (pause) Okay... 30 seconds. (longer pause) Alright, I think that's good.
+
+Agent: Great. Now plug it back in for me.
+
+Customer: (pause) Okay, it's plugging back in. (pause) The power light just came back on. It's green. I'm waiting for it to fully boot up... okay, it's doing its thing, some lights are flickering... (pause) still waiting...
+
+Agent: That's normal. It should take about a minute or two to fully restart and get back online.
+
+Customer: (pause) Okay, um... (pause) the power light is still green, and I'm seeing... wait, yeah, I'm seeing some other lights now but still no blue internet light. Nothing's changed really.
+
+Agent: Hmm, okay. Let me check something on my end here. (typing sounds) I'm running a line test to see if there's a signal coming from our network to your location.
+
+Customer: Okay...
+
+Agent: (pause) (typing sounds) So that's interesting. I'm actually not getting a signal detection on the line right now. That could mean a few things. Let me ask you—do you have a battery backup unit or a modem separate from your router? Sometimes they're all in one box.
+
+Customer: Uh, let me see... (pause) I think there's just the one unit. That's all I have set up. Is that a problem?
+
+Agent: No, that's fine. Some customers have them separate, some don't. Okay, I need you to check something for me. Look at the back of your router. Do you see any cables plugged in? Can you describe them to me?
+
+Customer: Yeah, so there's a power cable, obviously. And then there's like... a thick white cable that goes into the wall. That's the fiber line, I think?
+
+Agent: Perfect, yeah, that's the fiber connection. Is that cable plugged in all the way? Can you see if there's any give to it?
+
+Customer: (pause) Okay, checking... no, it looks like it's plugged in pretty securely. It's not loose or anything.
+
+Agent: Alright. And are there any other cables? Any ethernet cables?
+
+Customer: No, I don't think so. Just those two.
+
+Agent: Okay, so here's what I'm looking at from our system. The fiber line is connected but we're not detecting an active service signal coming through. This could be a few things—it could be an issue with the fiber line itself, it could be something with the network equipment on our end, or there could be something wrong with your ONT unit, which is the converter box.
+
+Customer: So... what does that mean? How do I fix it?
+
+Agent: Well, let's try one more thing. I want you to do a factory reset on your router. This will wipe all the settings, but we can get you back up and running after. There should be a small reset button on the back. You'll need something like a paperclip or a pen to press it.
+
+Customer: Oh... okay. (pause) I'm looking... yeah, I see a small button. It says "Reset" next to it.
+
+Agent: Perfect. Hold that down for about 10 seconds. It might take a moment for the router to fully reset, so don't unplug it while it's doing that.
+
+Customer: Okay, holding it... (pause) still holding... (pause) okay, I'm at about 10 seconds. Can I let go?
+
+Agent: Yeah, you can let go now. The router should restart automatically.
+
+Customer: (pause) Okay, it's restarting. Lights are flashing again. (pause) We're waiting again... (pause) (longer pause) Okay, so power's back to green, and I'm still not seeing the blue internet light.
+
+Agent: (pause) Yeah, I was... I was hoping that would do it. (pause) Okay, so based on what we're seeing, I think the issue is actually on the network side, not with your equipment. The signal isn't making it through to your router from our infrastructure.
+
+Customer: So what does that mean? Is it the internet lines? Is there something wrong with like, the neighborhood lines?
+
+Agent: Could be. Could also be something at our central office for your area or an issue with the fiber line running to your house. Unfortunately, I can't diagnose exactly what it is from here. I think we need to get a technician out to your location to physically check the lines and the connection points.
+
+Customer: (sighs) Okay... how long would that take? I really need internet for work today.
+
+Agent: I completely understand. Let me check our availability for you. (typing sounds) (pause) The earliest I'm showing is tomorrow between 1 and 5 PM. Would that work for you?
+
+Customer: Tomorrow? There's nothing today?
+
+Agent: Unfortunately not. We had a lot of service calls come in this morning—looks like there might have been some network issues affecting several customers in your area. So techs are pretty booked up.
+
+Customer: (frustrated) Okay... I guess I don't have much choice. Can you just schedule that for tomorrow then?
+
+Agent: Absolutely. So I've got you down for tomorrow, [inaudible] 1 to 5 PM window. Our technician will come out, assess the fiber line, check the connection points, and get your service restored. You should get a confirmation text and email within the next 15 minutes with a more specific time window if we can narrow it down.
+
+Customer: Okay, yeah, that's fine. Is there anything I can do in the meantime?
+
+Agent: Unfortunately, no. Since the signal isn't reaching your equipment, there's not much on your end that's going to resolve this. But I'll put a note on your account explaining everything so when the tech shows up tomorrow, they'll know exactly what we've already tried.
+
+Customer: Alright. Thank you, I guess.
+
+Agent: I'm really sorry we couldn't get this resolved today. I know it's frustrating. Is there anything else I can help you with?
+
+Customer: No, I think that's it.
+
+Agent: Okay, well, thank you for being patient with us, and we'll get you back online as soon as possible. Have a good rest of your day.
+
+Customer: Thanks. Bye.
+
+Agent: Bye now.

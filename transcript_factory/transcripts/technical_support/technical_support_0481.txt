@@ -1,0 +1,77 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. So my internet just went down about an hour ago and I'm not sure what's going on. I've got a couple of Zoom calls coming up and I really need to get this fixed.
+
+Agent: I completely understand how frustrating that must be. I'm sorry you're experiencing that. Let me pull up your account here. (typing sounds) Can I get your account number or the phone number associated with your account?
+
+Customer: Um, sure. It's 555-0147.
+
+Agent: (typing sounds) Perfect, thank you. I see your account here. So you're saying your internet went down about an hour ago?
+
+Customer: Yeah, roughly an hour ago. One minute everything was fine and the next thing I know, nothing's working. My WiFi symbol just shows... I don't know, like no connection or whatever.
+
+Agent: Okay, no problem. Let me walk through a few quick troubleshooting steps with you. First, can you tell me what you're seeing right now? Is the modem powered on?
+
+Customer: Oh, uh... (pause) Yeah, I can see it over there. The lights are on. There's like... there's a couple lights that are lit up. I think one's green and one might be red? It's kind of dark over here.
+
+Agent: Okay, so you do see some lights. That's good. Can you walk over and take a closer look? Specifically, I'm looking for a light that says "Internet" or maybe "Online."
+
+Customer: (background noise, footsteps) Alright, I'm right next to it now. Um, so I see a green light and then below that there's a red light that's blinking.
+
+Agent: Ah, okay. That red blinking light is what we want to focus on. That typically indicates that there's no connection coming into the modem. Have you experienced any storms in your area recently, or has anything else changed with your setup?
+
+Customer: No, no storms or anything like that. Actually, wait... I did see the cable guy out here yesterday doing some work in the neighborhood. He was working on the lines out front.
+
+Agent: Ah, that's actually really useful information. It's possible something got disrupted during that work. Let me try a couple more things here. Can you unplug the modem for me? Just pull the power cable out completely.
+
+Customer: Yeah, sure. (pause) Okay, it's unplugged.
+
+Agent: Great. Can you wait about thirty seconds for me?
+
+Customer: (pause) Yeah, I'm just... kind of standing here looking at it.
+
+Agent: (chuckles) I know, it's riveting stuff. Okay, go ahead and plug it back in for me now.
+
+Customer: (background noise) Alright, it's plugged back in. The lights are coming back on now. (pause) Okay, so I'm seeing... same thing. Green light and then that blinking red light below it.
+
+Agent: Unfortunately, that red light is still blinking. Okay, let me check something on my end. (typing sounds) I'm going to run a quick line test here to see if we're getting a signal on our side. (pause) Alright, so I'm not seeing an active connection on the line. That typically means the issue is either with the line itself or somewhere between the network and your modem.
+
+Customer: So what does that mean? Like, can you guys fix it?
+
+Agent: Well, it could be a few different things. Given that there was cable work in your area yesterday, it's possible the line got damaged or disconnected. Let me try one more thing. Do you see any cables running into the back of the modem? Any coaxial cables?
+
+Customer: Um, yeah, I see a cable. It's... it looks fine to me, but I'm not really an expert.
+
+Agent: (chuckles) No worries at all. Can you just double-check that it's screwed in nice and tight? Sometimes vibrations can loosen these things.
+
+Customer: (pause, sounds of fidgeting) Okay, I'm twisting it... yeah, it's pretty tight. I don't think that's it.
+
+Agent: Alright. So I've ran a few tests here and I'm not detecting an active signal on our end, which means the issue is likely on the infrastructure side—probably related to that line work from yesterday. Unfortunately, I'm not able to restore that connection remotely.
+
+Customer: So what do I do? I need internet for these calls.
+
+Agent: I completely understand. What I can do is schedule a technician to come out to your location and assess the line. They'll be able to check what happened during that cable work and get everything reconnected for you. Would today work, or would tomorrow be better?
+
+Customer: (pause) Today would be... I mean, it would have to be soon. Those calls are this afternoon.
+
+Agent: Let me see what I can find for you. (typing sounds) Unfortunately, we're pretty booked up this afternoon, but I do have a time slot available tomorrow morning between 8 and 10 AM. Would that work?
+
+Customer: That's... I mean, it's not ideal, but I guess it has to. Will they definitely be able to fix it?
+
+Agent: The technician will definitely come out and diagnose the issue. Given that it's related to the line work in your area and we're not getting a signal on our end, it's very likely they'll be able to resolve it. Now, is there anything else I can help clarify before I get that appointment scheduled?
+
+Customer: No, I think... I think that's it. I'm just frustrated because I was just on the phone with someone else yesterday about billing and now this. But I guess it's not your fault.
+
+Agent: I really do appreciate your patience, and I'm sorry this is happening. Let me get that appointment locked in for you. (typing sounds) Okay, so I have you down for tomorrow morning, December 14th, between 8 and 10 AM. A technician will come out to assess the line and get you back online. You should receive a confirmation text and email shortly with those details.
+
+Customer: Okay. Thank you, I guess.
+
+Agent: You're welcome. Again, I apologize for the inconvenience. If you have any questions before the appointment, feel free to give us a call back. Is there anything else I can help you with today?
+
+Customer: No, that's everything.
+
+Agent: Perfect. Thank you for being a Frontier customer, and we'll get you fixed up tomorrow. Have a good day.
+
+Customer: Yeah, you too. Bye.
+
+Agent: Bye now.

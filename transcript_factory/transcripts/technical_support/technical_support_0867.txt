@@ -1,0 +1,111 @@
+# Frontier Communications Support Call
+
+Agent: Thank you for calling Frontier Communications customer support. My name is Marcus. How can I help you today?
+
+Customer: Hi, yeah, so my internet's been down since this morning and I really need to get it back up. I'm working from home today and I can't get anything to load.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be, especially when you're trying to work. Let me pull up your account here. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, I'm showing an account for... is this James Mitchell?
+
+Customer: Yeah, that's me.
+
+Agent: Perfect, James. So you're saying your internet went down this morning? Do you remember what time that was?
+
+Customer: Uh, I'd say around 7 or 8 AM? I tried restarting the modem but nothing's changed. The lights on it are still acting weird.
+
+Agent: Alright, let's start with some basic troubleshooting. When you look at the modem right now, which lights are on and which ones are off? Can you describe what you're seeing?
+
+Customer: So the power light is on, that's green. But the internet light is... it's like blinking red? And it's been doing that the whole time.
+
+Agent: Okay, so a blinking red light on the internet indicator typically means there's a connection issue. Let's try a full power cycle. Can you unplug the modem from the power outlet for me?
+
+Customer: Yeah, sure, one second. (pause) Okay, it's unplugged.
+
+Agent: Great. I'm going to have you wait about 30 seconds while it's completely powered down. Just... just give it a half minute there.
+
+Customer: Alright, I'm waiting... (pause) Okay, it's been about 30 seconds.
+
+Agent: Perfect. Now go ahead and plug it back in for me.
+
+Customer: (pause) Plugged it back in. (pause) The power light's coming back up... and... nope, still blinking red on the internet.
+
+Agent: Hmm, still blinking red. Okay, that's... that's not ideal. Let me ask you a few other questions. Do you have a gateway device or is it just the modem?
+
+Customer: I think it's just the one box? It says Frontier on it.
+
+Agent: That's the gateway, that's fine. And James, is this a fiber connection?
+
+Customer: Yeah, I believe so. We got the fiber installed about two years ago.
+
+Agent: Okay, perfect. And you mentioned you restarted it earlier—did anything else change with your setup? Did you have any power outages or storms last night?
+
+Customer: No, nothing like that. Everything was working fine last night. I was streaming and everything was good. This just... happened.
+
+Agent: Alright. Let me check our system here for any outages in your area. (typing sounds) (pause) I'm not showing any active outages in your neighborhood. But let me try another thing. Can you check your cables for me? Is the fiber optic cable connected to your gateway? It's the thin yellow or orange cable usually.
+
+Customer: (pause) Yeah, I see it. It looks... it looks fine? It's plugged in.
+
+Agent: And you can see the cable itself? There's no visible damage, no kinks or anything like that?
+
+Customer: No, looks good to me. It's just... [inaudible] ...on the back.
+
+Agent: Okay, good. James, I'm going to have you disconnect that fiber cable from the gateway for about 10 seconds, and then reconnect it. Just to reseat the connection.
+
+Customer: (pause) Okay, it's disconnected. (pause) Reconnecting it now... (pause) Alright, it's back in.
+
+Agent: Let's give it just a moment to recognize the connection. (pause) ...any change on that internet light?
+
+Customer: (pause) No... still blinking red.
+
+Agent: Still nothing. Okay. (pause) Let me see here. So I'm going to check if there's any account-level issues. One moment. (typing sounds, pause) I'm not seeing anything obviously wrong on our end with the service. James, when the gateway was plugged back in, did you see any lights flicker at all? Or did it go through a startup sequence?
+
+Customer: Um, yeah, it did the normal thing where it like... boots up. The lights cycle through but then it just stays on the red blinking light.
+
+Agent: Right. Unfortunately, what you're describing—the persistent blinking red light even after the power cycle and reconnecting the cable—that typically indicates the gateway itself might be having an issue recognizing the signal or... or there could be something wrong with the device.
+
+Customer: So like... it's broken?
+
+Agent: Well, it could be. I mean, it's hard to say for certain without me being able to see it, but those symptoms usually point to a hardware issue. We could try... let me think... (pause) Do you have another coaxial cable or ethernet cable you could try? Sometimes it's just a bad cable.
+
+Customer: I mean, I have an extra ethernet cable. Would that help?
+
+Agent: Actually, you know what, the ethernet cable would go from the gateway to a computer, but let me ask—are you connected to WiFi or are you using a wired connection?
+
+Customer: I was on WiFi. My laptop connects to WiFi.
+
+Agent: Right, right. So the ethernet wouldn't help us troubleshoot the actual gateway connection. (pause) James, I think at this point... I really think we might be looking at a device issue. I could set up a technician visit for you if you'd like. That way someone can come out and either get it reconnected or possibly swap out the gateway.
+
+Customer: How long would that take? I really need this working today. I have meetings and everything.
+
+Agent: Let me check availability. (typing sounds) What does your schedule look like? Could you do something this afternoon?
+
+Customer: Yeah, I could make this afternoon work, probably after 2 PM?
+
+Agent: (typing sounds) Okay, I'm showing that we have availability... we could get someone there between 2 and 4 PM today. Would that work?
+
+Customer: Yeah, that's fine. Better than nothing.
+
+Agent: Great. And just to cover all our bases before I schedule that—you're absolutely sure nothing changed with the setup? No one else came into your house, no recent storms, nothing unplugged accidentally?
+
+Customer: No, nothing. It was literally working last night and just quit this morning.
+
+Agent: I believe you. These things happen sometimes. Let me go ahead and get that technician scheduled for you. (typing sounds) (pause) Okay, so I have a service appointment scheduled for today between 2 and 4 PM. Your confirmation number is 77-4829. The technician will do a full diagnostic and either repair the gateway or replace it if needed.
+
+Customer: Alright, cool. Is there anything I should do in the meantime?
+
+Agent: You can try leaving it unplugged for a longer period if you want, but I wouldn't spend too much time on it. Just... just let it be. The technician will take it from there when they arrive.
+
+Customer: Got it. Thanks, Marcus.
+
+Agent: No problem, James. Sorry we couldn't get it resolved over the phone. Is there anything else I can help you with today?
+
+Customer: No, that's it.
+
+Agent: Alright, you should receive a confirmation email shortly, and the technician will text you when they're about 30 minutes away. Thanks for calling Frontier, and we appreciate your patience.
+
+Customer: Thanks. Bye.
+
+Agent: Bye, James.

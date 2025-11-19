@@ -1,0 +1,101 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hey, yeah, hi. So, um, my internet just went out about an hour ago and I can't get it back up. I've tried unplugging everything and nothing's working.
+
+Agent: I'm sorry to hear that. Let me pull up your account real quick so we can get this sorted out for you. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's area code 503, 555-0147.
+
+Agent: (typing sounds) Okay, got you here. I'm seeing your service address is on Maple Street in Salem, correct?
+
+Customer: That's right, yeah.
+
+Agent: Perfect. So you mentioned your internet went out about an hour ago. Before that happened, was everything working normally?
+
+Customer: Yeah, totally fine. I was just working from home, browsing the internet, and then suddenly everything just... died. No warning or anything.
+
+Agent: Okay, and are you seeing any lights on your modem or router right now?
+
+Customer: Um, let me check. (pause) The modem has a red light on it. The router has... I think it has a couple lights but they're not lighting up the way they normally do.
+
+Agent: Alright, that red light on the modem usually indicates there's an issue. Let's try a basic reset first. Can you unplug the modem for me? Just pull it out of the power outlet.
+
+Customer: Sure, doing that now. (pause) Okay, it's unplugged.
+
+Agent: Great. Let's leave it unplugged for about 30 seconds. That'll help clear out any temporary glitches in the system.
+
+Customer: Mm-hmm. (pause) Alright, it's been about 30 seconds.
+
+Agent: Perfect. Go ahead and plug it back in for me.
+
+Customer: (pause) Done. (pause) Okay, so it's booting back up. I can see some lights blinking now... (pause) The red light is still there though.
+
+Agent: Hmm, okay. That's... that's not ideal. Let me check something on our end. Can you give me just one second? (pause) I'm not seeing any outages in your area right now, so it's not a network-wide issue. Have you checked that all your cables are firmly connected? Sometimes the line can come loose, especially if you have pets or kids moving things around.
+
+Customer: Let me check... (pause) No, everything looks pretty secure back there. The cables all look fine to me.
+
+Agent: Alright. And you only have the one modem and router setup, correct?
+
+Customer: Yeah, just the two units. That's all I need for my apartment.
+
+Agent: Okay. Let me try something else. Can you restart your router as well? Just unplug that for about 30 seconds too.
+
+Customer: Yeah, okay. (pause) It's unplugging now. (pause) Alright, waiting. (pause) Okay, plugging it back in.
+
+Agent: Great. Let's give that a minute to fully boot up.
+
+Customer: (pause) Yeah, so the router's lighting up now like it normally does, but my modem... (pause) Yeah, the red light's still just sitting there. This is frustrating. I really need this to work, I've got a deadline tomorrow.
+
+Agent: I completely understand. That's definitely stressful. So the modem is still showing that red light. Let me ask you a few more questions. Have you recently had any work done at your location? Any electricians, construction, anything like that?
+
+Customer: No, nothing like that. It's just been normal. I didn't do anything different today.
+
+Agent: Okay. And when was the last time you restarted these devices before today?
+
+Customer: Um, I don't know, maybe like... a week ago? I usually don't mess with them if they're working.
+
+Agent: That's pretty normal. Alright, I'm going to check the modem model you have... (typing sounds) I'm seeing here that we provisioned a Frontier-issued gateway to your address. Let me just... (pause) Can you look at the label on the modem and tell me if it says "Frontier" on it?
+
+Customer: Yeah, it says Frontier on it. It's a white box with like a blue stripe or something.
+
+Agent: Okay, so this is definitely our equipment. One more thing I want to try before we escalate this. Can you give the power cable a gentle tug on both ends? Just make sure it's really snug. Sometimes they can get a little loose.
+
+Customer: (pause) Okay, I'm doing that now... (pause) Yeah, I'm pulling on it... (pause) It seems pretty tight actually. (pause) Hang on... (pause) Oh! I think I felt it shift a little. Let me try that. (pause) Wait, the red light is still... no, still red.
+
+Agent: Okay. (pause) Alright, I'm going to be honest with you. The red light on that modem indicates a downstream issue, usually meaning the signal isn't coming through from our equipment on the street. It's not something we can typically resolve over the phone from our end. I think what we're going to need to do here is get a technician out to your location to check the line coming into your apartment.
+
+Customer: Wait, so you can't fix this right now?
+
+Agent: Unfortunately not. Since we've done all the basic troubleshooting steps and the issue appears to be on the external line or the connection point, we're going to need someone physically there to diagnose and repair it. The red light is really the giveaway that it's not an equipment issue on your end.
+
+Customer: Okay... how long is that going to take? When can someone come out?
+
+Agent: (typing sounds) Let me check our availability for your area. (pause) So we do have some availability tomorrow morning between 8 AM and 12 PM, or we could potentially get someone out there... (pause) ...actually, later this week we have slots on Friday between 1 and 5 PM. There might be one more option if there's an emergency slot, but those are usually reserved for business priority customers.
+
+Customer: No, tomorrow morning works. I need this fixed before my deadline tomorrow. What time exactly?
+
+Agent: It'll be between 8 AM and 12 PM. The technician will call you about an hour before they arrive to give you a more specific window. Does that work for you?
+
+Customer: Yeah, that's fine. I'll be here.
+
+Agent: Perfect. Let me get that set up for you. (typing sounds) I'm scheduling a technician visit for tomorrow morning, 8 to 12 PM window at your address on Maple Street. You should receive a confirmation email within the next few minutes, and as I mentioned, the technician will contact you about an hour before arrival.
+
+Customer: Okay, great. Is there anything I should do in the meantime? Should I keep trying to restart things or...?
+
+Agent: No, I'd say just leave everything as it is right now. Don't keep restarting it, as that can sometimes make things harder for the technician to diagnose if there's a specific error code. Just leave it powered on so they can see what the modem is displaying when they arrive.
+
+Customer: Alright, will do. Anything else I need to know?
+
+Agent: Just make sure someone's home to let them in tomorrow. They'll need access to where your modem is located. If you have any questions before then, feel free to give us a call back and we'll be happy to help.
+
+Customer: Okay. Well, I hope they can fix it quickly because I really do have this deadline.
+
+Agent: I'm sure they will. Our technicians are pretty efficient with these kinds of issues. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. Thanks for trying, I guess.
+
+Agent: You're welcome, and again, I apologize that we couldn't resolve this remotely. We'll get you taken care of tomorrow. Have a good night.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

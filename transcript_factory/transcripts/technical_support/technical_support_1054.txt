@@ -1,0 +1,93 @@
+# Frontier Communications Support Call
+
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet's been down since this morning and I'm not sure what's going on. I've got work I need to do from home and it's just... nothing's working.
+
+Agent: Oh, I'm sorry to hear that. Let me pull up your account here. Can I get your phone number or account number, please?
+
+Customer: Sure, it's area code 503, 555-0147.
+
+Agent: (typing sounds) Okay, perfect. I've got your account right here. Let me just confirm—this is for the service at 2847 Riverside Drive?
+
+Customer: Yes, that's correct.
+
+Agent: Great. And just to confirm your name is Michael?
+
+Customer: Yeah, Michael Torres.
+
+Agent: Excellent, Michael. So you're experiencing a complete internet outage since this morning? Have you noticed any lights on your modem or router at all?
+
+Customer: Well, that's the thing. The modem is... let me look at it. (pause) Okay, so the power light is on, but I don't see any internet light. The one that usually blinks? That's dark.
+
+Agent: Okay, that's actually really helpful information. The internet light being off usually means the modem isn't detecting a connection from our network. Let's try a few things. First, can you unplug the modem for me? Just pull the power cord out completely.
+
+Customer: Okay, pulling it out now. (pause) It's unplugged.
+
+Agent: Great. Let's give that about thirty seconds to fully power down. I'm gonna have you count it out with me, okay?
+
+Customer: Alright. (counting) One... two... three...
+
+Agent: (counting along) ...ten, eleven, twelve... (pause) Okay, go ahead and plug it back in.
+
+Customer: (sound of cord being plugged in) Okay, it's back in.
+
+Agent: Perfect. Give it about a minute to boot back up. Sometimes that first restart can do the trick. While we wait, have you noticed any recent storms or anything unusual at your location?
+
+Customer: No, nothing like that. The weather's been fine. But, um, I did have someone out here earlier this week doing some landscaping work in my yard. I'm not sure if that matters...
+
+Agent: That could potentially matter, actually. If they were digging or working near the street, they might have hit the fiber line. Let me ask you this—do you see any damaged areas outside? Any torn up ground or anything that looks unusual near the curb or driveway?
+
+Customer: (pause) Hmm, let me think. I don't think so? I mean, they were mostly working on the back yard and side yard. But I guess something could have happened to the line on the street...
+
+Agent: Let me check something on my end here. (typing sounds) I'm actually looking at our network diagnostics and I'm not seeing any signal coming from your address at all. That's actually consistent with either a line issue or a deeper problem with the modem itself. Do you see the light back on now?
+
+Customer: Yeah, the power light is back on, but that internet light... nothing. Still dark.
+
+Agent: Okay. Let me have you try one more thing. Can you check the back of the modem? There should be a cable going into it from the wall. Can you make sure that's nice and tight?
+
+Customer: (sounds of fumbling) Yeah, I'm checking back there. It looks... okay, the cable seems pretty snug. Should I try jiggling it or something?
+
+Agent: Well, let's see. You can try gently wiggling it to see if that causes the light to flicker, but be careful not to strain the connection. Just a gentle movement.
+
+Customer: (pause) Okay, I'm giving it a little wiggle and... nope. Still nothing.
+
+Agent: (pause) Alright, Michael. I'm going to be honest with you here. Based on what we're seeing, this seems to be an issue with the line coming into your home rather than the modem itself. The modem is responding properly, but there's no signal reaching it from our network.
+
+Customer: So what does that mean? Is it broken?
+
+Agent: It could be a few things. Most likely given what you mentioned about the landscaping work, there may be damage to the fiber line running to your property. It's also possible there's an issue on our end with the connection in that area, but that's less common. 
+
+Customer: Okay, so what do we do? Can you fix it?
+
+Agent: (typing sounds) So here's what I recommend. I need to submit a work order to have a technician come out to your location. They'll be able to physically inspect the line and see if there's any damage, and then repair it if needed. Let me get that scheduled for you right now.
+
+Customer: Okay, yeah, that makes sense.
+
+Agent: (typing sounds) I'm looking at our availability and I have a few options. We have tomorrow between 8 AM and 12 PM, or later in the week on Friday between 1 and 5 PM. What works better for you?
+
+Customer: Tomorrow would be better. The 8 to 12 window should be fine.
+
+Agent: Perfect. (typing sounds) I have you scheduled for tomorrow morning between 8 and 12. You should receive a confirmation email and also a text message to the number on file. The technician's name will come through in that notification. Is there anything else I can help you with today?
+
+Customer: Well... is there anything I should do in the meantime? Like, is there any way to get internet working today? I really need to send some emails...
+
+Agent: (pause) Unfortunately, if it is a line issue, there's not much you can do on your end. I would recommend heading to a coffee shop or somewhere with Wi-Fi if it's urgent. But let's hope it's something simple and the tech can get it sorted out first thing tomorrow.
+
+Customer: Alright, I guess I'll have to make it work somehow. Thanks for trying, Derek.
+
+Agent: I'm really sorry we couldn't get it resolved right now, Michael, but I'm confident our technician will get you back up and running tomorrow. Is there a best number to reach you at if the technician has any questions before arriving?
+
+Customer: Yeah, it's the same number I gave you earlier. 503-555-0147.
+
+Agent: Perfect, I have that on file. Thanks for being patient with me today, and again, I apologize for the inconvenience. Your work order is all set for tomorrow morning.
+
+Customer: Thanks, Derek. I appreciate it.
+
+Agent: You're welcome, Michael. Have a good rest of your day, and we'll get you back online soon.
+
+Customer: Thanks, you too.
+
+Agent: Thank you for calling Frontier. Goodbye.
+
+Customer: Bye.

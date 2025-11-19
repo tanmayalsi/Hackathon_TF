@@ -1,0 +1,93 @@
+Agent: Thank you for calling Frontier Communications. This is Marcus speaking. How can I help you today?
+
+Customer: Yeah, hi. So my internet just went out about an hour ago and I can't get it back online. I've tried unplugging everything and plugging it back in, but nothing's working.
+
+Agent: I'm sorry to hear you're experiencing an outage. I'd be happy to help you get this resolved. Let me pull up your account real quick. Can I get the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, and what's the name on the account?
+
+Customer: It's David Chen.
+
+Agent: Perfect, David. I've got you here. Let me just verify the service address to make sure I'm looking at the right account. Is that 428 Willow Street in Portland?
+
+Customer: Yeah, that's correct.
+
+Agent: Great. So you mentioned your internet went out about an hour ago. Let me start by asking you a few quick questions. Are all the lights on your modem and router currently on, or do you see any that are off or blinking red?
+
+Customer: Um... (pause) Let me look at it. The modem has... okay, so the power light is on, it's green. But the internet light is red and it's blinking.
+
+Agent: Okay, that red blinking light on the internet indicator tells me the modem isn't syncing with our network right now. That's actually pretty common. Let's try a few things. First, I'm going to have you unplug the modem for about 30 seconds. Just pull the power cable right out of the back.
+
+Customer: Okay, doing that now... (pause) It's unplugged.
+
+Agent: Good. Now while we wait, let me ask—did you experience any storms in your area recently, or has anything unusual happened today?
+
+Customer: No, no storms. It was actually pretty nice out today. This just happened out of nowhere.
+
+Agent: Alright. And you haven't had any recent work done on your line or anything like that?
+
+Customer: No, nothing like that.
+
+Agent: Okay. Go ahead and plug the modem back in now.
+
+Customer: (pause) It's plugged back in. I'm waiting for it to boot up... (longer pause) Okay, it's booting. The lights are... the power light came back on, it's green. But this internet light is still red.
+
+Agent: Still red, okay. Let me check something on my end. (typing sounds) (pause) Hmm. I'm not actually seeing your modem registered on our network at all right now, which is unusual. Let me have you try one more thing. Can you locate the reset button on the modem? It's usually a small button on the back.
+
+Customer: The reset button? Like... I don't want to lose my settings or anything...
+
+Agent: I understand the concern. A reset should restore your connection to our network, but your WiFi password and any custom settings would stay the same. Let me just... actually, before we do that, let me check the line status one more time. (typing sounds) (pause) [inaudible] Okay, so I'm not seeing any active signal coming down your line right now.
+
+Customer: What does that mean? Is it a problem with your network or my equipment?
+
+Agent: That's a good question. It could be either. The fact that your modem isn't communicating with us suggests there might be an issue on the line itself, or it could still be the modem. Let me have you try that reset. Just hold the reset button for about ten seconds.
+
+Customer: Okay... (pause) ...holding it... (pause) Okay, I'm letting go. The lights are all going crazy now.
+
+Agent: That's normal, they'll cycle through while it's resetting. This should take maybe a minute or so.
+
+Customer: (pause) Alright, so now the power light came back on. But I'm not seeing... wait, now the internet light is blinking orange instead of red. Is that better?
+
+Agent: Blinking orange is actually the boot-up sequence, so that should be a good sign. Let's just give it another 20 or 30 seconds to fully initialize.
+
+Customer: (pause) Okay... it's still blinking orange. How long should this take?
+
+Agent: It shouldn't be more than another minute or so. Let me just... (typing sounds) Still no signal on my end. This is strange. (pause) Okay, the orange light is still blinking?
+
+Customer: Yeah, just keeps blinking.
+
+Agent: Alright, let me check something. Do you have a computer or phone you can use to check if you're seeing any WiFi networks available right now? Even if they're not yours?
+
+Customer: Sure, let me grab my phone. (pause) Yeah, I'm seeing... I see two networks. One that says "Frontier-Guest-5G" and there's another one. But not my network.
+
+Agent: Okay, so my network should be showing up. The fact that it's not tells me the modem still isn't fully coming online. David, I think what we might be dealing with here is either a modem issue or a line issue that's beyond what I can troubleshoot over the phone. Do you have any other questions before we move forward?
+
+Customer: Well... what do we do? How long is this going to take? I need my internet for work from home.
+
+Agent: I completely understand. Okay, so here's what I'm going to recommend. We can either send a technician out to your location to diagnose the issue—that would typically be within 24 to 48 hours depending on our schedule—or if you want, we could also try shipping you a replacement modem, but that might take a few days to arrive.
+
+Customer: A technician sounds faster. When would they be able to come out?
+
+Agent: Let me check our availability. (typing sounds) (pause) Looks like we can get someone out there tomorrow between 8 AM and 12 PM, or we have afternoon slots available as well. Would either of those work for you?
+
+Customer: Tomorrow morning would be great.
+
+Agent: Perfect. And just to confirm, is 428 Willow Street still the best address to reach you at?
+
+Customer: Yeah, that's right.
+
+Agent: Excellent. I'm going to get a tech scheduled for tomorrow morning between 8 and 12. They'll reach out if they need anything before they arrive. In the meantime, is there anything else I can help clarify for you?
+
+Customer: No, I think that's it. I just hope they can fix it quickly.
+
+Agent: I'm sure they will. I'm sorry we weren't able to get it working over the phone, but our technician should have you back up and running. Thank you for calling Frontier, and we appreciate your patience.
+
+Customer: Thanks, I appreciate it.
+
+Agent: You're welcome. Have a great day, David.
+
+Customer: You too. Bye.
+
+Agent: Bye.

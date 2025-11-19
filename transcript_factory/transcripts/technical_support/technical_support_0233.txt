@@ -1,0 +1,105 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet's been down since this morning and I have no idea what's going on. I really need to get this fixed.
+
+Agent: I'm sorry to hear that. We'll get this sorted out for you. Can I grab your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, one second here... Got it. I'm showing this is for... Marcus Chen at 2847 Maple Street?
+
+Customer: Yes, that's me.
+
+Agent: Perfect, Marcus. So you mentioned your internet's been down since this morning. Have you tried unplugging your modem and router yet?
+
+Customer: I did that like an hour ago. Unplugged them both for a minute and plugged them back in. Still nothing.
+
+Agent: Okay, good troubleshooting step. Do you see any lights on the modem at all right now?
+
+Customer: Um... yeah, there's a power light. It's green. But there's like... I think it's a red light next to it?
+
+Agent: A red light, okay. That typically indicates there's an issue with the connection. Can you tell me, are you looking at a gateway unit, or do you have a separate modem and router?
+
+Customer: It's... I'm not totally sure what you mean, but it looks like one box. It's the device you guys gave me.
+
+Agent: That's our Frontier gateway, perfect. Okay, so with that red light, let's try a factory reset. This should take about fifteen minutes for everything to come back online. I'm going to have you hold down the reset button on the back of the gateway for about ten seconds. Do you have access to the back of it?
+
+Customer: Yeah, I can... (sounds of movement) ...okay, I'm unplugging it first just to be safe.
+
+Agent: Good thinking. Actually, let me just walk you through this with it plugged in. Go ahead and plug it back in, and then locate the reset button. It's usually a small recessed button.
+
+Customer: (pause) Okay... (pause) I found it. I think.
+
+Agent: You think? (light laugh)
+
+Customer: Yeah, there's a small button here that says "reset" on it, so I'm pretty confident that's it.
+
+Agent: That's definitely the one then. Go ahead and hold that down for ten seconds while it's powered on.
+
+Customer: (pause) Okay, holding it... ten seconds... (pause) ...done. Now what?
+
+Agent: Now we just wait and let it boot back up. You should see the lights cycling through different colors over the next minute or so. Can you just tell me when everything stabilizes?
+
+Customer: (pause) Okay so the lights are doing... something. There's like, green and then amber, green and amber...
+
+Agent: That's normal. That's the gateway reinitializing. Just give it another minute or two.
+
+Customer: (long pause) Alright, uh... the lights stopped doing the thing. Now I've got a green power light and... still that red light.
+
+Agent: (pause) Hmm, still the red light. Okay, let's try something else. Can you check your physical connections for me? I want to make sure the coaxial cable coming from the wall into the modem is tight.
+
+Customer: The... the cable? The thick gray one?
+
+Agent: That's probably it, yeah. Try giving it a quarter turn clockwise to tighten it up.
+
+Customer: (sounds of movement) Okay... it was a little loose actually. Let me... (pause) ...there, tightened it.
+
+Agent: Great. Now let's wait another thirty seconds and see if that red light clears.
+
+Customer: (pause) I'm watching it... I'm watching it... (pause) Still red.
+
+Agent: Still there?
+
+Customer: Yeah, unfortunately.
+
+Agent: Alright. I'm going to check the signal levels coming into your account from our side here. (typing sounds) Let me just... (pause) I'm pulling up your modem diagnostics... (pause) Okay, I'm actually seeing something here. The downstream signal levels look pretty weak. This could indicate either a line issue or a problem with the gateway itself.
+
+Customer: So what does that mean? Like, is it broken?
+
+Agent: It could be a few things. But let's rule out the equipment first. I'm also seeing that you haven't had any service interruptions in your area, so it's not a widespread outage. (pause) Do you happen to have any other coaxial cables in your home you could try? Maybe an old one from a cable box or something?
+
+Customer: I... I'm not sure. Let me look around. (long pause with background noise) I found one. It was in a drawer.
+
+Agent: Perfect. Go ahead and swap that out and see if that makes a difference.
+
+Customer: (sounds of movement) Okay, swapping it out... (pause) Let me plug it back in... (pause) ...Alright, it's connected.
+
+Customer: (pause) Red light's still there.
+
+Agent: Still red. Okay. (pause) Marcus, I think at this point we're looking at either a deeper line issue or the gateway unit itself might need replacement. I'm going to get a technician dispatched to your location. They can check the connection from the street to your home and swap out the equipment if needed.
+
+Customer: When could someone come out?
+
+Agent: Let me check our availability. (typing sounds) (pause) The earliest I can get someone there would be tomorrow between 8 AM and noon. Would that work for you?
+
+Customer: Tomorrow? I really need this working today if possible.
+
+Agent: I understand, and I apologize for that. We don't have any same-day availability in your area at the moment. I wish I could get someone out sooner. Tomorrow morning is the next opening we have.
+
+Customer: (frustrated sigh) Alright, I guess that's fine. Tomorrow morning.
+
+Agent: I'm going to schedule that for you now. (typing sounds) (pause) You're all set. Technician will be out between 8 AM and noon tomorrow. You'll receive a confirmation text and email with all the details. Do you have any other questions for me before we wrap up?
+
+Customer: No, I think that's it. Thanks for trying.
+
+Agent: You're welcome, Marcus. And again, I apologize we couldn't get it working over the phone. The technician should be able to resolve this tomorrow. Is there anything else I can help you with today?
+
+Customer: No, that's all.
+
+Agent: Great. Thanks for choosing Frontier, and we appreciate your patience. Have a good day.
+
+Customer: You too.
+
+Agent: Bye now.
+
+(call ends)

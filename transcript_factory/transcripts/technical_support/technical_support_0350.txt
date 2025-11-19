@@ -1,0 +1,119 @@
+# Frontier Communications Support Call
+
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Hi, yeah, so... my internet's been down since this morning and I really need to get it working. I work from home and I've got meetings all day.
+
+Agent: I'm sorry to hear that. Let me pull up your account here and we'll get this sorted out for you. Can I get the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm looking at your account now. I see you're on our fiber service in the Henderson area. When exactly did you notice the internet went out?
+
+Customer: Um, I'd say around 7:30 this morning. I went to check my email and just... nothing. The router's still on, the lights are flashing and everything, but I can't get online.
+
+Agent: Alright, so the router is powered on with lights. That's good information. Let's start with some basic troubleshooting. Can you tell me what color the lights are showing right now?
+
+Customer: Uh, let me look... (pause) So there's like a white light that's just... steady, and then there's like a blue one that's blinking.
+
+Agent: Okay, okay. So you've got a steady white light and a blinking blue light. That typically indicates the router is trying to sync with the network but hasn't quite connected yet. Let's try unplugging the modem first. Can you do that for me?
+
+Customer: The modem? Yeah, I can do that. (pause) Okay, it's unplugged.
+
+Agent: Great. And while that's unplugged, can you also unplug the router for me? Just leave them both off for about thirty seconds.
+
+Customer: Yeah, doing that now. (pause) Alright, they're both unplugged.
+
+Agent: Perfect. Now let's wait about thirty seconds. (pause) Okay, go ahead and plug the modem back in first, and we'll wait for it to fully boot up.
+
+Customer: (pause) Okay, plugged back in. How long should I wait?
+
+Agent: Give it about a minute. You should see the lights change. There might be some orange or red lights first while it's starting up, and then they should stabilize.
+
+Customer: (pause) Okay... I'm seeing some orange now... and now it's kind of cycling through different colors. Should I plug the router back in?
+
+Agent: Not quite yet. Let's wait for the modem to fully stabilize. That should take another thirty seconds or so. Just watch those lights for me.
+
+Customer: (pause) Okay... alright, the white light is steady again now. And the blue is still blinking.
+
+Agent: (pause) Hmm, okay. Still the same pattern. Go ahead and plug the router back in now.
+
+Customer: (pause) Plugged it back in. (pause) The lights are... it's the same thing. Same blue blinking, white steady.
+
+Agent: Alright. Let's try a different approach. Can you check the back of the modem for me? Do you see an ONT port? It might be labeled "ONT" or it could be a specific colored port, often green or yellow.
+
+Customer: Um, let me look at the back here... (pause) Yeah, I see... there's like a green port that says ONT. Should I... what am I looking for?
+
+Agent: Just check to see if the cable is securely plugged into that port. Give it a gentle tug to make sure it's firmly seated.
+
+Customer: (pause) It looks pretty tight to me, but let me try anyway. (pause) Yeah, it doesn't move. It seems connected.
+
+Agent: Okay, good. And let me ask—did you have any storms in your area last night or this morning? Any power outages?
+
+Customer: No, I don't think so. It was pretty clear all night as far as I could tell. The power's been steady too.
+
+Agent: Alright. Let me check something on our end here. (typing sounds) I'm going to check for any service outages in your area. Can you give me your service address just to be sure I'm looking at the right location?
+
+Customer: Yeah, it's 4847 Elm Street, Henderson.
+
+Agent: (typing sounds) Okay, let me pull that up... (pause) I'm not seeing any reported outages in your area at this time. The network appears to be operating normally on our end.
+
+Customer: Okay, so it's something on my side then?
+
+Agent: It appears that way. Let's try a few more things. Have you tried accessing the router settings directly? Sometimes we can see more information there about the connection status.
+
+Customer: I... not really. How do I do that?
+
+Agent: You can open a web browser on your computer or phone—if you've got mobile data, that might be easier—and go to 192.168.100.1. That should bring up the router's admin page.
+
+Customer: (pause) Okay, I'm pulling it up on my phone... (pause) Yeah, I'm in. So what am I looking for?
+
+Agent: Look for something that says "WAN Status" or "Internet Status." That should show you whether the router is detecting the connection from the modem.
+
+Customer: (pause) Hmm, I see "WAN Status" and it says... "Disconnected."
+
+Agent: Alright, so the router's not seeing the connection from the modem. That's helpful information. This could indicate an issue with the fiber line itself or the ONT. (pause) Let me ask you this—has anything changed with your setup recently? Any new equipment, or have you moved anything around?
+
+Customer: No, nothing like that. Everything's been the same for like... I don't know, six months?
+
+Agent: Okay. Let me try one more thing. On the modem itself, do you see a reset button? It'll usually be a small button, maybe recessed.
+
+Customer: (pause) Yeah, I see it. It's got a little pinhole.
+
+Agent: Alright, I'm going to have you press that for about ten seconds. This will reset the modem to factory settings, so just be aware it'll take a few minutes to come back online.
+
+Customer: Okay, pressing it now. (pause) It's resetting, the lights are going crazy.
+
+Agent: That's normal. Just let it sit for a couple of minutes and we'll see if that helps.
+
+Customer: (pause) [inaudible] ...okay, white light's steady again, blue's blinking... (pause) Same thing as before. Still the same.
+
+Agent: (pause) Okay. I'm going to be honest with you—this is pointing to something more serious, likely with the fiber line coming into your house or the ONT unit itself. This is beyond what we can troubleshoot over the phone at this point.
+
+Customer: Oh no, really? So what do I do? I have calls starting in like... (pause) ...less than an hour.
+
+Agent: I completely understand. What I need to do is get a technician scheduled to come out to your location. They'll be able to check the fiber line and test the equipment directly. Let me see what I can get you. (typing sounds) I'm showing we have availability tomorrow between 1 and 5 PM, or we might be able to get someone out this afternoon if you're available.
+
+Customer: This afternoon? How soon?
+
+Agent: Let me check... (pause) I'm seeing a possible window between 2 and 4 PM today. Does that work for you?
+
+Customer: (pause) Yeah, yeah, I can make that work. I can reschedule my meetings if I need to.
+
+Agent: Excellent. Let me get that scheduled for you. (typing sounds) Alright, I've got a technician appointment set for today between 2 and 4 PM at your address. You'll get a confirmation text and email shortly. The technician's name is going to be provided closer to the appointment time.
+
+Customer: Okay, great. Thanks. So is there anything else I should try in the meantime?
+
+Agent: Honestly, at this point I'd just leave everything as it is. Sometimes if you keep resetting things it can actually complicate the troubleshooting when the tech arrives. Just let it sit.
+
+Customer: Alright, I won't touch anything. I appreciate your help.
+
+Agent: I'm sorry we couldn't get this resolved remotely for you today. The technician will definitely get to the root of the issue. Is there anything else I can help you with?
+
+Customer: No, that's it. Thanks again.
+
+Agent: You're welcome. Thanks for choosing Frontier, and we appreciate your patience. Have a great day.
+
+Customer: You too, bye.
+
+Agent: Bye now.

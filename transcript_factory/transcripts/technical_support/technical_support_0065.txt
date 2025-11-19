@@ -1,0 +1,103 @@
+# Frontier Communications Support Call
+
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Hi, yeah, um, my internet went out this morning and I've tried everything I can think of. It's been down for like three hours now.
+
+Agent: Oh no, I'm sorry to hear that. Let me pull up your account and we'll get this sorted out. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147. That's my phone number.
+
+Agent: (typing sounds) Perfect, I've got you here. I see you're on our fiber service at... is this a residential account?
+
+Customer: Yes, yeah, that's right.
+
+Agent: Okay, great. So your internet is completely down right now?
+
+Customer: Pretty much, yeah. Like, nothing's working. I can't load anything. I've got no WiFi, nothing.
+
+Agent: Alright, let's start with the basics. Can you tell me what you're seeing right now? Do you have a modem and a router?
+
+Customer: Um, yeah. They're both just... sitting here blinking at me. Like, the modem has some lights on it but I'm not really sure what they mean.
+
+Agent: That's okay, I can help with that. So the lights are on and blinking?
+
+Customer: Yeah, there's like a power light that's steady, but then there's another one that's just... it keeps blinking red. Like, a red light.
+
+Agent: Okay, a red light is usually not a good sign. That typically means there's no connection to our network. Have you tried unplugging the modem and router yet?
+
+Customer: No, I... I didn't think of that, honestly. Should I do that now?
+
+Agent: Yes, definitely. Go ahead and unplug the modem first. Leave it unplugged for about 30 seconds, and then plug it back in. While that's restarting, you can unplug the router too if you'd like.
+
+Customer: (sounds of movement) Okay, um, it's unplugged. (pause) How long should I wait?
+
+Agent: About 30 seconds should do it. While we're waiting, let me ask you—have you had any recent storms in your area? Sometimes that can knock out connections.
+
+Customer: Actually, now that you mention it, yeah. There was some pretty heavy wind last night. I didn't think anything of it though.
+
+Agent: That could definitely be related. Okay, go ahead and plug it back in now.
+
+Customer: (sounds of plugging in) Alright, it's back in. Should I wait for it to fully boot up?
+
+Agent: Yeah, give it about two to three minutes. Those lights should start changing. You're looking for the power light to stay solid, and ideally the internet or connection light to be solid green or blue, depending on your model.
+
+Customer: (pause) Okay, I'm watching it... the power light is solid now, but... this other light is still red. Like, it's not even blinking anymore, it's just solid red.
+
+Agent: Hmm, solid red is a different issue. That usually indicates a connection problem on our end or with the line itself. Let me check something on my end. (typing sounds) I'm going to run a line test from here to see if we're getting a signal to your location.
+
+Customer: Okay, yeah, do whatever you need to do.
+
+Agent: (pause) Alright, so I'm not seeing an active signal coming through to your modem. That's the issue. It could be a few things—it could be a problem with our network in your area, or it could be an issue with the line coming to your house.
+
+Customer: So what do I do? Like, is this something I can fix?
+
+Agent: Unfortunately, this is probably something on our end or with the line infrastructure. But let me try a few more things before we escalate this. Can you tell me where your modem is located? Is it near a window or outside?
+
+Customer: It's in my living room, um, near the front window actually.
+
+Agent: Okay, and you don't have any coaxial cables that might be loose or disconnected?
+
+Customer: (pause) Let me check. (sounds of movement) Um, I'm looking at it right now. There's a cable that comes in from outside, and... it looks pretty secure to me.
+
+Agent: Alright, can you try gently twisting it just to make sure it's snug? Sometimes they can look connected but not be fully seated.
+
+Customer: (sounds of movement) Okay, I'm twisting it... it seems pretty tight already. (pause) Nope, still red.
+
+Agent: Okay, I tried. Let me... let me check our system again. (typing sounds, pause) You know what, I'm actually seeing some alerts in our system for your area. There might be some network maintenance or an outage happening. Can you hold for just one second while I check with our network team?
+
+Customer: Sure, yeah, no problem.
+
+Agent: (hold music plays, then agent returns after about 30 seconds) Okay, I'm back. So I spoke with our network team and they did confirm there was some damage to a line in your neighborhood from those high winds last night. They're working on it, but they don't have an ETA yet on when it'll be fixed.
+
+Customer: Are you serious? So there's nothing I can do?
+
+Agent: Unfortunately, no, not on your end. The issue is with our infrastructure. However, I can escalate this to a priority repair ticket and make sure you're in the queue. They should be able to get someone out there, hopefully within the next 24 to 48 hours.
+
+Customer: Great, so I'm just without internet for the next two days?
+
+Agent: I understand this is frustrating. Let me make sure we get this prioritized. Can you confirm the address where you need the repair?
+
+Customer: Yeah, it's 447 Maple Street, Apartment 3B.
+
+Agent: (typing sounds) Okay, got that. And the best number to reach you on is the 555-0147?
+
+Customer: Yeah, that's my cell phone. That works.
+
+Agent: Perfect. So I've created a ticket, and our repair team will call you before they come out. The ticket number is 7-8-4-9-2-1. You might want to write that down.
+
+Customer: (pause) Okay... 784921. Got it.
+
+Agent: And I do want to apologize for this. We know how important your internet is. Is there anything else I can help you with today?
+
+Customer: I mean, not really. When should I expect someone to call me?
+
+Agent: You should hear from someone within 24 hours. But it could be sooner depending on how quickly the crew can assess the damage. They'll give you a specific time window when they call.
+
+Customer: Alright, I guess that's the best I can do. Thanks, Marcus.
+
+Agent: You're welcome, and again, I'm sorry about this. Thanks for being a Frontier customer, and we'll get you back online as soon as we can.
+
+Customer: Thanks. Bye.
+
+Agent: Bye now.

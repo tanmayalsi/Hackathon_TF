@@ -1,0 +1,95 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, I'm calling because my internet just went out completely. I've been without service for like... I dunno, maybe an hour now?
+
+Agent: I'm sorry to hear that. Let me pull up your account real quick. Can I get the phone number associated with your account, please?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, I've got you here. And just to confirm, this is for your residential fiber service at 428 Maple Street?
+
+Customer: Yes, that's correct.
+
+Agent: Alright, thanks. So you're experiencing a complete outage—no internet access at all right now?
+
+Customer: Right. Nothing. The modem's still on, the lights are doing their thing, but I can't connect to anything. I tried unplugging it and plugging it back in, which I know is like... the classic fix, but that didn't help.
+
+Agent: (pause) Okay, well that's actually a good first step that you already took. Let me ask you a few more questions. When you look at your modem right now, can you tell me what color the lights are and whether they're blinking or solid?
+
+Customer: Um, so there's a green light that's solid, and then there's like a blue one that's blinking... maybe once every two seconds?
+
+Agent: Okay, so the green solid is good—that typically means power. But that blue blinking light is a little concerning. Do you see any red lights at all?
+
+Customer: No, no red lights.
+
+Agent: Alright. And just to double-check—are you trying to connect via WiFi or ethernet cable?
+
+Customer: I tried both, actually. I plugged in an ethernet cable directly to my laptop and still nothing. And the WiFi just shows my network name but won't connect.
+
+Agent: (pause) Okay, that definitely sounds like it could be a modem issue. Um, let me check something on my end here. (typing sounds) I'm looking at our system and... actually, it does look like we might be experiencing some service disruptions in your area. Let me just verify your fiber connection is active.
+
+Customer: Oh, there's an outage? You didn't mention that at first.
+
+Agent: Well, I'm checking now. It's not showing a widespread outage necessarily, but there could be something happening with your line specifically. Let me walk you through a few troubleshooting steps. First, I want you to go ahead and locate the fiber box on the outside of your house. Do you know where that is?
+
+Customer: Uh, I think so? It's like a small white box on the side of the house near the garage, right?
+
+Agent: That sounds right. Can you go take a look at it for me?
+
+Customer: (pause, sounds of footsteps) Yeah, I'm looking at it now.
+
+Agent: Perfect. Are there any lights on that box?
+
+Customer: (pause) There's... there's no lights at all on it. Is that bad?
+
+Agent: (pause) Hmm, that's actually not ideal. Okay, so the issue might be at the connection point. Let me have you go back inside and try one more thing. I want you to unplug the modem, wait about thirty seconds, and then plug it back in. But this time, wait a full minute or two before checking the lights again.
+
+Customer: Okay, unplugging now... (pause) ...alright, waiting...
+
+Agent: (pause, background noise on agent's end) Take your time.
+
+Customer: (pause) Okay, it's been about a minute. Lights are... it's the same as before. Green solid, blue blinking.
+
+Agent: Still the same, okay. (pause) Alright, I'm gonna try a few things from my end here. What I'm gonna do is send a reset signal to your modem. This might take a minute. Just stay on the line with me.
+
+Customer: Sure, okay.
+
+Agent: (typing sounds, pause) Okay, sending that now... (longer pause) Alright, and can you tell me if anything changed on the modem?
+
+Customer: (pause) No, nothing. Same lights.
+
+Agent: (sighs) Okay. Let me check the line status one more time... (typing sounds, pause) I'm not seeing any active connection from our end on your fiber line. That typically means either the line itself is down, or there's an issue with the connection at the box.
+
+Customer: So what does that mean? Like, is it something you guys have to fix?
+
+Agent: It very well could be. What I want to do is escalate this to our technical team. They can send a technician out to check the fiber connection on your property and at the junction point. Unfortunately, I'm not able to diagnose what's happening from here if the line isn't registering at all.
+
+Customer: Okay... so when can someone come out? I really need to get this working. I work from home.
+
+Agent: I completely understand. Let me check availability. (typing sounds, pause) What's your availability looking like? Are you available tomorrow between like... say, 10 AM and 2 PM?
+
+Customer: Tomorrow? Can't they come today?
+
+Agent: (pause) I know it's frustrating. Unfortunately, our next available slot for today is pretty late—we'd be looking at around 7 PM at the earliest. Would that work for you?
+
+Customer: (sighs) I... I guess that's better than tomorrow. Let's do 7 PM today if that's what's available.
+
+Agent: (typing sounds) Perfect. So I've got you down for a service call today between 6 and 8 PM. A technician will be out to assess the fiber connection issue. You'll get a confirmation text and email with more details. The reference number for this visit is 447829.
+
+Customer: Okay, got it. Is there anything else I should be doing in the meantime?
+
+Agent: Just keep the modem powered on so the tech can do their diagnostics when they arrive. And if the internet randomly comes back on before they get there, just give us a call back so we can cancel.
+
+Customer: Alright. I'm not super optimistic about that, but sure.
+
+Agent: (pause) I wish I had better news for you today. But our tech team is really good, and they'll get to the bottom of what's going on. Is there anything else I can help you with?
+
+Customer: No, I think that's it. I just hope they can fix it.
+
+Agent: Me too. Thanks so much for calling Frontier, and we'll see you later today.
+
+Customer: Okay, thanks.
+
+Agent: Have a great day.
+
+(call ends)

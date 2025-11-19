@@ -1,0 +1,101 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet's been down since this morning and I'm not sure what's going on. I really need to get it back up and running.
+
+Agent: I'm sorry to hear that. We'll do our best to get you back online. Let me pull up your account here. Can I get your phone number or account number, please?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, I'm looking at your account now. I see here you're on our fiber service in... Springfield area, is that correct?
+
+Customer: Yes, that's right.
+
+Agent: Alright. So when did you first notice the internet went down?
+
+Customer: This morning around 7 AM. I was trying to check my email and nothing was loading. I thought maybe my router needed a restart, so I unplugged it for like thirty seconds and turned it back on, but it still wasn't working.
+
+Agent: Okay, that's good troubleshooting on your part. When you powered the router back on, did you see any lights on the front of it?
+
+Customer: Um... (pause) Yeah, there's a power light that's on, but the internet light—I think it's supposed to be blue—it's just red right now.
+
+Agent: Okay, so the red light indicates there's no connection coming in from our line. That actually tells me something useful. Are you able to see the ONT device? That's the small box that connects outside to our fiber line. It might be in your garage or—
+
+Customer: Oh, yeah, I know what you mean. It's in my hallway closet actually. Let me... (background noise, footsteps) Okay, I'm looking at it. What am I looking for?
+
+Agent: Perfect. What color are the lights on that device?
+
+Customer: Uh, there's a couple of lights. Some of them are green, but there's one that's... it looks orange or maybe amber?
+
+Agent: And how many green lights do you see? Can you count them for me?
+
+Customer: (pause) One, two... there's two green lights and then the one that's orange.
+
+Agent: Okay, so ideally we'd want to see all green lights. The orange light typically means the device is trying to establish a connection but hasn't fully locked in yet. Let me ask—did anything happen last night? Like a storm, or did your power go out?
+
+Customer: No, nothing like that. It was fine yesterday. I was streaming stuff last night, no problem.
+
+Agent: Alright. (typing sounds) Let me try a couple of things from my end. I'm going to send a reset signal to your ONT device. Can you keep watching those lights while I do that?
+
+Customer: Sure, yeah. (pause) Okay, I'm watching them... (longer pause) Hmm, they're still the same. Two green, one orange.
+
+Agent: Yeah, this might take a moment to process. Give it another thirty seconds or so.
+
+Customer: (pause) Still the same, unfortunately.
+
+Agent: Okay. Let's try something else. I'm going to have you do a hard reset on the ONT. There should be a small recessed button on the back or bottom of the device. Do you see that?
+
+Customer: (background noise, fumbling sounds) Yeah, I see it. You want me to press it?
+
+Agent: Yes, but let me warn you—this is going to restart the device, so your internet will definitely be down while it reboots. It should take about three to five minutes to come back up. Are you okay doing that now?
+
+Customer: (slight hesitation) Yeah, might as well try it.
+
+Agent: Okay, go ahead and press and hold that button for about ten seconds.
+
+Customer: (sound of button being pressed) Done. Okay, everything went dark.
+
+Agent: That's normal. Now we're just going to wait for it to reboot. While we're waiting, let me check something on my end. (typing sounds) Have you had any recent weather out there? Sometimes that can affect fiber lines, even if it's not directly at your location.
+
+Customer: Uh, no, it's been clear all week actually. Been pretty nice out.
+
+Agent: Okay, good. (pause) Are the lights coming back up on the ONT yet?
+
+Customer: (pause) Yeah, I see some blinking now. Green and red, it's... (longer pause) ...okay, the lights are settling. I still see some green but... (trails off) It looks like the same as before actually. Two green, one orange.
+
+Agent: Hmm. Okay, let me check our network status from here. (typing sounds, brief hold music) Just a moment... (pause) Interesting. I'm not showing any widespread outages in your area, and your line is provisioned correctly on our end.
+
+Customer: So what does that mean?
+
+Agent: Well, it could be a few things. It might be an issue with the ONT device itself, or potentially there's a problem with the fiber line coming to your house. I'm not seeing any error codes on the device from our monitoring system, which is a little unusual.
+
+Customer: So it's broken? The device is broken?
+
+Agent: I'm not sure yet. It's possible. It could also be something with the physical line. Do you have any other devices you could try connecting to, just to rule out a WiFi issue? Like, could you plug directly into the router with an ethernet cable and see if you get a connection?
+
+Customer: (pause) I mean, the orange light on the ONT means there's no connection though, right? That's what you said.
+
+Agent: You're right, you're right. Yeah, the orange light does indicate the device isn't communicating with our network. I apologize. Let me... (typing sounds) 
+
+Customer: Is there anything else we can try?
+
+Agent: Well, at this point I think we need to get a technician out to your location. The ONT might need to be replaced, or we might need to check the line coming into your house. I want to be honest with you—I've tried the basic troubleshooting steps and we're not seeing it resolve on the network end.
+
+Customer: (sighs) Okay. How soon can someone come out?
+
+Agent: Let me check our availability. (typing sounds) Okay, so our next available appointment would be... tomorrow between 12 and 4 PM, or we do have an opening the day after at 9 AM if that works better for you.
+
+Customer: (pause) Tomorrow afternoon is fine, I guess. There's nothing else we can try right now?
+
+Agent: I wish there was, but I really think this needs an in-person look from our technician. They'll have specialized equipment to test the line and the ONT properly. 
+
+Customer: Alright. Tomorrow afternoon then.
+
+Agent: Perfect. Let me get that scheduled for you. (typing sounds) Okay, I have you down for tomorrow, 12 to 4 PM window. You should receive a confirmation text or email within the next few minutes. A technician will come to your home and diagnose the issue. Is there anything else I can help you with today?
+
+Customer: No, I guess that's it. Hopefully they can fix it.
+
+Agent: I understand your frustration, and I apologize we couldn't get you back online today. But our technician should be able to resolve this quickly once they're there. Thank you for your patience, and we appreciate your business with Frontier.
+
+Customer: Thanks, I guess. Bye.
+
+Agent: Have a good day.

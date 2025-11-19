@@ -1,0 +1,133 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hey, yeah, um, my internet's been down since this morning and I have no idea what's going on. I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, got it. And just to confirm, is this residential service?
+
+Customer: Yes, it's at my home in the Riverside area.
+
+Agent: Perfect. And just so you know, I'm showing your service is active on our end. Can you walk me through what you're experiencing right now?
+
+Customer: Yeah, so I woke up this morning around 7 AM, and I tried to check my email, and nothing was loading. The WiFi shows up on my phone but it's not actually connecting to anything. It's like... it says I'm connected but there's no actual internet.
+
+Agent: Okay, so the WiFi network is visible, but you're not getting any data through. Let me ask you a few questions. First, are you looking at the router right now? Do you see any lights on it?
+
+Customer: (pause) Um, yeah, it's in my living room. Let me... okay, so I see a few lights. There's like a green light, some amber ones...
+
+Agent: Perfect. Is there one light that's blinking or solid?
+
+Customer: They're mostly solid, except... I think there's one that's blinking amber? Yeah, that one's blinking.
+
+Agent: Okay, that's helpful. A blinking amber light typically indicates a connectivity issue. Let me have you do a couple of things. First, can you unplug the power cable from the back of the modem for about 30 seconds?
+
+Customer: Sure. (pause) Yeah, unplugging it now.
+
+Agent: Great. Just give it about 30 seconds while it's unplugged.
+
+Customer: (longer pause) Okay, it's been sitting here. Should I plug it back in now?
+
+Agent: Yes, go ahead and plug it back in.
+
+Customer: (pause) Alright, doing that now. (pause) Okay, it's plugged back in.
+
+Agent: Perfect. Let's give it about a minute or so to boot back up. While we're waiting, have you experienced any outages or service issues in your area recently?
+
+Customer: Not that I know of. I mean, the internet's been working fine all week until this morning.
+
+Agent: (pause) Okay, so it was working yesterday without any problems?
+
+Customer: Yeah, I was working from home yesterday and it was fine.
+
+Agent: (typing sounds) Got it. Alright, let's check those lights again. What are you seeing now?
+
+Customer: Um... (pause) Still the same thing. The amber light's still blinking.
+
+Agent: Still blinking, okay. Let me try another troubleshooting step. Can you check if there's a reset button on your modem? It's usually a small button you'd need to press with like a paperclip or something.
+
+Customer: Oh, yeah, I see it on the back. There's a tiny button. Do I press it?
+
+Agent: Before you do that, I should mention that pressing the reset button will wipe out your WiFi settings. So you'll need to reconfigure your network after. Do you feel comfortable doing that?
+
+Customer: I... yeah, I guess so. I mean, I just want my internet to work.
+
+Agent: Okay, go ahead and hold that for about 10 seconds.
+
+Customer: (pause) Okay, holding it now... and releasing.
+
+Agent: Great. Let's give it another minute to reboot.
+
+Customer: (pause) Alright.
+
+Agent: While that's rebooting, can you tell me if you've plugged in any new devices recently? Maybe a new computer or printer?
+
+Customer: No, nothing new. It's just my laptop and my phone like always.
+
+Agent: Okay. (pause) Alright, checking the lights again?
+
+Customer: Yeah, and... (pause) it's still doing the same thing. The amber light's still blinking.
+
+Agent: (pause) Hmm, that's strange. Let me check something on my end. (typing sounds) (longer pause) Okay, so I'm not seeing any outages reported in your area, and your modem is actually showing as online in our system. That's... interesting.
+
+Customer: Well, it's not working. Like, I'm looking at my phone right now and it's not connecting. Or it connects but nothing loads.
+
+Agent: Right, I understand. Let me ask you this—when you say it connects but nothing loads, can you try opening a website right now and see if you get any error message? Just tell me what it says.
+
+Customer: (pause) Okay, I'm trying to open Google right now... and it's just loading, loading, loading... and... nothing. It just says "can't reach the server" or something like that.
+
+Agent: Okay. Let me have you try a couple more things. Can you restart your phone?
+
+Customer: (sigh) Yeah, okay. (pause) Doing that now. (longer pause) Alright, it's back on.
+
+Agent: And go ahead and reconnect to the WiFi network.
+
+Customer: (typing sounds) Okay, entered the password... and... (pause) connected. Let me try a website again. (pause) Nope. Still nothing. Same error.
+
+Agent: (pause) Alright, this is frustrating. Let me check something. I'm going to put you on a brief hold while I look into this a bit more on the backend. It should only be about a minute.
+
+Customer: Okay.
+
+Agent: (hold music plays briefly) (returns after about 90 seconds) Alright, I'm back. So, I've done some additional checking on your line, and everything is showing as connected here. The signal is strong. But given what you're experiencing, I'm wondering if there might be a hardware issue with your modem itself.
+
+Customer: Oh no. What does that mean?
+
+Agent: Well, it could mean the modem is faulty, or there's an issue with the port it's connected to at the node. What I'd like to do is send a technician out to your location to do an in-person diagnostic.
+
+Customer: How long would that take? Like, when could they come out?
+
+Agent: (typing sounds) Let me check availability in your area. (pause) The earliest I'm seeing is... tomorrow between 8 AM and 12 PM. Does that work for you?
+
+Customer: Tomorrow? I really need internet today. I have a deadline for work.
+
+Agent: I totally understand your frustration. Unfortunately, our next available technician window is tomorrow. If there were an active outage in your area, I could escalate this, but since it seems to be isolated to your equipment, tomorrow's the soonest we have availability.
+
+Customer: (pause) Okay, fine. I guess I'll have to do that. Can I use my phone hotspot for now?
+
+Agent: Yes, absolutely. That's a good workaround for the time being.
+
+Customer: Alright. So I'm all set for tomorrow then?
+
+Agent: Let me just confirm those details. Tomorrow, between 8 AM and 12 PM, we'll have a technician come out to 447 Riverside Avenue. Is that correct?
+
+Customer: Yes, that's correct.
+
+Agent: Perfect. We'll send you a confirmation email and text message. Is there anything else I can help you with today?
+
+Customer: No, I guess that's it. I just hope they can fix it tomorrow.
+
+Agent: Me too. I'm sorry we weren't able to resolve it remotely today. Is there a callback number in case the technician needs to reach you?
+
+Customer: The number you called me on is fine.
+
+Agent: Alright, I've got that down. Thank you for being patient with us today, and I apologize again for the inconvenience. Is there anything else?
+
+Customer: No, that's all. Thanks.
+
+Agent: You're welcome. Have a good day, and we'll see you tomorrow.
+
+Customer: Bye.
+
+Agent: Bye-bye.

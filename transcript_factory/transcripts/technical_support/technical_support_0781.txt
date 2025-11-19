@@ -1,0 +1,103 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. So my internet just completely stopped working about an hour ago. I've got no connection at all.
+
+Agent: I'm sorry to hear that. Let me pull up your account here. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm looking at your account now. I see you're on our Fiber 500 plan in the Westchester area. And you're saying you have no internet connection at the moment?
+
+Customer: Right, nothing. My router's on, the lights are flashing like they normally do, but I can't get online on any of my devices.
+
+Agent: Alright, let's get this sorted out for you. First, can you tell me—when you say the lights are flashing, what color are they? Are they green, red, or...?
+
+Customer: Um, there's a white light that's steady, and then there's like a blue light that's blinking on and off.
+
+Agent: Okay, so the white light is steady. That's good—that means you have power. The blue light blinking typically indicates it's trying to connect. Let me walk you through a few troubleshooting steps. First, can you restart your router? Just unplug it from the wall, wait about 30 seconds, and plug it back in.
+
+Customer: Sure, I can do that. (pause) Okay, it's unplugged. I'm gonna count to thirty... (longer pause) Alright, it's back in.
+
+Agent: Great. Now let's give it about a minute to fully boot back up. While that's happening, have you tried restarting any of your devices—like your computer or phone?
+
+Customer: Not yet, I can try that too. But I mean, they all lost connection at the same time, so...
+
+Agent: Yeah, that does suggest it's an issue with your router or the connection itself rather than individual devices. That's helpful to know. How's that router looking now? Are those lights still blinking?
+
+Customer: (pause) Okay, so the white light is still steady, but that blue light is... it's still blinking. It hasn't changed.
+
+Agent: Hmm, alright. Typically after a restart, that should stabilize within a minute or two. Can you do me a favor and look at the back of your router? There should be several ports back there. Can you see if the cable coming from the wall is firmly connected into the port labeled "WAN" or "Internet"?
+
+Customer: (pause) Yeah, I can see it. It looks pretty tight to me. But let me... (sound of movement) ...yeah, I'm gonna unplug it and plug it back in just to make sure.
+
+Agent: Good thinking.
+
+Customer: (pause) Okay, reconnected.
+
+Agent: Alright. And you're still seeing that blue light blinking?
+
+Customer: (pause) Yeah, it's still doing the same thing.
+
+Agent: Okay. Let me check something on my end. (typing sounds) I'm going to look at your modem status. Sometimes the issue is actually with the modem itself, which is the device that connects you to our network. It's usually a smaller box, separate from your router.
+
+Customer: Yeah, I have one of those. It's sitting right next to the router. Should I be looking at that one too?
+
+Agent: Absolutely. Is there a light on it? What color is it?
+
+Customer: It's... it's orange. Just a steady orange light.
+
+Agent: Okay, that's the issue. That orange light means the modem isn't syncing with our network. Go ahead and restart that one as well. Just unplug it, wait 30 seconds, and plug it back in.
+
+Customer: (pause) Alright, unplugging it now. (longer pause) Plugged back in.
+
+Agent: And let's wait for that to boot up. This should take about a minute or so.
+
+Customer: (pause) Okay, I'm watching it. The orange light is... still orange.
+
+Agent: Still orange, huh? (pause) Let me put you on a brief hold here. I'm going to check some backend systems to see if there are any outages in your area or any issues with your account specifically.
+
+Customer: Sure, go ahead.
+
+Agent: (hold music plays briefly, then ends)
+
+Agent: Okay, I'm back. So I'm not seeing any widespread outages in your area, which is good news and bad news. But I do want to try one more thing. Let me have you do a complete reset of the modem. There's usually a small button on the back—it might be recessed. Do you see that?
+
+Customer: (pause) I think so, yeah. There's a tiny hole here.
+
+Agent: Right, that's it. You can use a paperclip or something thin to press and hold that button for about 10 to 15 seconds.
+
+Customer: Okay, I'm doing that now. (pause) Holding it... (longer pause) ...alright, I'm letting go.
+
+Agent: Alright, let's see what happens. Give it about two minutes to fully reset and reconnect.
+
+Customer: (long pause) Okay, so... it's still orange. Nothing's changed.
+
+Agent: (sigh) Alright, I'm going to be honest with you—a steady orange light after a full reset usually indicates either a hardware failure or an issue on our end with your line. Since we've ruled out simple connectivity issues, I think we're going to need to get a technician out to your location to diagnose what's happening.
+
+Customer: Really? How long would that take?
+
+Agent: I can schedule a technician visit for you. Our next available appointment is actually tomorrow between 8 AM and 12 PM. Does that work with your schedule?
+
+Customer: Tomorrow morning? I mean... I guess it has to. But is there anything else we can try right now?
+
+Agent: Unfortunately, at this point, we've done the standard troubleshooting steps. If the modem isn't responding after a full reset, it's likely a hardware issue or something on our network infrastructure that needs professional diagnosis. A technician will be able to test the line and either repair or replace the equipment.
+
+Customer: Alright, I mean, I'm not happy about it, but... schedule me for tomorrow, I guess.
+
+Agent: Perfect. I'm going to set that up for you now. (typing sounds) Okay, I have you down for tomorrow, Saturday, between 8 AM and noon. A technician will come out and assess the situation. Is there a preferred contact number for the technician?
+
+Customer: Yeah, use the same number I called in on.
+
+Agent: Got it. I'm going to send you a confirmation email and text message with all the details. Is the email and phone number on file still current?
+
+Customer: Yeah, that should be fine.
+
+Agent: Great. I'm really sorry you're experiencing this issue. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. Just hoping the tech can fix it tomorrow.
+
+Agent: I understand. We'll get this sorted out for you. Thank you for being a Frontier customer, and we apologize for the inconvenience. Have a good day.
+
+Customer: Thanks, you too.
+
+Agent: Bye now.

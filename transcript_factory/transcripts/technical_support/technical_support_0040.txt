@@ -1,0 +1,129 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hey, yeah, thanks for picking up. So, um, my internet has been down since this morning and I'm not really sure what's going on. I've got work from home stuff I need to do, so it's pretty urgent.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll get this sorted out for you. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Perfect, I've got you here. And your name is Michael, correct?
+
+Customer: Yes, Michael Torres.
+
+Agent: Great, Michael. So your internet service went down this morning. Just to start, can you tell me what you're seeing right now? Is the modem powered on?
+
+Customer: Um, yeah, the modem's on. I can see the power light and everything, but there's no internet light. Like, it's not lighting up at all. And my router too—same situation. Just the power light.
+
+Agent: Okay, that's helpful. So the internet indicator light isn't on. Have you tried unplugging and replugging the modem yet?
+
+Customer: No, not yet. Should I do that?
+
+Agent: Yeah, let's try that. Go ahead and unplug it from the power source, wait about 30 seconds, and then plug it back in. I'll wait for you.
+
+Customer: (background noise, rustling) Okay, unplugging it now... (pause) ...alright, it's unplugged. I'm counting to 30... (pause) Okay, plugging it back in.
+
+Agent: Great. Let's give it about a minute to boot back up. While that's happening, can I ask—have there been any storms in your area recently, or any construction or maintenance work that you're aware of?
+
+Customer: Not that I've seen. It was fine last night, and then I woke up this morning and it was just... nothing. No internet.
+
+Agent: Understood. And have you noticed any of the lights coming on yet on the modem?
+
+Customer: Um... let me look. (pause) Yeah, the power light is on, and I'm seeing... it looks like there's a red light now? On the internet port, I think?
+
+Agent: A red light—okay. That's actually a good sign that it's trying to connect. The red usually means it's initializing. Let's give it another 30 seconds to fully boot up.
+
+Customer: (pause) Okay...
+
+Agent: While we wait, can I just confirm the model of your modem? Is it the white Frontier Gateway, or is it a different model?
+
+Customer: Yeah, it's the white one. Pretty standard looking.
+
+Agent: Perfect. (pause) Okay, how about now? Any change in the lights?
+
+Customer: (frustrated sigh) No, still just the red light. It's been a couple minutes now.
+
+Agent: (pause) Alright, let me try a few other things. Can you locate the small reset button on the modem? It's usually recessed, so you might need a paperclip or something thin.
+
+Customer: Oh, I see it. There's a little hole on the back.
+
+Agent: Okay, so I want to be clear—a full reset will clear all your settings, so let's not do that yet. Instead, let's try doing a power cycle one more time, but this time we'll also power cycle the router. Do you have those both near you?
+
+Customer: Yeah, they're right next to each other.
+
+Agent: Perfect. So go ahead and unplug both of them, and then let them sit for about 45 seconds to a minute. Really let them discharge completely.
+
+Customer: (background noise) Okay, both unplugged... (pause) How much longer?
+
+Agent: We'll give it to about 60 seconds. While we're waiting, let me ask—when you plug everything back in, plug in the modem first, and then wait about two to three minutes before you plug in the router. The modem needs to connect to our network first.
+
+Customer: Got it. One minute yet?
+
+Agent: You can go ahead and plug in the modem now.
+
+Customer: (sounds of plugging in, background noise) Okay, it's in.
+
+Agent: Great. Now let's wait about two to three minutes for that modem to fully initialize. I know it's a bit of a wait, but this is important.
+
+Customer: This is ridiculous. (pause) I mean, I'm sorry, it's just... I have a meeting in like 45 minutes.
+
+Agent: I totally understand, Michael. We'll get this working as soon as we can. (pause) Is it closer to the three-minute mark now?
+
+Customer: Yeah, probably about two and a half minutes in.
+
+Agent: Okay, go ahead and plug in the router.
+
+Customer: (sounds of plugging in) Done. (pause) So now what? Do I just... wait?
+
+Agent: Yeah, just give it another minute or so for everything to sync up. The router should start showing lights too.
+
+Customer: (pause) Okay, um... I'm looking at it, and the modem now has... it looks like a green light? But it's like, flickering or something. And the internet light is still red.
+
+Agent: (typing sounds) The green power light is good. The flickering on the internet light is a bit unusual though. Let me check something on my end here. (pause) Michael, are you still there?
+
+Customer: Yeah, I'm here.
+
+Agent: I'm looking at your connection status on my end, and it's showing... okay, so it looks like we're actually detecting a connection attempt, but it's not fully establishing. Let me check if there's any maintenance work scheduled in your area. (typing sounds, brief hold music plays)
+
+Customer: (background noise, tapping)
+
+Agent: (returning) Okay, I don't see any scheduled maintenance. One more thing I want to try—can you check the back of the modem where the cables connect? Is the cable from the wall firmly plugged into the modem?
+
+Customer: (pause) Yeah, it looks pretty secure...
+
+Agent: Okay, can you unplug it and plug it back in? Sometimes they can get a little loose.
+
+Customer: (sounds of unplugging and replugging) Alright, done. (pause) Nothing's changed though.
+
+Agent: Give it just a few more seconds... (pause) Anything?
+
+Customer: Nope. Same red light. The router is showing like, a couple of green lights now at least, but no actual internet.
+
+Agent: (pause, typing sounds) I'm going to be honest with you, Michael—what we're seeing here is a connection issue that I'm not able to resolve through standard troubleshooting. It could be an issue with the modem itself, or it could be something on our network side that I can't access from here. What I think we need to do is get a technician out to your location to take a look in person.
+
+Customer: A technician? How long is that going to take? I have work stuff I need to do today.
+
+Agent: I completely understand. Let me check our availability. (typing sounds, pause) We have availability today, actually. There's a window between 2 and 6 PM. Would that work for you?
+
+Customer: I guess so. I don't really have much choice, do I?
+
+Agent: I know it's not ideal. Unfortunately, this is beyond what we can troubleshoot over the phone. But our tech should be able to figure out what's going on pretty quickly once they're there. They can either get the modem replaced if that's the issue, or they can check our line if it's something on our end.
+
+Customer: Okay, fine. 2 to 6 PM works.
+
+Agent: Perfect. And just to confirm, is the number 555-0147 still the best number to reach you at if the technician needs to contact you?
+
+Customer: Yes, that's my cell.
+
+Agent: Excellent. You're all set, Michael. A technician will be out there between 2 and 6 PM today. They'll give you a call about 30 minutes before they arrive. In the meantime, just leave everything as it is—don't do any more reboots or anything like that. Okay?
+
+Customer: Yeah, yeah, I got it.
+
+Agent: Is there anything else I can help you with today?
+
+Customer: No, I think that's it. I just hope they can figure it out quickly.
+
+Agent: I'm sure they will. Thanks for your patience, Michael, and sorry for the inconvenience. Have a great day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

@@ -1,0 +1,105 @@
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Hey, yeah, thanks for picking up. So uh, my internet's been down since this morning and I can't figure out what's going on. I've tried restarting the router and everything.
+
+Agent: I'm sorry to hear that. We'll get this sorted out for you. Can I grab your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147. Last name is Henderson.
+
+Agent: (typing sounds) Okay, Henderson... got it here. And this is your home internet service we're talking about?
+
+Customer: Yeah, the fiber service. It was working fine yesterday and then this morning when I went to check my email, nothing. Won't load anything.
+
+Agent: Alright, I'm pulling up your account now. (pause) So just to confirm, you've already tried power cycling the router?
+
+Customer: Yeah, I unplugged it, waited like a minute, plugged it back in. Still nothing.
+
+Agent: Good, that's a good first step. Okay, so when you say the internet isn't working... are you getting any lights on the router at all? Like, is it powered on?
+
+Customer: Oh yeah, it's definitely on. I can see the lights. Let me see... (pause) there's like a green light on, and then... I think there's one that's supposed to be blinking? The internet light? That one's not on.
+
+Agent: Okay, so the internet light specifically isn't illuminated. That's actually pretty helpful information. Let me ask you this—do you see any red lights or any error indicators on the unit?
+
+Customer: Nope, just the green power light. Everything else is dark.
+
+Agent: Got it. And how long has it been out?
+
+Customer: Since like... 7 this morning? Maybe 7:30.
+
+Agent: Alright. Let me check if there are any outages in your area. (typing sounds, pause) I'm not seeing any reported outages on our end, so let's try a few more things. Can you check the cables for me? There should be a fiber optic cable coming into your router. Can you see if it's securely connected?
+
+Customer: (pause) Okay, so I'm looking at the back of the router. I see a few cables. One of them looks like... it's kind of white and clear-ish?
+
+Agent: That's likely it, yeah. The fiber optic cable will look like that. Can you make sure it's pushed all the way in? Sometimes they can come loose.
+
+Customer: (rustling sounds) Okay, pushing it... I mean, it looks pretty snug to me already, but... (pause) nope, nothing changed.
+
+Agent: Okay, no worries. Sometimes that does it though. Um, let me try something else. I'm going to have you do a factory reset on the router. This will clear everything out, so we're going to have to set it back up after, but it might help. You good with that?
+
+Customer: Yeah, sure, I'll try anything at this point. What do I do?
+
+Agent: So on the back of the router, you should see a small button, usually recessed. It might say "reset" next to it. You're going to need to hold that down for about 10 to 15 seconds.
+
+Customer: (pause) Alright, I'm looking... yeah, I see it. It's tiny. (pause) Okay, holding it down... (long pause) ...and... done. How long do I wait?
+
+Agent: Give it about two or three minutes to fully reboot. While that's happening, can I just verify your service address to make sure everything's correct in the system?
+
+Customer: Yeah, it's 412 Maple Street, Apartment 3B.
+
+Agent: (typing sounds) 412 Maple, Apartment 3B. Got it. (pause) Alright, couple more minutes here. You seeing anything changing on the router yet?
+
+Customer: (pause) Um... the lights are coming back on. The green one's definitely there. But the internet light is still... (trailing off) ...still dark.
+
+Agent: Okay, still nothing on the internet indicator. That's... hmm. (pause) Alright, let me try pulling up your account here. We can see on our end if the router's connecting. (typing, pause) That's strange. It's showing... actually, it's not showing an active connection from your unit at all.
+
+Customer: Oh no. Is that bad?
+
+Agent: Well, it could mean a few things. It might mean the fiber line itself isn't detecting a signal, or there could be an issue with the optical network terminal outside. Do you happen to know if there's a box mounted on the outside of your building or apartment complex?
+
+Customer: Uh... (pause) maybe? I'm not really sure what I'm looking for. There's like an electrical box on the side of the building?
+
+Agent: It might look a little different than a standard electrical box. It could be smaller, maybe gray or white colored, and it would be where the fiber line enters the building.
+
+Customer: (pause, sounds of movement) Okay, let me go check... (background noise fading, then returning) Yeah, I see something. There's like a white box near the utility area.
+
+Agent: Okay, good. Can you see if there's a light on it?
+
+Customer: (pause) No... no, I don't see any light. Is there supposed to be one?
+
+Agent: There should typically be at least a power indicator. If there's no light at all, it might not be powered on or it could be offline. Hmm. (pause) Okay, let me try one more thing from here. I'm going to push a signal out to your equipment and see if we get a response.
+
+Customer: (pause) Okay...
+
+Agent: (typing sounds, longer pause) Unfortunately, I'm not getting any response from the terminal. I think what might have happened here is either the fiber line coming into your building got damaged, or the optical network terminal experienced a fault. These things do occasionally go out.
+
+Customer: So what does that mean? Can you fix it remotely or...?
+
+Agent: I wish I could. Unfortunately, this would require a technician to come out and physically inspect the equipment. We'd need to schedule a service visit.
+
+Customer: (sighs) How long would that take?
+
+Agent: Let me see what availability we have. (typing) I'm looking at our schedule here. The earliest we could get someone out would be... tomorrow between 12 and 4 PM, or we have availability on Thursday morning as well.
+
+Customer: Tomorrow? I really need the internet. I work from home.
+
+Agent: I completely understand. Let me see if I can push this through as a priority call. (pause, typing) Unfortunately, there's not a same-day slot available, but tomorrow between noon and 4 is the soonest. I can book you for that if you'd like?
+
+Customer: (frustrated) Yeah, I mean... I don't have much of a choice, right? Go ahead and schedule it for tomorrow.
+
+Agent: I really apologize for the inconvenience. Let me get that set up for you. (typing) Okay, so I have you down for tomorrow, between 12 and 4 PM, at 412 Maple, Apartment 3B. You'll get a call from our technician about 30 minutes before they arrive. Is the number they have on file, the 555-0147, the best number to reach you on?
+
+Customer: Yeah, that works.
+
+Agent: Perfect. Your case reference number is 847592. Is there anything else I can help you with before we wrap up?
+
+Customer: No, I guess that's it. I just... I really hope they can fix it tomorrow.
+
+Agent: I'll make a note on your account that this is a work-from-home situation, so they'll prioritize it. Again, I'm really sorry you're experiencing this. Is there anything else?
+
+Customer: No, that's all. Thanks.
+
+Agent: Thank you for choosing Frontier, and have a good day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

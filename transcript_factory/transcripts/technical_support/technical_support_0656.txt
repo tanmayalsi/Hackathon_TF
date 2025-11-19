@@ -1,0 +1,113 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet just went out about an hour ago and I can't get it back on. I've tried unplugging the modem and everything but nothing's working.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot that. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm pulling that up now. And just to confirm, is this Derek speaking with... Michael Patterson?
+
+Customer: Yes, that's me.
+
+Agent: Perfect. And you're in the Springdale area, correct?
+
+Customer: Yeah, that's right.
+
+Agent: Okay, Michael. So you mentioned the internet went out about an hour ago. Have there been any storms in your area recently or any power fluctuations?
+
+Customer: No, nothing like that. The power's been fine. It's just the internet. My phone line is working but no internet.
+
+Agent: Alright. And you've already unplugged the modem—did you let it sit for about 30 seconds before plugging it back in?
+
+Customer: Um... I unplugged it but maybe not for that long. I can try that now if you want.
+
+Agent: Yeah, let's do that. Go ahead and unplug the modem from the power source, and we'll wait about 30 seconds. That helps reset everything.
+
+Customer: (pause) Okay, it's unplugged. I'm waiting... (pause) Alright, I'm plugging it back in now.
+
+Agent: Great. And what color lights do you see on the modem now?
+
+Customer: It's... it's all dark right now. Nothing's lit up yet.
+
+Agent: That's normal. Give it about 60 seconds to boot back up. While we're waiting, do you have the fiber optic box outside your house? That's the small white or gray box usually mounted on the exterior of your home?
+
+Customer: Oh, yeah. I think I know what you're talking about. It's on the side of my house.
+
+Agent: Perfect. Can you take a quick look at that for me? I'm just wanting to see if there are any lights on it or if it looks like anything's loose or damaged.
+
+Customer: (pause) Okay, hold on... (background noise of door opening) Yeah, I'm looking at it now. Um, there's... let me see... there's a green light and a red light on it.
+
+Agent: Okay, the red light—is it blinking or solid?
+
+Customer: It's solid. It's just... it's just on.
+
+Agent: Hmm, okay. That's actually not ideal. A solid red light can indicate an issue with the fiber connection. But let's check the modem lights first. Are they coming back on yet?
+
+Customer: Yeah, actually, they're starting to come back. I see like a blue light and... there's a couple lights now.
+
+Agent: Excellent. What about the internet light specifically? It might be labeled "Internet" or sometimes it says "WAN." Do you see a light that's either solid green or blinking green?
+
+Customer: (pause) I see a solid blue light and then there's like a white light, and... I think there's an orange one?
+
+Agent: The orange light—that's typically the power light. So we're looking for a green light. Is there anything that's green on the modem?
+
+Customer: No, I don't think so. Just the blue and the orange and the white.
+
+Agent: Okay, can you tell me the model number of the modem? It should be on a sticker on the back or bottom of the device.
+
+Customer: (pause) It says... Frontier FibeRack? No wait... "GigaHub." Is that it?
+
+Agent: GigaHub, perfect. Yeah, so on that model, the blue lights indicate that it's powered on, which is good. But we should be seeing a green light for the internet connection. The fact that we're seeing an orange light instead suggests there might be a connectivity issue on our end.
+
+Customer: So... is that bad?
+
+Agent: Well, it could be a few things. Let me check your account here for any service alerts or outages in your area. (typing sounds) (pause) Okay, I'm not showing any widespread outages currently, but there could be an issue specifically with your line. Um, I'm also going to have you check one more thing. Can you go back outside and look at that fiber box again? I want to make sure the cable going into it is firmly connected.
+
+Customer: Yeah, okay. (pause, background noise) Alright, I'm back out here. Let me... let me check the cable. It looks... it looks pretty tight to me. I mean, it's connected.
+
+Agent: Can you see if there's any visible damage to the cable at all? Any cuts or anything that looks out of place?
+
+Customer: No, everything looks normal. It's just... it's just connected like it should be.
+
+Agent: Alright. Let me try a few more things. I'm going to send a signal to your modem here to see if we can get it to reconnect. (typing sounds) (pause) Okay, I've sent that. Give it about 30 seconds and tell me if anything changes with the lights.
+
+Customer: (pause) Okay... (pause) No, still the same. Same orange and blue and white lights.
+
+Agent: (pause) Hmm. Okay, and you're not seeing any green light at all?
+
+Customer: No, just the orange. Definitely not green.
+
+Agent: Alright, I'm going to be honest with you, Michael. Given that the modem isn't establishing a connection to our network, and the fiber box is showing that solid red light, it sounds like there's an issue on the line side. It could be a problem at the connection point, or it could be something with the fiber line itself.
+
+Customer: So what does that mean? Like... is there a technician that needs to come out?
+
+Agent: Yeah, it sounds like we're going to need to get a technician to come out and check the physical connections. But let me try one more thing real quick. I'm going to restart the modem remotely from here. (typing sounds) I've initiated that, so it should restart in a moment. Can you watch the lights and let me know when they cycle through and come back on?
+
+Customer: Okay... yeah, I'm watching. The lights are going out now. (pause) And they're coming back on... blue light... orange light... and... no, still no green.
+
+Agent: (pause) Okay. Yeah, I think at this point we do need to get a technician out to your location. I apologize for the inconvenience. Let me set that up for you.
+
+Customer: Yeah, um, when could someone come out?
+
+Agent: Let me check availability for your area. (typing sounds) (pause) I can get someone out there tomorrow between 8 AM and 12 PM, or the following day in the afternoon. Which works better for you?
+
+Customer: Tomorrow morning would be better for me. 8 AM is kind of early though. Do they have anything later in that window?
+
+Agent: (typing sounds) Let me see... Yeah, I can schedule for 10 AM to noon. How does that look?
+
+Customer: That works. That's better than 8.
+
+Agent: Perfect. So I have you scheduled for tomorrow, 10 AM to noon. The technician's name will come through on your phone as Frontier Communications. Is there anything else I can help you with before the technician visit?
+
+Customer: No, I think... I guess I'm just frustrated that we have to wait until tomorrow without internet. But I guess there's not much we can do about it right now.
+
+Agent: I completely understand, and I'm sorry about the outage. The technician should be able to diagnose and hopefully resolve the issue pretty quickly tomorrow. If you don't hear from us by 10 AM, feel free to give us a call back. The confirmation has been sent to your email on file. Is there anything else?
+
+Customer: No, that's all. Thanks for trying, I guess.
+
+Agent: You're welcome, and again, I apologize for the trouble. We'll have this sorted out tomorrow. Have a good evening, Michael.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

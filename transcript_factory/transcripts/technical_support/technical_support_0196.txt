@@ -1,0 +1,109 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet's been down since this morning and I'm not sure what's going on. I really need to get it working.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot this. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm pulling that up now. And can I also get your name please?
+
+Customer: It's James. James Mitchell.
+
+Agent: Perfect, James. I see your account here. So you mentioned your internet went down this morning. Did anything happen before it stopped working? Like a power outage or storm?
+
+Customer: No, nothing like that. I just... I woke up and tried to check my email, and there was no connection. I've restarted the modem a few times already, but nothing's worked.
+
+Agent: Okay, that's a good first step that you already restarted it. Um, let's do this—can you tell me what you're seeing right now? Is there any lights on the modem, or is it completely dark?
+
+Customer: Yeah, there's a couple lights on. There's like a... a power light that's solid green, and then there's like a blue one that's blinking.
+
+Agent: Okay, so the power light is steady green. And the blue light that's blinking—is that the internet light, or do you happen to know which one that is?
+
+Customer: I'm not really sure. Let me look closer. (pause) Um, I think there's actually... there's a yellow light too. And some others I can't really see clearly.
+
+Agent: All right, no problem. Can you walk me through what lights you see from left to right?
+
+Customer: (pause) From left to right... okay, so there's green, then there's like a yellow or orange one, and then... I think there's blue. And maybe something else.
+
+Agent: Okay, so it sounds like you might have a power issue or a connection issue. What I want you to do is unplug the modem from the power outlet, wait about 30 seconds, and then plug it back in. Can you do that for me?
+
+Customer: Sure, yeah. (sound of unplugging) Okay, it's unplugged. (pause) Just waiting... (pause) Alright, plugging it back in now. (sound of plugging in)
+
+Agent: Great. And now we're just gonna give it a moment to boot back up. While that's happening, can you also tell me—do you know if you have a separate router, or is everything combined in one unit?
+
+Customer: I think it's all one unit. It's pretty small, just a black box.
+
+Agent: That's helpful. (pause) Okay, so give it another ten seconds or so to fully start up. (pause) Are you seeing any changes in the lights now?
+
+Customer: Um... (pause) okay, so the green light is still on, but the yellow light is... actually, it looks like it might be going away? And the blue one is still blinking.
+
+Agent: Okay, that's actually a good sign. The blue blinking light typically indicates it's trying to connect. Give it maybe another 30 seconds to establish the connection. Are you at your computer right now?
+
+Customer: Yeah, I'm right here. (pause) Okay, so I'm looking at my WiFi networks now, and... yeah, I can see my network name is showing up.
+
+Agent: Oh, that's great! So the WiFi is broadcasting. Now can you try connecting to it and let me know if you get internet?
+
+Customer: (pause) Yeah, I'm selecting my network, putting in my password... (pause) Okay, it says it's connected now, but... (longer pause) nothing's loading. Like, I'm trying to go to Google, and it's just stuck on "loading."
+
+Agent: Hmm, okay. (pause) Can you give it just a few more seconds? Sometimes it takes a moment for the data connection to fully establish.
+
+Customer: (pause) Yeah, I'm still waiting... (pause) No, it's... it's not working. The page still isn't loading.
+
+Agent: All right. Let me check on our end real quick. (typing sounds) (pause) James, I'm looking at your account, and I'm actually seeing that we're detecting an outage in your area. It looks like it just started this morning around 7 AM.
+
+Customer: Oh, there's an outage? So it's not my modem then?
+
+Agent: Well, that's the thing. The outage we're showing is pretty localized to a few blocks of your neighborhood. It could be affecting your service, but it's also possible that your modem could be having a separate issue. Can you try one more thing for me?
+
+Customer: Sure, what do you need?
+
+Agent: I'm going to restart your modem from our end. It's called a remote restart. You should see the lights flicker off in about five seconds, and then it'll come back on.
+
+Customer: Okay, I'm watching it... (pause) Yeah, yeah, I see it. The lights just went off. (pause) And now they're coming back on. (pause) Okay, it's back up. The lights are... green again, and yellow, and blue blinking like before.
+
+Agent: All right. Give it about 45 seconds this time, and then we'll see if anything changes. (pause) And James, while we're waiting, I do want to let you know that we have technicians working on the outage in your area. Our current estimate is that service should be restored by around 2 PM today.
+
+Customer: Oh, so even after all this, it's probably still gonna be down because of the outage?
+
+Agent: Well, possibly. I mean, even with the outage, your modem should still be able to connect to the network, and you should have service. Let me check the outage map one more time. (typing sounds) (pause) Hmm, yeah, so your address is definitely in the affected area.
+
+Customer: So what does that mean? Like, my modem's fine, but I just can't get service because of the outage?
+
+Agent: That's the most likely scenario, but I want to be thorough. Are you able to see the blue light still blinking on the modem?
+
+Customer: (pause) Yeah, it's still blinking. It hasn't changed.
+
+Agent: [inaudible] ...frustrating. Unfortunately, based on what I'm seeing here, I'm not able to get your internet back up remotely. We have a few options. We can either schedule a technician visit—though our availability is a bit backed up today because of the outage—or we can wait until the outage is resolved, which should be within a few hours based on our estimates.
+
+Customer: A few hours? That's... I really needed to work today. Can you get someone out here faster?
+
+Agent: I completely understand. Let me check what we have available. (typing sounds) (pause) Okay, so our next available appointment is actually not until tomorrow morning between 8 AM and noon. I know that's not ideal given that the outage should be resolved later today.
+
+Customer: That doesn't really make sense. You're saying the outage will be fixed in a few hours, so why would I need a technician tomorrow?
+
+Agent: That's fair. The technician would only be necessary if the outage is resolved and you still don't have service. If the outage is fixed, your service should come back automatically. If it doesn't, then we'd want to send someone out.
+
+Customer: Okay, so what do you recommend I do?
+
+Agent: I'd recommend waiting until around 2 PM to see if your service comes back once we restore the outage. If it doesn't come back, we can definitely get a technician scheduled, and I'd mark it as a priority. If you want, I can set up a callback reminder for you around 1:45 PM so you know to check your connection.
+
+Customer: Yeah, okay, I guess that makes sense. Could you do that?
+
+Agent: Absolutely. And James, I'm going to make a note on your account right now about the troubleshooting we did today and the outage. That way, if you do need to call back, the next agent will have all this information.
+
+Customer: Okay, thanks.
+
+Agent: You're welcome. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. I'll wait and see if it comes back up this afternoon.
+
+Agent: Perfect. And again, I apologize for the inconvenience. We really appreciate your patience, and we'll get this sorted out for you. Thank you for being a Frontier customer.
+
+Customer: Thanks, Derek. I appreciate it.
+
+Agent: You're welcome, James. Have a good day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

@@ -1,0 +1,175 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, um, my internet has been down since this morning and I'm not really sure what's going on. I need to get this fixed pretty urgently.
+
+Agent: I'm sorry to hear that. We'll definitely get you taken care of. Let me pull up your account real quick. Can I get the phone number associated with your account or your account number?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm seeing an account here for a residence in... Maple Street?
+
+Customer: Yes, that's right.
+
+Agent: Great. So your internet service is completely down right now?
+
+Customer: Yeah, it's been down since about 8 this morning. I work from home and I really need to get this back online.
+
+Agent: I understand, and we'll do our best to help. Let me start with some basic troubleshooting. First, can you tell me what you're seeing? Are there any lights on your modem or router right now?
+
+Customer: Um, let me go look at it. (pause) Okay, so the modem... there's no lights on at all. Nothing. It's completely dark.
+
+Agent: Okay, that's helpful information. Let's start there. The modem sounds like it's not powered on. Can you check to make sure it's plugged into the wall outlet?
+
+Customer: Yeah, I'm looking at it now and... oh wait, it is plugged in. Let me... (pause) Actually, is that a power switch on the back? I see a little button here.
+
+Agent: There might be. Some of our modems do have a power button on the back. Can you try pressing that and then give it a few seconds?
+
+Customer: (sound of movement) Okay, pressing it now... and... (pause) Hmm, no, still nothing. No lights.
+
+Agent: Alright, let me try a different approach. Can you unplug the modem from the power outlet for me?
+
+Customer: Sure. (pause) Done. I've unplugged it.
+
+Agent: Great. While that's unplugged, can you also unplug your router if you have a separate one?
+
+Customer: Oh, okay. Yeah, I have a separate router. Let me unplug that too. (pause) Okay, both are unplugged.
+
+Agent: Perfect. Let's wait about thirty seconds and then plug the modem back in first. That gives us a nice clean restart.
+
+Customer: (pause) Alright, plugging it back in now... (pause) Okay, I'm watching it... and... I'm seeing a light come on! There's a power light now. Good.
+
+Agent: Excellent! That's a good sign. Give it another thirty seconds or so to fully boot up. You should start seeing some additional lights come on.
+
+Customer: (pause) Okay, I'm waiting... I see the power light, and um... I'm seeing an internet light now too. That looks like it might be orange or amber colored though. Is that normal?
+
+Agent: Good question. The orange light usually means the modem is connecting. Give it maybe another minute and it should turn green once it establishes a connection.
+
+Customer: (pause) Okay... (long pause) It's still orange. It's been like thirty seconds since you said that and it's still orange.
+
+Agent: Let me check something on my end. (typing sounds) What model modem do you have? Should be on a sticker somewhere on it.
+
+Customer: Um, let me see... (pause) It says... Arris? And then some numbers... SB8200?
+
+Agent: (typing sounds) Okay, so that's a good modem. For that model, sometimes it can take a couple minutes to fully boot up and establish connection. Let's give it another minute or so, and in the meantime, let me just verify some things on my end here.
+
+Customer: Okay. (pause) ...So how long has your company been doing this? I've had service with you for about three years now and I've never really had any issues until today.
+
+Agent: We've been providing service for quite a while now. Generally our service is pretty reliable, so if you're experiencing an outage, it's definitely something we want to get resolved right away. Let me check if there are any outages in your area. (typing sounds) Okay, I'm not seeing any reported outages in your location at this time.
+
+Customer: Okay, so it's just my modem then?
+
+Agent: It could be a few things. Let me... (pause) Hey, how's that light looking now? Is it still orange?
+
+Customer: Still orange, yeah. It's been like almost two minutes now.
+
+Agent: Hmm, that's longer than typical. Let me have you try plugging in the router now as well, and then we'll see what happens when everything is fully powered up together.
+
+Customer: Alright, plugging in the router now... (pause) Okay, it's in.
+
+Agent: And can you tell me what lights are showing on the router?
+
+Customer: Um, it's lighting up. I see power, and there's like a couple of blinking lights on it now.
+
+Agent: Okay, that sounds normal. Sometimes the modem and router need to communicate for a second. Let's give it another minute.
+
+Customer: (pause) ...Still the same though. The modem's still orange, router is doing its thing with the blinking lights.
+
+Agent: Okay, I'm going to have you try one more thing. This is called a factory reset on the modem. There should be a small pinhole button on the back labeled "reset." Can you find that?
+
+Customer: A reset button? (pause) I'm looking... I see a small hole here. Is that it?
+
+Agent: That could be it. I'll need you to hold that for about ten seconds while the modem is powered on. You can use a paperclip or a pen to do it.
+
+Customer: Okay, hold on. (pause) I'm getting a paperclip. (pause) Alright, I'm holding it in... one, two, three... (pause) ...eight, nine, ten. Okay, let go.
+
+Agent: Good. Now the modem should restart. Give it about three to five minutes to fully reboot and establish connection. This might take a little longer than before.
+
+Customer: (pause) Alright, I'm waiting. (long pause) So while I wait, is there anything else I should be trying?
+
+Agent: Just keep an eye on those lights for now. You should see them cycle through some different colors during the reset, and then eventually stabilize.
+
+Customer: (pause) Okay, they're doing... something. Lights are blinking all over the place right now. It's kind of a light show.
+
+Agent: (chuckles) Yeah, that's normal. That's the modem reloading its firmware. Let's give it the full few minutes.
+
+Customer: (long pause) Okay... it's been a few minutes now. The lights have stopped cycling and... the modem light is still orange. It's just staying orange.
+
+Agent: (pause) Okay, that's unfortunate. Let me ask you a couple more questions. Do you have any other devices connected that you can try to see if you're getting an internet signal?
+
+Customer: Yeah, I have a laptop. Let me see if I can... (pause) Okay, my laptop is not picking up the WiFi network at all. It's not even showing up.
+
+Agent: Alright. And you're not seeing any WiFi network name from the router either?
+
+Customer: No, nothing.
+
+Agent: (pause) Okay, it sounds like there might be a connectivity issue between the modem and the router, or the modem isn't fully syncing with our network. Let me... (typing sounds, pause) I'm going to check something on my end here. Can you tell me the serial number on the modem? It should be on the back sticker.
+
+Customer: Sure, let me... (pause) It's... A047 something and then a bunch of numbers. Looks like A047B241150629 or something like that?
+
+Agent: (typing sounds) Okay, I'm pulling that up. (pause) [inaudible] Let me see here... (pause) Alright, I'm not seeing any issues with the account or provisioning on my end. The modem should be connecting. This might actually be a hardware issue with the modem itself.
+
+Customer: So like... it might be broken?
+
+Agent: It's possible. I hate to say it, but if it's not establishing a connection after these troubleshooting steps, it could be a defective modem. The good news is we can definitely get you a replacement.
+
+Customer: How long is that going to take? I really need my internet working soon. I have a meeting at two o'clock.
+
+Agent: I completely understand. Let me see what options we have. (typing sounds) Okay, so if you can get to one of our service centers, we might be able to get you a replacement modem today, but I'd need to check the hours. Or we can ship one out to you, which typically takes about two to three business days.
+
+Customer: Two to three days? That's not going to work for me. Is there any way to expedite that?
+
+Agent: Let me look into our expedited shipping options. (pause, typing sounds) Unfortunately, our expedited shipping would still be around 24 hours at the earliest, and we'd need to charge a fee for that.
+
+Customer: (frustrated) Okay, so what about going to a service center? Can you check the hours for me?
+
+Agent: (typing sounds) Absolutely. Let me find the nearest location to you. (pause) It looks like we have one about fifteen minutes from you at the mall on 5th Street. They're open until 6 PM today.
+
+Customer: Okay, at least that's something. So I can go pick up a modem today?
+
+Agent: You should be able to, but let me just give them a quick call to make sure they have replacement modems in stock. (pause) Can you hold for just one moment?
+
+Customer: Yeah, sure.
+
+Agent: (hold music plays briefly, about 20 seconds)
+
+Agent: Okay, I'm back. Unfortunately, they're indicating they don't have any SB8200 modems in stock at that location at the moment. They do have a couple other models available, but I want to make sure those are compatible before I send you down there.
+
+Customer: (sighs) Okay, so that's not going to work either.
+
+Agent: I'm really sorry about this. Let me see if I can check our other locations. (typing sounds, pause) It looks like the location on Riverside might have one. Let me verify that... (pause) Yes, they have at least two in stock.
+
+Customer: Okay, where's that?
+
+Agent: That's about twenty minutes from your location. They're also open until 6 PM today.
+
+Customer: Alright, I guess I'll have to drive over there. But is there anything else we can try before I go to all that trouble?
+
+Agent: (pause) At this point, I hate to say it, but I think we've exhausted most of the troubleshooting options. The modem is showing no signs of connecting to our network, even after a reset. It really does seem like a hardware issue.
+
+Customer: Okay... yeah, I guess that makes sense. This is just really frustrating, you know? I work from home and I can't really afford to be without internet.
+
+Agent: I completely understand, and I apologize for the inconvenience. If you can make it to that location on Riverside before 6 PM, they should be able to get you set up with a replacement modem. If you get it installed and you're still having issues, please don't hesitate to call us back.
+
+Customer: Alright. Do I need to bring anything with me? The old modem?
+
+Agent: Yes, please bring the modem with you. They can process it as a return and get you set up with a new one on the spot.
+
+Customer: Okay, I'll head over there now. Do I need anything else from you?
+
+Agent: I think we're all set. Just to recap, you're going to head to our Riverside location to pick up a replacement modem. If you have any issues once you get it installed, you have my case reference number here at the bottom of your screen or email. You can reference that when you call back.
+
+Customer: (pause) I don't see a reference number. Can you give me that?
+
+Agent: (typing sounds) Oh, I apologize. Let me get that for you. The case reference number is 54739821.
+
+Customer: Okay, 54739821. Got it.
+
+Agent: Perfect. Again, I'm really sorry we couldn't get this resolved remotely, but you should be back up and running as soon as you get that modem swapped out.
+
+Customer: Alright, well, I appreciate your help anyway. Thanks for trying.
+
+Agent: You're welcome. Thank you for being a Frontier customer, and again, I'm sorry for the hassle today.
+
+Customer: Okay, bye.
+
+Agent: Goodbye!

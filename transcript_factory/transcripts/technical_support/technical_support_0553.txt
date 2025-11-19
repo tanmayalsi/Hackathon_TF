@@ -1,0 +1,105 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet has been down since this morning and I really need to get it back up and running. I work from home and I've got meetings starting in like an hour.
+
+Agent: Oh, I'm sorry to hear that. I know how frustrating that can be. Let me get some information from you so I can help troubleshoot this. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, I'm pulling that up now... Got it. So this is for... Robert Martinez?
+
+Customer: Yeah, that's me.
+
+Agent: Perfect. And you're saying your internet went down this morning? Do you remember what time that was?
+
+Customer: Uh, I'd say around 8 or 8:30. I tried to log into a Zoom call and it just... nothing. No connection at all.
+
+Agent: Okay. And have you had any storms or weather issues in your area recently?
+
+Customer: No, it's been pretty clear all day actually.
+
+Agent: Alright. So let's walk through some basic troubleshooting. First, can you tell me what you're seeing right now? Is there any lights on your modem or router?
+
+Customer: (pause) Yeah, I'm looking at it now. Um... the power light is on, it's green. But the internet light, I think that's the one that usually blinks? That one's... it's not lit up at all. It's completely dark.
+
+Agent: Okay, that's helpful information. So no lights on the internet port. That could mean a few things. Let's try a restart. Can you unplug the modem for me? Just pull the power cord out.
+
+Customer: Yeah, sure. (pause) Okay, it's unplugged.
+
+Agent: Great. Now let's wait about thirty seconds while it's unplugged. (pause) Just give me a heads up when you plug it back in.
+
+Customer: (pause) Alright, plugging it back in now.
+
+Agent: Perfect. And go ahead and give it about a minute to boot back up. While we're waiting, have you noticed any issues with the service before this, or is this the first time this has happened?
+
+Customer: No, actually we've had pretty good service since we switched to Frontier like six months ago. This is the first real problem.
+
+Agent: That's good to know. Okay, so while we're waiting, I'm actually going to check the line from my end. (typing sounds) Let me see what we're showing on our systems... (pause) Hmm, okay. So I'm not seeing an active connection on your line right now. That's consistent with what you're experiencing.
+
+Customer: So what does that mean? Is it something on my end or...?
+
+Agent: Well, it could be a few things. Let me ask you—have you checked the cable that comes into your modem? The one from the wall?
+
+Customer: Oh, um... (pause) Let me look. The modem light is back on now. The green one. But that... that internet light still isn't on.
+
+Agent: Okay, and the cable from the wall—can you check that it's firmly plugged into the back of the modem?
+
+Customer: (pause) It looks pretty secure, but let me... (pause) Yeah, it seems tight.
+
+Agent: Can you try disconnecting it and reconnecting it just to make sure it's a solid connection?
+
+Customer: (pause) Okay, I'm doing that now. (pause) Reconnected. (pause) No... still nothing. That light's still not coming on.
+
+Agent: Alright. Let me check something else. In your setup, do you have a separate router or is it a modem-router combo unit?
+
+Customer: It's, um... I think it's all in one? It says Frontier on it. It's the box they installed when we set up the service.
+
+Agent: Okay, so that should be the combo unit. That's what we typically install. So here's what I want to try next. Can you do me a favor and hold down the reset button on the back of the unit? It's a small button, usually you need a paperclip or something to press it. Just hold it for about ten seconds.
+
+Customer: (pause) Okay, I found it. Holding it now... (pause) Ten seconds, right? (pause) Okay, releasing it.
+
+Agent: Good. Now we're going to let it fully reboot again. This is going to take a couple minutes. While it's doing that, can you tell me—are you able to see any WiFi networks on your phone right now?
+
+Customer: Let me check. (pause) No, I don't think so. I'm not seeing anything. Wait—no, actually, there might be one but it's showing as... it's not showing a connection symbol. Like it's not connecting.
+
+Agent: Okay. And when you look at the router now, is the internet light showing anything at all?
+
+Customer: (pause) No, still dark. This is weird. I don't understand what's happening.
+
+Agent: I understand your frustration. Let me check something on my end. (typing sounds) (pause) Okay, so I'm looking at your line here and I'm not seeing any signal coming through from your local node. That's actually pointing to something that might be happening on our network infrastructure side rather than your equipment.
+
+Customer: Oh. So it's not my modem or whatever?
+
+Agent: It doesn't appear to be. I mean, we've done all the standard troubleshooting steps and your equipment should have at least synchronized with the network by now. Since it's not, that typically indicates a problem on our infrastructure. It could be anything from a bad port at the node to a line issue or even work happening in your area that we weren't aware of.
+
+Customer: So what do I do? I need to get this working before my meeting.
+
+Agent: I completely understand. Here's what I can do for you. I'm going to escalate this to our technical team and have them send a technician out to your location. They can check the line coming into your house and investigate what's happening at our end.
+
+Customer: How long is that going to take? Can they come out today?
+
+Agent: (typing sounds) Let me see what our availability is... (pause) So our next available appointment would be... it looks like tomorrow morning between 8 AM and 12 PM. I'm really sorry, I know that doesn't help you with your meeting today.
+
+Customer: [inaudible] ...that doesn't work for me. I have meetings all day tomorrow too. This is... can't someone come out sooner? Or can someone remote in or something?
+
+Agent: I wish I had better options for you. Unfortunately, because it's a network-level issue based on what I'm seeing, remote troubleshooting won't help us. And for same-day service, we'd have to put you on a priority service call, which does have an additional charge associated with it, and I'm not even certain we have availability today.
+
+Customer: (pause) This is really frustrating. We're paying for this service and now it's not working.
+
+Agent: I hear you, and I'm really sorry you're experiencing this. Tell you what—let me check if there's any possibility of getting someone out there today, even if it's later this evening. Give me just one moment. (pause) (typing sounds) (pause) I'm not seeing any same-day appointments available in your area right now. It looks like the next opening really is tomorrow morning.
+
+Customer: Okay. Fine. Schedule it for tomorrow then.
+
+Agent: Alright. So I'm going to set you up for a technician visit tomorrow, 8 AM to 12 PM. I'll get your contact information confirmed and we'll send you a confirmation email and text. The technician should be able to identify and resolve the issue when they arrive.
+
+Customer: Yeah, okay. But this is really inconvenient.
+
+Agent: I understand completely. And we do apologize for the service interruption. Is there anything else I can help you with while we have you on the line?
+
+Customer: No, that's... that's it.
+
+Agent: Alright, Robert. I'm sorry we weren't able to get this resolved remotely. The technician tomorrow should be able to get you back up and running. If you have any other questions before then, feel free to give us another call back. Thank you for being a Frontier customer, and we'll see you tomorrow morning.
+
+Customer: Thanks. Bye.
+
+Agent: Bye now.

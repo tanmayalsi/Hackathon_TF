@@ -1,0 +1,91 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, so my internet just went out about an hour ago and I can't get it back up. I've tried everything I can think of.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we can get this sorted out for you. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm looking at your account now. Just to confirm, is this for the address on Maple Street in Springfield?
+
+Customer: Yeah, that's right.
+
+Agent: Perfect. So you mentioned your internet went out about an hour ago. Have you tried restarting your modem and router yet?
+
+Customer: Yeah, I unplugged both of them, waited like five minutes, and plugged them back in. Still nothing.
+
+Agent: Okay, good troubleshooting. When you say nothing, do you mean the modem isn't powering on, or is it powering on but you're not getting a connection?
+
+Customer: Um... (pause) the modem is powered on. Like, the lights are on, but they're not... they're not the right color, I guess? Normally they're green, and right now they're mostly red and orange.
+
+Agent: Alright, that's actually helpful information. Red and orange lights typically indicate either a connection issue or a signal problem. Can you tell me which lights specifically are red and orange? There should be a power light, an internet light, and maybe a few others.
+
+Customer: So the power one looks fine, that's normal, but the internet light is red, and then there's like a downstream light that's orange.
+
+Agent: Okay, so we've got a downstream signal issue. That can sometimes be resolved by doing a factory reset on the modem, but before we do that, let me check if there are any outages in your area. (typing sounds) (pause) I'm not seeing any active outages reported in your zip code right now, so that's good news. Let me try something else first. Can you look at your modem and tell me what model it is? There should be a label on the back or bottom.
+
+Customer: (pause) It says... Frontier Model FXB-6190. Is that right?
+
+Agent: Yes, that's one of our standard models. Perfect. So what I'd like you to do is locate the small reset button on the modem—it's usually on the back, and it might be recessed.
+
+Customer: (background noise of searching) Um, I see it. There's like a little button back here.
+
+Agent: Great. What I want you to do is hold a paperclip or something similar against that button for about ten seconds. That'll reset the modem to factory settings. Go ahead and do that now while I'm on the line.
+
+Customer: (pause) Okay... (background noise) ...holding it... (pause) ...okay, it's resetting now. I can see the lights blinking and stuff.
+
+Agent: Perfect. Let's just give this a minute or two to fully boot back up. While we're waiting, let me ask you a couple questions. Have you experienced any power outages or storms in your area recently?
+
+Customer: Actually, yeah. There was some pretty bad weather last night, now that you mention it. Lots of thunder and lightning. But we've got a surge protector on it...
+
+Agent: (pause) Okay, that could definitely be a factor. Sometimes power surges can damage modem equipment even with a surge protector. (typing sounds) So we're checking that box. Is the modem fully booted up yet?
+
+Customer: Yeah, it looks like it's done. But the lights are still the same. Internet light is still red, downstream is still orange.
+
+Agent: Hmm, okay. (pause) Let me check one more thing here. (typing sounds) I'm going to look at the signal levels coming to your modem from our end... (pause) Interesting. So I'm seeing that there is signal reaching your modem, but the levels seem a little degraded on the downstream channels. This could indicate an issue with the line itself, or possibly a problem at our network level.
+
+Customer: So what does that mean? Can you fix it from there?
+
+Agent: Well, that's what I'm trying to determine. Let me have you try one more thing. Can you power cycle just the modem this time? Unplug it and give it about thirty seconds, then plug it back in.
+
+Customer: Okay, unplugging now... (pause) ...waiting... (pause) ...plugging it back in. (background noise) Alright, it's booting up again.
+
+Agent: And while that's rebooting, let me just run a quick test on the line to see if I can push a signal reset from my end. (typing sounds) (pause) Okay, I've initiated a signal refresh. That should help if it's a minor network issue.
+
+Customer: (pause) Okay, it's fully booted again, but... nope. Same thing. Red internet light, orange downstream light. Nothing's changed.
+
+Agent: (pause) I'm not going to lie to you, that's... that's not what we want to see. Typically when we're seeing persistent signal issues like this even after a reset, and especially combined with that power surge last night, it often indicates that either the modem itself is damaged, or there's an issue with the outside line coming to your house.
+
+Customer: So what do we do? Can you send someone out?
+
+Agent: We can definitely do that. I can schedule a technician to come out and take a look at both the modem and the line. Let me check our availability... (typing sounds) (pause) Our first available appointment is tomorrow between 8 AM and noon. Would that work for you?
+
+Customer: Tomorrow? I really need my internet today. Is there anything else we can try?
+
+Agent: I completely understand your frustration. Unfortunately, at this point, we've run through the standard troubleshooting procedures. If the modem was damaged by the power surge, we'd likely need to replace it, and that really does require a technician to come out and assess the situation in person. There's not much else I can do remotely to resolve this.
+
+Customer: (frustrated sigh) ...Okay, I guess tomorrow morning it is then. But I can't do noon. I have to work. Can you do earlier?
+
+Agent: Let me see what I can do. (typing sounds) (pause) I'm showing 9 to 11 AM is available tomorrow. Does that work better?
+
+Customer: Yeah, that works. Who's going to be coming out?
+
+Agent: The system will assign a specific technician once we confirm the appointment. You'll receive a confirmation call tomorrow morning with the technician's information. Is the best number to reach you the one associated with your account?
+
+Customer: Yeah, that should be fine.
+
+Agent: Perfect. So just to recap, we have you scheduled for a technician visit tomorrow, Tuesday, between 9 and 11 AM. The tech will assess your modem and the incoming line to determine what's causing the signal issues we're seeing. Before they arrive, you can just leave the modem as is, powered on.
+
+Customer: Okay, got it.
+
+Agent: I apologize that we weren't able to resolve this over the phone today. Is there anything else I can help you with before we wrap up?
+
+Customer: No, I think that's it. Just... hopefully it gets fixed tomorrow.
+
+Agent: I hope so too. Thank you for choosing Frontier, and again, I'm sorry for the inconvenience. Have a good day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.
+
+(call ends)

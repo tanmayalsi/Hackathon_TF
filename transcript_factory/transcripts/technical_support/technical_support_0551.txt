@@ -1,0 +1,93 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. So uh, my internet went down this morning and I've been without service for like... I don't know, three hours now? I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll get you sorted out. Can I grab your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Perfect, thank you. I've got you here. So you're saying your internet went out this morning around... what time was that?
+
+Customer: Around 9 AM, yeah. One minute it was working fine and then just... nothing. The router's still on, the lights are blinking, but I can't connect to anything.
+
+Agent: Okay, so the equipment is powered on but you're not getting a connection. Before we dig deeper, have you tried power cycling the modem and router yet?
+
+Customer: No, I... I didn't think to do that. How do I do that?
+
+Agent: No problem. So what you want to do is unplug the power cable from the back of your modem—that's the larger device—and then also unplug your router. Let them sit unplugged for about 30 seconds, then plug the modem back in first. Wait for all the lights to stabilize, and then plug the router back in.
+
+Customer: (background noise of unplugging) Okay, unplugging now. Should I wait on the line?
+
+Agent: Yeah, go ahead and stay on the line. Just give it about a minute and a half total for everything to boot back up.
+
+Customer: (pause) Alright... lights are coming back on. The modem's got the green light... and the router's booting up. Okay, checking my phone now... (pause) No, still nothing. I'm not connecting to the WiFi.
+
+Agent: Hmm, alright. Let me check the line status on our end. Can you tell me—are you able to see the WiFi network appearing on your device, or is it not showing up at all?
+
+Customer: No, I can see the network name, but when I try to connect, it just says "can't connect to this network."
+
+Agent: Okay, that's helpful. (typing sounds) So I'm looking at your modem from here, and I'm showing that it's online on our end, so the connection from us to your equipment is good. The issue seems to be between your router and your device. Have you tried connecting to any other devices? Like a laptop or a tablet?
+
+Customer: I only have my phone and my laptop. Let me try the laptop. (pause) Same thing. It sees the network but won't connect.
+
+Agent: Alright. And just to confirm, you haven't made any changes to your WiFi password or your network settings recently, right?
+
+Customer: No, nothing. It was working yesterday, everything was fine.
+
+Agent: Got it. Let's try resetting the router. There should be a small reset button on the back or bottom of the router. You'll need something like a paperclip or a pen to hold it down for about 10 seconds.
+
+Customer: (background noise) Okay, I see it. Holding it down... (pause) Okay, it's resetting. The lights are blinking rapidly now.
+
+Agent: Perfect. That's normal. Give it about another minute or two to fully come back online.
+
+Customer: (pause) It's almost back up. Let me try connecting again. (pause) Still not working. It's still saying the same error.
+
+Agent: Hmm, that's... that's odd. Let me look at a few more things here. Can you tell me what model of router you have? There should be a sticker on the back or bottom.
+
+Customer: Um... (sound of moving things around) It says "Frontier" on it, and then... uh... "Model FXC-3."
+
+Agent: Okay, thank you. (typing sounds) Yeah, I have that model in our system. You know what, I'm wondering if there might be an issue with the router itself, or possibly... let me check if there's a service alert in your area. (pause) No, I'm not seeing any alerts affecting your address.
+
+Customer: So what does that mean? There's nothing you can do?
+
+Agent: Not necessarily. I want to try one more thing. Can you check the Ethernet cable connecting the modem to the router? Make sure it's firmly plugged in on both ends?
+
+Customer: (pause) Okay, checking... it looks fine to me. Both ends feel snug.
+
+Agent: Alright. And that cable hasn't been damaged or anything?
+
+Customer: Not that I can see, no.
+
+Agent: Let me try something from our end. I'm going to send a restart command to your modem. This should only take a minute.
+
+Customer: (pause) Okay...
+
+Agent: (typing sounds) (pause) Alright, the restart's been sent. Your lights should blink during this process. Just give it about two minutes to cycle through.
+
+Customer: (pause) Yeah, I see the lights doing that. (longer pause) Okay, they're stabilized again. (pause) No, still not... it's still not connecting.
+
+Agent: I understand. This is really strange. Look, I hate to say this, but based on everything we've tried, I think there may be a hardware issue with your router. It could be a firmware glitch or an actual hardware failure.
+
+Customer: So my router's broken?
+
+Agent: I can't say for certain, but it's pointing in that direction. What I can do is, I can place an order for a replacement router to be sent to you. We can get one out typically within three to five business days, and it would be covered under your service.
+
+Customer: Three to five days? That's... I can't be without internet for that long. Is there anything else?
+
+Agent: I completely understand your frustration. Unfortunately, given that we've gone through the standard troubleshooting steps and the modem is working fine on our end, the issue is isolated to your router. We could also arrange for a technician to come out and diagnose it in person, but that would be at a service call fee of $99.99 unless you want to cover that cost.
+
+Customer: (sighs) So either I pay a hundred bucks for a technician, or I wait five days for a router?
+
+Agent: I know it's not ideal. [inaudible] would be my recommendation... But yes, those would be your options at this point. Would you like me to set up the replacement router shipment, or would you prefer to schedule a technician visit?
+
+Customer: Let me think about this. Can I call back?
+
+Agent: Of course. You have my reference number here. Let me give you that. It's 284-X-Frontier. You can reference that on any future calls. And just so you know, we're open until 9 PM tonight if you want to reach back out.
+
+Customer: Okay. Yeah, I might do that. Thanks for trying.
+
+Agent: I'm really sorry we couldn't get you back online today. We'll be here if you need us. Thank you for calling Frontier Communications.
+
+Customer: Bye.
+
+Agent: Bye.

@@ -1,0 +1,105 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet just went out about an hour ago and I can't get it back online. I've tried unplugging the router and everything.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm pulling that up now. And can I get the name on the account?
+
+Customer: It's under James Mitchell.
+
+Agent: Perfect, James. I've got your account here. I see you're on our Fiber 500 plan in the Riverside area. So you mentioned your internet went out about an hour ago. Have there been any storms in your area recently, or did anything unusual happen before it stopped working?
+
+Customer: No, no storms or anything. It was just working fine and then suddenly it dropped. Like, all my lights on the router just went dark.
+
+Agent: Okay, so the router lost power essentially. Let me ask you a few quick questions. Can you check if the power cable is firmly connected to the router?
+
+Customer: (pause) Yeah, it's plugged in. I can see the outlet is working because I have a lamp plugged into it right next to it.
+
+Agent: Good. And the other end of the power cable—the one that connects to the router itself—that's secure as well?
+
+Customer: Yeah, yeah, it looks good. Should I try unplugging it for like 30 seconds?
+
+Agent: Actually, let's do that. Go ahead and unplug it, wait about 30 seconds, and then plug it back in. I'll wait on the line.
+
+Customer: (background noise of unplugging) Okay, unplugging it now... (pause) ...alright, waiting... (pause) Okay, plugging it back in.
+
+Agent: Great. Now let's give it about a minute to boot back up. What lights are you seeing on the router now?
+
+Customer: Um... (pause) ...nothing yet. Still dark.
+
+Agent: Still nothing? Okay. Let me ask you this—do you have a modem separate from your router, or is it all in one unit?
+
+Customer: Oh, I think it's all in one. It's just the box Frontier gave me.
+
+Agent: Right, that's our gateway unit. Okay, while we're waiting for it to fully power up, let me check something on my end. (typing sounds) I'm going to run a line test to see if there's an issue with your connection from our side.
+
+Customer: Okay, how long will that take?
+
+Agent: Just a moment. (pause) (typing sounds) Alright, so the line test is showing that we're not detecting your gateway on the network. That could mean a few things. Let's give it another 30 seconds or so to fully boot up. These units can take a minute sometimes.
+
+Customer: (pause) Okay... (pause) ...still nothing, man. This is frustrating.
+
+Agent: I understand. Have you checked to make sure the power cable itself isn't damaged? Like, is there any visible wear or damage to the cable?
+
+Customer: (pause) Let me look... No, it looks fine. It's just a regular cable.
+
+Agent: Okay. And just to confirm—when you say all the lights went dark, there's absolutely no light on the unit at all? Not even a small LED or anything?
+
+Customer: Nothing. It's completely dark.
+
+Agent: Alright. Here's what I want to try. Can you unplug the power cable again, and this time, try plugging it into a different outlet? Just to rule out that the outlet itself is the issue.
+
+Customer: Yeah, sure. (pause) (background noise) Okay, I've got it unplugged. Let me move it over here... (pause) Plugging it into the outlet over there... (pause) Still nothing. No lights.
+
+Agent: Hmm. Okay, James, at this point it's looking like there might be a hardware issue with the gateway unit itself. Before we go down that road though, let me try one more thing. Do you have a second power cable you could try? Maybe from another device?
+
+Customer: Um... (pause) ...I could try the one from my printer?
+
+Agent: Sure, that could work. As long as it's the same type of connection.
+
+Customer: (pause) Okay, trying it now... (pause) (background noise) ...nope. Still nothing.
+
+Agent: Alright. And you're definitely seeing power at that outlet? The lamp is still on?
+
+Customer: Yeah, the lamp's on. But this gateway... nothing.
+
+Agent: (pause) Okay, I think at this point we're looking at a failed power supply in your gateway. These things do happen sometimes. I wish I had better news. Let me get you set up with a replacement unit.
+
+Customer: Seriously? How long is that going to take? I need my internet for work.
+
+Agent: I completely understand. Let me check what I can do here. (typing sounds) (pause) Okay, so I can have a replacement gateway shipped out to you. Depending on your location, it should arrive within 2 to 3 business days.
+
+Customer: 2 to 3 days? That's... that's not great. Is there any way to get it faster?
+
+Agent: Let me see what options we have. (typing sounds) (pause) Unfortunately, standard shipping is what we have available right now. I wish I could expedite it for you, but we're not able to do that at the moment.
+
+Customer: (pause) ...Okay. I guess I don't have much choice then.
+
+Agent: I know it's not ideal, James. Once the new unit arrives, installation is pretty straightforward. It'll be plug and play. In the meantime, is there anything else I can help you with?
+
+Customer: No, I just... I really needed this today. This is [inaudible].
+
+Agent: I understand your frustration, and I apologize for the inconvenience. Let me make a note here that this is an urgent replacement and I'll add a courtesy credit to your account for the downtime. That should show up on your next bill.
+
+Customer: (pause) Okay. Well, thank you, I guess.
+
+Agent: You're welcome. So just to recap, we're going to send out a replacement gateway. You should receive it within 2 to 3 business days. When you get it, just connect the power and the fiber cable the same way you had the old one set up, and you should be good to go. 
+
+Customer: Yeah, okay. How will it be delivered?
+
+Agent: It'll come via standard mail. You should get a tracking number emailed to you within 24 hours.
+
+Customer: Alright.
+
+Agent: Is there anything else I can help you with today?
+
+Customer: No, that's it.
+
+Agent: Alright, James. Thank you for being a Frontier customer, and again, I apologize for the trouble. We'll get you back online as soon as possible. Have a good day.
+
+Customer: Thanks. Bye.
+
+Agent: Bye.

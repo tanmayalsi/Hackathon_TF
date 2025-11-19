@@ -1,0 +1,165 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hey, yeah, hi Derek. So um, my internet's been down since this morning and I'm not sure what's going on. I really need to get this fixed because I'm supposed to be working from home today.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account and we'll get this sorted out for you. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's... uh, 555-0147.
+
+Agent: (typing sounds) Okay, got it here. I'm looking at... Robert Chen, is that correct?
+
+Customer: Yes, that's me.
+
+Agent: Perfect. So you're saying your internet went down this morning? And when you say it's down, is your router powered on? Are you seeing any lights on it at all?
+
+Customer: Um, yeah, the router's on. I can see the lights, but like... they're not doing the normal thing, you know? Usually it's like a steady green light, but right now it's just blinking red.
+
+Agent: Okay, that's actually really helpful information. A blinking red light typically means there's no connection coming into the modem. Have you checked to see if your modem is powered on? That's the device that connects to the wall outlet.
+
+Customer: My modem? Yeah, I think so. Let me look... (pause) okay, yeah, it's plugged in and it's got lights on it too.
+
+Agent: Good. And what color are those lights? Are they red, green, or...?
+
+Customer: They're like... amber? Orange? And they're not doing anything, just steady.
+
+Agent: Okay, so both devices aren't showing normal connectivity. Let me have you try a quick restart. Can you unplug the modem first? Just pull the power cable out.
+
+Customer: Right now?
+
+Agent: Yeah, if you could. And just leave it unplugged for about 30 seconds.
+
+Customer: (pause) Okay, I'm unplugging it. (pause) It's unplugged.
+
+Agent: Perfect. Now let's wait about half a minute. I'll wait with you here.
+
+(pause - approximately 30 seconds of silence)
+
+Agent: Okay, go ahead and plug it back in for me.
+
+Customer: (sounds of movement) Okay, plugging it back in now. (pause) Alright, it's back in. So now what?
+
+Agent: Now we're going to give it a minute or so to boot back up. You should see the lights start changing. Let me know when they settle down.
+
+Customer: (pause) Um, okay... the lights are starting to do stuff. They're like flickering and... (longer pause) okay, they've stopped. But they're still orange. Still not green.
+
+Agent: They're still orange?
+
+Customer: Yeah, they're steady orange now. Not blinking, just solid orange.
+
+Agent: Hmm. (typing sounds) Let me check our system here for any issues in your area. Have you noticed if any of your neighbors have mentioned internet problems?
+
+Customer: No, I haven't really... I mean, I haven't talked to them, but I haven't heard anything about it.
+
+Agent: Okay. I'm not seeing any reported outages on our end. Can you do me a favor and check the connection between your modem and the wall outlet where it connects to the network?
+
+Customer: The connection? Like the cable?
+
+Agent: Yes, exactly. Just make sure the cable that goes from the wall to the modem is plugged in nice and snug on both ends.
+
+Customer: (pause) Okay, I'm checking... yeah, it looks pretty snug to me. Oh wait, actually... (pause) I think it might have come loose a little bit. Let me try pushing it in more.
+
+Agent: Yeah, go ahead.
+
+Customer: (sounds of movement) There we go. I'm pushing it in real good and... (pause) oh! Wait, I see something. The orange light is changing!
+
+Agent: It's changing? What's it doing now?
+
+Customer: It's like... red and green now? Like it's cycling between them.
+
+Agent: Okay, that's actually part of the boot-up process. That's a good sign. Give it another minute and see if it settles on green.
+
+Customer: (pause) Okay, I'm watching it. Come on, come on... (pause - approximately one minute) No, it went back to solid orange. Same thing as before.
+
+Agent: Hmm. Alright, so the cable connection didn't solve it. Let me try something else. Can you check to see if there's a coaxial cable running from outside your home to the modem? It's a thick cable, usually with a hex nut on the ends.
+
+Customer: Coaxial? I'm not really... I don't know where that would be.
+
+Agent: It usually comes in through the wall, maybe in a closet or basement area, or near where your modem is set up?
+
+Customer: (pause) Oh! Yeah, I see it. There's a cable coming in through the wall over there. It's connected to the modem, I think.
+
+Agent: Okay, perfect. Can you unscrew that from the modem and then screw it back in? Just make sure it's tight.
+
+Customer: (pause) Okay, I'm unscrewing it... got it off. And now I'm screwing it back on... there. Is that it?
+
+Agent: (pause) Any change in the lights?
+
+Customer: No, still orange. Still the same.
+
+Agent: (typing sounds) Okay. Let me just... (pause) I'm going to put you on a brief hold while I check with our technical team to see if there might be something on the line side. It should just be a moment.
+
+Customer: Okay, sure.
+
+(hold music playing for approximately 45 seconds)
+
+Agent: Thanks for holding, Robert. Okay, so I've checked and there are no line issues reported in your service area. However, given that we've done the basic troubleshooting and the modem still isn't getting a signal, it's starting to look like there might be an issue with your modem hardware itself.
+
+Customer: Wait, so what does that mean? Is it broken?
+
+Agent: It could be. Sometimes modems can fail after a few years. How long have you had your modem?
+
+Customer: Um... I think it came with my installation? So that would be... maybe three years ago? Or four?
+
+Agent: That's definitely within the lifespan where it could start to fail. The orange light usually indicates no downstream signal, which means the modem isn't able to communicate with our network properly.
+
+Customer: So... what do I do? Can you just send me a new one?
+
+Agent: Absolutely. We can definitely arrange that for you. I can expedite a replacement modem to get it out to you. However, I do want to mention that there would be a $15 hardware fee associated with the replacement.
+
+Customer: Fifteen dollars? I mean, I guess that's fine if it fixes the problem. How long would it take to get here?
+
+Agent: If I process this today, you should receive it within 3 to 5 business days.
+
+Customer: Three to five days? Okay, but I need internet today. Like, I'm supposed to be working from home right now. Is there anything else we can try in the meantime?
+
+Agent: (pause) I understand, and I wish I had another solution for you. We've gone through the standard troubleshooting—the restart, checking connections—and unfortunately, all signs are pointing to the modem itself. The orange light is a pretty definitive indicator.
+
+Customer: Yeah, but couldn't it be something else? What if it's not the modem?
+
+Agent: Well, the only other thing I could suggest is to check outside to see if there's any visible damage to the line coming into your home. If a line is damaged or cut, that could also cause this issue.
+
+Customer: Outside? Like, on the utility pole?
+
+Agent: It could be anywhere along the line from the pole to your home, actually. Just look for any fraying or cuts in the cable.
+
+Customer: (pause) Okay, let me... I'm going to go look real quick. (pause - approximately one minute) Okay, I'm back outside. I'm looking at the cable and... I don't know, it looks normal to me? I'm not seeing anything wrong with it.
+
+Agent: Okay, and you don't see any obvious cuts or damage anywhere?
+
+Customer: No, nothing that I can see. It all looks fine to me.
+
+Agent: Alright. Well, given everything we've troubleshot, I really do think the best course of action is to get you that replacement modem. I can also note on your account that you need internet access urgently for work purposes, and I'll flag it for priority processing.
+
+Customer: I appreciate that, Derek, but I really don't have three to five days. Could I... is there any way to get it faster? Or like, could someone come out today?
+
+Agent: I can look into an expedited shipping option. (typing sounds) Let me see what I can do here. (pause) Unfortunately, our next available expedited option would be 1 to 2 business days, but that would add an additional $25 fee on top of the hardware fee.
+
+Customer: (pause) So that's... forty dollars total?
+
+Agent: Yes, $15 for the modem and $25 for expedited shipping.
+
+Customer: (sighs) I mean... I don't know. That's a lot. Can I think about it?
+
+Agent: Of course. You can call back anytime and let us know. In the meantime, would you like me to go ahead and process the standard 3 to 5 day replacement? That way at least it's in the queue.
+
+Customer: Yeah, okay. Let's do the standard one for now. I'll figure out what to do about today.
+
+Agent: Perfect. I'm going to get that processed for you right now. (typing sounds) Okay, I've got everything set up. Your replacement modem is in the system and should arrive within 3 to 5 business days. You'll receive a tracking number via email once it ships out.
+
+Customer: Okay. And when I get it, I just... do the same setup process?
+
+Agent: Exactly. It should be pretty straightforward. When it arrives, just unbox it, connect the cables the same way they're connected now, power it on, and it should boot up and connect automatically. If you have any issues with the new modem once you receive it, just give us a call back.
+
+Customer: Alright, I guess that's better than nothing. Thank you, Derek.
+
+Agent: I'm sorry we couldn't get it working today, Robert. I really wish I had a better solution for you. Is there anything else I can help you with this evening?
+
+Customer: No, I think that's it. Thanks anyway.
+
+Agent: You're welcome. Thanks for choosing Frontier, and we appreciate your patience. Have a good day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.
+
+(call ends)

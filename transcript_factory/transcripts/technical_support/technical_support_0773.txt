@@ -1,0 +1,117 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, um, my internet just went out completely. I've been without service for about an hour now and I'm not sure what's going on.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here. Can I get the phone number associated with your account, please?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm looking that up now... alright, I've got you here. I see you're on our Fiber 500 plan. And when you say it went out completely, you mean you have no internet connection at all right now?
+
+Customer: Yeah, nothing. My lights on the router are... actually, let me check. The power light is on, but I don't see any of the other lights coming on. It's just the one light.
+
+Agent: Okay, good, so we know the device has power at least. That's a good starting point. Let me walk you through a few quick troubleshooting steps. First, can you tell me—are you looking at the front of the router right now?
+
+Customer: Yes, I'm right in front of it.
+
+Agent: Perfect. So on the Frontier router, you should typically see a white power light, and then you should see lights for internet connection and Wi-Fi. If only the power light is on, that usually means we're not getting a signal to the device. Let's try a restart first. Can you unplug the router from the power source?
+
+Customer: Uh, yeah, hold on. (pause) Okay, it's unplugged.
+
+Agent: Great. And while that's unplugged, can you also check the cable that's coming into the back of the router? It's usually a white coaxial cable. Can you see if it's firmly connected?
+
+Customer: (pause) Yeah, it looks... it looks pretty tight. I can see it back there.
+
+Agent: Okay, good. Go ahead and plug the router back in now, and we'll give it about a minute or two to fully boot up. While we're waiting, let me check something on our end. (typing sounds) Have you experienced any outages in your area recently that you're aware of?
+
+Customer: No, nothing that I know of. It's been working fine all day. I was actually just using it this morning, and then I went out for like an hour, and when I came back, nothing.
+
+Agent: Okay, so it was working this morning. That's helpful information. Let me just check our system here... (pause) I'm not seeing any reported outages in your service area at the moment, so that's good. Do you have any lights on the router yet?
+
+Customer: Um... (pause) I'm seeing the power light still, and now I'm seeing... like a faint orange light next to it? Is that normal?
+
+Agent: An orange light can mean a few things. It could mean it's still booting up, or it could indicate a connection issue. Let's give it just another thirty seconds or so. Sometimes they take a minute to fully initialize.
+
+Customer: Okay. (long pause) Still orange. It's been like thirty seconds now.
+
+Agent: Alright, and do you have any other lights? Is anything showing green?
+
+Customer: No, nothing green. Just the power light solid white and then this orange one that won't go away.
+
+Agent: Okay. That orange light staying constant is a bit concerning. That typically indicates the router isn't getting a proper downstream signal. Before we go further, let me ask—have you had any work done at your home recently? Anything with your exterior lines or...?
+
+Customer: No, nothing like that. Everything's been normal.
+
+Agent: Alright. Let's try one more thing. I need you to do what's called a factory reset on the router. On the back, there should be a small recessed button labeled "Reset." You'll need to hold that for about fifteen seconds while the router is powered on. Do you see that button?
+
+Customer: (pause) Hold on, let me get a flashlight. (pause) Yeah, I see it. It's really small. Do I need like a paperclip or something?
+
+Agent: Yes, exactly—a paperclip or something thin like that would work perfectly. Go ahead and hold it down while the device is plugged in.
+
+Customer: (pause) Okay, I'm holding it... (longer pause) How long was it again?
+
+Agent: Fifteen seconds. Just keep holding it. You should see the lights start to flash at some point.
+
+Customer: (pause) Okay, they're flashing now. There's like red and white flashing.
+
+Agent: Good, that's what we want to see. Keep holding it just a bit longer... and then you can release it.
+
+Customer: (pause) Okay, released. Now what?
+
+Agent: Now let's give it another couple minutes to fully reboot. This process resets it to factory defaults, so it'll need to reinitialize everything.
+
+Customer: (pause) Okay. How long should this take?
+
+Agent: Usually about two to three minutes. Why don't we... let me put you on a brief hold while we wait, and I'll come back on in just a moment. Is that okay?
+
+Customer: Sure, that's fine.
+
+Agent: (hold music plays briefly, about 30 seconds) Okay, I'm back. Do you have any lights on the router now?
+
+Customer: (pause) Uh... it's still doing the flashing thing. The lights are still red and white.
+
+Agent: Hmm, it's still in that flashing state. That... that's unusual. Let me ask—when the lights are flashing, are they flashing together, or is it like one at a time?
+
+Customer: It's like... it's hard to tell. They're both kind of going at the same time, but not quite? It's weird.
+
+Agent: Okay. And you mentioned you checked that coaxial cable earlier—the white cable. Is it possible you could check it one more time? Sometimes these things can come slightly loose.
+
+Customer: (pause) Yeah, let me look. (pause) I'm jiggling it a little bit... no, it seems pretty snug. It's not moving or anything.
+
+Agent: Alright. Okay, so I'm thinking at this point we might be looking at a hardware issue with the router itself, or there could be a problem on the line side that we're not seeing from our end. I think what I'm going to need to do is escalate this to our technical team so they can send a technician out to your location to diagnose this properly. Does that work for you?
+
+Customer: A technician? How long would that take? I really need my internet back up and running, you know?
+
+Agent: I totally understand. Let me see what availability we have. (typing sounds) What does your schedule look like? Are you typically home during the day?
+
+Customer: Um, yeah, I can be home anytime really. I work from home actually, so this is... this is pretty urgent for me.
+
+Agent: I hear you. Unfortunately, I'm seeing that our next available appointment is three days out. I know that's not ideal, especially if you work from home. But honestly, based on what we've troubleshot here, I don't think this is something we can resolve over the phone. It sounds like either the equipment needs to be replaced or there's something physical with the line that needs to be checked.
+
+Customer: Three days? Really? Isn't there anything sooner?
+
+Agent: (pause) Let me check one more time... Unfortunately no, I'm not seeing anything sooner than that. I apologize. But I can get you scheduled and we'll make sure you're our first call of the day. And depending on what the technician finds, it could be a quick fix.
+
+Customer: (sigh) Okay, I guess that's better than nothing. Go ahead and schedule it.
+
+Agent: Great. So I have you down for an appointment on Friday, the 15th, between 8 AM and 12 PM. A technician will come out and diagnose the issue. Is there a number where we can reach you to confirm?
+
+Customer: The same number I called in from is fine.
+
+Agent: Perfect. And just to recap, the symptoms we're seeing are no internet connection, the router shows an orange light and constant flashing, and we've already done a power cycle and a factory reset, correct?
+
+Customer: Yeah, that's all correct.
+
+Agent: Excellent. I'm going to note all of that in your account so when the technician arrives, they'll know exactly what we've tried. Is there anything else I can help you with today?
+
+Customer: No, I guess that's it. I just hope they can fix it quickly on Friday.
+
+Agent: Me too. We really do appreciate your patience. If anything changes before then, feel free to give us a call back. Is there anything else?
+
+Customer: No, that's all. Thank you.
+
+Agent: Thank you for calling Frontier, and we'll see you Friday. Have a good day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

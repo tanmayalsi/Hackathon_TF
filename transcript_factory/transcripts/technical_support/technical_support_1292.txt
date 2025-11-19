@@ -1,0 +1,89 @@
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Yeah, hi. So, um, my internet just went out completely about an hour ago and I can't get it back on. I've tried unplugging the modem and everything but nothing's working.
+
+Agent: I'm sorry to hear that. We'll get this figured out for you. Let me pull up your account real quick. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, thank you. And can I get a name please?
+
+Customer: It's David Chen.
+
+Agent: Perfect, David. Thanks for that. So you mentioned your internet went out about an hour ago. Have you experienced any outages in your area recently, or is this the first time?
+
+Customer: No, this is the first time. Everything was working fine this morning, and then around... I dunno, 2 o'clock, it just stopped. The modem's still got lights on it, but nothing's connecting.
+
+Agent: Okay, that's helpful to know. So the modem is powered on and you're seeing lights. Can you tell me what lights you're seeing? Are they all solid green, or are some of them blinking or red?
+
+Customer: Um... (pause) there's like a power light that's solid green, and then there's a couple of other ones that are... they're like blinking orange? Or amber? I'm not really sure.
+
+Agent: Okay, blinking orange lights typically indicate the modem is trying to connect to our network but hasn't established a connection yet. Let's try a couple of things. First, do you have a router separate from your modem, or is it a combination unit?
+
+Customer: No, it's just the modem. It's the one you guys gave me when I signed up.
+
+Agent: Got it. Alright, let's do a factory reset on the modem. I'm gonna have you unplug it for about 30 seconds, okay?
+
+Customer: Yeah, sure. (pause) It's unplugged.
+
+Agent: Great. Now let's wait about 30 seconds... (pause) ...and go ahead and plug it back in.
+
+Customer: Okay, plugging it back in now. (pause) So we're just gonna wait for it to boot back up?
+
+Agent: Exactly. Just give it about two to three minutes to fully restart. While we wait, let me ask—have you noticed any issues with the outdoor lines or anything outside your house? Any visible damage or anything?
+
+Customer: Um, not that I can see. It looks fine to me. There's no downed lines or anything like that.
+
+Agent: Okay, good. That's helpful. So how's it looking? Are those lights changing at all?
+
+Customer: (pause) Uh, yeah, they're still blinking orange. Nothing's changed really.
+
+Agent: Alright, let me check something on my end. (typing sounds) I'm looking at your line here and... hmm. I'm actually not seeing your modem registering on our network at all. That's unusual. Let me run a quick line test. (pause) Okay, so the line appears to be active from our end, which means the issue might be with the modem itself or the connection between your modem and the wall jack.
+
+Customer: Oh no, really? So the modem's broken?
+
+Agent: Well, let's not jump to conclusions yet. Can you check the cable that goes from your wall to the modem? Just make sure it's plugged in firmly on both ends?
+
+Customer: (pause) Okay, yeah, it's... it looks pretty plugged in to me. It's tight on both sides.
+
+Agent: Alright. And you haven't moved the modem or changed anything with the setup recently?
+
+Customer: No, it's been in the same spot since we got it installed like six months ago.
+
+Agent: Okay. Um, let me try something else here. Can you unplug the coaxial cable—that's the cable connected to the modem—and just visually check the connector on both ends? Sometimes we'll see corrosion or debris that can cause connection issues.
+
+Customer: (pause) Okay, I'm looking at it... I mean, it looks fine to me. It's a little dusty maybe, but nothing obvious.
+
+Agent: Okay, you can go ahead and plug that back in. Let me try one more thing here. I'm going to send a reboot command to your modem from this end. That might help establish the connection.
+
+Customer: Alright, I'm ready.
+
+Agent: (typing sounds, pause) Okay, sending that now. Go ahead and watch those lights for me.
+
+Customer: (pause) Okay, so... the power light flickered but then it came back on. The orange lights are still blinking though. This is really frustrating.
+
+Agent: I understand, and I apologize for that. Look, let me be honest with you—normally when we see this pattern, it's either an issue with the modem hardware itself or there's something on the line that's preventing the connection. Since I'm not seeing your modem registering on our network even after the reset, and the line itself appears active, it's pointing toward a potential modem issue.
+
+Customer: So what do we do? I need my internet for work tomorrow.
+
+Agent: Right, I totally understand. At this point, I think we need to get a technician out to your location to take a look at this in person. They can check the wall jack, test the line with their equipment, and if needed, swap out the modem for a replacement unit.
+
+Customer: How long would that take? Do you have anything available tonight or tomorrow morning?
+
+Agent: (typing sounds, pause) Let me see what we have available. Unfortunately, today's pretty much booked up. But I can get someone out there tomorrow morning, first available window is... 8 to 10 AM. Would that work for you?
+
+Customer: I guess it'll have to. Can you make sure they come prepared to fix this? I've got a lot of work to do tomorrow.
+
+Agent: Absolutely. I'm gonna put a note on your account that this is a priority call and that you need to be back online ASAP. They'll be equipped to handle most scenarios. I'm also going to email you a confirmation with all the details and a direct number you can call if you need to reach the tech before they arrive.
+
+Customer: Yeah, okay. Thanks.
+
+Agent: Is there anything else I can help you with tonight, David?
+
+Customer: No, I think that's it. Just hoping this gets fixed tomorrow.
+
+Agent: I'll make sure of it. We really appreciate your patience, and we'll get you back up and running. Thanks for calling Frontier.
+
+Customer: Thanks, bye.
+
+Agent: Bye now.

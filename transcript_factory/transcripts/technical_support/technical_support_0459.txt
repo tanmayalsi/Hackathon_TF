@@ -1,0 +1,109 @@
+# Frontier Communications - Customer Service Call
+
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, thanks for picking up. So, uh, my internet just went out like an hour ago and I can't get it back on. I've tried restarting the router and nothing's working.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot this. Let me pull up your account here. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm looking at your account now. I see you're on our Fiber 500 plan. And you said the internet went out about an hour ago?
+
+Customer: Yeah, roughly an hour. One second it was working fine and then just... nothing.
+
+Agent: Alright, let's see if we can get this sorted out for you. First, can you tell me what you're seeing right now? Is the modem showing any lights at all?
+
+Customer: Um, let me go look at it. (pause) Okay, so there's... there's like a red light on the front. Everything else is kind of dark.
+
+Agent: Okay, a red light typically indicates there's an issue with the connection. Let's try a few things. First, can you unplug the modem for me? Just pull the power cable out completely.
+
+Customer: Sure, doing that now. (pause) Okay, it's unplugged.
+
+Agent: Great. While that's unplugged, I want you to count to about thirty. Just give it a moment to fully power down.
+
+Customer: (pause) Okay... (pause) ...thirty. Now what?
+
+Agent: Now go ahead and plug it back in and let's see what happens.
+
+Customer: (pause) Plugging it back in now. (pause) Okay, so it's... it's booting up I think? I'm seeing some lights blinking now.
+
+Agent: Perfect. Those blinking lights are normal during startup. Let's give it about two minutes to fully boot up. While we wait, I just want to ask—have you experienced any weather recently? Any storms or anything like that?
+
+Customer: Oh, actually yeah. There was some pretty heavy rain this morning, now that you mention it. Could that affect it?
+
+Agent: It definitely could. Fiber lines can sometimes be affected by severe weather, especially if there's been any flooding in your area or damage to the external lines. Let's see if the modem stabilizes here. (pause) Are you seeing more stable lights now?
+
+Customer: Um... some of them are green now, which is good, right? But that red light is still there.
+
+Agent: Hmm, okay. The red light is still showing, which suggests we may have a line-side issue. Let me ask you this—do you have a battery backup unit connected to your modem?
+
+Customer: A battery backup? I don't think so. I just have the modem that you guys gave me.
+
+Agent: Okay, that's fine. And just to confirm, you've restarted the modem once already today, correct?
+
+Customer: Yeah, I did that before I called you.
+
+Agent: Alright. Let me check something on my end here. (typing sounds) I'm running a line test from our system to your address. (pause) Give me just one second... (pause) Okay, so I'm not detecting a signal coming from our network to your location. That's... that's actually what I suspected. I think we may have a fiber cut or a connection issue on our backbone in your area.
+
+Customer: What does that mean exactly? Like, is it something you can fix?
+
+Agent: So basically, it means the fiber line that connects your neighborhood to our main network might be damaged or disrupted. Given the weather this morning that you mentioned, it's quite possible a line came down or was damaged. That would definitely explain the red light and the loss of service.
+
+Customer: Okay, so what do I do? Is there a repair truck that needs to come out?
+
+Agent: Yes, we would need to send a technician out to assess and potentially repair the line. Before I schedule that though, let me try one more thing. Can you check outside your home? Do you see any visible damage to the equipment near your house? Any wires down or anything that looks out of place?
+
+Customer: (pause) Okay, going outside now. (pause) Uh... I don't see anything obviously wrong, but... wait, actually, I do see a line that looks like it might be hanging a little weird over by the telephone pole. It's kind of slack.
+
+Agent: Okay, that could definitely be it. Can you describe it a little more? Is it a black line? How low is it hanging?
+
+Customer: Yeah, it's black. And it's like... it's touching the ground I think? Or really close to it anyway.
+
+Agent: Okay, that's definitely concerning. I want you to be careful around that line and not touch it. It's possible it's been damaged or dislodged from this morning's storm. What I'm going to do is escalate this to our Field Operations team. They're going to need to get a technician out to your address to repair it.
+
+Customer: Okay, how long is that going to take? When can someone come out?
+
+Agent: (typing sounds) Let me check our availability. (pause) We have a pretty high volume of service calls today because of the weather, which is understandable. The earliest availability I'm seeing is... tomorrow between 8 AM and 5 PM. Would that work for you?
+
+Customer: Tomorrow? That's... I mean, I guess it has to be. I really need to get this working though. I'm working from home and I've got video calls scheduled.
+
+Agent: I completely understand. Let me see if there's anything else I can do. (pause) Unfortunately, because this appears to be external line damage, there's not really a workaround we can implement remotely. The technician will need to physically assess and repair the damage. Can I at least get a more specific window for you?
+
+Customer: More specific than 8 to 5?
+
+Agent: Actually, you know what, let me place this as a priority call since you work from home and mentioned the urgency. (typing sounds) Okay, I'm flagging this as a priority service call. The technician will do their best to reach you in the morning, probably before noon if I'm being honest. But I do want to set expectations—I can't guarantee a specific time.
+
+Customer: (sighs) Okay, I guess that's better than nothing. So what, they'll just... fix it when they get here?
+
+Agent: Yes, they'll come assess the line damage, make the necessary repairs, and get you back online. Once that's done, you shouldn't have any further issues.
+
+Customer: And you said this is because of the storm? Like, this isn't a bill thing or anything on my end?
+
+Agent: No, no, this is definitely not on your end. This is external infrastructure damage due to weather. You won't be charged for the service call or anything like that.
+
+Customer: Alright, that's good at least. So I should just... wait for them tomorrow?
+
+Agent: Exactly. Just keep an eye out for the technician. I'm going to send you a confirmation email with a reference number for this service call. That reference number is going to be [inaudible]—can I get an email address for you to make sure that goes through?
+
+Customer: Sure, it's [inaudible]@gmail.com.
+
+Agent: Perfect, let me confirm that. It's [inaudible]@gmail.com, is that correct?
+
+Customer: Yes, that's right.
+
+Agent: Excellent. Okay, so to recap: we have a priority service call scheduled for tomorrow, 8 AM to 5 PM, with an expected arrival in the morning. The issue is external fiber line damage related to this morning's weather. You should receive a confirmation email shortly with your reference number. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. Hopefully they can get it fixed quickly tomorrow.
+
+Agent: I really hope so too. I apologize for the inconvenience. If you don't hear from the technician by noon tomorrow and you're concerned, feel free to give us a call back and reference this ticket. We can follow up on it for you.
+
+Customer: Will do. Thanks, Derek.
+
+Agent: You're welcome. Thank you for choosing Frontier, and again, I apologize for the service interruption. Have a good rest of your day.
+
+Customer: You too.
+
+Agent: Bye now.
+
+Customer: Bye.

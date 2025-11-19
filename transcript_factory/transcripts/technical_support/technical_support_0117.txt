@@ -1,0 +1,133 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hey, yeah, hi. So um, my internet's been down since this morning and I really need to get it back up and running. I work from home and I've got meetings coming up.
+
+Agent: Oh no, I'm sorry to hear that. I totally understand how frustrating that must be. Let me pull up your account here real quick. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, thank you. And can I get your name?
+
+Customer: It's Marcus Chen.
+
+Agent: Perfect, Marcus. Thanks for that. So you mentioned your internet went down this morning. Have you noticed any changes or... did anything happen before it stopped working? Like a storm or power outage?
+
+Customer: Um, no nothing like that. I came downstairs around eight, went to check my email and just... nothing. The modem's on, I can see the lights, but I'm not getting any internet on my devices.
+
+Agent: Okay, got it. So the modem is powered on. Can you tell me which lights are lit up on the modem right now? Are you looking at it?
+
+Customer: Yeah, I'm looking at it now. Um, there's a power light that's on, it's white or blue or whatever. And there's like... I think there's one that says "online" but it's not lit up. That one's dark.
+
+Agent: (pause) Okay, so the online light isn't on. That's actually really helpful information. The fact that the online light isn't illuminated typically means the modem isn't connecting to our network. Let me have you try a few things real quick, okay?
+
+Customer: Okay, yeah, do whatever you need to do.
+
+Agent: Great. First, I'm going to have you do a hard restart of your modem. Can you unplug it from the power source?
+
+Customer: (pause) Sure, doing it now.
+
+Agent: Perfect. And just... just leave it unplugged for about thirty seconds.
+
+Customer: (background noise of cabinet opening) Okay, it's unplugged.
+
+Agent: (pause) Alright, go ahead and plug it back in whenever you're ready.
+
+Customer: (plugging sounds) Alright, plugging it back in now.
+
+Agent: Perfect. And now... let's give it about two to three minutes to boot back up. While we're waiting, can you tell me if you've had any issues with the service recently? Any intermittent outages or slowness?
+
+Customer: No, not really. It's been working fine until today. Just... woke up and it was gone, basically.
+
+Agent: (typing sounds) Okay, that's helpful. And I'm not seeing any reported outages in your area, so that's a good sign. Um, I'm just checking the system now to see if there's anything on our end. (pause) How long did you say you've been a customer with us?
+
+Customer: Uh, about three years I think? Maybe a little longer.
+
+Agent: Great, you're a loyal customer. Appreciate that. Okay, so... check the modem for me. Are you seeing any changes in the lights?
+
+Customer: (pause) Um... power is still on. The online light is still... still not on. There's another light, I think it says "link" and that one's not lit either.
+
+Agent: Hmm, okay. So still no connection. Let me try another approach here. Do you have a computer that you can use to check the modem settings?
+
+Customer: Yeah, I have a laptop. Why?
+
+Agent: What I'd like to do is have you try to access the modem's admin panel to see if there's any error codes or issues we can identify. Can you open a browser and go to 192.168.0.1?
+
+Customer: I... I mean, I'm getting nothing. Like, no internet, so I can't access anything on my laptop.
+
+Agent: Right, right, sorry. I should've thought about that. Um... (pause) do you have a smartphone with cellular data you can use?
+
+Customer: Yeah, I do have my phone.
+
+Agent: Okay, perfect. Can you use your phone's hotspot to tether to your laptop real quick? That way we can try to access the modem settings.
+
+Customer: (pause) Uh... I'm not really sure how to do that, to be honest.
+
+Agent: No problem, I can walk you through it. It's pretty simple. Um, on your iPhone or Android?
+
+Customer: It's an iPhone.
+
+Agent: Great. So go to Settings, then scroll down and look for Cellular, and then look for Personal Hotspot.
+
+Customer: (pause, background noise) Okay, I'm in... I'm in Settings. Looking for... okay, I see Cellular. (pause) Okay, I see Personal Hotspot. What do I do?
+
+Agent: Turn that on. And then on your laptop, you should see the hotspot as an available network. Connect to it.
+
+Customer: (pause) Okay, um... (typing sounds) I see it, I'm connecting now... (pause) okay, I'm connected.
+
+Agent: Excellent. Now go ahead and open a browser on your laptop and type in 192.168.0.1. That should bring you to the modem settings.
+
+Customer: (typing sounds, pause) Okay, it's loading... (pause) Got it. I'm in the modem settings page.
+
+Agent: Perfect! Okay, so at the top or somewhere on that page, you should see a status or system status option. Can you click on that for me?
+
+Customer: (pause, clicking sounds) Yeah, I see it. (pause) Okay, I'm looking at... there's a bunch of information here.
+
+Agent: Great. Can you tell me what the connection status says?
+
+Customer: Um... (pause) it says "No Connection" or... "Not Connected." And it's showing red.
+
+Agent: (pause) Okay, and do you see any error codes or anything like that?
+
+Customer: (pause) There's like... a code that says... "Error 604" or something? Does that mean anything?
+
+Agent: (pause, typing sounds) Let me look that up real quick. (pause, longer pause) Okay, so Error 604 typically means there's an issue with the signal from our end. It could be a signal level problem or something with the line itself. Um... have you noticed any damage to the cable that comes into your house? Like, is it pinched or bent or anything?
+
+Customer: No, I don't... I don't think so. It comes in from outside and it looks fine to me.
+
+Agent: Okay, that's good. Um... (pause) let me check something on my end here. (typing sounds, pause) Marcus, I'm looking at the modem diagnostics on our system and I'm showing that your modem isn't registering on our network at all. It's like it's not even trying to connect. This could indicate a couple things—either there's an issue with the line coming into your house, or there's potentially an issue with the modem itself.
+
+Customer: So... what does that mean? Like, can we fix it?
+
+Agent: Well, we can try a couple more things. Um, first, let me have you check something. Can you go to the back of the modem and tell me if all the cables are firmly connected? There should be a cable coming from the wall and one going to your router, if you have one.
+
+Customer: (pause) Let me go look. (background noise, pause) Okay, yeah, I'm looking at it. The cables seem like... they're in there pretty tight. I mean, they look connected.
+
+Agent: Okay, good. Um, can you try gently wiggling them just to make sure they're fully seated?
+
+Customer: (pause, sounds of movement) Okay, I'm wiggling them. Still not... nothing's changed. The lights are still the same.
+
+Agent: (pause) Alright, Marcus, I'm gonna be honest with you. Based on what I'm seeing, Error 604 combined with the modem not registering on our network suggests there might be a more serious issue. It could be a problem with the line or the connection point outside your house, or it could be a hardware failure with the modem itself.
+
+Customer: (pause) So... what do we do?
+
+Agent: (pause) Well, I have a couple options for you. The first is that we can schedule a technician to come out to your house. They can check the external line and test your modem. Or, if you have your own modem, we could try that, but I'm guessing you're using one of ours?
+
+Customer: Yeah, it's the one you guys gave me.
+
+Agent: Right, okay. Unfortunately, I can't diagnose this fully over the phone, but a technician visit would probably be your best bet. However, I should mention that could take a day or two depending on our availability.
+
+Customer: (pause) Ugh, that's really frustrating. I need internet for work. Is there any way to get someone out sooner? Or... is there anything else we can try?
+
+Agent: I understand, and I really wish I had better news. Let me try one more thing—I'm going to restart your modem remotely from my end and see if that helps. (pause, typing sounds) Doing that now. Go ahead and watch your modem.
+
+Customer: (pause) Okay, I'm watching it. (pause) Um... the lights are... they're flickering. Power light went off for a second. (pause) Okay, it's coming back on. (pause, longer pause) Nope. Online light is still not on.
+
+Agent: (pause) Yeah, I'm not seeing any change on my end either. I'm really sorry, Marcus. At this point, I think we're going to need a technician to diagnose what's happening. Um, let me check our availability. (typing sounds, pause) Can I schedule you for tomorrow? We have an afternoon slot available between 1 and 5 PM?
+
+Customer: (pause) Yeah, I guess that's... that's my only option, huh?
+
+Agent: I'm really sorry. I know this isn't the solution you were hoping for, but a technician will be able to check everything physically and should be able to get you back online pretty quickly.
+
+Customer: Alright, fine. Tomorrow afternoon.
+
+Agent: Perfect. Let me get your contact information again and confirm that appointment for you.

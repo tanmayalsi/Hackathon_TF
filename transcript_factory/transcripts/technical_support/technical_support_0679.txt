@@ -1,0 +1,107 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, thanks for picking up. So, um, my internet just completely went out about an hour ago. It was working fine this morning and now nothing. My router isn't even turning on, I think.
+
+Agent: I'm sorry to hear that. Let me help you get this sorted out. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, sure. It's 555-0147.
+
+Agent: (typing sounds) Okay, I'm pulling that up now... And can I also get the name on the account?
+
+Customer: It's under Michael Torres. T-O-R-R-E-S.
+
+Agent: Perfect, thank you Michael. I see your account here. So you're saying the internet went out about an hour ago and your router isn't powering on. Is that correct?
+
+Customer: Right, yeah. I mean, the light on the modem was blinking a while ago, but now it's completely dark. I've tried unplugging it and plugging it back in, but nothing's happening.
+
+Agent: Okay, good troubleshooting step. Let me walk you through a few things. First, can you check if your modem is plugged into the outlet? I know it sounds basic, but sometimes the power cable can work loose.
+
+Customer: (pause) Yeah, I'm looking at it right now. It's... it looks plugged in pretty securely to me.
+
+Agent: And do you see any lights on the power brick itself? Like, is there an indicator light showing that it has power?
+
+Customer: Um... (pause) No, I don't think so. It's just black.
+
+Agent: Alright, so it sounds like we might have a power issue. Let me ask you this—do you have any other devices plugged into that same outlet?
+
+Customer: Uh, I think my phone charger is on the same power strip, and that's working fine.
+
+Agent: Okay, so the outlet itself has power. That's good. What I'd like you to do is try unplugging the modem completely, and then let's plug it into a different outlet altogether. Just to rule out any issues with that particular power strip.
+
+Customer: (pause) Yeah, I can do that. Hold on one second...
+
+Agent: Sure, take your time.
+
+Customer: (background noise, sounds of movement) Okay, so I've unplugged it from the power strip and I'm plugging it into an outlet on the wall directly.
+
+Agent: Perfect.
+
+Customer: (pause) Wait, okay, I see a light now! There's a little white light on the front.
+
+Agent: Excellent! That's the power indicator. Now let's give the modem about two to three minutes to fully boot up. During that time, you might see some lights blinking on and off as it initializes.
+
+Customer: Okay, I'm looking at it. It's got like... some amber lights blinking on the front now.
+
+Agent: That's normal. Just give it another minute or so.
+
+Customer: (pause) Alright, it's been a couple minutes. Now I'm seeing some green lights, I think.
+
+Agent: Great! That's what we want to see. Once you see steady green lights, that means it's fully connected. Do you have a computer or phone nearby that you can try to connect to?
+
+Customer: Yeah, I've got my laptop right here. Um, let me try connecting to the Wi-Fi...
+
+Agent: Go ahead.
+
+Customer: (typing sounds, pause) Okay, so I'm seeing my Frontier network in the available networks. I'm connecting to it now...
+
+Agent: Good.
+
+Customer: (pause) Okay, it's connected. It says "connected, no internet" though. Like, it's showing that as the status.
+
+Agent: Hmm, okay. So you're connected to the Wi-Fi network but there's no internet coming through. Let me check on our end. Can you just give me one second?
+
+Customer: Yeah, sure.
+
+Agent: (typing sounds, long pause) Michael, I'm not seeing any line signal coming into your modem from our network. Have you had any recent storms in your area? Sometimes that can affect the fiber connection outside.
+
+Customer: (pause) Actually, yeah, there was a pretty heavy storm last night. I didn't think it would... could that be it?
+
+Agent: It's possible. What I'd like to do is run a quick line test on our end to see if there's an issue with the connection coming into your home. Just give me a moment. (typing sounds, pause) Okay, the test came back and we are detecting a signal loss on your line. It could be a few things—it could be weather-related damage, or there could be an issue with the fiber connection outside your residence.
+
+Customer: So, um, what does that mean? Can you fix it?
+
+Agent: I'm going to need to escalate this to our field service team. They'll be able to come out and check the fiber line and any outdoor equipment. Unfortunately, I don't have any technician appointments available for today, but I can schedule one for tomorrow between 8 AM and 5 PM. Would that work for you?
+
+Customer: Tomorrow? Really? I mean... I've been without internet for over an hour now. Can't anyone come out today?
+
+Agent: I completely understand your frustration, Michael. Let me check our emergency availability. (pause, typing sounds) I'm not seeing any same-day appointments available in your area right now, but you are in queue for a priority visit tomorrow morning. We typically call a few hours before arrival.
+
+Customer: (sighs) Yeah, okay. I guess that's... that's fine. Can I ask what this is probably going to cost?
+
+Agent: Since this appears to be an issue on our infrastructure side based on the line test results, it should be covered under your service agreement. You shouldn't see any service charge for this visit.
+
+Customer: Oh, okay. That's good. Well, I mean, it's not great, but... okay.
+
+Agent: I really do apologize for this. I know it's frustrating. Let me get some information and schedule that appointment for you. Your address is 2847 Oakmont Drive, correct?
+
+Customer: Yes, that's right.
+
+Agent: And the best number to reach you at would be this number?
+
+Customer: Yeah, that works.
+
+Agent: Perfect. So I have you scheduled for tomorrow, and I'll make sure they mark it as priority. You should expect a call a couple hours before the technician arrives to confirm. In the meantime, is there anything else I can help you with?
+
+Customer: No, I think that's... that's it. I just really need to get this working tomorrow.
+
+Agent: I understand completely, and I'm confident our field service team will get you back online. Is there anything else I can clarify about the appointment or your account?
+
+Customer: No, I think that's all. Thanks for your help, Derek.
+
+Agent: You're very welcome, Michael. Thank you for being a Frontier customer, and again, sorry for the inconvenience. Have a good day.
+
+Customer: You too.
+
+Agent: Bye.
+
+(call ends)

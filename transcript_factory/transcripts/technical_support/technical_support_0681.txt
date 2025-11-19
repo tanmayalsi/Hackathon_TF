@@ -1,0 +1,105 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, so my internet just went out about an hour ago and I can't get it back up. I've already tried unplugging the modem and router, you know, the whole restart thing, and nothing's working.
+
+Agent: I'm sorry to hear you're experiencing an outage. Let me pull up your account here. (typing sounds) Can I get the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, I've got you pulled up. And just to confirm, you're at 428 Maple Street, correct?
+
+Customer: Yeah, that's right.
+
+Agent: Perfect. So you mentioned you've already restarted your equipment. Just to walk through a few more troubleshooting steps with you... when you look at the modem right now, what lights are you seeing on the front of it?
+
+Customer: Um... (pause) okay, so I'm looking at it. The power light is on, but it's red. And then I think there's like a... it looks like an internet symbol maybe? That one's not on at all.
+
+Agent: Alright, so the power light is red instead of green, and the internet light isn't illuminated. That's helpful. And the router—do you see any lights on that?
+
+Customer: Just the power light on that one. It's green. But nothing else.
+
+Agent: Okay. So what I'm seeing here is that your modem isn't connecting to our network. Let me try something real quick. I'm going to send a reset signal to your modem from our end. It should take just a moment. (pause) Go ahead and watch the lights on the modem for me.
+
+Customer: Okay, I'm watching... still red though.
+
+Agent: Still red. Give it maybe ten seconds or so.
+
+Customer: (pause) Still nothing. Still red.
+
+Agent: Alright. And you said you unplugged it as well?
+
+Customer: Yeah, I did that, like, right away when I noticed it wasn't working. Unplugged it for like thirty seconds or a minute, and then plugged it back in.
+
+Agent: Got it. Okay, let me check a couple things on our end. (typing sounds) I'm not seeing any active service alerts in your area, so that's good news. But I do want to verify your connection status. When you unplugged the modem, did you also unplug the router at the same time, or did you do them separately?
+
+Customer: I did the modem first, then like five minutes later I unplugged the router too when it wasn't working either.
+
+Agent: Okay, so here's what I want you to do. This time, let's do them both at the same time. Go ahead and unplug both the modem and the router right now.
+
+Customer: (pause) Alright, both unplugged.
+
+Agent: Great. Now I want you to count to thirty out loud, and then plug the modem back in first. The modem needs about ninety seconds to fully boot up, so don't plug the router back in yet. Can you do that for me?
+
+Customer: Yeah, sure. (pause) One... two... three... (pause) [inaudible count continues] ...twenty-eight... twenty-nine... thirty. Plugging it back in now.
+
+Agent: Perfect. Now we wait for that modem to fully boot. It should take about a minute and a half. In that time, let me ask you a few other things. Has the weather been bad in your area recently? Any storms or anything like that?
+
+Customer: Oh, yeah, actually. We had like a really bad storm last night. Power went out for a couple hours. Could that... I mean, could that cause something like this?
+
+Agent: That's actually very possible. Lightning strikes can damage equipment, or sometimes it's just temporary connection issues after power loss. So let's see if we can get it back up and running. How's that modem looking now? Any change in the lights?
+
+Customer: (pause) Um, no. Still just the red power light. No internet symbol or anything.
+
+Agent: Hmm. Okay, still red. That's... (pause) that's unusual. When we send power to the modem, it should boot up and the light should go from red to green typically within that boot cycle. The fact that it's still red suggests there might be a deeper issue with the equipment itself, or possibly the line. Let me check something. (typing sounds) I'm looking at your connection, and actually, it appears we're not getting a signal from your side at all. Your modem isn't registering on our network.
+
+Customer: So what does that mean? Like, is something broken?
+
+Agent: Well, it could be a couple of things. It could mean the modem itself is damaged—possibly from the storm you mentioned—or it could be an issue with the outside line coming into your home. Before we go down that road though, let me try one more thing. Go ahead and plug the router back in now, and then I want you to look at the back of the modem. Do you see any cables that might have come loose?
+
+Customer: (pause) Okay, router's plugged back in. And uh, let me look at the back of the modem. (pause) There's like three cables back here, I think. They all look pretty secure to me.
+
+Agent: Alright, can you describe them to me? What do they look like?
+
+Customer: Okay, so there's one that's like... I don't know, it's thicker, kind of gray-ish. And then two smaller ones.
+
+Agent: The thicker one would be the coaxial cable from the wall outlet. That's your internet connection coming in. The other two are power and ethernet. So they're all connected?
+
+Customer: Yeah, they're definitely plugged in.
+
+Agent: Okay. Let me try sending another signal to reset your modem. (typing sounds) (pause) Let me know if anything happens.
+
+Customer: (pause) Nothing. Still the same.
+
+Agent: (pause) Alright. I've been reviewing your account, and unfortunately, if the modem isn't registering on our network, and we're not getting any signal response from the equipment on your end, it's pointing to either the modem itself being damaged or a problem with the line coming into your home. Given that you had that power surge from the storm, it's quite possible the modem was damaged.
+
+Customer: So what do I do? Do I need to buy a new modem or...?
+
+Agent: Well, first we'd need to determine whether it's actually the modem or the line. Normally, I would schedule a technician to come out to your home to do a proper diagnosis. They can test the line and determine what's going on. Would that work for you?
+
+Customer: How long would that take? Like, when could they come out?
+
+Agent: (typing sounds) Let me check our availability. (pause) The earliest I'm showing is tomorrow between 12 and 4 PM. Does that work with your schedule?
+
+Customer: (pause) Tomorrow? I mean, I guess so. I work from home though, so this is kind of a big deal not having internet.
+
+Agent: I completely understand. I wish I could get someone out sooner, but that's the earliest availability we have. And just so you know, if the equipment needs to be replaced, there may be a service charge depending on whether the damage is covered under your agreement, but the technician can discuss all of that with you when they arrive.
+
+Customer: So I might have to pay to fix this?
+
+Agent: It depends on the cause and your specific service agreement, but yes, damage from external sources like lightning strikes is sometimes not covered. However, let's not get ahead of ourselves. Let's have the technician come out and diagnose the issue first.
+
+Customer: (sigh) Okay, fine. Let's schedule it for tomorrow then. What time works best?
+
+Agent: I'll go ahead and schedule you for tomorrow, between 12 and 4 PM. You'll receive a confirmation email, and a technician will give you a call about thirty minutes before they arrive to confirm. Does the email address on file still work for you?
+
+Customer: Yeah, that should be fine.
+
+Agent: Perfect. I'm going to get that set up for you right now. (typing sounds) Okay, you're all set. Your service appointment is scheduled for tomorrow, December 14th, between noon and 4 PM. Is there anything else I can help you with today?
+
+Customer: No, I guess that's it. Hopefully the technician can figure out what's going on and get it fixed quickly.
+
+Agent: I hope so too. Again, I'm sorry you're experiencing this issue. We really appreciate your patience, and we'll get you back online as soon as we can. Thank you for calling Frontier Communications.
+
+Customer: Thanks, Derek.
+
+Agent: You're welcome. Have a good day.

@@ -1,0 +1,125 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet's been down since this morning and I'm not sure what's going on. I've got a bunch of work stuff I need to do from home and it's been a real pain.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me get some information from you so I can pull up your account. Can I get the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, and just to confirm, is this for service at 2841 Maple Street?
+
+Customer: Yeah, that's right.
+
+Agent: Perfect. So you mentioned your internet went down this morning. What exactly are you seeing? Like, is the modem powered on, do you see any lights?
+
+Customer: Um... (pause) yeah, the modem's on. I can see the power light, but like... I think the internet light is red? Or maybe orange? I'm not really sure what color it should be.
+
+Agent: Okay, so the power light is on, that's good. And when you say the internet light is red or orange, that usually means there's no connection being established. Let me walk you through a few things. Can you tell me what kind of modem you have? Is it the white one with "Frontier" written on it?
+
+Customer: Uh, yeah, I think so. It's white and kind of rectangular shaped.
+
+Agent: Great, that sounds like one of our standard units. Alright, here's what I'd like you to do. Can you unplug the modem for me? Just pull the power cable out of the back.
+
+Customer: Okay, doing that now. (pause) Yep, it's unplugged.
+
+Agent: Good. And while that's unplugged, can you also check the cable that's plugged into the wall? The one that goes into your modem? Just make sure it's firmly connected.
+
+Customer: (pause) Yeah, it looks pretty secure to me.
+
+Agent: Alright, excellent. Now let's plug the modem back in and give it about two minutes to fully restart. While we're waiting, let me just check something on my end. (typing sounds) Okay, so I'm not seeing any service alerts in your area, which is good news. How long have you been a customer with us?
+
+Customer: Oh, maybe about two years? Two and a half?
+
+Agent: Great, thank you. And have you had any issues like this before?
+
+Customer: No, not really. It's been pretty solid up until today.
+
+Agent: That's good to know. Alright, has it been about two minutes? Can you check the lights on the modem for me now?
+
+Customer: Let me see... (pause) Okay, um, the power light is still on, and... the internet light is still red or orange or whatever. It's not green anyway.
+
+Agent: Hmm, okay. So no change there. Alright, let me try something else. Is your modem near a window or is it in a secure location?
+
+Customer: It's on top of a shelf in my office. It's kind of in the corner, not near a window or anything.
+
+Agent: Okay, that should be fine. Um, let me check something. Have you received any bills recently or any notifications from us about your account?
+
+Customer: (pause) Not that I can think of... wait, actually, I did get an email like a week ago saying something about equipment maintenance or an upgrade or something? But I thought that was normal.
+
+Agent: Oh, that could be relevant actually. Do you happen to remember what that email said?
+
+Customer: Not really. I kind of just skimmed it. I think it said they were upgrading the network in my area? But I don't know if anything was actually supposed to happen or if it already happened.
+
+Agent: Okay, let me look into that. (typing sounds) (pause) Okay, so I am seeing a note here that there was some infrastructure work scheduled in your neighborhood. Let me see when that was supposed to happen... (pause) It looks like it was scheduled for today actually, starting this morning around 8 AM.
+
+Customer: Oh, so like... is that why my internet's down?
+
+Agent: It's possible. Sometimes during these upgrades, there can be temporary service interruptions. Let me check the status of that work. (pause, typing sounds) Okay, so it looks like the work is still in progress. It should be completed by around 5 PM today.
+
+Customer: Wait, so you're saying I'm not going to have internet until 5 PM? That's like, hours from now. I have conference calls. I have video meetings.
+
+Agent: I completely understand your frustration, and I apologize for the inconvenience. The good news is that this is temporary and it's part of upgrading your service to potentially give you even faster speeds. However, let me make sure we've exhausted all troubleshooting options before we just call it a day. Let me try restarting your modem one more time, but this time I want you to also unplug the backup battery if you see one on the back.
+
+Customer: (pause) Um, I see like a small black box attached to the back with a cable. Is that it?
+
+Agent: Yes, that's it. Can you unplug that as well?
+
+Customer: Okay, let me... (pause) yeah, it's unplugged now. And the modem's unplugged too.
+
+Agent: Perfect. Let those sit for about thirty seconds. And while we're waiting, did you happen to notice what time exactly your internet stopped working this morning?
+
+Customer: It was probably around 8:15 or so? That's when I tried to check my email and realized it wasn't working.
+
+Agent: Okay, so that lines up with when the maintenance work was supposed to start. (pause) Alright, go ahead and plug everything back in now. The modem first, and then the backup battery.
+
+Customer: (pause) Okay, done. Plugging it back in... (pause) Alright, it's all plugged back in.
+
+Agent: Alright. Give it about a minute to boot up fully. (pause) How are we looking now?
+
+Customer: (pause) Still red or orange. Same as before.
+
+Agent: Okay, unfortunately that confirms what I'm seeing on my end. The issue really does appear to be related to this infrastructure work. Since your modem isn't connecting to our network at all, and I'm not seeing any connection attempts on our server side, it means the line work is cutting off service to your location specifically.
+
+Customer: So there's nothing you can do?
+
+Agent: Not until the work is completed, unfortunately. I wish I had better news. What I can do for you is escalate this to make sure they know your address is having extended downtime, and I can also add a courtesy credit to your account for the service interruption today. Would that be helpful?
+
+Customer: I guess so. Yeah, that would be something. How much of a credit are we talking?
+
+Agent: For a full day outage like this, I can add about a day's worth of service to your account, which should be around seven dollars or so.
+
+Customer: (pause) Okay. I mean, that's not going to solve my problem for these meetings, but... yeah, sure, go ahead.
+
+Agent: I appreciate your understanding. Let me get that processed for you. (typing sounds) Okay, that's submitted. You should see that reflected on your next bill. And I do want to check in with you one more time. Just to be thorough, let me walk through the troubleshooting checklist one more time. You've got all the cables connected properly, the modem is powered on, you've restarted it twice now... Is there any chance you have a secondary router or WiFi extender that might be causing an issue?
+
+Customer: No, I just use the modem's WiFi directly. No router or anything.
+
+Agent: Okay, that rules that out. And you're not seeing any WiFi network available at all when you check your device?
+
+Customer: Right, nothing. No WiFi networks showing up at all.
+
+Agent: Alright, and you've tried this on multiple devices? Like a phone and a computer?
+
+Customer: Yeah, I tried my laptop and my phone. Neither one is picking up anything.
+
+Agent: Okay, that pretty much confirms it for me. The modem isn't broadcasting a signal because it doesn't have an active internet connection from our end. So this is definitely on our side with the maintenance work. I wish I had a better solution for you here.
+
+Customer: Yeah, I mean... is there anything else we can try? I'm just really stuck without internet.
+
+Agent: Unfortunately, no. If the modem isn't connecting to our network at all, which is what we're seeing, then the issue is on the infrastructure side, not with your equipment. Troubleshooting any further on your end wouldn't help in this situation.
+
+Customer: (pause) Alright. Well, I guess I'll just have to reschedule my calls or something.
+
+Agent: I'm really sorry about this. But to recap, your service should be restored by 5 PM today. Is there anything else I can help you with in the meantime?
+
+Customer: No, I think that's it. Thanks for trying, I guess.
+
+Agent: You're welcome, and again, I apologize for the inconvenience. Thank you for being a Frontier customer, and we appreciate your patience. Is there a good number to reach you if we need to follow up?
+
+Customer: You already have my number, right? 555-0147?
+
+Agent: Yes, I do. Perfect. Alright, have a good day, and we'll see you back online soon.
+
+Customer: Thanks. Bye.
+
+Agent: Bye now.

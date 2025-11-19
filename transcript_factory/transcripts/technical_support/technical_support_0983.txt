@@ -1,0 +1,103 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet's been down since this morning and I can't get it back up. I've already tried unplugging the router and everything.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here real quick. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, I've got you here. I'm seeing an account for James Mitchell on Maple Street in... Bozeman?
+
+Customer: Yeah, that's me.
+
+Agent: Great, James. So you mentioned you've already tried the basic restart. Let me ask you a few questions here. When you say the internet's down, is it completely out, or are you getting some connectivity but it's just really slow?
+
+Customer: No, it's completely out. Like, nothing. The router's on, the lights are coming on, but I can't connect to anything.
+
+Agent: Okay, so the router is powered on and you can see the lights. That's good information. Which lights are you seeing? Are you seeing a solid green light, or...?
+
+Customer: (pause) Um, there's a few of them. There's like a green one, I think, and then there's an orange one that keeps blinking?
+
+Agent: Alright, so if there's an orange blinking light, that typically indicates that the modem is trying to connect but can't establish a connection with our network. Let me ask you this—do you have a separate modem and router, or is it a combined unit?
+
+Customer: I... I think it's combined? It's all in one box. The Frontier one.
+
+Agent: Perfect, that's our gateway unit. Okay, so here's what I'd like you to do. Can you locate the power cable on the back of the unit?
+
+Customer: Yeah, I see it.
+
+Agent: Great. I'm going to have you do a full power cycle. Go ahead and unplug that power cable completely.
+
+Customer: Okay... (pause) ...it's unplugged.
+
+Agent: Good. Now just leave it unplugged for about thirty seconds while I pull up some information on your line here. Just count to thirty for me, alright?
+
+Customer: One... two... three... (long pause) ...twenty-eight... twenty-nine... thirty.
+
+Agent: Perfect. Go ahead and plug it back in now.
+
+Customer: (pause) Okay, it's plugged back in. The lights are coming back on again.
+
+Agent: Good. Now we're going to give it about two to three minutes to fully boot up and connect to the network. While that's happening, let me check something on my end. (typing sounds) I'm going to run a line test to see if there's any issues coming from our equipment on the street.
+
+Customer: Okay... (background noise of traffic) ...sorry, I'm standing by the window.
+
+Agent: No problem at all. Take your time. So, James, how long have you been a Frontier customer?
+
+Customer: Oh, I'd say about two years now. No problems until today.
+
+Agent: That's good to hear. Generally, we don't see a lot of issues with your gateway. (pause) Alright, so I'm not seeing any outages in your area, and the line test is showing that the connection on our end is active and ready. Let me have you check those lights again. What are you seeing now?
+
+Customer: Hmm, still that orange blinking light. It's still just blinking away.
+
+Agent: Still orange? Okay. (typing sounds) Let me try something else. I'm going to send a reset command to your gateway from here. This might take a minute. Just keep watching those lights.
+
+Customer: Alright, I'm watching. (long pause) ...still blinking. Still orange.
+
+Agent: Okay, that didn't seem to help. Let me ask you a couple more questions. Are you on WiFi or are you trying to use an ethernet cable?
+
+Customer: WiFi. Should I try the ethernet cable instead?
+
+Agent: That's actually a great idea. Do you have an ethernet cable available?
+
+Customer: Yeah, I think I have one in a drawer. (pause) (opening/closing sounds) ...okay, I found one.
+
+Agent: Perfect. Go ahead and plug one end into your computer and the other end directly into the gateway. We want to rule out whether this is a WiFi issue or a broader connectivity issue.
+
+Customer: (pause) Okay, plugged in. (pause) ...nothing. Still nothing. My computer's not recognizing any connection.
+
+Agent: Hmm. Alright, that tells me it's not just a WiFi problem. Let me check something... (typing sounds) I'm pulling up the diagnostics on your gateway now. (pause) James, I'm seeing something interesting here. Your gateway is showing that it's registered on our network, but it's not getting a downstream signal from our equipment.
+
+Customer: Is that... is that bad?
+
+Agent: Well, it could mean a few things. It could be an issue with the line coming into your house, or it could be an issue with the gateway itself. Let me ask you—have you noticed any construction or work being done on your street recently?
+
+Customer: Uh, actually yeah. Now that you mention it, there was some digging going on yesterday. I didn't think anything of it.
+
+Agent: That could definitely be it. They may have damaged the fiber line running to your house. I'd like to have a technician come out to your location to do a more thorough inspection. That way we can determine if it's an external line issue or something with the equipment.
+
+Customer: How soon could someone come out?
+
+Agent: (typing sounds) I can get you a technician... let me see what we have available. The earliest I can schedule is tomorrow between one and four PM. Would that work for you?
+
+Customer: Tomorrow? It's going to take that long?
+
+Agent: I understand the frustration, James. Unfortunately, with the construction you mentioned, if the line has been compromised, it's going to need an in-person inspection. I really can't resolve this over the phone with that possibility. Tomorrow is our next available window.
+
+Customer: (sigh) Yeah, okay. I guess that works. I'll be here.
+
+Agent: Great. Just to confirm—James Mitchell on Maple Street, tomorrow, one to four PM. A technician will call you about thirty minutes before they arrive. Is the phone number associated with your account still the best way to reach you?
+
+Customer: Yeah, that should be fine.
+
+Agent: Perfect. I'm going to send you a confirmation email with all the details, and I'm also adding a courtesy credit to your account for this service interruption. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. Thanks for trying anyway.
+
+Agent: I appreciate your patience, James. I'm sorry we couldn't get this resolved right away, but our technician will definitely get you squared away tomorrow. Thanks for choosing Frontier Communications.
+
+Customer: Thanks.
+
+Agent: Have a good day.
+
+(call ends)

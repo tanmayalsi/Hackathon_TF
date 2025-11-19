@@ -1,0 +1,107 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, um, my internet's been down since this morning and I really need to get it back up. I work from home and I've got meetings coming up.
+
+Agent: I'm really sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll see what we can do. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Perfect, thank you. I've got you here. So your internet went down this morning, is that correct?
+
+Customer: Yeah, around 8 AM. I tried unplugging the router and everything, but nothing's working.
+
+Agent: Okay, good thinking on that. That's actually a good first step. Let me ask you a few quick questions. Are you seeing any lights on the modem right now? Like, is it powered on?
+
+Customer: Um, let me look. (pause) Yeah, the power light is on, but I think... I'm not sure about the others. It's kind of hard to see from where I'm sitting.
+
+Agent: No problem. Can you just move closer to it for me real quick? I just want to check if you're seeing any lights that are blinking or solid green or red.
+
+Customer: (pause) Okay, I'm looking at it now. So the power light is solid green, and then there's a couple others that are... they're not lit up. They're just dark.
+
+Agent: Okay, and those dark lights—are they like orange or red when they normally work?
+
+Customer: I think they're usually like, a blue-ish color? Or green? Honestly, I don't pay too much attention to them usually.
+
+Agent: (slight chuckle) That's totally normal. Most people don't. So if they're normally lit up and now they're dark, that tells me there might be a signal issue coming from our end. Let me just check real quick on my end. (typing sounds) (pause) Hmm, so I'm showing that your modem is online in our system, but barely. The signal strength is really low.
+
+Customer: Oh, really? So it's not completely out?
+
+Agent: Right, so there is a connection, but it's extremely weak. There could be a few things going on here. First, let me just have you try a hard reset on the modem. Can you do that?
+
+Customer: A hard reset? How do I do that?
+
+Agent: Sure, so what you want to do is unplug the power cable from the back of the modem, hold it for about thirty seconds, and then plug it back in. That'll give it a complete restart.
+
+Customer: (pause) Okay, I'm unplugging it now. (pause) And I'm waiting... thirty seconds, right?
+
+Agent: That's right, thirty seconds.
+
+Customer: (pause) Okay, plugging it back in. (pause) The lights are coming back on now.
+
+Agent: Great. Let's give it about a minute or so to fully boot back up and reestablish the connection. While we're waiting, let me ask you—have you had any weather in your area recently? Wind, rain, anything like that?
+
+Customer: Actually, yeah. There was a pretty bad storm last night. We had really heavy winds and some lightning.
+
+Agent: Okay, so that could potentially be a factor here. Exterior equipment can sometimes be affected by weather events. (pause) Alright, so about a minute's passed now. Are you getting any internet connection yet?
+
+Customer: (pause) Uh, let me check. No, I don't think so. I'm trying to load a webpage and it's just... it's not loading.
+
+Agent: Okay, and on the modem, are those lights any different than they were before?
+
+Customer: They're... still dark, I think? I mean, the power light is green, but the rest aren't lit.
+
+Agent: Alright. I'm going to go ahead and run a line test from our end. This will check the connection to your address. (typing sounds) (pause) This might take just a moment.
+
+Customer: Okay.
+
+Agent: (pause) So, I'm showing here that we're detecting an issue with the line coming to your house. The signal's degraded quite a bit. It could be a couple things—it could be a loose connection somewhere outside, or it could be damage to the line from that storm you mentioned.
+
+Customer: Oh no, is that expensive to fix?
+
+Agent: Well, let's not get ahead of ourselves. I'm going to schedule a technician to come out and take a look. They'll be able to assess what's actually going on and give you a better answer on what needs to be done. Do you have availability sometime tomorrow?
+
+Customer: Tomorrow? I really need my internet today.
+
+Agent: I completely understand. Let me check if we have any same-day appointments available. (typing sounds) (pause) Unfortunately, it looks like our technicians are pretty booked up for the rest of today. The earliest I'm showing is a window between 12 and 4 PM tomorrow.
+
+Customer: (sighs) That's really not ideal, but I guess... I guess that's the best option?
+
+Agent: I know it's frustrating. In the meantime, there's a couple more things we can try. Let me have you try connecting directly to the modem with an ethernet cable instead of using your WiFi. That'll help us determine if the issue is with the modem or the router.
+
+Customer: I don't have an ethernet cable.
+
+Agent: Do you have one anywhere? Sometimes they come in the router box or in a desk drawer?
+
+Customer: (pause) No, I don't think so. I mostly just use WiFi.
+
+Agent: That's alright. Let me try something else. I'm going to power cycle the modem one more time from our end. You should see the lights go out completely for a few seconds, then come back on. Just let me know when that happens.
+
+Customer: Okay. (pause) Oh, there they go—all the lights just went out. (pause) And they're coming back on now.
+
+Agent: Perfect. Let's give it another minute to fully reboot. (pause) Is there any change on your end?
+
+Customer: (pause) No, I'm still not getting anything. The lights are on the modem, but nothing's working.
+
+Agent: Okay, I'm not seeing any improvement on our end either. Given what I'm seeing in the system—the degraded signal, the timing with the storm—I'm pretty confident that there's an external line issue that's going to need to be inspected and potentially repaired in person.
+
+Customer: So we're back to waiting until tomorrow?
+
+Agent: Unfortunately, yes. But here's what I'm going to do for you. I'm going to make a note on your account that this is a potential weather-related line issue, and I'm going to flag it as a priority appointment so the technician comes as early as possible in that window tomorrow. I'm also going to get you a courtesy credit for today's service outage since this is on our end.
+
+Customer: Okay, well... I guess I appreciate that. Can I at least use my phone's hotspot for work today?
+
+Agent: That's a great idea. That should work fine as a temporary solution. Let me just go ahead and finalize this appointment for you. I'm putting you down for tomorrow, 12 to 4 PM. You should receive a confirmation text and email within the next few minutes. Is the best number to reach you the one associated with the account?
+
+Customer: Yeah, that's the one.
+
+Agent: Perfect. And just to recap, we'll have a technician come out tomorrow to inspect the line and determine what's causing the signal degradation. Is there anything else I can help you with?
+
+Customer: No, I think that's it. I just hope they can fix it quickly tomorrow.
+
+Agent: I completely understand. We'll get this resolved for you. Thank you for being a Frontier customer, and I'm sorry we couldn't get you back online today. Have a good rest of your day.
+
+Customer: Thanks, you too.
+
+Agent: Bye now.
+
+Customer: Bye.

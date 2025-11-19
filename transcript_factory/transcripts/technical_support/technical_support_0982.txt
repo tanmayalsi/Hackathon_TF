@@ -1,0 +1,115 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. My internet's been down since this morning and I have no idea what's going on. I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, and just to confirm, is this a residential account?
+
+Customer: Yes, it is.
+
+Agent: Perfect. I'm pulling up your account now. So you mentioned the internet's been down since this morning. Have you tried unplugging your modem and router yet?
+
+Customer: Um... actually, no. I haven't. Should I do that now?
+
+Agent: Yeah, that's a great first step. Go ahead and unplug your modem—that's the device that has your internet connection—and also your router if you have a separate one.
+
+Customer: (background noise) Okay, I'm unplugging them right now. How long should I wait?
+
+Agent: Just give it about 30 seconds. That helps clear out any temporary glitches in the system.
+
+Customer: (pause) Alright, I'm counting down. And... plugging them back in now.
+
+Agent: Great. So go ahead and wait about two minutes for them to fully boot back up. While we're waiting, let me ask—are you seeing any lights on the modem? Any green lights or anything?
+
+Customer: (pause) Um, yeah. There's... there's one green light, but it's flickering. Is that normal?
+
+Agent: Okay, a flickering light typically means it's trying to establish a connection. That's actually what we want to see. Give it another minute or so. Have you checked if there's anything loose with your cables as well?
+
+Customer: (background noise) Let me check. No, everything looks plugged in pretty solidly.
+
+Agent: Good. And you're on a fiber connection with us, correct?
+
+Customer: I think so? I'm not really sure what that means, to be honest.
+
+Agent: No problem. Did you sign up for Frontier Fiber, or is it just regular broadband?
+
+Customer: Oh, it says Fiber on my bill, I believe. Yeah, Fiber.
+
+Agent: Perfect. Okay, so... are you seeing a solid green light now on the modem, or is it still flickering?
+
+Customer: (pause) Still flickering. It's been like... maybe three or four minutes now?
+
+Agent: Hmm. Alright, let me check a few things on our end. (typing sounds) I'm showing that your service is active on our system. Are you able to see a WiFi network when you look for available networks on your phone or computer?
+
+Customer: Let me check my phone. (pause) No, I don't see the Frontier network at all. I used to see it all the time.
+
+Agent: Okay, that's helpful information. Let me try a couple more things. Can you tell me if there's a battery backup unit connected to your modem? It might be a separate black box.
+
+Customer: A battery backup? Um... (pause) Yeah, I think there might be something. It's a little black box next to the modem.
+
+Agent: Okay, perfect. That's what we call a UPS—an uninterruptible power supply. Can you check if there's a button on it or a light on it?
+
+Customer: There's a red light on it. Is that... bad?
+
+Agent: (pause) A red light could indicate a few things. It might mean the battery backup unit itself needs attention. Can you try unplugging that device as well and leaving it unplugged?
+
+Customer: Just that one device?
+
+Agent: Yes, just the UPS. Leave the modem and router plugged in. Give it about 30 seconds.
+
+Customer: (background noise) Okay, unplugged. (pause) And... waiting. (pause) Alright, it's been a minute.
+
+Agent: Alright, now can you check the modem again? Are the lights any different?
+
+Customer: Um... (pause) The light's still flickering. Actually, you know what, now I'm seeing like a couple more lights now, but they're orange or amber colored. I'm not sure what they mean.
+
+Agent: Orange lights typically indicate an error or connection issue. Let me try something else. I'm going to send a reset signal to your modem from our end. This might take just a moment. (typing sounds) Okay, I've sent that. Can you give it about 60 seconds?
+
+Customer: Sure, I'll just stand here and wait.
+
+Agent: (pause) So just out of curiosity, did anything happen before the internet went out? Like a storm, or did you lose power at all?
+
+Customer: Actually, yeah. We had a storm last night. Really bad one. A lot of lightning and everything. Do you think that could've caused it?
+
+Agent: It's very possible. Lightning can sometimes damage equipment. That might explain what we're seeing. How does the modem look now?
+
+Customer: (pause) It's still the same. Orange light flickering, and... I don't see a green light anymore, actually.
+
+Agent: Okay. So I'm not seeing any errors on my end, but the equipment isn't responding the way it should. I think we may need to get a technician out to your location to take a look at this in person. There might be some hardware damage from the storm.
+
+Customer: How long would that take? I really need the internet back as soon as possible.
+
+Agent: I completely understand. Let me check our availability. (typing sounds) What day works best for you? We have some openings tomorrow between 12 and 4 PM, or we could do the day after in the morning.
+
+Customer: Tomorrow afternoon would be better for me. Can you guarantee it'll be fixed tomorrow?
+
+Agent: I can't make a 100% guarantee, but once the technician assesses the damage in person, they'll be able to get you back online pretty quickly. If it's just the modem or the UPS that's damaged, they can replace those right there. If there's damage to the line itself, it might take a little longer, but it's unlikely given the storm damage scenario.
+
+Customer: Alright, I'll do tomorrow afternoon then.
+
+Agent: Perfect. Let me get that scheduled for you. (typing sounds) So I have you down for tomorrow, between 12 and 4 PM. A technician will call you about 30 minutes before they arrive to confirm they're on the way. Is the phone number 555-0147 the best number to reach you?
+
+Customer: Yeah, that's good.
+
+Agent: And just to make sure—is there anyone home who can let the technician inside, or do you have a garage they can access?
+
+Customer: I'll be home. That's not a problem.
+
+Agent: Excellent. Just so you know, there's no service charge for the technician visit since this appears to be weather-related damage. The replacement equipment, if needed, is typically covered as well. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. Thanks for your help, even though we couldn't fix it right now.
+
+Agent: I'm really sorry we couldn't get it resolved over the phone, but I'm confident our technician will have you back online tomorrow. Is there anything else before I let you go?
+
+Customer: No, that's all.
+
+Agent: Alright, well, thank you for calling Frontier Communications. We really appreciate your business. Have a great day.
+
+Customer: You too. Thanks again.
+
+Agent: You're welcome. Bye now.
+
+Customer: Bye.

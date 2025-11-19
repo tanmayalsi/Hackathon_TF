@@ -1,0 +1,119 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. So my internet just stopped working about an hour ago and I have no idea what's going on. I need to get this fixed pretty quick.
+
+Agent: I'm sorry to hear that. I'll definitely help you troubleshoot this. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0847.
+
+Agent: (typing sounds) Okay, got it here. And your name?
+
+Customer: It's Michael. Michael Chen.
+
+Agent: Perfect, Michael. I see you're on our fiber service in the Riverside area. Let me just pull up your account details here. (pause) Alright, I'm seeing your service is active on our end. Have you tried unplugging your router yet?
+
+Customer: No, not yet. Should I do that now?
+
+Agent: Yeah, that would be a good first step. Go ahead and unplug the power cable from the back of your router and just leave it unplugged for about 30 seconds.
+
+Customer: (background noise) Okay, I'm unplugging it now... alright, it's out.
+
+Agent: Great. While we wait, can you tell me—is your modem also powered on? Do you have a separate modem?
+
+Customer: Um, yeah, I have the gateway thing you guys gave me. It's all in one, right?
+
+Agent: Right, yes. The gateway is your modem and router combined. So you've got that unplugged now?
+
+Customer: Yeah, both the lights are off.
+
+Agent: Perfect. Let's give it about 20 more seconds... okay, go ahead and plug it back in whenever you're ready.
+
+Customer: (background noise) Alright, plugging it back in now.
+
+Agent: Okay, so the lights should start coming back on. You'll see the power light first, and then after about a minute or so, you should see the internet light turn on.
+
+Customer: (pause) I'm seeing the power light... yeah, that's on. But I'm waiting for the other light to come on and... (pause) it's still not coming on.
+
+Agent: Hmm, okay. Which light are we looking at that's not on? Is it the one that looks like a globe or internet symbol?
+
+Customer: Yeah, the blue one with the... it looks like a wifi symbol or something.
+
+Agent: Alright, let's give it another minute. Sometimes it takes a little longer to boot up. While we're waiting, are you noticing any unusual lights? Like any red lights or anything flashing in a pattern?
+
+Customer: (pause) No, nothing red. It's just... the power light is solid and then there's like, one other light that's kind of orange?
+
+Agent: Orange? Okay, that could indicate it's still initializing or there might be a connectivity issue. Let's check something else. Can you go ahead and look at the back of the gateway and tell me if you see an ethernet cable plugged into the wall outlet—or actually, into the gateway itself?
+
+Customer: Oh, um... let me see. (pause) Yeah, there's a cable in the back. It's plugged in.
+
+Agent: Okay, good. And you're still not seeing that internet light come on?
+
+Customer: No, still nothing.
+
+Agent: Alright, let me check something on my end. (typing sounds) (pause) Michael, I'm looking at our network here and I'm actually not seeing your gateway connecting to our system at all right now. That orange light you're seeing might mean there's an issue with the connection coming into your home.
+
+Customer: So what does that mean? Is it something on my end or is it something with Frontier?
+
+Agent: Well, it could be either one, actually. Let me ask you a few more things. Have you had any recent storms or anything that might have damaged lines in your area?
+
+Customer: No, I don't think so. It's been pretty nice out.
+
+Agent: Okay. And this is the first time this has happened since you've had the service with us?
+
+Customer: Yeah, I've had it for like two years and it's been fine until today.
+
+Agent: Alright. Can you tell me what the other lights on the gateway are showing? Just walk me through what you see.
+
+Customer: So I have the power light which is green, and then that orange light I mentioned. (pause) And then there are some other lights below that but they're all off, I think.
+
+Agent: (pause) Michael, I'm going to need you to try a factory reset on the gateway. That might help it re-establish the connection. To do this, you're going to hold down a small button on the back of the device. It's probably recessed into a hole.
+
+Customer: How long do I hold it?
+
+Agent: About 10 to 15 seconds. You might need a paperclip or something thin to press it.
+
+Customer: (background noise) Okay, I'm looking... I see it. Okay, I'm pressing it now. (pause) How long?
+
+Agent: Keep holding it... (pause) okay, you can let go now.
+
+Customer: (pause) Alright. So now what happens?
+
+Agent: The gateway is going to restart completely. It should cycle through some lights and then the whole thing should boot back up. This might take a couple of minutes. While that's happening, I'm going to check something on my end to see if there are any service issues in your area.
+
+Customer: (typing sounds, pause) Okay, I'm not seeing anything on our end, so it shouldn't be a widespread outage. (pause) How are those lights looking now?
+
+Customer: Um, same thing. The power light is still on but I don't see that internet light yet. (pause) Wait... it's like flickering a little bit now?
+
+Agent: Oh, that's actually a good sign. That might mean it's trying to connect. Let's give it another minute or so.
+
+Customer: (long pause) Okay, I'm looking at it... and... no, it's not connecting. It's just flickering on and off now.
+
+Agent: (pause) Michael, I'm not seeing the gateway come online on our network, which is concerning. The fact that the internet light keeps flickering suggests it's trying to establish a connection but something is preventing it from completing that handshake with our network.
+
+Customer: So what do we do? Is my gateway broken?
+
+Agent: It's possible, but it could also be an issue with the line itself coming into your home. Those are the two most likely causes at this point. I think what we need to do here is get a technician out to your location to investigate further.
+
+Customer: (sighs) How long would that take? When could someone come out?
+
+Agent: Let me check availability for you. (typing sounds, pause) We have availability tomorrow between 8 AM and 12 PM, or we also have an evening slot from 4 to 8 PM. What works better for your schedule?
+
+Customer: Tomorrow morning would be better, I guess. But I really need this fixed today if possible.
+
+Agent: I completely understand. Unfortunately, we don't have any same-day availability, but the morning tomorrow is the earliest I can get someone out. They'll be able to either replace the gateway if that's the issue or check the line connection at your home.
+
+Customer: Alright, fine. Tomorrow morning.
+
+Agent: Perfect. I'm getting that scheduled for you now. (typing sounds) We have you down for tomorrow, March 15th, between 8 AM and 12 PM. The technician will call you 30 minutes before they arrive. Is there anything else I can help you with while we're on the call?
+
+Customer: No, I guess not. Can you just make sure they know it's not working at all?
+
+Agent: Absolutely. I'm adding a note to your account right now that the gateway is not connecting to the network. The technician will see that when they arrive. Is there anything else?
+
+Customer: No, that's it. Thanks, I guess.
+
+Agent: You're welcome, Michael. Sorry we couldn't get it working over the phone today, but our technician should be able to take care of this for you tomorrow. Thank you for calling Frontier Communications, and we appreciate your business.
+
+Customer: Yeah, thanks. Bye.
+
+Agent: Bye now.

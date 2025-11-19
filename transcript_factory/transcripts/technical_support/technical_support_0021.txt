@@ -1,0 +1,97 @@
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet's been down since this morning and I've got no idea what's going on. I need to get this fixed today if possible.
+
+Agent: I'm really sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll get to the bottom of this. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147. That's my phone number.
+
+Agent: (typing sounds) Okay, great. And just to confirm, is this for service at 412 Maple Street?
+
+Customer: Yeah, that's right.
+
+Agent: Perfect. So you're saying your internet went down this morning. Do you remember what time that was?
+
+Customer: Um, I'd say around 7 or 8 AM? I tried to check my email for work and nothing was loading. Just kept timing out.
+
+Agent: Okay. And just to make sure I understand—you're not getting any internet connection at all, or is it just very slow?
+
+Customer: No, it's completely down. Like, nothing's working. I've got the router right here and the lights are... (pause) let me look at this. The power light is on, but the internet light is red.
+
+Agent: Okay, that's actually really helpful information. The red light typically means there's no connection coming into your modem. Let me check our systems here to see if there are any outages in your area. (typing sounds) (pause) I'm not seeing any widespread outages reported, so this might be specific to your line. Do you have a modem or is it a combined modem-router unit?
+
+Customer: Um, I think it's just a modem? It's the one you guys sent me. White box, kind of rectangular?
+
+Agent: That sounds like our standard equipment. Alright, let's try a few troubleshooting steps. First, can you unplug the modem for me? Just pull the power cable out.
+
+Customer: Okay, doing that now. (pause) Yeah, it's unplugged.
+
+Agent: Great. Can you leave that unplugged for about 30 seconds? Just let it sit there.
+
+Customer: (pause) How long has it been?
+
+Agent: Why don't you give it about 10 more seconds... okay, now go ahead and plug it back in.
+
+Customer: Alright, plugging it back in. (pause) Okay, it's back on. The power light is on again but... still red on the internet light.
+
+Agent: Okay, no problem. Give it a minute or two to establish a connection. Sometimes it takes a bit to boot back up fully.
+
+Customer: (pause) Still red. This isn't working, is it?
+
+Agent: Let's not give up just yet. Can you check the cables for me? There should be a coaxial cable—that's the thick cable with the connector on the end—that goes into the modem. Can you see that?
+
+Customer: Yeah, I see it. It looks fine from what I can tell.
+
+Agent: Can you try unplugging it from the modem and plugging it back in? Make sure it's nice and snug.
+
+Customer: (pause) Okay, I'm doing that now. Plugged it back in... (pause) Still nothing. The light is still red.
+
+Agent: Alright. Let me ask you this—do you have any other devices that might connect to the internet that we could test? Like a phone or a tablet?
+
+Customer: I mean, I've got my phone but I'm on Wi-Fi from this router and it's not connecting either. The network won't even show up.
+
+Agent: Okay, so the router's not broadcasting a signal at all?
+
+Customer: Well, there's a Wi-Fi light, let me look... no, that one's off too. Everything except the power light is basically off.
+
+Agent: (pause) I see. Let me check something on my end. Can you give me just one moment? I'm going to look at your modem's signal levels.
+
+Customer: Sure, take your time.
+
+Agent: (pause, typing sounds) Hmm, okay. So I'm not seeing any signal coming into your device at all from our network. That tells me it's most likely either an issue with the line coming into your house or with the modem itself.
+
+Customer: So what does that mean? Can you fix it remotely or do I need a technician to come out?
+
+Agent: Unfortunately, this isn't something I can resolve through troubleshooting steps. I'm going to need to get a technician out to your location to check the line and the connection point. But let me try one more thing first. Can you restart your router as well? There might be a reset button.
+
+Customer: (pause) How do I—I don't see a reset button. Do I just unplug it?
+
+Agent: Yeah, just unplug it for about a minute and plug it back in.
+
+Customer: (pause) Okay, unplugged. (pause) Alright, plugged back in. The Wi-Fi light came on this time! There's a light that's... (pause) wait, no. It's going off again. And the internet light on the modem is still red.
+
+Agent: I see. Unfortunately, that didn't resolve it. Look, I think we're looking at either a service line issue or a hardware failure with the modem. Here's what I can do for you. I can get a technician scheduled to come out and diagnose the problem. Would you be available later today?
+
+Customer: How much later are we talking?
+
+Agent: (typing sounds) It looks like I have availability between 2 and 5 PM this afternoon if that works for you.
+
+Customer: Yeah, I can do that. That should work.
+
+Agent: Excellent. So I have you down for a technician visit today between 2 and 5 PM at 412 Maple Street. The technician will bring out a new modem if needed and check your line connection. You should receive a courtesy call about 30 minutes before the technician arrives. Is the best number to reach you the one you provided—555-0147?
+
+Customer: Yeah, that's fine.
+
+Agent: Perfect. And just to set expectations, there's no service charge for this visit since this appears to be a service issue. I'm going to email you a confirmation with all the details and a reference number. The reference number is 784-921-X.
+
+Customer: Okay, great. I appreciate it.
+
+Agent: I'm really sorry you've had to deal with this today. We'll get you back up and running. Is there anything else I can help you with?
+
+Customer: No, I think that's it. Just... hopefully they can fix it quickly.
+
+Agent: Absolutely. We'll make it a priority. Thank you for being a Frontier customer, and we'll see you this afternoon.
+
+Customer: Thanks. Bye.
+
+Agent: Bye now.

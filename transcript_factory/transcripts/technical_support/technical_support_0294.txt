@@ -1,0 +1,111 @@
+# Frontier Communications Customer Support Call
+
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hey, yeah, thanks for picking up. So, uh, my internet just went out about an hour ago and I can't get it back up. I've tried unplugging the modem and everything, and nothing's working.
+
+Agent: I'm sorry to hear that. I'd be happy to help you get this sorted out. Let me pull up your account here. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, perfect. I'm seeing an account for James Mitchell at 428 Oakwood Drive. Is that correct?
+
+Customer: Yeah, that's me.
+
+Agent: Great. So you mentioned your internet went out about an hour ago. Walk me through what you've already tried to fix it.
+
+Customer: Well, like I said, I unplugged the modem, waited a minute or so, and plugged it back in. I also checked if maybe a cable got loose or anything, but everything looks connected fine to me.
+
+Agent: Okay, that's good troubleshooting. When you say the modem is powered back on, are you seeing any lights on the front of it?
+
+Customer: Um... let me look. (pause) Yeah, I'm seeing some lights. There's a red one that's... it looks like it's blinking?
+
+Agent: Okay, a blinking red light usually indicates a connection issue. Do you have a Frontier-issued modem, or is it a personal one?
+
+Customer: It's the one you guys gave me when I signed up. It's been working fine for like two years, so...
+
+Agent: Right, understood. Let me have you try something. Can you unplug the modem again, and this time, also unplug the ONT—that's the white box, usually near where your modem is. It has a battery backup on it.
+
+Customer: The white box? Hold on, let me... okay, yeah, I see it. I'm unplugging both now.
+
+Agent: Perfect. Let them sit for about thirty seconds.
+
+Customer: (pause) Okay, thirty seconds. Should I count?
+
+Agent: Sure, go ahead and count it out if you'd like. Just to give the system a chance to reset.
+
+Customer: (pause) Alright, it's been like forty-five seconds now. Plugging them back in.
+
+Agent: Good. The ONT will take a little bit longer to fully boot up, so let's wait about two minutes and see what lights we get. Are you still there?
+
+Customer: Yeah, I'm here. (pause) Okay, so it's been like a minute and a half. I'm still seeing that red blinking light on the modem.
+
+Agent: Still blinking red? Let me check if there are any outages in your area. (typing sounds) (pause) I'm not seeing any active outages reported. Let me have you try one more thing. Can you check the back of the modem and tell me if there's a reset button?
+
+Customer: A reset button? (pause) Yeah, I think I see it. It's like, really tiny, right?
+
+Agent: Yes, exactly. It should be recessed, so you'll probably need a paperclip or a pen to press it. If you press and hold that for about ten seconds, it'll do a factory reset of the modem.
+
+Customer: Okay... (pause) I'm doing it now. (pause) How long do I hold it?
+
+Agent: About ten seconds. You should see all the lights on the front turn off and then come back on.
+
+Customer: (pause) Alright, they're all off. I'm still holding it... okay, it's been ten seconds. I'm letting go.
+
+Agent: Great. Now let's give it a couple minutes to fully boot back up with the fresh settings.
+
+Customer: (pause) Okay, so... (pause) Still got that red blinking light. It's not changing.
+
+Agent: Hmm. The red light persisting after a factory reset is concerning. Let me ask you this—is your fiber optic line connected? There should be a yellow or orange cable going into the ONT.
+
+Customer: Let me check. (pause) Yeah, I see a yellow cable plugged in. It looks fine from what I can tell.
+
+Agent: And is that cable glowing at all? The fiber lines sometimes have a faint glow.
+
+Customer: (pause) I don't see any glow, no. Should there be?
+
+Agent: It wouldn't necessarily show a glow in normal light, so that's okay. Here's what I want to try. Can you do me a favor and check your email or text messages for any service notifications from Frontier?
+
+Customer: Hold on. (pause) Let me check my phone. (pause) Nope, nothing from Frontier. I got some junk mail but nothing about service.
+
+Agent: Okay. (pause) James, at this point, I think what we're dealing with might be a line issue on our end or potentially a modem failure. Have you noticed any storms in the area recently or any construction work?
+
+Customer: No storms. There's been some utility work on the street, actually, but that was like... two weeks ago, maybe?
+
+Agent: That could be related, but it's been two weeks, so probably not. (typing sounds) I'm going to be honest with you—with the red light persisting through a reset, and the ONT not connecting properly to the network, this is likely either a problem with the physical line or the modem itself has gone bad. 
+
+Customer: So what does that mean? Like, how do we fix it?
+
+Agent: Well, I have a couple options for you. The first would be to send a technician out to your location to diagnose and repair the issue. The earliest I can get someone there would be... (typing sounds) (pause) next Tuesday, around the afternoon window between one and five PM. Alternatively, we could mail you a replacement modem, but that would take three to five business days to arrive.
+
+Customer: Next Tuesday? That's like... five days away. What about tomorrow?
+
+Agent: Let me see if we have any availability tomorrow. (pause) (typing sounds) Unfortunately, all of our time slots for tomorrow are booked. We do have some openings on Sunday if that works better for your schedule?
+
+Customer: Sunday? I guess that could work. What time?
+
+Agent: We have a morning slot available, between eight AM and noon on Sunday.
+
+Customer: (pause) Yeah, okay, that's better than Tuesday. Let me do Sunday morning.
+
+Agent: Perfect. I'm going to get that scheduled for you. (typing sounds) Alright, James, I have a technician scheduled to come out this Sunday, January 15th, between 8 AM and noon. You'll receive a confirmation email and a text message with those details. 
+
+Customer: Okay, great. What should I expect when they get there?
+
+Agent: They'll assess your equipment and your line. They may need to replace either the modem or the ONT, or there might be a line issue they need to repair outside. Shouldn't take more than an hour or so if it's just equipment.
+
+Customer: And I don't need to do anything before they arrive?
+
+Agent: Just make sure you have access to the modem and the ONT. They're usually near your main entry point. Other than that, you're all set.
+
+Customer: Alright, I appreciate your help, Derek. Hopefully they can figure it out on Sunday.
+
+Agent: You're welcome. I apologize that we couldn't get it working today. Our technician will definitely take care of you on Sunday. Is there anything else I can help you with?
+
+Customer: No, I think that's it. Thanks again.
+
+Agent: You're all set, James. Thanks for calling Frontier, and we'll see you Sunday.
+
+Customer: Thanks. Bye.
+
+Agent: Bye now.

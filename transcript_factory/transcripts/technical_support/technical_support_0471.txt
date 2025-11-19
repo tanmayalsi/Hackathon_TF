@@ -1,0 +1,127 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. So, um, my internet's been down since this morning and I really need to get it working. I've got work stuff I need to do from home.
+
+Agent: Oh, I'm sorry to hear that. I'd be happy to help you troubleshoot. Can I grab your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm pulling that up here... Alright, I've got you. So your internet went down this morning, you said?
+
+Customer: Yeah, sometime around like 8 AM. I turned on my computer and there was just... nothing. No connection at all.
+
+Agent: Okay. And just to start with the basics—do you have a modem and router setup, or is it a combined unit?
+
+Customer: It's combined. It's that white box thing Frontier gave me when we set up the service.
+
+Agent: Perfect, that's our gateway unit. Okay, so first thing I want to try—can you go ahead and unplug that device for me? Just for about 30 seconds.
+
+Customer: Sure, yeah, I'm doing that now. (pause) Okay, it's unplugged.
+
+Agent: Great. While that's unplugged, let's just wait about 30 seconds. That'll help clear out any temporary glitches.
+
+Customer: (pause) Alright, it's been about 30 seconds.
+
+Agent: Perfect. Go ahead and plug it back in for me.
+
+Customer: (pause) Okay, plugging it back in now. (pause) So it's gonna take a minute to boot back up, right?
+
+Agent: Yeah, exactly. It should take about two to three minutes to fully restart. Let's just give it a moment.
+
+Customer: (pause) Okay... I'm looking at it and I see the lights coming back on. There's a blue light and then... there's like an orange one blinking?
+
+Agent: Okay, so the orange light—is it blinking steadily or is it more of a... does it seem like it's searching for a signal?
+
+Customer: Um, it's blinking like every second or so. Continuously.
+
+Agent: Hmm. Alright, that's a bit unusual. The orange light typically indicates either it's booting up or there might be a connection issue on our end. Let me check the status of your line here. (typing sounds) (pause) ...Okay, so I'm not seeing any outages in your area, which is good news. And your account looks active on our end.
+
+Customer: So what does that mean?
+
+Agent: Well, it could be a few things. Can you tell me—have you experienced any storms or power outages in your area recently?
+
+Customer: No, it's been fine. The power's been on the whole time.
+
+Agent: Okay, good. Um, let me have you try one more thing. Can you look at the back of the gateway unit and see if all the cables are firmly connected? Sometimes they can work loose.
+
+Customer: (rustling sounds) Okay, yeah, I'm looking at the back now. There's a bunch of cables here. Which one am I looking for?
+
+Agent: Well, there should be a coaxial cable—that's the one with the threaded connector—and then an ethernet cable if you've got something plugged in. Can you make sure both of those are... [inaudible] ...firmly seated?
+
+Customer: (sounds of touching/adjusting) Um, okay, so I'm checking them. The coax one seems pretty tight, but... oh, actually, wait. One of the other cables feels a little loose. I'm tightening it up now.
+
+Agent: Okay, good catch. Go ahead and give that a good firm connection.
+
+Customer: (pause) Alright, it's tightened. And now... I'm still seeing that orange light blinking though.
+
+Agent: Okay. (pause) Let me try rebooting the unit again. Can you hold down the reset button for me? It should be on the back—it might require a paperclip or something to press it.
+
+Customer: Hold on. (pause) Okay, I found it. I'm pressing it with a pen. (pause) I'm holding it... (pause) ...okay, the lights just went out completely.
+
+Agent: Perfect. That's what we want to see. Now let's just give it a full reboot. This might take a few minutes.
+
+Customer: How many minutes are we talking?
+
+Agent: Usually about three to five. You should see the lights cycle through a few different colors as it boots back up.
+
+Customer: (pause) Okay, I'm watching it. The lights are coming back but it's still... it's still that orange blinking light.
+
+Agent: (pause) Hmm. Okay, um... (typing sounds) let me check something here. Can you try something for me? Go to your computer or phone—whichever you've got handy—and see if you can see the network name, the WiFi name, when you search for available networks?
+
+Customer: (pause) Okay, I'm pulling up the WiFi on my phone. I'm searching and... no, I don't see any network at all. Not even the Frontier one.
+
+Agent: Okay, that's... that tells me the gateway might not be broadcasting properly. Have you noticed any physical damage to the unit? Does it feel hot or anything?
+
+Customer: (pause) No, it feels normal. Looks fine to me.
+
+Agent: Alright. (pause) I'm going to be honest with you—based on what we've tried and what you're describing with that persistent orange light and the gateway not broadcasting, I'm suspecting this might be a hardware issue with the unit itself.
+
+Customer: So the box is broken?
+
+Agent: It could be. It's hard to say for certain without more advanced diagnostics, but the fact that we've tried a soft reboot, a hard reset, and checked all the connections... those are usually the culprits. And since your account is active on our end and there's no outage, it's pointing toward the device.
+
+Customer: Okay... so what do we do?
+
+Agent: Well, I can definitely get a replacement unit sent out to you. But there is a lead time. We're running about seven to ten business days right now for a replacement order. Is that going to work for you?
+
+Customer: (frustrated) Seven to ten days? I need internet like... today or tomorrow. I've got a project due.
+
+Agent: I completely understand, and I wish I had a faster option for you. (pause) Let me see what I can do here. Let me check if there's any way to expedite this... (typing sounds) Unfortunately, with current availability, the standard timeframe is the best I can offer right now. Unless you're in an area where we have retail locations that might have stock.
+
+Customer: Is there a Frontier store near me?
+
+Agent: (typing sounds) Let me look at your zip code. Actually, I'm not able to look up store locations from this system. But you can check our website—Frontier.com—and they should have a store locator. That might be your fastest option if you want to pick one up in person today.
+
+Customer: (pause) Okay, I'll check that. But if I can't find one nearby, I'm stuck waiting ten days?
+
+Agent: Unfortunately, yes. Unless... do you happen to have anyone nearby who could maybe loan you a mobile hotspot or something to tide you over?
+
+Customer: That's not really an option, unfortunately.
+
+Agent: I hear you. Well, let me go ahead and initiate that replacement order for you, and I'll also make a note on your account that we've done full troubleshooting. If anything changes or if you're able to find a device sooner, just give us a call back.
+
+Customer: Yeah, okay. Go ahead with the order.
+
+Agent: (typing sounds) Alright, I'm getting that set up. Just to confirm—is the address on file still 447 Maple Street?
+
+Customer: Yes, that's correct.
+
+Agent: Perfect. (pause) Okay, your replacement gateway has been ordered. Your order number is 78944521. You should receive it between November 18th and November 22nd. You'll get a shipping notification via email.
+
+Customer: Alright. Is there anything else I should try in the meantime?
+
+Agent: (pause) Well, you could try the factory reset again if you want, but I suspect you're going to get the same result. Just... I'd recommend holding off on that and trying to find that retail location, or maybe checking with a neighbor or a friend for some internet access in the meantime.
+
+Customer: Yeah, alright. Thanks for trying, Derek. I appreciate it.
+
+Agent: I'm really sorry we couldn't get this resolved today. I know how frustrating that is. Is there anything else I can help you with?
+
+Customer: No, that's it.
+
+Agent: Alright. Well, thanks for calling Frontier, and again, sorry about this. You should see that unit within the next week or so. Have a good day.
+
+Customer: You too.
+
+Agent: Bye now.
+
+(call ends)

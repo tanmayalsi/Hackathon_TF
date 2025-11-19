@@ -1,0 +1,85 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hey, yeah, um, I'm calling because my internet just went out about an hour ago and I can't get it back up. I've tried restarting the modem and everything.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot. First, let me pull up your account here. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm looking at your account now. I see you're in the Riverside area on our fiber service. And you mentioned you've already restarted the modem—is that correct?
+
+Customer: Yeah, I unplugged it for like thirty seconds and plugged it back in, but nothing happened. The lights are just... I don't know, they're not doing what they normally do.
+
+Agent: Okay, that's helpful. Can you tell me what the lights are doing right now? Are any of them on or lit up at all?
+
+Customer: Um, let me look at it again. (pause) So there's like a power light that's on, I think it's green? But then the internet light—the one that's usually blue—it's like blinking orange now.
+
+Agent: Alright, so the power is good but the internet light is blinking orange. That typically indicates a connection issue. Let me ask you a few more questions. Are all your cables connected properly to the modem? There should be one that comes from the wall and goes into the modem.
+
+Customer: Yeah, I mean... (pause) let me check. Yeah, there's one cable in the back here. It looks like it's... it's plugged in. The other cord for the phone is also connected.
+
+Agent: Good. And just to clarify, you have phone service through us as well?
+
+Customer: Yeah, we do. And actually, that's not working either now that I think about it. I tried to make a call earlier and nothing happened.
+
+Agent: Okay, so both the internet and phone are down. That actually suggests it might be a line-level issue. Let me check something on our end here. (typing sounds) Can you power cycle the modem one more time for me? Just unplug it, wait about sixty seconds this time, and plug it back in. I'm going to check our network status while you do that.
+
+Customer: Sure, unplugging now. (pause) Okay, it's unplugged. I'm just gonna wait here...
+
+Agent: Perfect. Take your time.
+
+Customer: (pause) Alright, thirty seconds have passed. Plugging it back in. (pause) Okay, it's back on. The lights are coming back... the power light is green again, but... (pause) the internet light is still orange. It's still blinking.
+
+Agent: Still blinking orange. And on our end, I'm not seeing any outages reported in your area, which is... well, that's actually a little unusual. Let me ask you something—do you have a backup battery or any kind of power conditioner between the wall outlet and your modem?
+
+Customer: No, I don't think so. Just a regular outlet.
+
+Agent: Okay. And have there been any recent storms or power issues at your location?
+
+Customer: No, nothing like that. The power's been fine. Just the internet and phone went out.
+
+Agent: Alright. Let me try something else. I'm going to send a test signal to your modem to see if we're getting any response from the device. (typing sounds) (pause) I'm not getting a response from the modem, which... hmm. That's interesting. Let me ask—when you look at the back of the modem, is there anything that looks loose or disconnected? Any cables that might have come undone?
+
+Customer: I mean, I'm looking at it pretty carefully now. There's the cable from the wall, there's the phone cable, and then... I don't know, there's some other ports back here but nothing's plugged into them. Everything that should be connected looks connected to me.
+
+Agent: Okay, I believe you. So... one more thing I want to try. Can you tell me if there's a small reset button on the modem? It might be recessed in a little hole.
+
+Customer: Oh, um, yeah, I think I see it. There's a small hole here with like "Reset" written next to it.
+
+Agent: Don't press that yet—that'll erase all your settings. But I just wanted to confirm it's there. (pause) Okay, so here's what I think might be happening. When the modem isn't responding to our test signal and you're getting that orange blinking light even after multiple restarts, it often indicates either an issue with the modem itself or a line issue that's preventing communication. Since we're not seeing outages on our end and everything appears to be connected on your side...
+
+Customer: So what does that mean? Like, is my modem broken?
+
+Agent: It could be, or it could be a problem with the fiber line coming into your home. It's hard to say without being able to do an onsite inspection. Let me check one more time if there's anything I can see from our network diagnostics. (typing sounds) (pause) No, unfortunately I'm just not getting any signal from your modem at all, which means the device isn't communicating with our network.
+
+Customer: So what do I do? I need my internet. I work from home and...
+
+Agent: I totally understand, and I apologize for the inconvenience. Given what we've tried here, I think we need to get a technician out to your home to do a physical inspection. They can check the fiber line, potentially replace the modem, and get everything up and running again. Would you be available for a technician visit?
+
+Customer: Um, yeah, I guess so. When can they come out?
+
+Agent: Let me see what we have available. (typing sounds) (pause) I can get someone out to you tomorrow between 1 and 5 PM, or we have availability on Wednesday morning between 9 AM and noon. Which works better for you?
+
+Customer: Tomorrow afternoon is fine. That's better than waiting until Wednesday.
+
+Agent: Perfect. So I'm scheduling you for tomorrow, 1 to 5 PM. Let me just confirm the address we have on file here is correct. You're at 447 Maple Street in Riverside?
+
+Customer: Yes, that's right.
+
+Agent: Excellent. The technician will call you about thirty minutes before they arrive. Is this number the best way to reach you?
+
+Customer: Yeah, this cell phone number is good.
+
+Agent: Great. Just to recap, we've tried restarting the modem multiple times, verified all the connections, and unfortunately weren't able to get the device responding to our network signals. So a technician will come out tomorrow to diagnose the issue further. Your appointment is 1 to 5 PM. Do you have any other questions for me?
+
+Customer: No, I think that's it. I mean, I'm frustrated that we couldn't fix it, but... I guess that's just how it is sometimes.
+
+Agent: I completely understand your frustration, and again, I apologize we couldn't resolve this over the phone. The technician should be able to get you back online quickly once they're there. Is there anything else I can help you with today?
+
+Customer: No, that's all. Thanks for trying.
+
+Agent: You're welcome. Thank you for calling Frontier Communications, and we'll see you tomorrow. Have a good day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

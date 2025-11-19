@@ -1,0 +1,111 @@
+# Frontier Communications - Technical Support Call
+
+Agent: Thank you for calling Frontier Communications technical support. My name is Marcus. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet's been down since this morning and I have no idea what's going on. I need to get this fixed pretty quickly.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's... (pause) ...555-0847. That's the number on the bill.
+
+Agent: (typing sounds) Okay, let me pull that up here. And can I get your name?
+
+Customer: It's David Chen.
+
+Agent: Perfect, David. I see your account here. It looks like you're on our Fiber 500 plan. So your internet's completely down—is that right? No lights on the modem at all?
+
+Customer: Right, nothing. Well, actually... there's like a red light blinking on the front. Is that bad?
+
+Agent: Okay, a red blinking light usually means there's a connection issue. That's actually good information. Let me walk you through a few things. First, can you tell me—do you see a power cable going into the modem?
+
+Customer: Yeah, it's plugged in.
+
+Agent: And is it plugged into a wall outlet or a power strip?
+
+Customer: A power strip. Why, does that matter?
+
+Agent: Sometimes it can, actually. What I'd like you to do first is unplug the modem from the power strip for about 30 seconds. Just completely disconnect it.
+
+Customer: Okay... (pause) ...it's unplugged.
+
+Agent: Great. While that's resetting, let me ask—have you had any recent storms in your area? Or any work done on your lines?
+
+Customer: No storms that I know of. Actually, wait—there were some utility workers on the street yesterday doing some digging. Could that be related?
+
+Agent: That could definitely be it. They might have accidentally damaged the fiber line running to your house. But let's go ahead and plug the modem back in and see if we get a better result.
+
+Customer: Okay, plugging it back in now. (pause) Still just the red light. Nothing's changed.
+
+Agent: Alright. Can you look at the modem and tell me if there are any other lights lighting up at all? Like green or blue lights?
+
+Customer: Um... no, just red. One red light in the center.
+
+Agent: Okay. And just to clarify—you're not able to connect to WiFi either, correct?
+
+Customer: Right, there's no WiFi showing up at all. And I tried my phone, my laptop... nothing.
+
+Agent: (typing sounds) Yeah, that red light is telling me the modem isn't getting a signal from our network. Now, I want you to check something for me. Can you look at where the fiber line comes into your house? It should be a thin cable, probably orange or clear colored.
+
+Customer: Hold on. (pause) I'm looking... yeah, I see a cable coming in through the wall. It looks fine to me.
+
+Agent: Is it still connected to the modem? Like, is it plugged in on both ends?
+
+Customer: (pause) Uh... let me see. Yeah, it looks like it's plugged into the modem on this end. The other end goes outside through the wall.
+
+Agent: Alright. Can you check if that connection is tight? Sometimes they can get slightly loose.
+
+Customer: (pause) It feels pretty secure to me. I'm not sure how much tighter I can make it without breaking something.
+
+Agent: Fair enough. (pause) Okay, David, here's what I'm thinking. Given that you mentioned the utility workers yesterday and the modem's giving us that red light after a reset, it's possible that the fiber line outside your house was damaged or disconnected. That would explain why we're not seeing any signal at the modem.
+
+Customer: So... what does that mean? Can you guys fix it?
+
+Agent: Well, let me try one more thing. I'm going to check our network on my end to see if we're detecting your modem at all. (typing sounds) (pause) Okay... I'm not seeing your unit on the network right now, which confirms that we're not getting any signal from your home.
+
+Customer: So it is the cable outside?
+
+Agent: It's very likely, yes. I want to try one more reset before we go down that road. This is called a factory reset. I'm going to have you hold the reset button on the back of the modem for about 15 seconds. It's a small button—you might need something like a paperclip to press it.
+
+Customer: Okay, give me a second. (pause) I got a pen. (pause) I'm holding it in... (pause) ...still holding... (pause) Okay, I released it. Now what?
+
+Agent: Now just give it about a minute to boot back up. This will take a little longer than the regular restart.
+
+Customer: (pause) Alright, I'm waiting. (pause) Still red light.
+
+Agent: (pause) Still red?
+
+Customer: Yeah. Nothing's changed. Still just that one red light.
+
+Agent: Okay. (pause) Unfortunately, David, I think we're at the point where we need to send a technician out to your property. The modem is not initializing on our network, and given what you mentioned about the construction work yesterday, I'm fairly confident there's a physical issue with the line outside.
+
+Customer: How long would that take? And is there a cost for this?
+
+Agent: (typing sounds) Since you're on a good standing account, any repairs to our infrastructure outside the house would be covered. But there would be a service visit fee of $99 if the issue is determined to be on your end. However, if it's damage from external factors—which seems likely—that would typically be waived.
+
+Customer: Okay, and when can someone come out?
+
+Agent: Let me check our availability. (pause) (typing sounds) We have availability tomorrow between 8 AM and 12 PM, or we could do Thursday afternoon between 1 and 5 PM. Which works better for you?
+
+Customer: Um, Thursday afternoon is better. I have to work tomorrow.
+
+Agent: Perfect. Let me get you scheduled. (typing sounds) You're all set for Thursday, December 12th between 1 and 5 PM. A technician will come to your home. You should get a confirmation email shortly, and we'll also send you a text message as a reminder. The technician's number will be in that message if you need to reach them.
+
+Customer: Okay, got it. So there's nothing I can do until then?
+
+Agent: Unfortunately, no. The modem is not getting a signal from us, so there's not much more we can troubleshoot on your end. But I do want to make sure—do you have cellular data on your phone? Just so you can stay connected if you need to.
+
+Customer: Yeah, I've got that. It's not ideal, but it'll work for now.
+
+Agent: I understand. I'm sorry you're dealing with this. Before you go, let me just make sure I have everything correct. Your name is David Chen, account ending in 0847, and you're scheduled for Thursday, December 12th between 1 and 5 PM. Is that all correct?
+
+Customer: Yeah, that's right.
+
+Agent: Great. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. Thanks for trying, at least.
+
+Agent: You're welcome. And again, I'm sorry we couldn't get this resolved over the phone. Our technician will take good care of you on Thursday. Thanks for calling Frontier, David.
+
+Customer: Alright, thanks. Goodbye.
+
+Agent: Goodbye.

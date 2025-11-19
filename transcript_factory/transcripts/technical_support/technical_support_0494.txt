@@ -1,0 +1,119 @@
+# Frontier Communications Customer Support Call
+
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. So, um, my internet just went out about an hour ago and I can't get it back up. I've tried restarting the router and everything, but nothing's working.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot. Let me pull up your account here. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, and what's the best number to reach you at right now?
+
+Customer: Same number. 555-0147.
+
+Agent: Perfect. So you mentioned you restarted the router already. How long ago did the internet go out?
+
+Customer: Like I said, about an hour. Maybe a little more. I was just in the middle of working from home when everything just... stopped.
+
+Agent: Okay, I understand how frustrating that must be. Let me ask you a few questions. When you look at your modem and router right now, what lights are you seeing? Are they on?
+
+Customer: Um, let me go look. (pause) Okay, so the modem has... it's got a red light on it. And the router has some lights, but they're not really doing much. They're kind of dim.
+
+Agent: Alright, so the modem has a red light. That typically indicates either no signal or an issue with the connection. Let's try a full reset. Can you unplug the modem first? The actual modem, not the router.
+
+Customer: Yeah, sure. (pause) Unplugging it now.
+
+Agent: Great. And while that's unplugged, let's also unplug the router. That's the separate box.
+
+Customer: Okay, done. Both are unplugged.
+
+Agent: Perfect. Now I want you to wait about two minutes before plugging them back in. This'll give the system time to fully reset.
+
+Customer: Two minutes? Alright, I can do that. (pause) So while I'm waiting... is this a widespread outage thing or is it just my house?
+
+Agent: That's a good question. Let me check our system here. (typing sounds) I'm not seeing any reported outages in your area right now, so it looks like this is isolated to your location. But we'll figure it out.
+
+Customer: Okay, that's... I guess that's good news? I don't know. I just need my internet back up.
+
+Agent: I totally understand. Go ahead and plug the modem back in now.
+
+Customer: (pause) Okay, it's plugged in. The lights are... wait, now it's got a green light on the bottom. That's better, right?
+
+Agent: Yes, that's better. The green light means it's getting signal. Now plug the router back in.
+
+Customer: Plugging it in now. (pause) Alright, it's in. The lights are coming back on. They're blinking.
+
+Agent: Good. The blinking means it's initializing. Give it about 30 seconds to boot up completely. While we wait, let me just verify a couple things on your account. (typing sounds) Okay, so I'm showing you have our Frontier Fiber 100 plan. Is that right?
+
+Customer: Yeah, that's right. I was getting good speeds too before this happened.
+
+Agent: Great. Alright, so the router should be fully booted now. Can you try connecting to your wifi? Do you see your network name?
+
+Customer: Let me check my phone. (pause) Yeah, I see it. The network is showing up. Let me try connecting... (pause) Okay, I'm connected to the network, but when I try to load a website, nothing's happening. It's just loading and loading...
+
+Agent: Hmm. Okay, let me try something else. Can you do a ping test for me? Do you know how to do that?
+
+Customer: A ping test? Um... I mean, I work in IT, so yeah, I can do that, but... I don't think that's gonna be the issue here.
+
+Agent: Right, I understand. Just give it a shot. Open your command prompt and type ping 8.8.8.8.
+
+Customer: (pause) Okay, I'm doing that now. (pause, more typing sounds) It's saying all packets were lost. So zero percent received.
+
+Agent: Okay, so there's no connectivity to the internet at all. Let me check your modem connection. Can you tell me what lights are on the modem right now?
+
+Customer: It's got the green light on the bottom and... there's a yellow light on the side. Is that normal?
+
+Agent: (pause) Yellow light usually indicates the modem is in bridge mode or there's an issue with the connection to our network. Let me check your account provisioning... (typing sounds) Okay, I'm gonna need you to do a factory reset on the modem. This is different from just unplugging it.
+
+Customer: A factory reset? Will that mess anything up?
+
+Agent: It'll reset it back to factory settings, but it should re-provision on our network. We might lose the custom settings you have, but given the circumstances, I think it's worth trying.
+
+Customer: Alright, okay. How do I do that?
+
+Agent: There should be a small reset button on the back of the modem. You'll need something like a paperclip to press it. Hold it down for about 10 seconds.
+
+Customer: (pause) Yeah, I see it. Holding it down... (pause) Okay, it's resetting. The lights went out completely. (pause) Now they're coming back on. The green light is back and... okay, still the yellow light too.
+
+Agent: Alright. That's still showing. Let me check our end real quick. (typing sounds, longer pause) I'm not seeing any issues with your connection on our network provisioning here. It's actually showing as provisioned. This is strange.
+
+Customer: So what does that mean? Can we figure this out?
+
+Agent: (pause) Okay, let me try one more thing. I'm going to need to check the actual line outside your home. Is there a box on the exterior of your house? Usually it's mounted on the wall?
+
+Customer: Yeah, there's one by the garage. What am I looking for?
+
+Agent: Can you just let me know if there are any lights on it? Green, red, amber—anything?
+
+Customer: (pause) There's... it looks like there's no lights on it at all. Completely dark.
+
+Agent: (pause) Okay. That would explain the issue. It sounds like there might be a problem with the connection between our network and your home. This could be an issue with the line itself or with your termination point. I'm gonna be honest with you—this is something that's going to require a technician to come out and take a look at.
+
+Customer: Really? So we can't fix this over the phone?
+
+Agent: Unfortunately, no. This is beyond what we can troubleshoot remotely. But I can absolutely get a technician scheduled for you. When would be a good time?
+
+Customer: [inaudible] I need this fixed pretty soon. I'm working from home and I have meetings all afternoon tomorrow.
+
+Agent: I completely understand. Let me check availability. (typing sounds) I can get someone out there tomorrow morning between 8 AM and 12 PM. Does that work?
+
+Customer: That's cutting it close, but... I don't have another choice, do I?
+
+Agent: I wish I had better news. Let me get that set up for you. (typing sounds) Alright, I have a technician scheduled for tomorrow between 8 and noon at your address. You should receive a confirmation email shortly, and if the tech needs to reach you, they have your number.
+
+Customer: Okay. So that's it? There's nothing else we can try tonight?
+
+Agent: I'm sorry, but with the exterior box not lighting up, I really can't do anything else from my end. The technician will be able to diagnose what's happening with the line.
+
+Customer: Alright... I guess I'll just have to use my phone hotspot tonight then.
+
+Agent: I really apologize for the inconvenience. Is there anything else I can help you with today?
+
+Customer: No, that's it. Thanks for trying, Derek.
+
+Agent: You're welcome, and again, I apologize. We'll get this sorted out for you tomorrow. Thanks for calling Frontier Communications.
+
+Customer: Bye.
+
+Agent: Bye.

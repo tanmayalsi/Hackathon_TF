@@ -1,0 +1,95 @@
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet's been down since this morning and I can't figure out what's wrong with it.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, and your name?
+
+Customer: David Chen.
+
+Agent: Great, David. I'm pulling up your account now. (pause) Alright, I've got you here. So you're saying your internet went down this morning? Do you remember what time that was?
+
+Customer: Uh, I'd say around 8, 8:30 this morning. I went to check my email and nothing was loading.
+
+Agent: Okay. And have you tried restarting your modem and router yet?
+
+Customer: Yeah, I did that actually. I unplugged everything for like a minute and plugged it back in. Still nothing.
+
+Agent: Got it. Let me check our system here to see if there are any outages in your area. (typing sounds, pause) I'm not seeing any active outages reported for your neighborhood, so that's good news. Let's try a few more things. Can you tell me what you're seeing right now? Is the modem powered on?
+
+Customer: Yeah, it's on. I can see the lights on the front, but... they're not the right color, I think? They're red and orange instead of green.
+
+Agent: Okay, that's actually helpful information. The red and orange lights usually indicate a connection issue. Let me have you try something. Can you locate the reset button on your modem? It should be a small recessed button on the back.
+
+Customer: (pause) Yeah, I see it. What do I do?
+
+Agent: I want you to use a pen or paperclip to hold that button down for about 10 seconds while the modem is still powered on. That'll do a hard reset without losing your settings.
+
+Customer: (pause) Okay... holding it down... (pause) Ten seconds... and... done.
+
+Agent: Good. Now let's give it about two minutes to fully restart and reboot. While we're waiting, let me ask—have there been any storms in your area recently? Sometimes that can cause line damage.
+
+Customer: Uh, we had some rough weather yesterday, actually. Pretty heavy rain and wind.
+
+Agent: That could definitely be a factor. Let me make a note of that. (typing sounds) Alright, it's been about two minutes. Are you seeing any changes in the lights on the modem?
+
+Customer: (pause) No, they're still... still red and orange. Maybe a little less bright, but still not green.
+
+Agent: Hmm. Let me check something on my end. (pause, typing sounds) I'm going to see if we can remotely reset your modem from here. (pause) David, I'm sending a command to your modem right now. Can you watch the lights and let me know if anything happens?
+
+Customer: (pause) Okay, I'm watching... (pause) They went off for a second, I think... and now they're coming back on but... no, same colors. Red and orange.
+
+Agent: Alright, unfortunately that didn't work. Let me try one more thing. Can you check the cable connection from the wall outlet to your modem? Make sure it's firmly plugged in on both ends?
+
+Customer: (pause) Yeah, I'm checking... (sound of objects moving) It looks pretty tight, but let me... (pause) No, it's definitely connected. Everything's plugged in.
+
+Agent: Okay. And do you have a separate router, or is it a combined modem-router unit?
+
+Customer: It's combined, I think. One box.
+
+Agent: Right. Let me check the back of the unit. You should see two cables coming in—one from the wall and one from your computer or devices, correct?
+
+Customer: Well, I don't have it connected directly to my computer. I'm using Wi-Fi mostly. But there's the one cable from the wall.
+
+Agent: That's fine. (pause, typing sounds) Okay, David, I'm looking at your modem status here and it's showing as offline on our system, which matches what we're seeing with those lights. Given that you had weather yesterday and the reset attempts aren't working, it sounds like there could be a hardware issue, or possibly a line issue with the connection coming into your house.
+
+Customer: Oh. So what does that mean? Is my modem broken?
+
+Agent: It's possible, but we can't say for sure without more testing. What I can do is schedule a technician to come out and run a line test. They can check the modem, check the connection from the street, and figure out exactly what's going on.
+
+Customer: How long would that take? When could someone come out?
+
+Agent: (typing sounds, pause) Let me see what we have available. With the weather yesterday, we might be a little backed up, but... (pause) I can get a technician out to you tomorrow between 1 and 5 PM. Would that work for you?
+
+Customer: Tomorrow? I really need this fixed sooner if possible. I work from home, and—
+
+Agent: I completely understand, David. Unfortunately, tomorrow afternoon is the earliest appointment we have open in your area. We did have some weather-related issues come through yesterday so we're running behind schedule today.
+
+Customer: (sighs) Okay, fine. Tomorrow works.
+
+Agent: Great. Let me get that scheduled for you. (typing sounds) So that's tomorrow, 1 to 5 PM window. A technician will come out and take a look. Is there anything else I can help you with in the meantime? Just to confirm—you'll have the modem powered on when the tech arrives, correct?
+
+Customer: Yeah, I'll make sure it's on.
+
+Agent: Perfect. I'm going to send you a confirmation email with the details and a reference number. The reference number is 447829. Can you write that down?
+
+Customer: 447829. Got it.
+
+Agent: Excellent. And David, I just want to say I'm sorry you're dealing with this. We'll definitely get you back up and running tomorrow. The technician will have your account information, so they'll be able to help identify the issue and get it resolved.
+
+Customer: Alright, thanks, Marcus.
+
+Agent: No problem at all. Is there anything else I can help you with today?
+
+Customer: No, that's it.
+
+Agent: Okay, well thank you for calling Frontier, and we'll see you tomorrow.
+
+Customer: Thanks. Bye.
+
+Agent: Bye now.
+
+(Call ends)

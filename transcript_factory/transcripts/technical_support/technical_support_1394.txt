@@ -1,0 +1,107 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet's been down since this morning and I'm not sure what's going on. I need it back up pretty urgently.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147. The area code is 206.
+
+Agent: (typing sounds) Okay, let me pull that up here. And what's your name?
+
+Customer: It's Michael. Michael Torres.
+
+Agent: Perfect, Michael. I've got your account here. I see you're on our Fiber 500 plan. So your internet's completely down — you're not getting any connection at all?
+
+Customer: No, nothing. I tried unplugging the router and the modem, waiting like five minutes, plugging them back in, and... nothing. Still dead.
+
+Agent: Okay, that's actually a good first step that you already did. (pause) Let me check your account status here. I'm not seeing any outages in your area, so that's a good sign. Let me ask you a few questions. When you look at your modem — the white box with the lights on it — what lights are you seeing?
+
+Customer: Um... (pause) okay, so I'm looking at it now. There's a power light that's on, it's green. And then there's... I think it says "Internet" on it? That one's red.
+
+Agent: The Internet light is red. Okay. And is it solid red or is it blinking?
+
+Customer: It's... it's blinking red.
+
+Agent: Alright. That usually means the modem isn't getting a proper connection from our network. Let me try to run a remote diagnostic on your modem. Can you give me just one second? (typing sounds) (pause) Okay, I'm sending a signal to your modem now to see if we can reboot it remotely.
+
+Customer: Okay...
+
+Agent: (pause) (typing sounds) Hmm. I'm not getting a response from the modem. That's... that's a bit unusual. Have you checked to make sure all the cables are firmly connected in the back? Sometimes they can come loose.
+
+Customer: Yeah, I checked that already. They look pretty tight to me.
+
+Agent: Okay, no problem. And just to confirm — you've got the coaxial cable coming in from outside? The thick cable?
+
+Customer: Yeah, that one's definitely plugged in. I didn't touch it, but I checked it.
+
+Agent: Good. Alright, let me try something else. I'm going to have you unplug the modem for about 30 seconds, but before you do, can you tell me what model modem you have? There should be a sticker on the top or back.
+
+Customer: (pause) Okay, I'm looking... it says Frontier Gateway. And then there's like a model number... FG-XTR-0001?
+
+Agent: Perfect. Okay, go ahead and unplug that for me. I'll wait.
+
+Customer: (pause) Unplugging it now. (pause) Okay, it's unplugged.
+
+Agent: Just... just let it sit there for about 30 seconds. We're doing a hard reset here. (pause) How long have you had that modem?
+
+Customer: Oh, I don't know... maybe two years? It's worked fine up until today.
+
+Agent: Right, okay. (pause) Alright, go ahead and plug it back in for me.
+
+Customer: (plugging sounds) Plugging it back in... okay.
+
+Agent: Alright. Let's give it about 60 seconds to fully boot up. Let me know when you see that Internet light start doing something different.
+
+Customer: (pause) ...Okay, I'm waiting. (pause) Still red and blinking.
+
+Agent: Still blinking red?
+
+Customer: Yeah. Same thing.
+
+Agent: Okay. (pause) (typing sounds) Let me check something on the account. (pause) Michael, I'm going to be honest with you — I'm wondering if there might be an issue with the line coming into your house. The modem seems to be functioning, but it's not establishing that connection. Did you have any recent storms or anything like that where you are?
+
+Customer: No, nothing like that. It's been pretty clear all week.
+
+Agent: Okay. (pause) Alright, here's what I want to try. I'm going to check the signal levels coming into your modem. (typing sounds) (pause) Okay, so I'm looking at this remotely and... Michael, I'm not getting any signal data from your line at all. That tells me either there's a break in the line somewhere between our network and your house, or...
+
+Customer: Or what?
+
+Agent: Or the modem itself might have failed. (pause) But given that the power is on and it's trying to connect, I'm leaning toward a line issue.
+
+Customer: So what does that mean? How do I fix it?
+
+Agent: Well, if it's an external line issue, you'd need a technician to come out and check the lines. But before we go down that road, let me try one more thing. (pause) Can you try restarting your modem one more time, but this time leave it unplugged for a full two minutes?
+
+Customer: Sure, okay. (pause) Unplugging it again... (pause) Alright, I'm starting my timer.
+
+Agent: (pause) (typing sounds) 
+
+Customer: (pause) (pause) So... how long has Frontier been having issues in the area? My neighbor was complaining about his service last week.
+
+Agent: I haven't seen any major outages recently, but I can definitely look into that if you'd like. (pause) Are we at two minutes yet?
+
+Customer: (pause) Yeah, almost. (pause) Okay, it's been two minutes.
+
+Agent: Plug it back in for me.
+
+Customer: (plugging sounds) Okay, plugging in now. (pause) And... (pause) same thing. Red light blinking.
+
+Agent: (pause) Yeah, that's what I was afraid of. Okay, Michael, I've done everything I can remotely troubleshoot here. Given that the modem isn't picking up any signal from our network, and the modem itself appears to be functioning, this really does point to either a physical line issue or a problem on the backend from our network side. Unfortunately, to properly diagnose this, we're going to need to send a technician out to your location.
+
+Customer: Okay... and how long would that take?
+
+Agent: Let me check our availability. (typing sounds) (pause) I can schedule someone to come out tomorrow between 8 AM and noon, or we have an appointment available on Thursday afternoon between 1 and 5 PM. Which works better for you?
+
+Customer: Tomorrow morning is fine. That's... yeah, tomorrow morning.
+
+Agent: Perfect. So I've got you down for tomorrow, 8 to noon. The technician will look at the external lines, check the connection from the pole to your house, and we'll get to the bottom of this. Is there anything else I can help you with today?
+
+Customer: No, that's... that's it. Hopefully this gets fixed tomorrow.
+
+Agent: I really hope so too, Michael. We appreciate your patience, and we'll get you back online as soon as we can. You should receive a confirmation email with the appointment details. Thanks for calling Frontier.
+
+Customer: Thanks, Derek.
+
+Agent: Have a good day.
+
+(call ends)

@@ -1,0 +1,131 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. So, um, my internet went down this morning and I've been without it for like three hours now. I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, got it. I'm showing an account for... is this James Miller?
+
+Customer: Yeah, that's me.
+
+Agent: Perfect. So you mentioned your internet went down this morning around what time?
+
+Customer: I'd say around 8:30 or so. I was trying to get some work done from home and just... nothing. No connection at all.
+
+Agent: Alright. And are you able to see your router right now? Is it powered on?
+
+Customer: Yeah, it's right here. Um, let me look... the lights are on. There's like a blue light and a... I think a green one? They're both lit up.
+
+Agent: Okay, that's good. So the power is definitely on. Can you tell me if there's any red lights flashing or anything like that?
+
+Customer: No, I don't see any red. Just the blue and green. Oh, wait... actually there might be a yellow one too. It's kind of hard to see from where I'm sitting.
+
+Agent: No problem. So no red lights, which is a good sign. Have you tried unplugging the router and plugging it back in?
+
+Customer: Not yet, no. Should I do that?
+
+Agent: Yeah, let's go ahead and try that. That'll just take a minute. Go ahead and unplug it from the power, wait about 30 seconds, and then plug it back in.
+
+Customer: (pause) Okay, unplugging now... (pause) Alright, it's out. I'm gonna wait...
+
+(pause - approximately 30 seconds)
+
+Customer: Okay, plugging it back in... (pause) The lights are coming back on. We're good there.
+
+Agent: Great. Now let's just give it about a minute or two to fully restart and then try connecting to it. Can you try opening a web browser or checking if you can get online?
+
+Customer: (typing sounds, pause) Uh... still nothing. It's still not connecting. I tried to open Google and it's just... it's loading but nothing's coming up.
+
+Agent: Hmm, okay. Let me check a few things here on my end. (typing sounds) I'm going to run a line test to see if we're getting a signal to your home. One moment please.
+
+(brief hold music)
+
+Agent: Alright, I'm back. So I'm showing that we are sending a signal to your location, but I'm not seeing a strong connection on the modem side. Have you noticed if there are any of the lights on your modem that are different from usual?
+
+Customer: The modem? Is that different from the router?
+
+Agent: Yes, so typically you'll have both a modem and a router. The modem is what connects to our network, and the router broadcasts the WiFi signal throughout your home. Do you see two separate boxes, or is it all in one unit?
+
+Customer: Oh, um... I think I only have one box. It's a Frontier-branded thing.
+
+Agent: Okay, so that's a gateway unit - it does both functions in one. That's fine. Let me ask you this - have there been any storms in your area recently, or any power outages?
+
+Customer: We had some pretty bad weather yesterday evening, actually. Heavy rain and a bit of lightning. But the power didn't go out for us.
+
+Agent: Okay, that could definitely be related. Sometimes the equipment can be affected by weather events even if your power doesn't go out. Have you checked to see if the cables connected to the back of the unit are all secure?
+
+Customer: (pause) Let me look... (pause) Yeah, they seem pretty plugged in. There's like... two cables back here?
+
+Agent: That's right. One should be your power cable and one should be the coaxial cable - the one that comes from outside your house. Can you double-check that both of those are hand-tight and secure?
+
+Customer: (pause) Um, okay... I'm checking... Yeah, they feel pretty secure to me. I'm not gonna force them too hard, but they're definitely plugged in.
+
+Agent: Good. That's exactly right - you don't want to force them. Okay, let me try a couple more things here. I'm going to send a reset command to your gateway. This will take about five minutes. Can you just leave the unit alone for a few minutes?
+
+Customer: Sure, no problem.
+
+(pause - approximately 2 minutes)
+
+Agent: Okay, the reset should be processing now. You should see the lights flashing or cycling through some changes. Is that what you're seeing?
+
+Customer: Yeah, actually, I am seeing some blinking now. That's... that's a good sign, right?
+
+Agent: That's exactly what we want to see. Just give it a few more minutes to complete the reset and reboot. It should take about another three to four minutes.
+
+(pause - approximately 4 minutes)
+
+Customer: Okay, the lights have settled down again. Should I try it now?
+
+Agent: Yeah, go ahead and try opening that browser again.
+
+Customer: (typing sounds, pause) Okay... no, nothing. Still just a blank screen. This is really frustrating. I have a meeting in like an hour and I need to prepare some files...
+
+Agent: I completely understand. Let me see what else we can try here. (typing sounds) I'm going to check our system for any service alerts or outages in your area.
+
+(pause - approximately 1 minute)
+
+Agent: Okay, I'm not seeing any reported outages in your area, so it does seem like this is isolated to your location. This might indicate a problem with either the gateway itself or possibly the line coming into your home. 
+
+Customer: So... what does that mean? What do we do?
+
+Agent: Well, I have a couple of options for you. The first thing we could do is schedule a technician to come out to your home and physically inspect the line and the equipment. Usually we can get someone out within 24 hours, sometimes same-day depending on availability.
+
+Customer: How much is that going to cost me?
+
+Agent: Well, if it's an issue with our line or infrastructure, there would be no charge. If it turns out to be an issue with the equipment in your home, there might be a service fee, but we'll diagnose it first.
+
+Customer: Okay... yeah, I think I need to do that. When's the earliest you could get someone out?
+
+Agent: Let me check the schedule... (typing sounds) We actually have availability today between 2 PM and 6 PM. Would that window work for you?
+
+Customer: Today? Yeah, that could work. That's... that's actually pretty good.
+
+Agent: Perfect. Let me get some information for the technician visit. Is there a best phone number to reach you at?
+
+Customer: It's 555-0147, extension 3.
+
+Agent: Okay, and just to confirm, is there going to be someone home between 2 and 6 PM today?
+
+Customer: Yeah, I'll be here.
+
+Agent: Great. So I'm scheduling a technician visit for today, 2 to 6 PM. The technician will call you about 30 minutes before they arrive to give you a heads up. 
+
+Customer: Okay, sounds good.
+
+Agent: Alright, I want to apologize that we weren't able to get this resolved over the phone today. I know how inconvenient this is.
+
+Customer: Yeah, well... hopefully the tech can figure it out.
+
+Agent: We'll definitely get you back online. In the meantime, if anything changes or if your internet suddenly comes back up, just give us a call back and let us know so we can cancel the visit if you don't need it.
+
+Customer: Okay, will do. Thanks.
+
+Agent: You're welcome. Thanks for being a Frontier customer, and we'll see you this afternoon.
+
+Customer: Thanks. Bye.
+
+Agent: Bye now.
+
+(call ends)

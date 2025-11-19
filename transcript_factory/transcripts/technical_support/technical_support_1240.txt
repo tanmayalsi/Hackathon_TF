@@ -1,0 +1,105 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hey, yeah, um, I'm calling because my internet just went out completely. Like, I've got nothing. No connection at all.
+
+Agent: I'm sorry to hear that. I'd be happy to help you get back online. Let me pull up your account real quick. Can I get the phone number associated with your account, please?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, and can I also get the name on the account?
+
+Customer: It's James Murphy. M-U-R-P-H-Y.
+
+Agent: Perfect, James. Thanks for that. So when did you first notice the internet went down?
+
+Customer: Uh, about twenty minutes ago? I was just working from home and everything just... stopped. The Wi-Fi icon disappeared and I can't connect to anything.
+
+Agent: Got it. And just to confirm, you're currently unable to connect to any devices? Phone, laptop, anything like that?
+
+Customer: Right, yeah. I tried my laptop and my phone won't connect either. It's like the whole thing just died.
+
+Agent: Okay, no problem. Let's get this sorted out for you. First thing I want to do is have you check your equipment. Do you have your router handy?
+
+Customer: Um, yeah, it's right here. It's the, uh... the white box thing, right?
+
+Agent: That's it. Perfect. Can you tell me what lights you're seeing on the front of it right now?
+
+Customer: (pause) Okay, so... there's one light that's green, I think. And then there's a couple red ones, maybe? It's kind of hard to see from here.
+
+Agent: That's helpful. So you're seeing red lights? That typically indicates there might be a connection issue. Let me have you try something. Can you unplug the router from the power for about thirty seconds?
+
+Customer: Sure, one sec. (sounds of movement) Yeah, I'm unplugging it now.
+
+Agent: Perfect. Just let it sit unplugged for about thirty seconds. While we're waiting, let me also ask—do you see any cables plugged into the back of the router? Is the main cable from the wall connected?
+
+Customer: (pause) Yeah, there's definitely a cable from the wall going into it. And... let me see, there's a few other cables back here too.
+
+Agent: Good. Sometimes these connections can get loose, so we'll plug it back in and see if that helps. Go ahead and plug it back in whenever you're ready.
+
+Customer: Okay, plugging it back in now. (sounds of movement) Should I wait a minute for it to boot back up or something?
+
+Agent: Yeah, that's smart thinking. Give it about a minute to fully restart. Why don't we wait a second and then you can let me know what lights you're seeing.
+
+Customer: (pause) Alright... waiting... okay, I'm seeing... the green light is back. But I'm still seeing those red lights. They're not going away.
+
+Agent: Hmm, okay. Let me try a couple more things here. Can you check the cable that comes from the wall? The one plugged into the router? Is it firmly seated in there, or does it seem like it might be a little loose?
+
+Customer: (sound of movement) Let me check... no, it seems pretty solid actually. It's not moving or anything.
+
+Agent: Alright. Can you also follow that cable back to where it enters your home? Do you see a small box mounted on the wall or outside? That would be your ONT—that's like a modem for our fiber service.
+
+Customer: Oh, um... (pause) Yeah, I think I see something outside. There's a small white box on the side of the house.
+
+Agent: Perfect. That's what I'm looking for. Can you go take a look at it? Check what color lights are on that box for me.
+
+Customer: (sounds of footsteps) Yeah, give me a second... (pause) Okay, I'm looking at it now. Um... I don't see any lights at all, actually. It's all dark. Is that bad?
+
+Agent: (pause) Yeah, that could be the issue. That ONT should have some lights on it. Can you check if there's a power cable plugged into that box?
+
+Customer: (pause) Uh... let me see. (sounds of movement) No, actually, I don't see a power cable. There's cables coming in, but I don't... wait, is there supposed to be a power cable?
+
+Agent: Yes, there should be. There's typically a power adapter either right there or close by. Do you see anything that looks like a small power brick or adapter near the box?
+
+Customer: (pause) Hmm, not that I can see. Like, nothing immediately next to it. Could it have gotten unplugged? This is frustrating.
+
+Agent: I understand, and we're going to get to the bottom of this. Sometimes those adapters can get unplugged by accident. Let me ask—is there any construction or anything happening at your place? Anyone working outside or anything in the last day or two?
+
+Customer: No, nothing like that. It's been pretty quiet. Although, uh... it was windy last night. Could that have knocked something loose?
+
+Agent: It's possible, yeah. Wind can definitely affect outdoor equipment sometimes. Okay, so what I need you to do is look around that ONT box—maybe on the ground nearby, or up on the wall. Do you see any small power adapters or cables that might not be connected?
+
+Customer: (pause, sounds of movement) I'm looking... I'm looking... (pause) No, I'm really not seeing anything, man. Like, nothing obvious anyway. This is—it's not looking good.
+
+Agent: (pause) Alright. Let me try another approach here. Can you go back inside and check your fiber line? That would be the actual cable running to the ONT.
+
+Customer: (sounds of footsteps returning) I'm back inside. So like... what am I looking for?
+
+Agent: You'll be looking for a thin, usually clear or colored cable running from where it enters your home into the ONT box. Does that look intact to you? Any fraying or damage on it?
+
+Customer: (pause) I mean... I can see a cable, yeah. It looks fine to me. No fraying or anything that I can see.
+
+Agent: Okay, good. So we've got the cable from outside intact. Here's what I'm thinking—and I don't want to frustrate you further—but the ONT having no power is a pretty significant issue. It's possible that the power adapter was damaged, or there's an internal issue with the ONT itself.
+
+Customer: So... what does that mean? Do I need to replace it or something?
+
+Agent: That's very likely what's going to need to happen. Unfortunately, this is probably something that's going to require a technician visit. I can schedule that for you, but I want to be honest—our next available appointment would be... (typing sounds) ...tomorrow between 8 AM and 12 PM. Would that work for you?
+
+Customer: (pause) Tomorrow? Really? I mean... I guess it'll have to. But I'm pretty frustrated here. I need internet today if I can.
+
+Agent: I completely understand, and I'm sorry we're in this situation. I've done everything I can troubleshoot remotely, but without power to that ONT, there's really no way to restore service without getting a technician out there to either repair it or replace it.
+
+Customer: Yeah, okay. I get it. Can you just... confirm that tomorrow appointment for me?
+
+Agent: Absolutely. Let me get you set up. Just to confirm—that's 555-0147, James Murphy, tomorrow between 8 AM and 12 PM. We'll have a technician out there to assess and replace that ONT if needed. Your confirmation number is going to be 847952. Can you write that down?
+
+Customer: (pause) Yeah, I got it. 847952.
+
+Agent: Perfect. And James, I do want to apologize for the inconvenience. When you get that back up and running tomorrow, we should be good to go. Is there anything else I can help clarify for you?
+
+Customer: No, I think... I think that's it. Thanks, I guess.
+
+Agent: Thank you for calling Frontier Communications, and we apologize again for the service interruption. We'll see you tomorrow.
+
+Customer: Yeah, bye.
+
+Agent: Bye now.

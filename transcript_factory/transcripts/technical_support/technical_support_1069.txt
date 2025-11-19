@@ -1,0 +1,95 @@
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Yeah, hi. So, um, my internet just went out about an hour ago and I can't get it back up. I've tried restarting the modem and everything, and nothing's working.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot this. Let me pull up your account real quick. (typing sounds) Can I get the phone number associated with your account, please?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing) Perfect, thank you. And just to confirm, you're calling from that number?
+
+Customer: Yes, I am.
+
+Agent: Great. So you mentioned you already restarted the modem. When you did that, did you wait for all the lights to come back on before trying to connect again?
+
+Customer: Um, yeah, I think so. I mean, I unplugged it, waited like thirty seconds, and plugged it back in. The lights came on after a minute or two.
+
+Agent: Okay, that's good. And when the lights came back on, what color were they? Were they all green or...?
+
+Customer: They were... let me look. (pause) So I've got a green light on top, but I think there's a red light blinking on one of the middle ones. Is that bad?
+
+Agent: Okay, so the red blinking light—that typically indicates a connection issue. Let me have you try something. Can you look at the back of the modem and tell me if all the cables are plugged in securely?
+
+Customer: (pause) Yeah, I'm looking now. There's like... three cables in the back?
+
+Agent: Right, there should be a power cable, the fiber optic cable, and potentially an ethernet cable if you're using a wired connection. Can you check those for me?
+
+Customer: (sounds of movement) Okay, so the power cable is definitely plugged in. Um, there's like a really thin cable... that one looks plugged in. And then there's another one that looks like it might be a little loose, actually.
+
+Agent: That could be it. Try unplugging that one and plugging it back in firmly. Make sure it clicks into place.
+
+Customer: (pause) Okay, I'm doing that now... (pause) Okay, it's back in.
+
+Agent: Good. Now let's wait about two minutes for the modem to re-establish the connection. Can you stay on the line?
+
+Customer: Yeah, sure. (pause) So how long have you been working there?
+
+Agent: (brief chuckle) Oh, uh, about three years now. This is pretty routine stuff, so we should get you fixed up. (pause) Okay, it's been about two minutes. Can you look at those lights again for me?
+
+Customer: (pause) Um... they're still the same. Green on top, red blinking in the middle.
+
+Agent: (pause) Okay, let me try one more thing. I'm going to have you do a hard reset on the modem. This is different from just restarting it. There should be a small reset button on the back—it might be recessed. Do you see it?
+
+Customer: (sounds of movement) Yeah, I think I see a tiny button. Should I use like a paperclip or something?
+
+Agent: Yes, exactly. Hold it down for about ten seconds.
+
+Customer: (pause) Okay, holding it... ten seconds... and... done. Now what?
+
+Agent: Now we wait for the modem to fully reboot. This might take a little longer than before—could be three to five minutes. Do you have access to a computer or phone you could try connecting to in the meantime, just to test?
+
+Customer: Well, I'm calling you on my phone, so... I guess I could try my laptop real quick?
+
+Agent: That would be helpful if you don't mind.
+
+Customer: (pause) Okay, looking at the WiFi networks... I don't see my Frontier network showing up at all now.
+
+Agent: (typing sounds) Hmm, that's... okay, let me check something on the backend here. (pause) Let me see if I can ping your modem from our system. (longer pause) (typing) Alright, I'm not detecting any connection to your modem on our end, which means the issue might be deeper than just the device itself.
+
+Customer: What do you mean? Like, is my modem broken?
+
+Agent: It could be, but it's also possible there's an issue with the line coming into your home. When's the last time you experienced any power outages or storms in your area?
+
+Customer: (pause) Well, there was some heavy rain yesterday, but nothing crazy. You don't think lightning hit something, do you?
+
+Agent: It's possible, but we can't really determine that from here. What I can do is escalate this to our technical team for a line inspection. That would require sending a technician out to your location. Would you be available for that?
+
+Customer: Um... when would they come out?
+
+Agent: (typing) Looking at availability... the earliest we have is tomorrow between 8 AM and 12 PM, or we could schedule it for... (pause) the day after tomorrow in the afternoon slot.
+
+Customer: (pause) Tomorrow morning would be better. Yeah, let's do that.
+
+Agent: Perfect. Let me just confirm—that's tomorrow, between 8 AM and 12 PM. But before I finalize that, let me try just one more thing. Have you checked if there's a power outage in your area? Sometimes our system shows this on our end too.
+
+Customer: (pause) Oh, let me check the Frontier website... (typing sounds, pause) No, it doesn't show any outages listed for my area.
+
+Agent: Okay. Alright, I think at this point, we do need that technician visit. Let me get that set up for you. (typing sounds) Your appointment is scheduled for tomorrow between 8 AM and 12 PM. A technician will assess the modem and check the line coming into your home. You should receive a confirmation text and email shortly.
+
+Customer: Okay, yeah, I got the email already, actually.
+
+Agent: Great. Is there anything else I can help clarify before we wrap up?
+
+Customer: No, I think that's it. Thanks for trying, at least.
+
+Agent: Of course, I'm sorry we couldn't get it working over the phone. But our tech team should be able to resolve this for you tomorrow. Is the contact number on your account still the best way to reach you?
+
+Customer: Yeah, that's fine.
+
+Agent: Perfect. Thank you for being a Frontier customer, and we'll see you tomorrow. Have a good evening.
+
+Customer: You too. Thanks.
+
+Agent: You're welcome. Bye.
+
+Customer: Bye.

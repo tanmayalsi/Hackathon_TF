@@ -1,0 +1,133 @@
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Yeah, hi. So, um, my internet went down about an hour ago and I've tried everything I can think of. I just need to get this working again.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll get you sorted out. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Perfect, I've got you here. And what's the best name to put on this call?
+
+Customer: It's David Chen.
+
+Agent: Great, David. So let me start by asking you a few questions. When exactly did you notice the internet go down?
+
+Customer: Like I said, about an hour ago. I was working from home, video call with my team, and just... it all went black. No WiFi, nothing.
+
+Agent: Okay, okay. And just to confirm, you've tried restarting your modem and router, I'm assuming?
+
+Customer: (pause) Yeah, I unplugged the modem, waited like thirty seconds, plugged it back in. Same thing with the router.
+
+Agent: Good thinking. Um, so when you say no WiFi—are you seeing any lights on the modem right now? Like, is it powered on?
+
+Customer: Yeah, it's on. I can see... there's a power light that's green. But the internet light is red. Or maybe orange? It's definitely not green.
+
+Agent: Okay, that's actually helpful. So the internet light being red typically means there's no signal coming into your modem. Did anything happen before the outage? Like a storm, power outage, anything like that?
+
+Customer: No, no, nothing like that. It was just fine and then suddenly it wasn't.
+
+Agent: Alright. Well, let me just check our systems here to see if there are any outages in your area. (typing sounds) (pause) Okay, I'm not showing any reported outages on our end in the Riverside area. That's where you're located, correct?
+
+Customer: Yeah, Riverside.
+
+Agent: Right. So what I'd like to do is walk you through a few more troubleshooting steps. First, can you locate the ONT? That's the fiber box, usually white or beige colored, about the size of a paperback book.
+
+Customer: The... what was it? ONT?
+
+Agent: The ONT—Optical Network Terminal. It's the box where the fiber comes into your home. Usually installed near where your modem is.
+
+Customer: (pause) Oh! Yeah, I see it. It's on the wall behind the TV. It's got a bunch of lights on it.
+
+Agent: Perfect. Okay, can you tell me what color those lights are?
+
+Customer: Um... (pause) There's a power light that's green. And then there's like a... I want to say an orange light and a red light. The orange one seems to be blinking.
+
+Agent: Okay, so the orange blinking light—that's typically the connection light. That usually means it's trying to establish a connection but hasn't quite got there yet. Alright, David, what I'd like you to do is unplug the power cable from the ONT. Just for about ten seconds, and then plug it back in.
+
+Customer: Sure, hold on. (pause) Okay, unplugging it now. (pause) Alright, it's unplugged. I'm waiting... (pause) Okay, ten seconds is up. Plugging it back in. (pause) Okay, it's back on.
+
+Agent: Great. Now let's give it about two minutes to fully boot up and try to reestablish the connection. While we wait, let me just ask—do you have a coaxial cable connected to your modem as well, or is it just the fiber connection?
+
+Customer: No, just the fiber. The cable goes from that wall box to the modem.
+
+Agent: Perfect, that's what I wanted to confirm. Okay, so it should be booting up now. Are you seeing any changes in those lights?
+
+Customer: (pause) Um... the orange light is still blinking. The red light is still there too.
+
+Agent: Okay, and is it blinking at the same speed or has it changed at all?
+
+Customer: (pause) I... it looks the same to me, I think. (pause) Actually, wait—no, I think it might be blinking a little faster now. Yeah, it's definitely blinking faster.
+
+Agent: That's actually a good sign. Sometimes it takes a couple minutes to get the full connection. Let's give it another minute or so.
+
+Customer: (pause) Okay... yeah, we're just staring at some blinking lights. (nervous laugh)
+
+Agent: I know, it's not exciting. (chuckles) But sometimes this works. Let me ask you something else while we wait—have you had any recent outages or service interruptions in your area that you're aware of?
+
+Customer: No, not that I'm aware of. I mean, I just got this service set up about two months ago and it's been working great until now.
+
+Agent: Okay, so relatively new customer. Are you using the Frontier router that we provided, or do you have your own equipment?
+
+Customer: It's your equipment. Everything came in the install kit.
+
+Agent: Alright. Well, let me try something else here. (typing sounds) I'm going to reboot your modem from my end. This might cause a brief interruption.
+
+Customer: Okay.
+
+Agent: (pause) (typing sounds) Alright, I'm initiating the reboot now. You might see the lights go dark for a moment.
+
+Customer: (pause) Yeah, they're... they're all going out. They're all off now.
+
+Agent: That's normal, that's what we want to see. It should boot back up in about a minute.
+
+Customer: (pause) (pause) Okay, so... lights are coming back on. (pause) Still have the red and orange lights. The orange is blinking again.
+
+Agent: [inaudible] ...still on that one, huh? (pause) Okay, David, I'm going to be honest with you. The fact that you're not seeing the green connection light on the ONT is telling me there might be an issue on the line side or at our equipment end. It's not something we can fix over the phone.
+
+Customer: So... what does that mean? Like, how long until I can get internet?
+
+Agent: Well, I can definitely schedule a technician to come out to your location. They'll be able to check the external line and run diagnostics on all the equipment. The next available appointment I'm seeing is... (typing sounds) ...tomorrow between 2 and 4 PM. Would that work for you?
+
+Customer: Tomorrow? I really need this today if possible. I've got calls scheduled for this afternoon and I'm already behind on emails.
+
+Agent: I completely understand, and I wish I had a same-day slot available. Let me see if there's anything else... (pause) Unfortunately, we're fully booked for today in your service area. The earliest would be tomorrow morning at 8 AM if you wanted to try that instead?
+
+Customer: (sigh) I guess I'll have to take tomorrow. Eight AM.
+
+Agent: Great, I can get that scheduled for you. But before I do, let me try just one more thing. Sometimes this works as a last resort. I'm going to power cycle everything from our end simultaneously. Are you ready?
+
+Customer: Sure, go for it.
+
+Agent: Okay, I'm doing that now. (typing sounds) (pause) Go ahead and keep an eye on the ONT and your modem for the next minute and a half.
+
+Customer: (pause) Okay, lights are flickering... (pause) ...still flickering. (pause) Still the same. Orange and red. The connection light is definitely not coming on.
+
+Agent: (pause) Alright, well... I think we've exhausted the troubleshooting options available to me. What's happening here is definitely something that requires physical inspection. Could be anything from a fiber line issue to a fault in the ONT itself.
+
+Customer: Okay, so definitely can't get it working today?
+
+Agent: Unfortunately not over the phone. But I can absolutely get a technician out to you tomorrow morning. They should have you back online by late morning, early afternoon at the latest.
+
+Customer: Alright, yeah, let's do that. Tomorrow at 8 AM.
+
+Agent: Perfect. Let me confirm all the details here. You're at 555-0147, David Chen, and that's... (pause) ...555 Maple Drive?
+
+Customer: Yes, that's right.
+
+Agent: Excellent. So I have you scheduled for tomorrow, Wednesday, between 8 and 10 AM. Our technician will call you fifteen minutes before arrival. Is that number still the best way to reach you?
+
+Customer: Yeah, that's fine.
+
+Agent: Great. And David, I do apologize for the inconvenience. I know this is frustrating. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. Just hoping the tech can get out here early.
+
+Agent: I understand. Well, I'll make a note here that this is urgent for you. The technician will have all the information they need when they arrive. Thank you for being patient with me today, David, and we'll get you back online as soon as possible.
+
+Customer: Thanks, Marcus.
+
+Agent: You're welcome. Have a good day.
+
+Customer: You too.
+
+Agent: Thank you for calling Frontier Communications.

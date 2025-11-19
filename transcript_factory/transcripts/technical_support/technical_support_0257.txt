@@ -1,0 +1,109 @@
+Agent: Thank you for calling Frontier Communications. This is Marcus speaking. How can I help you today?
+
+Customer: Yeah, hi. So, um, my internet's been down since this morning and I'm not sure what's going on. I really need to get this fixed.
+
+Agent: I'm sorry to hear that, sir. I'd be happy to help you troubleshoot this. Can I start by getting your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Perfect, thank you. I'm pulling that up now. One moment... Okay, I've got your account here. It looks like you're on our 500 Mbps fiber plan. And you said your internet's been down since this morning?
+
+Customer: Yeah, since like... I dunno, around 9 AM? I tried unplugging the modem and router like I normally do, but nothing worked.
+
+Agent: Okay, that's a good first step that you already tried. Let me ask you a few questions. When you look at your modem right now, are there any lights on it at all? Like, is it powered on?
+
+Customer: Yeah, it's powered on. I can see the lights. They're just... I don't know, they're not doing what they usually do. Normally I see like a blue light that stays on, and now it's like flickering red or something.
+
+Agent: Hmm, okay. A red flickering light usually indicates that there's no connection to our network. Let me check if there are any outages in your area. (typing sounds) What's your address?
+
+Customer: It's 4782 Maple Street, apartment 12B. It's in Portland.
+
+Agent: (typing sounds) Okay, 4782 Maple Street, apartment 12B in Portland. Let me see... (pause) No, I'm not showing any outages in your area, so it shouldn't be a network issue on our end. Let me walk you through a few more troubleshooting steps, alright?
+
+Customer: Yeah, okay. I mean, I already tried the power thing, but go ahead.
+
+Agent: Right, totally understand. So let's try a slightly different approach. I want you to unplug your modem for me, but this time leave it unplugged for about two minutes. While you're waiting, also unplug your router if you have one separate from the modem.
+
+Customer: Okay, uh... (background noise of things being unplugged) Yeah, they're both unplugged. How long do you want me to wait?
+
+Agent: Two minutes is ideal. That'll let the system fully reset. (pause) While we wait, have you noticed any issues with your service recently? Any outages or slowness before today?
+
+Customer: No, nothing. It was working perfectly fine yesterday. This kind of just... happened.
+
+Agent: Okay, so it was sudden. And you haven't had any storms or weather issues in your area?
+
+Customer: No, it's been pretty nice actually. Clear skies.
+
+Agent: Alright, good. And, uh, has there been any construction work in your building or outside near your apartment?
+
+Customer: Not that I'm aware of, no.
+
+Agent: (pause) Okay, it should be about two minutes now. Go ahead and plug the modem back in first, and then wait about thirty seconds before plugging the router back in.
+
+Customer: (background noise) Okay, modem's in. (pause) Router's in. So... should I see something different now?
+
+Agent: Yeah, give it about a minute to boot up completely. The lights should start cycling through, and then you should see that blue light come back on steady.
+
+Customer: (pause) Okay, I'm watching it. The lights are doing their thing... but... (trailing off) No, the red light is back. It's flickering red again.
+
+Agent: The red light came back? Okay, that's concerning. Let me check something on my end. (typing sounds) Have you recently moved the modem to a new location or changed anything with the cables?
+
+Customer: No, it's been in the same spot. But, uh, actually, now that you mention it, let me just double-check that the cable is fully in. (background noise) Yeah, the cable from the wall—it's secure. It's definitely plugged in.
+
+Agent: Okay, good. The cable feels secure? Can you actually look at the coaxial cable—that's the one that comes from the wall outlet—and see if there's any visible damage? Like cuts or fraying?
+
+Customer: (pause) Hmm, let me... (background noise) No, it looks fine to me. I don't see anything wrong with it.
+
+Agent: Alright. Let me try one more thing. Can you power cycle the modem one more time, but this time I want you to hold down the reset button on the back for about ten seconds?
+
+Customer: Oh, uh... the reset button? (pause) Yeah, I see it. Okay, holding it down... (background noise) It's resetting. Everything's going dark and... okay, the lights are coming back on. (pause) Still red. Still flickering red.
+
+Agent: (pause) Okay. Yeah, that's... that's not good. Let me check our system here to see if we're registering your modem at all. (typing sounds) Hmm. I'm not seeing your modem come online in our network at the moment, which matches what you're experiencing on your end.
+
+Customer: So what does that mean?
+
+Agent: It could mean a few things. It could be an issue with the modem itself, or it could be an issue with the line coming into your building. Since you're in an apartment, it might be a building-wide issue. Let me ask—do you know if any of your neighbors have Frontier?
+
+Customer: Uh, I'm not really sure. I don't think so? I mean, I know my neighbor on the left has some other cable company.
+
+Agent: Okay. Well, at this point, I think what we're looking at is either a hardware issue with your modem, which would need to be replaced, or possibly an issue with the line itself at your address. Unfortunately, the troubleshooting steps aren't working, so I think we need to get a technician out to your place to do a full diagnostic.
+
+Customer: Like, a technician needs to come out? How long would that take?
+
+Agent: (typing sounds) Let me check our availability... We have some availability tomorrow between 1 and 5 PM, or we can schedule you for later this week. What works better for you?
+
+Customer: (sigh) I really need this working today, though. Is there anything else we can try?
+
+Agent: (pause) I understand how frustrating this is. Let me be honest with you—we've gone through all the standard troubleshooting steps, and the modem isn't registering on our network, which tells me it's beyond what we can fix over the phone. I wish I had a better solution for you right now, but I don't want to have you going in circles with more steps that won't work either.
+
+Customer: (pause) Yeah... yeah, I guess you're right. Can I at least schedule the technician for tomorrow?
+
+Agent: Absolutely. Between 1 and 5 PM tomorrow work for you?
+
+Customer: Yeah, that's fine. Should be okay.
+
+Agent: Perfect. I'm going to set that up for you now. (typing sounds) Got you scheduled for tomorrow, November 14th, between 1 and 5 PM. The technician will call you about thirty minutes before they arrive. Is the best number to reach you the one on file, ending in 4782?
+
+Customer: No, actually use my cell. It's 555-0891.
+
+Agent: (typing sounds) Got it. 555-0891. And just to confirm, that's still 4782 Maple Street, apartment 12B?
+
+Customer: Yeah, that's correct.
+
+Agent: Perfect. So to recap, you've got a technician visit scheduled for tomorrow from 1 to 5 PM. They'll assess whether it's a modem issue or a line issue. In the meantime, I'd recommend keeping the modem unplugged when you're not troubleshooting, just to avoid any potential damage. Is there anything else I can help you with today?
+
+Customer: No, I guess that's it. I'm just... I'm gonna be without internet until tomorrow?
+
+Agent: I'm afraid so. I know that's not ideal. But the technician should be able to get you sorted out pretty quickly once they get there. They may be able to replace the modem on the spot if that's the issue.
+
+Customer: Alright. Thanks, I guess.
+
+Agent: You're welcome. And I'm sorry we couldn't get this resolved today. You should receive a confirmation email shortly about your technician appointment. If you need to reschedule for any reason, just give us a call back. Is there anything else?
+
+Customer: No, that's it. Thanks.
+
+Agent: Thank you for calling Frontier Communications. Have a good day.
+
+Customer: You too.
+
+(call ends)

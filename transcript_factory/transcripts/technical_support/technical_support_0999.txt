@@ -1,0 +1,123 @@
+# Frontier Communications - Customer Service Call
+
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, thanks for picking up. So, um, my internet just went out about twenty minutes ago and I can't get it back online. I've tried unplugging my modem but nothing's working.
+
+Agent: I'm sorry to hear you're experiencing issues. I'd be happy to help troubleshoot that with you. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's... (pause) 555-0847.
+
+Agent: (typing sounds) Okay, got it. And just to confirm, is this for the account under Michael Torres?
+
+Customer: Yeah, that's me.
+
+Agent: Great, Michael. So you mentioned your internet went out about twenty minutes ago and you've already tried a power cycle on the modem. That's good—that's usually the first thing we recommend. When you unplugged it, did you wait a full minute before plugging it back in?
+
+Customer: Uh, probably like thirty seconds? Maybe less.
+
+Agent: Okay, well, let's try that again and do a full restart. Can you unplug the modem now and just hold tight for about sixty seconds?
+
+Customer: Yeah, sure. (sound of movement) Okay, unplugging it now.
+
+Agent: Perfect. While we're waiting, let me just pull up your account here and see if there's anything on our end. (typing sounds) Alright, I'm not seeing any outages in your area currently. Your service should be active. Go ahead and plug that back in whenever you're ready.
+
+Customer: (pause) Okay, plugging it back in... (pause) ...and it's starting up. The lights are coming back on.
+
+Agent: Good, good. What color are the lights showing right now?
+
+Customer: Um, there's a white light on the front, and then there's an amber one that's blinking.
+
+Agent: The amber blinking light—how fast is it blinking? Is it a quick blink or more of a slow blink?
+
+Customer: It's pretty steady... like one blink every couple seconds.
+
+Agent: (pause) Okay, that's actually a normal boot sequence. That should go away in about a minute or two. Let's give it just a little bit longer. Have you checked your router as well? Are you getting any lights on that?
+
+Customer: Yeah, the router's in the other room. Let me go check it. (background noise of footsteps) Okay, so the router's completely dark. Like, no lights at all.
+
+Agent: Is it powered on? Are you able to check the power cable?
+
+Customer: Oh, hold on... (pause) ...yeah, it's plugged in. Let me see if there's like a power button or something. (pause) Oh wait, there's a small button on the back. I'm going to try pushing that.
+
+Agent: That might be a reset button. You probably don't want to hold that down, but go ahead and just tap it quickly.
+
+Customer: (pause) Okay... nothing. Still dark.
+
+Agent: Let me ask you this—is the router receiving any power at all? Is it warm to the touch?
+
+Customer: (pause) No, it's actually kind of cool. That's... that's not good, right?
+
+Agent: (pause) Well, it could just be that the power adapter isn't functioning properly. Let me check something on your account here. (typing sounds) I'm going to ask you to do something for me. Can you go back to where your modem is?
+
+Customer: Yeah, I'm heading back now. (background noise)
+
+Agent: When you look at the back of the modem, do you see an ethernet cable running from it?
+
+Customer: Um... (pause) ...yeah, I see a few cables back here actually. There's like a white one that goes... I think that's going to the router.
+
+Agent: That's the ethernet cable, so that should be connected to your router. Here's what I want to try. Can you unplug that ethernet cable from the modem, and then tell me if you see the lights on the modem change at all?
+
+Customer: Okay, unplugging it... (pause) ...no, they're still the same. White light and that amber blinking.
+
+Agent: Alright, plug that back in. (pause) Let me ask you—when the internet first went out, did anything happen? Like a power outage or a storm or anything like that?
+
+Customer: No, nothing like that. It was just... normal. I was working from home and suddenly everything just went offline.
+
+Agent: Okay. And your modem light, that amber blink—is that getting any faster or slowing down at all?
+
+Customer: (pause) Actually, I think it might be getting a little faster now. And... wait, hold on... (pause) ...I think I see a green light starting to come on underneath it.
+
+Agent: Okay, that's a good sign. The green light typically indicates an internet connection. Give it just a few more seconds.
+
+Customer: (pause) The green is getting brighter and... oh, it looks like the amber stopped blinking. Now I've got a white light and a green light.
+
+Agent: Excellent. Now let's check the router. Can you go back and see if that's powered up yet?
+
+Customer: (background noise of footsteps) (pause) Um, no, still nothing. It's completely dead. The power adapter might be broken.
+
+Agent: I think you might be right about that. Since the modem is now online, let me try something. Can you restart your computer and see if you can access the internet directly from an ethernet cable? We might be able to work around the router.
+
+Customer: (pause) Okay, so like, hardwire the computer to the modem?
+
+Agent: Exactly. Do you have an ethernet cable available?
+
+Customer: I think so. There might be one in the office. Let me look... (pause) ...actually, I don't see one readily available. Would my phone work? Like, can I connect through WiFi to see if the signal's coming from the modem?
+
+Agent: That's... that's a good question, actually. The modem would need to have WiFi capability to do that. Is this a combination modem-router unit, or are they two separate devices?
+
+Customer: I'm looking at it now... it's just the modem, I think. It's a separate box from the router.
+
+Agent: Right, okay. So without the router powered on and without an ethernet cable, it's going to be difficult to test the connection right now. But given that the modem is showing a solid green light for internet, that's typically a positive indicator.
+
+Customer: So what do you think is wrong then? Is it just the router?
+
+Agent: Based on what we're seeing, it appears the router has lost power. The power adapter may have failed. I would recommend checking to see if you have another power adapter that's compatible, or you may need to replace the router entirely.
+
+Customer: (frustrated) So we're back to square one. I still don't have internet working.
+
+Agent: I understand your frustration, Michael. Let me see what I can do here. (typing sounds) (pause) I can definitely help you order a replacement router, or if you'd prefer, we can arrange for a technician to come out and assess the situation. Sometimes it's not the power adapter—it could be something else. A technician would be able to test all the equipment and make sure nothing else is damaged.
+
+Customer: How long would that take? I really need this working for work tomorrow.
+
+Agent: (pause) I can check our availability... (typing sounds) ...I'm showing we have same-day availability in your area if you can be home before 6 PM today, or we have morning slots available tomorrow starting at 8 AM.
+
+Customer: It's already like 5:15, so tomorrow morning would be better. Can you schedule that?
+
+Agent: Absolutely. I'm going to get you on the schedule for tomorrow at 8 AM. That's a one-hour window. Can I confirm your address as 447 Maple Street?
+
+Customer: Yes, that's correct.
+
+Agent: Perfect. I've got you scheduled for tomorrow morning at 8 AM. A technician will come out and diagnose the issue with your router and modem. If it's just the power adapter or router, we can replace it right there. You should receive a confirmation email within the next few minutes.
+
+Customer: Okay, thanks. I appreciate it, even though we couldn't get it working tonight.
+
+Agent: I completely understand. I wish I could have resolved it over the phone as well. But we'll get you sorted out tomorrow. Is there anything else I can help you with today?
+
+Customer: No, that's it.
+
+Agent: Alright, Michael, thank you for calling Frontier Communications. Have a good evening, and we'll see you tomorrow morning.
+
+Customer: Thanks, you too. Bye.
+
+Agent: Bye now.

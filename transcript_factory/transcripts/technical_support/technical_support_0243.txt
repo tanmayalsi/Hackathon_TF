@@ -1,0 +1,101 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hey, yeah, hi. So my internet just went out like an hour ago and I've tried everything I can think of and it's still not working.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot. Can I get your account number or the phone number associated with your account?
+
+Customer: Um, it's 555-0847. That's my phone number.
+
+Agent: (typing sounds) Okay, got it. And just to confirm, is this for your residential address on Maple Street?
+
+Customer: Yeah, that's right.
+
+Agent: Perfect. So your internet went out about an hour ago. Have you noticed if any of your lights on the modem or router are lit up right now?
+
+Customer: Let me look... (pause) Okay, so the modem has a red light on it. Like, the power light is red.
+
+Agent: Okay, the red light on the power indicator—that's actually not a good sign. It sounds like the modem might not be getting power or there's an issue with the device itself. Can you check the power cable for me? Make sure it's plugged in securely on both ends?
+
+Customer: Yeah, I'm checking now... (pause) Okay, it's plugged in. The cable looks fine.
+
+Agent: Alright. And just to make sure we're on the same page here, you have the Frontier-issued modem, correct? Not your own router?
+
+Customer: Right, it's the one you guys provided. It's been working fine until today.
+
+Agent: Got it. Go ahead and try unplugging it for about 30 seconds, and then plug it back in. This will do a hard reset.
+
+Customer: (pause) Okay, unplugging it now... I'm waiting... (longer pause) Alright, plugging it back in.
+
+Agent: Good. Give it about two to three minutes to boot up. While we wait, let me just check if there are any known outages in your area. (typing sounds) (pause) Okay, I'm not seeing any active outages on file for your location, which is good news.
+
+Customer: So that means it's not a bigger problem on Frontier's end?
+
+Agent: Correct. It appears to be isolated to your equipment. How's that modem looking now? Any lights come on?
+
+Customer: (pause) Um... still red. Just the red light. It's been like five minutes now.
+
+Agent: Hmm, okay. That's unusual. So you're still not seeing any green lights or any other indicators?
+
+Customer: Nope, just red. Nothing else.
+
+Agent: Alright, let me try a couple more things. Can you check if the cable line itself—the coaxial cable that comes from the wall into the modem—is connected properly? Sometimes these can get bumped and come loose.
+
+Customer: (pause) I'm looking at it now... No, it looks pretty secure to me.
+
+Agent: Try disconnecting it and reconnecting it just to be safe. Sometimes that can help reseat the connection.
+
+Customer: (pause) Okay, disconnecting... reconnecting... (pause) Still nothing. The light is still red.
+
+Agent: I see. And just to rule out the obvious here, the power outlet itself is working, right? You could test it with another device if you'd like.
+
+Customer: Oh, good idea. Let me plug in my lamp... (pause) Yeah, the lamp turns on fine. So the outlet's good.
+
+Agent: Okay, so we've got power to the outlet, but the modem isn't responding correctly. (pause) Let me check something on my end here. (typing sounds) (longer pause) I'm pulling up your modem details... 
+
+Customer: Alright, take your time.
+
+Agent: (pause) So the modem hasn't been connecting to our network for about... looks like 62 minutes, which matches up with when you said it went out. What I'm thinking is that the modem itself may have experienced a hardware failure. These things can just stop working sometimes, unfortunately.
+
+Customer: Seriously? It was working perfectly fine before this.
+
+Agent: I understand. These devices aren't immune to issues. Before I recommend a replacement, let me just try one more thing. Have you tried a factory reset on the modem? There should be a small reset button.
+
+Customer: There is a little button here. What do I do?
+
+Agent: Okay, you'll need something like a paperclip or pen. Press and hold that button for about 10 to 15 seconds while the device is powered on.
+
+Customer: (pause) I'm doing that now... holding it... (pause) Okay, I held it for like 15 seconds. Now what?
+
+Agent: Now let's wait another couple minutes and see if the modem restarts with a different status.
+
+Customer: (longer pause) Still just red. This doesn't look like it's working either.
+
+Agent: (pause) Yeah, unfortunately it's looking like the modem is no longer responding to our commands. I'm going to be honest with you—this appears to be a hardware failure. We're going to need to get you a replacement unit.
+
+Customer: So like, how long is that going to take? I really need my internet back. I've got work stuff I need to do.
+
+Agent: I completely understand. Let me check our availability for expedited shipping and also see if there's any option for a technician visit. (typing sounds) (pause) So we can have a replacement modem sent out to you, and it typically arrives within 3 to 5 business days. However, if you need internet sooner than that, we do have the option of having a technician come out, though that would be scheduled for the earliest available appointment, which looks like... (typing sounds) ...two business days from now.
+
+Customer: Two days? Can't you come out sooner than that?
+
+Agent: Unfortunately, our next available appointment slots are showing two days out. I know that's frustrating. Do you want me to schedule a technician visit, or would you prefer to wait for the replacement modem to arrive by mail?
+
+Customer: I mean... I guess I need it sooner rather than later. Can you do the technician thing?
+
+Agent: Absolutely. Let me get you scheduled. (typing sounds) Okay, I can get you down for [inaudible] from 1 to 4 PM. Does that work for you?
+
+Customer: Yeah, that should be fine.
+
+Agent: Perfect. And just in case the modem somehow comes back online before the technician arrives, you don't need to do anything. But if it does, just give us a call back and we can cancel the appointment. The technician will have a replacement modem ready, and they'll get everything set up for you on-site.
+
+Customer: Alright, I appreciate it. That sucks that this happened, but I guess it happens.
+
+Agent: I really do apologize for the inconvenience. We'll get you back up and running as quickly as possible. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. Thanks for your help anyway.
+
+Agent: You're welcome. And again, sorry about this. Have a good day, and we'll see you [inaudible] in a couple days.
+
+Customer: Okay, bye.
+
+Agent: Take care.

@@ -1,0 +1,157 @@
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Hey, yeah, hi Marcus. Um, my internet has been down since this morning and I'm not sure what's going on. I need to get this fixed as soon as possible.
+
+Agent: I'm sorry to hear you're experiencing an outage. I'd be happy to help you troubleshoot. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, sure. It's 555-0147.
+
+Agent: (typing sounds) Okay, I'm pulling that up now. And what's the best name to have on file?
+
+Customer: It's James. James Mitchell.
+
+Agent: Perfect, James. I've got your account here. I can see you're on our fiber service. Let me just check... when exactly did you notice the internet went down?
+
+Customer: This morning around seven-thirty, maybe seven forty-five? I woke up and tried to check my email and nothing was loading. I've been without internet for like... four hours now.
+
+Agent: Okay, I understand how frustrating that must be. Let me pull up your service area real quick to see if there are any known outages in your neighborhood. (pause) (typing sounds) Alright, I'm not showing any widespread outages in your area at the moment. So we're probably looking at something specific to your equipment or connection. Let's walk through some basic troubleshooting, yeah?
+
+Customer: Yeah, okay. What do you need me to do?
+
+Agent: Great. First thing—can you look at your modem and router? I need you to tell me what lights you're seeing on the front of your modem.
+
+Customer: (pause) Okay, I'm looking at it now. Um... the power light is on, it's solid green. But the internet light is red. And it's blinking, I think.
+
+Agent: Okay, so the power is good but the internet light is red and blinking. That tells me the modem isn't getting a signal from our network. Let's try a power cycle first. Can you unplug the modem from the wall?
+
+Customer: Yeah, doing that now. (pause) Okay, it's unplugged.
+
+Agent: Good. While that's unplugged, do you see a router near it? It might be a separate device or it could be built into the modem.
+
+Customer: I've got a separate one, yeah. Can I unplug that too?
+
+Agent: Absolutely. Go ahead and unplug both of them and just let them sit for about thirty seconds. While they're unplugging, I'll check a couple other things here on my end.
+
+Customer: (background noise of unplugging) Okay, they're both unplugged.
+
+Agent: Perfect. How about we give it a solid minute just to be safe. That'll completely clear the memory on both devices.
+
+Customer: (pause) It's been like... fifty seconds?
+
+Agent: Go ahead and plug the modem back in first—that's the one that connects directly to the wall outlet.
+
+Customer: Okay... (sound of plugging in) Alright, it's in.
+
+Agent: Good. And while the modem boots back up, go ahead and plug your router back in as well.
+
+Customer: (pause) (sound of plugging in) Done. So now what?
+
+Agent: Now we're just gonna wait about two to three minutes for everything to fully boot back up. The lights might do some blinking and changing colors, that's completely normal. Just hang tight.
+
+Customer: (pause) Okay...
+
+Agent: So while we're waiting, have you noticed any physical damage to any of the cables or anything that might be connected to your modem? Any loose connections?
+
+Customer: Nope, everything looks fine to me. Same setup as always.
+
+Agent: Alright, good. Has anything else changed recently? Different router, moved things around, anything like that?
+
+Customer: No, nothing. It was all working yesterday. I was streaming shows and everything was fine.
+
+Agent: Okay, that's helpful to know. (pause) So right now, what are you seeing on your modem? Is the internet light still red?
+
+Customer: Um... yeah, it's still red. Still blinking.
+
+Agent: Still red and blinking? Okay. (pause) And the power light is still solid green?
+
+Customer: Yes, power's green. Just the internet light that's red.
+
+Agent: Alright, let me check something here. (typing sounds) (pause) James, I'm looking at your account and I'm actually seeing something interesting. It looks like we're not receiving a signal from your modem on our end at all. That's unusual. Let me check the line status... (pause) Hmm. 
+
+Customer: What? What does that mean?
+
+Agent: So normally when there's an issue, we'd see the device trying to authenticate with our network. But I'm not seeing any communication from your modem to our system at all. This could be a couple things. First, let's verify the cable coming into your house is fully connected. Do you know where your main line comes in?
+
+Customer: Oh, um... I think it's in the back of the house? Let me go look.
+
+Agent: Yeah, take your time.
+
+Customer: (pause) (background noise of walking) Okay, I'm back here. There's a box on the wall with the cable going into it. Is that what you're looking for?
+
+Agent: Yes, exactly. That's your Network Termination Unit, or NTU. Can you check if the cable connection is tight? You might see a couple cables—one going in, one going out.
+
+Customer: (pause) They both look pretty tight to me, but let me... (sound of handling cables) ...let me give them a little wiggle. (pause) Okay, they're both pretty secure.
+
+Agent: Alright, good. While you're back there, do you see any other lights on that box? Any green or red indicators?
+
+Customer: Um... yeah, actually. There's a couple lights on here. I see one red light... and I think there's a green one too.
+
+Agent: What exactly is the red light next to? Can you see any labels?
+
+Customer: (pause) It's kinda hard to read, but I think... it says "Link" maybe? And there's a green one that says... I think "Power."
+
+Agent: Okay, so red on the Link indicator. That's confirming what I'm seeing on my end. The device isn't establishing a connection. Now, James, I want to try something. On that NTU unit, there should be a small reset button. It might be recessed in a little hole. Do you see anything like that?
+
+Customer: Yeah, I see a little hole. It's got a tiny button in it I think.
+
+Agent: Perfect. I need you to get something like a paperclip or a pen and press and hold that button for about fifteen seconds. That's gonna do a harder reset of the unit.
+
+Customer: (pause) Okay, I've got a pen. (sound of button pressing) (pause) How long should I hold it?
+
+Agent: Just keep holding it. Count to about fifteen in your head.
+
+Customer: (pause) Okay, I'm at fifteen. Should I let go?
+
+Agent: Go ahead and let go. Now we're gonna wait another couple minutes for the system to reboot. What we're really hoping to see here is the Link light change to green.
+
+Customer: (pause) Okay... (pause) Nothing's changed yet. Still red.
+
+Agent: Give it another minute or so. Sometimes these take a little longer to come back online.
+
+Customer: (long pause) ...Nothing. It's still red.
+
+Agent: Still red? Okay. (pause) (typing sounds) Let me check something on my side. (pause) James, I'm gonna be honest with you. I'm seeing something here that suggests there might be a service-level issue. Are you in an area that's... let me just confirm your address here...
+
+Customer: It's 447 Maple Street, Apartment 3B.
+
+Agent: Okay, 447 Maple Street, 3B. (pause) (typing sounds) Right. So I'm checking with our network team's diagnostics and... hmm. (pause) I'm not seeing any active alerts for your building, which would usually indicate a line problem on our end. But the fact that we're not getting any connection attempts from your device is concerning.
+
+Customer: So what does that mean? Is it something I can fix or...?
+
+Agent: Well, that's the thing. It could be a few different things. It could be the cable outside your unit is damaged or disconnected. It could be an issue at the network level that we're not currently detecting. Or it could be that your NTU unit has failed. Unfortunately, with the symptoms we're seeing, I'm not able to fully troubleshoot this remotely.
+
+Customer: Okay, so... what do I do?
+
+Agent: I think what we need to do is get a technician out to your location to physically inspect the line and the equipment. They'll be able to determine exactly what's going on and get you back online.
+
+Customer: How long would that take? I really need my internet working. I work from home sometimes and I've got stuff I need to do today.
+
+Agent: I completely understand. Let me check our availability. (pause) (typing sounds) (pause) Okay, so looking at our schedule for your area... the earliest I'm showing is tomorrow between 8 AM and 12 PM. Would that work for you?
+
+Customer: Tomorrow morning? Ugh... I mean, I guess that's gonna have to work. Is there any way to get someone today?
+
+Agent: Let me look... (pause) Unfortunately, today's route is already fully booked for your area. But I can put you as a priority first call tomorrow morning. They'll definitely try to get to you early.
+
+Customer: Alright, yeah. Let's do that.
+
+Agent: Perfect. So I'm gonna schedule a technician visit for tomorrow between 8 and noon. Your address is 447 Maple Street, Apartment 3B, correct?
+
+Customer: Yes, that's right.
+
+Agent: Great. And the best number to reach you at is the one on your account?
+
+Customer: Yeah, that works.
+
+Agent: Excellent. So you should expect a technician tomorrow morning. They'll call you before they arrive. In the meantime, is there anything else I can troubleshoot with you tonight? Or any other questions I can answer?
+
+Customer: (pause) No, I think... I think that's it. I just want to make sure this gets fixed tomorrow.
+
+Agent: I hear you. I'll make sure it's flagged as priority. You should be back online tomorrow. I apologize for the inconvenience today, James.
+
+Customer: Yeah, okay. Thanks, Marcus.
+
+Agent: You're welcome. Thanks for calling Frontier, and we'll see you tomorrow morning.
+
+Customer: Yep, bye.
+
+Agent: Goodbye.

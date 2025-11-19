@@ -1,0 +1,145 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, so my internet just went out about an hour ago and I can't get it back on. I've tried unplugging everything and nothing's working.
+
+Agent: I'm sorry to hear that. Let me help you with that. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, pulling that up here... Alright, I've got your account. You're in the Arlington area, correct?
+
+Customer: That's right, yeah.
+
+Agent: Perfect. So your internet went out about an hour ago, and you've already tried unplugging your equipment. That's great. Let me ask you a few questions. Are you looking at your modem right now?
+
+Customer: Um, yeah, it's right here. Let me see... the lights are all... they're kind of dark. Like, nothing's really lit up on it.
+
+Agent: Okay, so the modem appears to be powered off. Let's start there. Can you check if the power cable is securely connected to the back of the modem?
+
+Customer: (pause) Yeah, I'm looking at it now. It's... it looks like it's plugged in, but let me... let me wiggle it a little bit. (pause) Okay, and... nothing. Still dark.
+
+Agent: Alright. And what about the power outlet itself? Is anything else plugged into that outlet?
+
+Customer: No, just the modem. But, um, I can try plugging something else in there to see if the outlet's working.
+
+Agent: That's a great idea, actually. Go ahead and try that.
+
+Customer: (pause) Okay, so I'm plugging in a lamp... and yeah, the lamp comes on. So the outlet's fine.
+
+Agent: Good, so we've ruled out the outlet. Let me try a different approach here. Can you unplug the modem completely and wait about ten seconds?
+
+Customer: Sure, yeah. (pause) Okay, unplugged. (pause) Counting... (pause) Alright, ten seconds. Plugging it back in now.
+
+Agent: (typing sounds) Let's give it about a minute to boot back up. It should take a little time to fully power on and establish a connection. What you should see is the lights starting to come on.
+
+Customer: (pause) Okay, so... I'm seeing one light come on. It's like a white light on the front. But then... nothing else. It's just sitting there.
+
+Agent: Okay, just the one light. That's... that's interesting. Um, let me check something on my end here. (typing sounds) Can you tell me what model modem you have? There should be a label on the back or bottom of it.
+
+Customer: (pause) Yeah, I'm looking... it says Frontier... uh... FXC-1600K.
+
+Agent: Okay, FXC-1600K. Got it. (pause) Alright, so on that model, you should be seeing multiple lights when it's fully booted up. We should see power, internet, and some activity lights. The fact that you're only seeing one light tells me the modem might not be establishing a connection to our network.
+
+Customer: Oh no. So what does that mean?
+
+Agent: Well, let's not jump to conclusions yet. Let me check if there are any known issues in your area. (typing sounds) (pause) Okay, I'm not seeing any outages reported for your area at the moment. Let me ask you something else. Do you have a router, or are you connecting directly through the modem?
+
+Customer: I have a router. It's a separate box.
+
+Agent: Okay. And is that router powered on and showing any lights?
+
+Customer: (pause) The router is off too. Like, completely dark. It's not even... it's not even trying.
+
+Agent: Right, so if the modem isn't connecting to the network, the router won't have anything to connect to. Let me try one more thing before we consider escalating this. Can you look at the back of the modem where the cables connect?
+
+Customer: Yeah, I'm looking.
+
+Agent: Is there a coaxial cable—that's the thick, round cable—plugged into the modem?
+
+Customer: (pause) Um... no. Wait. No, actually I don't think... I don't see one. Isn't that supposed to be there?
+
+Agent: Yes, that would typically be connected. Do you see a coaxial cable anywhere near the modem? It's usually white or black and has a connector that looks like... well, kind of like a threaded barrel.
+
+Customer: (pause) Oh, uh... wait. Yeah, I see one. It's kind of... it's on the floor behind the modem. I think it might have gotten pulled out? I'm not sure how, but... let me plug that in.
+
+Agent: Great, go ahead and connect that.
+
+Customer: (pause) Okay, plugging it in now. I'm twisting it on. (pause) Okay, it's tight. Now what?
+
+Agent: Alright, give the modem another minute or two to recognize the connection. You should start seeing more lights light up on the modem now.
+
+Customer: (pause) Okay, I'm watching it. (pause) I see... the white light is still there, and now I see another light. It's kind of orange or yellow? Is that... is that good?
+
+Agent: The orange light usually indicates the modem is still connecting. That's normal during the boot-up process. Let's give it just a bit longer.
+
+Customer: (pause) Okay, still orange. (pause) Still orange. Okay, it's been like thirty seconds. How long should this take?
+
+Agent: Usually it takes about two to three minutes for a full boot. Just... just give it a little more time.
+
+Customer: (pause, background noise) Alright... (pause) ...still just the white and orange. This doesn't seem like it's progressing.
+
+Agent: Hmm, okay. Let me try a different troubleshooting step. I'm going to have you do what's called a factory reset on the modem. But first, let me note something. Can you tell me when you last had internet service that was working fine?
+
+Customer: Um, this morning? Yeah, this morning it was working perfectly. I was using it this morning, and then about an hour ago I just... I went to check my email and it just wasn't responding.
+
+Agent: Okay, so it was working this morning. Did anything happen in between? Any storms, power outages, anything like that?
+
+Customer: No, nothing that I noticed. It's been pretty clear all day. No issues.
+
+Agent: Alright. Let me check something real quick. (typing sounds) (pause) Okay, so I'm looking at your modem status here in the system, and it's showing as offline. It's not registering with our network at all. 
+
+Customer: So what does that mean?
+
+Agent: It could mean a few different things. It could be an issue with the line coming into your house, or it could be an issue with the modem itself. Let me have you try the factory reset. On your modem, there should be a small reset button. It's usually recessed, so you might need a paperclip or something similar to press it.
+
+Customer: (pause) Okay, I'm looking for it. (pause) Yeah, I see it. There's a tiny button on the back. I'm going to get a paperclip... (pause, background noise) Okay, got one. I'm going to press it now.
+
+Agent: Alright, go ahead and press and hold it for about ten seconds.
+
+Customer: (pause) Okay, pressing... (pause) It's in there. (pause) I'm holding... (pause) Okay, ten seconds. Releasing now.
+
+Agent: Good. Now the modem should restart and run through its startup sequence again. This resets it to factory settings, so let's see if that helps establish a connection.
+
+Customer: (pause) Okay, the lights went out completely for a second. Now I see the white light coming back on. And... (pause) ...we're back to just the white light again. No orange yet.
+
+Agent: That's normal. Give it another couple of minutes.
+
+Customer: (pause) Okay, I'm watching... (pause) Nothing's changing. It's still just the white light. (pause) How much longer should I wait?
+
+Agent: Usually after a reset, you'd start seeing activity within about ninety seconds to two minutes. Let's give it one more minute just to be safe.
+
+Customer: (pause) Okay... (pause) ...still nothing. It's been like two and a half minutes now and I'm still just seeing the one light. The modem isn't doing anything else.
+
+Agent: (pause) Okay, um... let me check something here on my end. (typing sounds) (pause) Sir, I'm showing your modem is still offline in our system. It's not even attempting to register with our network. This is... this is indicating that there might be a hardware issue with the modem itself, or potentially a problem with the line coming into your home.
+
+Customer: So what do we do? Can you fix it remotely or...?
+
+Agent: Unfortunately, I'm not able to fix this remotely from here. What I think we need to do is schedule a technician to come out and take a look at your setup. They can check the line coming in, test the modem, and get you back up and running.
+
+Customer: Okay, how long would that take? When could someone come out?
+
+Agent: (typing sounds) Let me check availability for your area. (pause) Okay, so we have availability tomorrow between 8 AM and 12 PM, or we could do Thursday afternoon between 1 and 5 PM. What works better for you?
+
+Customer: Um, tomorrow morning would be better. The 8 to 12 slot.
+
+Agent: Perfect. Let me get that scheduled for you. (typing sounds) Alright, I've got a technician scheduled for tomorrow, tomorrow being [inaudible]... between 8 AM and noon. A tech will be at your residence. You should receive a confirmation email or text message within the next few minutes. Is that phone number still 555-0147?
+
+Customer: Yeah, that's the one.
+
+Agent: Great. And the service address on the account is still Arlington?
+
+Customer: Yes.
+
+Agent: Perfect. So to recap, we've done a full reset, confirmed that the coaxial cable is connected, and the modem still isn't registering on our network. This needs an in-person technician visit to diagnose further. The appointment is set for tomorrow morning. Is there anything else I can help you with today?
+
+Customer: No, I think... I think that covers it. I'm just frustrated that I don't have internet.
+
+Agent: I completely understand, and I'm sorry you're experiencing this issue. Hopefully our technician will be able to get this resolved for you tomorrow morning. If you have any other questions or concerns before then, feel free to give us a call back anytime.
+
+Customer: Okay, thanks.
+
+Agent: Thank you for choosing Frontier Communications, and we'll see you tomorrow. Have a good night.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

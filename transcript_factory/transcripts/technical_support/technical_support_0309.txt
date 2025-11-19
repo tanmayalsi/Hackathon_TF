@@ -1,0 +1,97 @@
+# Frontier Communications Customer Support Call
+
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, thanks for picking up. Um, my internet has been down since this morning and I really need to get it working. I've got work calls coming up in like an hour.
+
+Agent: Oh no, I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll get to the bottom of this. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, thanks. And just to confirm, is this Robert Chen?
+
+Customer: Yes, that's me.
+
+Agent: Great, Robert. I see your account here. So you're saying your internet went down this morning? Do you remember what time that happened?
+
+Customer: Uh, I'd say around 8 or 8:30. I tried restarting my router, you know, the basic stuff, but nothing's changed.
+
+Agent: Alright, that's good that you already tried that. Let me ask you a few questions. When you look at your router right now, what color are the lights on it?
+
+Customer: (pause) Okay, so... the power light is on, it's green. But the internet light—I think it's the one that looks like a globe or something—that one is red.
+
+Agent: Okay, so you've got a red globe light. That typically indicates a connection issue. Let me check our systems here to see if there's an outage in your area. (typing sounds) What's your service address, Robert?
+
+Customer: It's 4428 Maple Drive, that's Maple with an 'e', in Portland.
+
+Agent: (typing sounds) Okay, I'm checking... no, I'm not seeing any reported outages in your area right now. The network looks normal on our end. Let's try a few things. First, can you unplug the router completely? The power cable.
+
+Customer: Yeah, give me a second. (pause) Okay, it's unplugged.
+
+Agent: Great. Now let that sit for about 30 seconds while we reset it.
+
+Customer: (pause) ...Alright, 30 seconds is up.
+
+Agent: Perfect. Go ahead and plug it back in now.
+
+Customer: (pause) Plugging it back in. (pause) Okay, it's powering up now. I see... the power light's on again. Let's see if that globe thing changes. (pause) Nope, still red.
+
+Agent: Still red? Hmm, okay. Let me check something else. Can you tell me if there's a coaxial cable—that's a thick cable that kind of screws into the back of the router—if you can see where that connects?
+
+Customer: Uh, yeah, I see it. It's connected to the back. Should I check if it's loose or something?
+
+Agent: If you could, just give it a gentle twist to make sure it's tight. Sometimes they can come loose.
+
+Customer: (pause) Okay, I'm... (slight grunt) yeah, I tightened it. Wait, let me see... (pause) Oh! The light changed! Is that...? No, wait, it went back to red again. That's weird.
+
+Agent: Okay, it came on for a moment? That's actually helpful information. That suggests the connection is kind of intermittent. Let me ask you this—have you had any recent storms or weather in your area?
+
+Customer: We did have some rain yesterday. Fairly heavy, actually, now that you mention it.
+
+Agent: Aha. That can sometimes affect the connection. Water can get into the line connections, especially outdoor connections. Can you do me a favor and check your ONT? That's the small white or gray box that's usually either inside or outside your home. Do you know where that is?
+
+Customer: I... I'm not sure what that looks like. I mean, there's a box on the side of my house near where the cable comes in. Is that it?
+
+Agent: That very well could be. Does it have any lights on it?
+
+Customer: (pause) Hold on, let me look. I'm going outside. (background noise of door opening) Yeah, there's a box here. It's got a few lights on the front. One's green, one's... blinking amber I think?
+
+Agent: Okay, so you've got the right box. An amber blinking light can indicate it's trying to re-establish a connection. Let me put you on a brief hold while I check the line status from our end. Should just be a minute.
+
+Customer: Sure, no problem.
+
+Agent: (hold music, brief pause)
+
+Agent: Robert? I'm back. So I'm looking at the diagnostics on our end, and I'm seeing some signal degradation on your line. It's possible that water did get into one of the connections outside, or there could be a small issue with the cable itself. 
+
+Customer: So what do we do? Can you, like, reset something from your end?
+
+Agent: I can attempt a line reset, which sometimes helps. Let me try that right now. (typing sounds) Okay, initiating the reset. Can you keep an eye on those lights on the ONT box for me?
+
+Customer: Okay, I'm watching... (pause) Nothing's changed yet. (pause) Still the same. Green and blinking amber.
+
+Agent: (pause) Alright, the reset is complete on our end, but I'm still seeing that signal degradation. Robert, I want to be honest with you—this is looking like it might be a physical line issue. That could be a damaged cable outside or a problem with the connections at the junction.
+
+Customer: Oh, so you mean like... I'm going to need a technician out here?
+
+Agent: I think that's going to be our best option at this point. I've tried the basic troubleshooting, and the signal diagnostics are showing an actual problem on the line itself. That's beyond what we can fix remotely. Let me see what availability we have for a tech visit.
+
+Customer: (sighs) Okay. How soon can they come out?
+
+Agent: (typing sounds) Let me check... (pause) I've got an opening tomorrow between 1 and 5 PM, or I can get someone out here in about... four hours? That would be around 1 o'clock today, but there would be a same-day service fee of $69.95.
+
+Customer: Oh... okay. (pause) I mean, I really need this working today. You mentioned the one at 1 o'clock—can you do that?
+
+Agent: Absolutely. Let me schedule you for today at 1 PM. You should get a confirmation text and email shortly. The technician will have a window of about 4 hours from 1 to 5, so they might arrive anytime in there. Just make sure someone's home.
+
+Customer: Yeah, I can stay home. I'll cancel my calls if I need to. Alright, I'll be here.
+
+Agent: Perfect. And Robert, I do apologize for the inconvenience. Is there anything else I can help clarify before we wrap up?
+
+Customer: No, I think that's... no, that's everything. Thanks for trying to fix it remotely, I guess.
+
+Agent: Of course. Your confirmation should be coming through in the next few minutes. The technician will call you about 15 minutes before they arrive. If you have any other issues before then, feel free to call us back. Thanks for choosing Frontier, and sorry again for the trouble today.
+
+Customer: Thanks. Bye.
+
+Agent: Goodbye!

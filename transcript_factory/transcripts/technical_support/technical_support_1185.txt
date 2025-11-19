@@ -1,0 +1,127 @@
+# Frontier Communications Support Call
+
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, um, my internet went out this morning and I've been trying to figure out what's going on, but nothing's working.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot. Let me pull up your account real quick. Can I get the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, and what name is the account under?
+
+Customer: James Mitchell.
+
+Agent: Perfect, thank you James. I see your account here. So your internet is completely down as of this morning, is that right?
+
+Customer: Yeah, completely. The modem just... I don't know, it's just dark. No lights or anything on it.
+
+Agent: Okay, no lights at all. That actually gives us a good starting point. Have you checked that the modem is plugged in securely? Sometimes cables can get a little loose.
+
+Customer: Yeah, I checked that already. It's definitely plugged in. I tried unplugging it and plugging it back in too, but nothing happened.
+
+Agent: Good thinking on the reset. Um, let me ask—do you have any lights on the back of the modem? Like near where the cables connect?
+
+Customer: (pause) Wait, the back? Let me look... (pause) Oh, actually, yeah, there's like a tiny light back there, but it's red. Is that bad?
+
+Agent: Okay, a red light usually indicates an issue with the connection. That's helpful to know. Do you see any other lights at all?
+
+Customer: No, just that one red light.
+
+Agent: Alright. So here's what I'd like to try. Can you unplug the modem completely for about 30 seconds? While we're doing that, I can check a few things on my end.
+
+Customer: (pause) Okay, unplugged. (pause) Is there something going on with your service in my area or something?
+
+Agent: Let me take a look at that for you. (typing sounds) What's your street address?
+
+Customer: 428 Maple Drive.
+
+Agent: (typing sounds) Okay, 428 Maple Drive. (pause) I'm not seeing any reported outages in your area right now, but that doesn't mean there isn't an issue. Um, how long has it been unplugged?
+
+Customer: Like 15 seconds?
+
+Agent: Perfect, go ahead and plug it back in now.
+
+Customer: (pause) Okay, plugging it in... (pause) Alright, it's back in.
+
+Agent: Great. Now let's wait just a moment for it to boot up. These usually take about 30 to 45 seconds. While that's happening, when did you last restart the modem before today?
+
+Customer: Hmm, I don't really restart it that often. Maybe... I don't know, a month ago? Two months?
+
+Agent: That's pretty normal. Okay, do you see any change in the lights yet?
+
+Customer: Uh, no, still just that red light. Nothing else.
+
+Agent: Still just red. Okay. (pause) Let me try a different approach. I want to check the ONT, that's the box outside your house. Do you have one of those? It might be a small white or gray box on the exterior of your home.
+
+Customer: Oh, yeah, I think so. It's like, on the side of the house, right?
+
+Agent: That's usually where it is, yeah. Can you take a quick look at that for me and tell me what colors the lights are on it?
+
+Customer: Hold on. (pause, background noise of door opening) Okay, I'm looking at it... (pause) There's several lights. Um, most of them are green, but... let me see... there's one that's orange or maybe yellow?
+
+Agent: Okay, good, that's actually pretty helpful. Which position is that light in?
+
+Customer: It's like, the second light from the left, I think.
+
+Agent: (pause) (typing sounds) Hmm. Okay, so we might be looking at a signal issue coming into the box. Um, do you see any lights that are red on the ONT?
+
+Customer: No, they're all either green or that one orange one.
+
+Agent: Alright. Let me try one more thing here. I'm going to send a reset signal to your ONT and modem combination. This is going to take a couple of minutes.
+
+Customer: Oh, okay. So what... is this like going to fix it?
+
+Agent: It should help reset the connection. If there's a software glitch or something preventing your connection, this will clear it out. Just give it a couple of minutes. I'll wait on the line with you.
+
+Customer: Alright. (pause) So like, how long do you think this will take?
+
+Agent: It should be done in the next two to three minutes. You'll know it's working when the lights on the modem start changing and cycling through.
+
+Customer: (long pause) Still just red over here.
+
+Agent: (pause) Okay, it should be processing still. Let me give it another minute.
+
+Customer: (pause) Anything I should be doing?
+
+Agent: Just keep an eye on the modem lights for now. Let me know the second anything changes.
+
+Customer: (pause) Yeah, nothing yet. (pause) This is frustrating, man. I've got work stuff I need to do.
+
+Agent: I understand, I really do. Let me just... (typing sounds) (pause) Okay, the reset signal went through on my end, but it doesn't seem to be taking effect on your modem. That red light should have changed color by now.
+
+Customer: So what does that mean? Is the modem broken?
+
+Agent: It's possible there's a hardware issue with the modem, or it could be that the connection isn't solid enough to receive the reset command. Um, I think at this point we might need to get a technician out to your location to do a physical inspection of the equipment and the connection lines.
+
+Customer: A technician? How long would that take?
+
+Agent: Let me check availability for you. (typing sounds) (pause) I can schedule one for tomorrow between 8 a.m. and 12 p.m., or we have an afternoon slot at 1 to 5 p.m.
+
+Customer: Tomorrow? That's... okay, I guess the afternoon is better.
+
+Agent: Perfect. So that's tomorrow, 1 to 5 p.m. There will be a $99 service call fee for the technician visit, but if it turns out to be a hardware issue with our equipment, that fee would be waived.
+
+Customer: So it might cost me 99 bucks?
+
+Agent: Potentially, yes, but again, if the issue is on our end with the modem or the external equipment, we wouldn't charge you. The fee only applies if it's something with your internal wiring or setup.
+
+Customer: (pause) Alright, I guess that's what we gotta do then.
+
+Agent: Great. I've got that scheduled for you. And just to confirm once more—tomorrow between 1 and 5 p.m. at 428 Maple Drive, correct?
+
+Customer: Yeah, that's right.
+
+Agent: Perfect. And we'll send you a confirmation text and email about that appointment. In the meantime, is there anything else I can help clarify, or any other issues you're experiencing?
+
+Customer: No, I think that's it. I just... I really hope they can fix this quickly.
+
+Agent: I completely understand. I wish I could have resolved it for you over the phone, but the technician will definitely get to the bottom of it. We appreciate your patience, James, and I apologize for the inconvenience today.
+
+Customer: Alright, thanks Derek. I guess I'll see what happens tomorrow.
+
+Agent: Sounds good. Thank you for calling Frontier Communications. Have a good day.
+
+Customer: Thanks, you too.
+
+(call ends)

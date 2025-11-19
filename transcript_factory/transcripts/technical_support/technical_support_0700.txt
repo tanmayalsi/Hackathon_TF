@@ -1,0 +1,117 @@
+Agent: Thank you for calling Frontier Communications. This is Marcus speaking. How can I help you today?
+
+Customer: Yeah, hi. So my internet just went out about an hour ago and I can't get it back up. I've tried restarting the modem and everything.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll get this sorted out. Can I get your account number or the phone number associated with your account?
+
+Customer: Uh, sure. It's 555-0147.
+
+Agent: (typing sounds) Okay, I'm seeing your account here. You're in the Asheville area, correct?
+
+Customer: Yeah, that's right.
+
+Agent: Perfect. So you mentioned you already restarted the modem. That's a good first step. Let me ask you a few questions. Are you seeing any lights on your modem right now?
+
+Customer: Um... let me look at it. (pause) Okay, so I've got... there's a blue light on the front, and then there's like an orange one next to it that's blinking.
+
+Agent: Okay, so the blue light is good—that means it's powered on. The orange blinking light typically indicates that it's trying to connect. That's actually pretty normal during startup. How long ago did you do the restart?
+
+Customer: Maybe like... five minutes? Ten minutes ago?
+
+Agent: Alright, so it's still in that startup phase. Let me have you try something for me. Can you unplug the modem completely, wait about thirty seconds, and then plug it back in?
+
+Customer: Yeah, sure. (pause) Hold on... (unplugging sounds) Okay, it's unplugged. Now I wait, right?
+
+Agent: Correct. Just give it about thirty seconds. While we're waiting, can I ask—are you using a router as well, or just the modem?
+
+Customer: I've got a separate router hooked up to it, yeah.
+
+Agent: Okay, good to know. And you mentioned the internet went out about an hour ago. Did anything happen right before that? Like a power outage or a storm rolling through?
+
+Customer: (pause) Actually, you know what, there was a pretty heavy storm that came through maybe an hour and a half ago. Lightning and everything. Is that... could that be the problem?
+
+Agent: It certainly could be. Lightning can sometimes affect equipment. Alright, go ahead and plug that modem back in now.
+
+Customer: (plugging sounds) Okay, it's plugged back in. (pause) The blue light's back on.
+
+Agent: Great. Now let's wait for about two minutes and see if we get that internet connection back. While we wait, can you tell me—are you able to see the modem from where you're at, or...?
+
+Customer: Yeah, it's right there on the table next to me.
+
+Agent: Perfect. So just keep an eye on those lights. You should see some activity—maybe some green lights coming on, or the orange light should stop blinking eventually.
+
+Customer: (pause) Okay, I'm watching it. Still the blue and the orange blinking... (longer pause) Still blinking.
+
+Agent: Okay, it can take a minute or two sometimes. Let's give it just a bit longer. In the meantime, let me check something on my end. (typing sounds) I'm not seeing any service outages in your area currently, which is a good sign. (pause) Are you seeing any changes yet?
+
+Customer: Um... no, it's still the same. Blue light and orange blinking. That doesn't seem right, does it?
+
+Agent: Well, normally after a couple minutes we'd see at least a green light come on to indicate an internet connection. Let me have you try something else. Can you locate the reset button on the modem?
+
+Customer: The reset button? Um... (pause) I'm looking at it. There's like a little recessed button on the back. Is that it?
+
+Agent: Yes, exactly. That's the one. Now, I want to warn you—if you press and hold that for more than ten seconds, it'll do a full factory reset and we'll need to reprogram everything. So what I want you to do is just give it a quick press, like a second or less.
+
+Customer: Okay... (pause) I pressed it. Now what?
+
+Agent: Now let's just watch those lights again. Give it another minute or two to see if that helps establish a connection.
+
+(long pause)
+
+Customer: So... nothing. Still orange and blue. This is not working.
+
+Agent: (pause) Alright, let me check something else. Have you checked that the cable going into your modem is firmly connected?
+
+Customer: The cable? (pause) Yeah, let me... (sounds of movement) Okay, so I'm looking at the back here. There's a cable that comes in from outside, and it looks like it's connected pretty tight.
+
+Agent: Okay, good. And just out of curiosity, do you know if that cable is running through any surge protectors or anything like that?
+
+Customer: No, it's just plugged directly into the outlet.
+
+Agent: Alright. (pause) So given that there was a lightning storm right before this happened, and the modem isn't establishing a connection after multiple restart attempts... I'm wondering if we might be dealing with a hardware issue. The modem could have been damaged by a power surge from the lightning.
+
+Customer: (sighs) So the modem's just... broken?
+
+Agent: It's possible, yes. But let me try one more thing before we go down that road. I'm going to check and see if we can do a refresh of your line from our end. (typing sounds) Let me just put you on a brief hold while I try that.
+
+Customer: Okay, sure.
+
+(hold music plays)
+
+Agent: (returns) Alright, I'm back. I've sent a refresh signal to your line. Can you check the modem again? Sometimes that can help reestablish the connection.
+
+Customer: (pause) Still the same thing. Blinking orange, solid blue. Nothing's changed.
+
+Agent: (pause) Okay. I'm not seeing any change on the connection indicators here either. Based on everything we've tried, I'm fairly confident the issue is with the modem hardware itself. The lightning strike from that storm likely damaged it.
+
+Customer: So what do I do now? Do I need to buy a new one?
+
+Agent: No, no. We can definitely help you out. Since you're a customer and this appears to be equipment failure, not something you did, we should be able to get you a replacement modem. Let me just verify a couple things on your account to make sure you qualify... (typing sounds) Okay, looks like everything checks out. We can ship you a replacement modem, or if you'd prefer, you can pick one up at one of our local Frontier stores in your area.
+
+Customer: How long would shipping take?
+
+Agent: Standard shipping is usually three to five business days. If you need it faster, we do offer expedited options, but that would be an additional charge.
+
+Customer: Three to five days? That's... a while. Do you have any local stores near me?
+
+Agent: Let me get that information for you. (typing sounds) We have a Frontier store in downtown Asheville and another one in South Asheville. Both of those should have modems in stock.
+
+Customer: Okay, I guess I can try to get to one of those today if they're open.
+
+Agent: I'd recommend calling ahead just to make sure they have it available. But before we wrap up, I do want to make sure—once you get the new modem, you should be all set. Your service should automatically activate once you plug it in and it connects to our network.
+
+Customer: Alright. Yeah, that makes sense.
+
+Agent: Is there anything else I can help you with today?
+
+Customer: No, I think... I think that's it. Thanks for trying, anyway.
+
+Agent: I'm sorry we couldn't get it working remotely, but I'm confident this replacement will get you back online. Is there anything else before I let you go?
+
+Customer: No, that's everything. Thanks again.
+
+Agent: Thank you for calling Frontier, and again, I'm sorry for the inconvenience. Have a great day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

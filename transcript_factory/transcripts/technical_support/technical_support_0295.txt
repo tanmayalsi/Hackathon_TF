@@ -1,0 +1,113 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, so my internet just stopped working about an hour ago. I was working from home and everything just went down. I've tried unplugging the router and plugging it back in, but nothing's helping.
+
+Agent: I'm sorry to hear that. Let me help you get this sorted out. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm pulling up your account here... Got it. I see your account is active. Can you tell me what you're seeing right now? Is there any lights on the modem or router?
+
+Customer: Um, yeah, the modem has some lights on it. There's a green light and... I think there's an orange one blinking?
+
+Agent: Okay, so an orange blinking light typically indicates that the modem is trying to establish a connection but hasn't fully connected yet. That's actually good information. Let's try a few things. First, can you unplug the modem for about 30 seconds? Just completely remove it from power.
+
+Customer: Yeah, okay. (pause) Unplugging it now.
+
+Agent: Great. While we wait, let me ask you a couple questions. Have you experienced any outages or service disruptions in the last day or two?
+
+Customer: No, nothing like this. It's been working fine all week. This is really frustrating because I have a meeting in like 20 minutes.
+
+Agent: I understand. Let me see what I can do to get you back online quickly. Go ahead and plug the modem back in now.
+
+Customer: (pause) Okay, it's plugged back in. (pause) So now the lights are... it's still orange. The green light's still there but the orange is still blinking.
+
+Agent: Alright, that's normal for the first minute or so while it reboots. Let's give it about 90 seconds to fully boot up. In the meantime, can you check your router? Are there any lights on that?
+
+Customer: The router's... hmm. Actually, I don't think there's any lights on it at all. Is that normal?
+
+Agent: (pause) No, it should have at least a power light. Is the router plugged in?
+
+Customer: Yeah, it's definitely plugged in. I can see the cable going into the wall.
+
+Agent: Okay, try unplugging the router and plugging it back in as well.
+
+Customer: Doing that now. (pause) Alright, it's back in. (pause) Nope, still no lights.
+
+Agent: Hmm. This might be a router issue then. Let me check... (typing sounds) How old is your equipment? Do you know when you got that router?
+
+Customer: Uh, probably like... two years? Maybe a little longer. It came with the install when we switched to Frontier.
+
+Agent: Okay, yeah, that's the standard equipment we provide. Let me check if there are any outages in your area first. (pause) What's your service address?
+
+Customer: It's 447 Maple Drive, and then it's Apartment 2B. It's in Lincoln.
+
+Agent: (typing sounds) Okay, checking Lincoln... I'm not seeing any outages reported in your area currently. So it looks like this might be equipment-specific. Let me ask—do you hear any kind of sound coming from the router? Like a beep or anything when you plug it in?
+
+Customer: Let me... (pause) No, I don't hear anything. Not even a faint sound or anything.
+
+Agent: Alright. I think what we might be dealing with is a router power issue or possibly the router itself has failed. Before we go down that road though, let me check one more thing. Can you look at the back of your modem and tell me if there's a cable that runs from the modem to the router?
+
+Customer: Yeah, there's definitely a cable. It's connected.
+
+Agent: Good. And that cable is secure on both ends?
+
+Customer: As far as I can tell, yeah. It looks like it's... I mean, it's plugged in.
+
+Agent: Okay. Let me put you on a brief hold while I look into your account a little more and see if there's anything on our end that might be causing this. It'll just be about a minute.
+
+Customer: Okay, sure.
+
+Agent: (hold music plays briefly) (30 seconds) Thank you for holding. I'm back. So I've checked everything on our end and I'm not seeing any issues with your line or your account. The modem seems to be attempting to connect, which is good. But that router not powering on at all is definitely concerning. Have you tried plugging the router into a different outlet? Maybe a different room?
+
+Customer: Oh, that's actually a good idea. Um... (pause) Let me grab an extension cord or something. (pause) Okay, I'm trying a different outlet now. (pause) Nope, still nothing. No lights at all.
+
+Agent: (pause) Yeah, unfortunately that suggests it's a hardware failure with the router itself. Which... I'm sorry, I know that's not what you want to hear, especially with your meeting coming up.
+
+Customer: So what do I do? Can I just use the modem by itself or something?
+
+Agent: Unfortunately, no. The router is necessary to distribute the internet signal to your devices wirelessly. You could potentially use an ethernet cable directly from the modem to a computer if you have one nearby, but that would only work for that one device.
+
+Customer: Oh man. How long would it take to get a replacement router? And is that going to cost me money?
+
+Agent: That's a great question. Let me see what options we have. (typing sounds) So we can definitely get a replacement router sent out to you. It would typically arrive within 3 to 5 business days. As for the cost—since you're an existing customer and this is equipment we provided, I'd want to verify if you're still under any warranty, but there may be a replacement fee depending on your account.
+
+Customer: Three to five days? I need internet today. This is for work. Can I just... I don't know, buy a router on my own?
+
+Agent: You can absolutely do that, yes. You'd want to make sure it's compatible with Frontier service, but most standard routers will work. You'd just need to set it up and configure it with your account information.
+
+Customer: [inaudible] I mean, I guess I'll have to do that. So the modem is working fine then? Like, if I get a new router, it should just work?
+
+Agent: That's the thing—we're still having trouble confirming that the modem is fully connected. That orange blinking light should have stopped by now. Let me try one more thing. Can you try to look at the model number on the modem? It should be on a sticker somewhere on the back.
+
+Customer: (pause) Okay, I'm looking... I see... it says "Frontier Model FX-1800."
+
+Agent: Alright, let me look into that specific model. (typing sounds) (pause) Okay, I'm pulling up the specs here. One more time—can you confirm all the cables are secure? There should be a coaxial cable coming from the wall, and then the ethernet cable to the router?
+
+Customer: Yeah, both are... they're plugged in. I mean, the coax is definitely tight. The ethernet is... well, it's plugged in, but like I said, the router isn't turning on so...
+
+Agent: Right, right. (pause) I think... unfortunately, without the router turning on, I'm not able to fully diagnose if the modem itself is the issue or if it's just waiting for the router to come online. And because you have the router problem in the equation here, I think your best bet is going to be to get a router sorted out first. Either through us or through a purchase of your own.
+
+Customer: So you're saying you can't really tell if anything else is wrong?
+
+Agent: Exactly. Once you get that router back online, if the modem still isn't connecting properly, we can troubleshoot further. But right now, that router being non-functional is preventing us from getting a full picture of your setup.
+
+Customer: Okay. That's... that's really frustrating, but I understand. So do you want me to just go buy one, or should I order a replacement through Frontier?
+
+Agent: If you need internet today, I'd recommend picking one up at a local electronics store if that's an option for you. The three to five day wait for ours might be too long for your situation, especially since you mentioned your work meeting. If you do order through us, I can certainly get that process started for you right now, but just be aware of that timeline.
+
+Customer: Yeah, I'm probably just going to grab one on the way to the office or something. But if I still have problems after I get the new router, I should call back, right?
+
+Agent: Absolutely. And when you call back, just mention that you've replaced the router and that you're still experiencing connection issues with the modem, and we can pick up from there. We'll be able to do a more thorough diagnostic at that point.
+
+Customer: Okay. Well, thanks for trying anyway, Derek. I appreciate it.
+
+Agent: I'm really sorry we couldn't get you up and running today. But you should be good once you get that router replaced. And hey, if you do run into any issues after that, don't hesitate to call us back. We'll make sure it gets fixed. Is there anything else I can help you with?
+
+Customer: No, that's it. Thanks again.
+
+Agent: Thank you for calling Frontier Communications. Have a good rest of your day.
+
+Customer: You too. Bye.
+
+Agent: Bye.

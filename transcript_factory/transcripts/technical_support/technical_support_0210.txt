@@ -1,0 +1,117 @@
+Agent: Thank you for calling Frontier Communications. This is Marcus speaking. How can I help you today?
+
+Customer: Yeah, hi. So my internet has been down since this morning, and I've tried everything I can think of. I'm working from home and I really need to get this fixed.
+
+Agent: I'm sorry to hear you're experiencing an outage. I know how frustrating that can be, especially when you're trying to work. Let me pull up your account here. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, one moment... Alright, I've got you here. It looks like you're on our Fiber 500 plan. Is that correct?
+
+Customer: Yeah, that's right.
+
+Agent: Perfect. And you said the internet's been down since this morning? Have you had any recent storms or power outages in your area?
+
+Customer: No, nothing like that. It was working fine last night, and then I came down this morning and the router just... nothing. No lights, nothing.
+
+Agent: Okay, let me start with some basic troubleshooting. First, can you tell me what you're seeing on your router right now? Any lights at all?
+
+Customer: Um, no. It's completely dark. Should I... do I need to turn it on?
+
+Agent: Well, it should be getting power. Is it plugged in?
+
+Customer: (pause) Oh, yeah, it is. Let me just... let me check the outlet. (background noise of movement) Okay, it's definitely plugged in. The outlet works—I have a lamp plugged in next to it and that's on.
+
+Agent: Alright, good. Let me have you do a hard reset. Unplug the router from the power for about thirty seconds, and then plug it back in.
+
+Customer: Okay, unplugging now. (pause) I'm waiting... (pause) ...and it's back in.
+
+Agent: Great. Give it about two minutes to boot up. There should be some lights coming on during that time. Can you watch it and let me know what you see?
+
+Customer: (pause) Okay, so... I see a light now. It's... it's orange or amber or something. Is that normal?
+
+Agent: That's actually normal during startup. It should turn blue or white once it fully boots up. That usually takes about ninety seconds to two minutes. How many lights do you see?
+
+Customer: Just the one in the front. Shouldn't there be more?
+
+Agent: (pause) Well, typically yes. You should see... let me see what model you have here. It looks like you have an FR1200. You should see several indicator lights. Let me check if there's any service issues in your area. (typing sounds) I'm not seeing any outages reported on your line or in your area. 
+
+Customer: So what does that mean?
+
+Agent: Well, it could mean there's an issue with the device itself, or possibly with the connection on our end. Let me have you try something else. Can you check the cables going into the router? There should be a fiber optic cable and an ethernet cable.
+
+Customer: Okay, um... (pause) Yeah, I see the cables. There's a thick one and then a thinner one.
+
+Agent: Right. The thick one is the fiber. Without unplugging it, can you just make sure both are firmly seated in the ports?
+
+Customer: (pause) They look pretty tight already, but let me... (sound of movement) I'm just kind of wiggling them a little bit to make sure. They seem tight.
+
+Agent: Okay, good. And you're still just seeing that one amber light?
+
+Customer: Yeah, still just the one. Actually wait... I think I see another one now. It might be flickering? This is hard to tell in this light.
+
+Agent: That's okay. What color is the second one?
+
+Customer: It's also orange, I think. Or maybe red?
+
+Agent: Alright. Let me put you on a brief hold while I check a few things on our end. It should just be about a minute or two.
+
+Customer: Okay, sure.
+
+Agent: (hold music plays, then stops) Thanks for holding. Okay, so I'm not seeing any issues on our end with your line. The modem is registering as offline to us. That typically indicates a hardware issue with the device itself. Do you see any other lights now?
+
+Customer: No, I think those two lights are still flickering, but nothing else. How long have I had this router?
+
+Agent: (typing sounds) It looks like you've had it for about four years. That's actually a pretty long time for one of these units. They usually last around five to seven years, but sometimes they just fail.
+
+Customer: So you're saying it's broken?
+
+Agent: It's certainly possible. Before we go down that road, let me have you try one more thing. Can you do a factory reset on the device? There should be a small reset button on the back. You'll need something like a paperclip to press it.
+
+Customer: (pause) Okay, I found it. It's really small. Do I hold it down?
+
+Agent: Yes, hold it down for about ten seconds, and then let go. The lights might flash or go out entirely.
+
+Customer: (pause) Okay, holding... (pause) ...and releasing. (pause) Nothing's happening.
+
+Agent: Sometimes it takes a moment. Give it another minute or so to see if anything changes.
+
+Customer: (long pause) Nope. Still the same two flickering lights. Same colors, same [inaudible].
+
+Agent: Okay. I think at this point we're looking at either a hardware failure with the router or a more serious issue with the optical network terminal. Since basic troubleshooting hasn't resolved it, I'd like to get a technician out to your place to take a look.
+
+Customer: How soon can you send someone?
+
+Agent: Let me check availability. (typing sounds) What's your address to confirm?
+
+Customer: 412 Maple Street, Apartment 3B.
+
+Agent: (typing sounds) Okay, I'm showing availability for... it looks like we have a two-day window. The soonest we can get someone out is tomorrow between 12 and 4 PM, or the day after that between 8 AM and 12 PM. Which works better for you?
+
+Customer: Tomorrow between 12 and 4? I mean, I'd prefer sooner, but I guess I don't really have a choice, huh?
+
+Agent: I understand your frustration. Unfortunately, those are the available slots. Tomorrow between 12 and 4 PM, I can absolutely get that scheduled for you.
+
+Customer: (sigh) Fine. Tomorrow it is.
+
+Agent: Perfect. Just to recap, we'll have a technician dispatch to 412 Maple Street, Apartment 3B tomorrow between noon and 4 PM. They'll assess whether it's the router or an issue with our infrastructure. Is there a preferred phone number for them to use if they need to reach you?
+
+Customer: Yeah, use the same number you have on file—555-0147.
+
+Agent: Great. I've got that noted. You should receive a confirmation text and email shortly. In the meantime, try to avoid doing any additional resets or unplugging the device, as that might corrupt something further.
+
+Customer: Alright. So there's nothing else I can do until the technician comes?
+
+Agent: Unfortunately, no. We've exhausted the basic troubleshooting steps. But once the technician gets there, they'll be able to run more advanced diagnostics and get you back online.
+
+Customer: Okay. Well, I guess that's all I can do. Thanks for trying, I guess.
+
+Agent: I'm really sorry we couldn't resolve this over the phone today. We'll get you taken care of tomorrow. Is there anything else I can help you with?
+
+Customer: No, that's it.
+
+Agent: Alright, well, thank you for calling Frontier Communications, and we apologize for the inconvenience. Have a good day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

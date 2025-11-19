@@ -1,0 +1,145 @@
+# Frontier Communications - Customer Service Call Transcript
+
+Agent: Thank you for calling Frontier Communications. This is Marcus speaking. How can I help you today?
+
+Customer: Yeah, hi. So my internet just went out completely. It's been down for like the past hour and I've tried unplugging the modem and router and plugging them back in, but nothing's working.
+
+Agent: I'm really sorry to hear that. I know how frustrating that can be. Let me help you get this sorted out. Can I grab your account information real quick?
+
+Customer: Sure, it's... (pause) okay, my phone number on the account is 555-0147.
+
+Agent: (typing sounds) Perfect, thanks. And just to confirm, is that the account for... Jeremy Martinez?
+
+Customer: Yeah, that's me.
+
+Agent: Great, Jeremy. I've got your account pulled up here. I see you're on our Fiber 100 plan over on Maple Street, correct?
+
+Customer: Yes, that's right.
+
+Agent: Okay, so let's walk through this together. You mentioned you've already done a power cycle on both the modem and the router. That's a great first step, so thank you for doing that. Are both devices showing any lights right now?
+
+Customer: Um, yeah, the modem has... let me look... there's a red light on the front. I think. Is that bad?
+
+Agent: A red light typically means there's no connection to our network. Okay, so here's what I'm gonna have you do. Can you check the cable that goes from the wall outlet to your modem? Just make sure it's plugged in firmly on both ends.
+
+Customer: (pause) Yeah, I'm looking at it now. Hold on. (rustling sounds) Okay, it seems pretty snug to me. Both ends look connected.
+
+Agent: Good. And, uh, do you see a coaxial cable? It's kind of a thick cable, usually gray or black?
+
+Customer: I think so. There's a couple cables back there. One of them is pretty thick and kinda silvery looking.
+
+Agent: That's probably the one. Can you gently unplug that and then plug it back in? Just to reseat the connection.
+
+Customer: (pause) Okay, doing that now... (rustling sounds, then a beep) Alright, plugged back in.
+
+Agent: Perfect. Now let's give it about 30 seconds to reboot and see if those lights change. While we wait, let me ask—have you had any recent storms or weather in your area? Sometimes that can affect the line.
+
+Customer: No, it's been pretty clear actually. Just normal day. This is weird because everything was working fine this morning.
+
+Agent: (pause) Okay, so the issue just started recently. That's helpful to know. (pause) Alright, are you seeing any changes in those lights yet?
+
+Customer: Um... (pause) ...no, still red. Maybe it's a little less bright? I'm not really sure.
+
+Agent: It might take another moment to cycle through. Why don't we give it another 15 seconds or so.
+
+Customer: Okay. (background silence)
+
+Agent: So while we're waiting, do you have any other devices connected to the modem? Like, any computers or phones that might be connected?
+
+Customer: Just my laptop, and that's usually connected to Wi-Fi. But it's not connecting either, so I turned it off.
+
+Agent: Alright. (pause) Any luck with those lights?
+
+Customer: (pause) Nope. Still the same. It's definitely not changing.
+
+Agent: Okay. Let me try a different approach here. I'm gonna access your modem remotely, if that's alright with you. I can see some diagnostic information that might help us troubleshoot.
+
+Customer: Yeah, sure, go ahead.
+
+Agent: (typing sounds) Okay, I'm gonna need a few seconds here. (pause, continued typing) Hmm. Okay, interesting.
+
+Customer: What? Is something wrong?
+
+Agent: Well, so from my end, it looks like the modem is registering on our network, but it's not maintaining a stable connection. The signal's dropping intermittently. That's consistent with what we're seeing on your end—that red light.
+
+Customer: So is that a modem problem or a network problem?
+
+Agent: That's a good question. It could be either, to be honest. It could be an issue with the modem itself, or it could be an issue with the line coming into your home. What I'd like to try is a hard reset on the modem. This is different from just unplugging it. There's usually a small reset button on the back. Do you see that?
+
+Customer: (rustling) Yeah, I think I found it. It's like a little recessed button?
+
+Agent: That's the one. What I need you to do is hold that down for about 10 seconds while the modem is plugged in. I'm warning you though, this is gonna erase any custom settings you've saved, so we might have to re-enter some information. Are you ready?
+
+Customer: Yeah, okay. (pause) Holding it down... 10 seconds... (pause) Okay, let it go?
+
+Agent: Yep, you can let go. Now let's give it about two minutes to fully reset and reboot.
+
+Customer: Okay. So now I just... wait?
+
+Agent: Yeah, just give it a moment. You should see the lights cycle through different colors—red, amber, green—and then hopefully settle on blue or green, which would mean a good connection.
+
+Customer: (pause) Okay, I'm watching it. (long pause) It's going through some colors now. Red... then like a yellow... (pause) ...and now it's back to red.
+
+Agent: Hmm. Okay, it should cycle to green. Let's give it another 30 seconds. Sometimes it takes a bit.
+
+Customer: (pause) Still red, man. This isn't working, is it?
+
+Agent: Let's not give up just yet. (pause) I know this is frustrating. Let me just double-check something on my end. (typing sounds) Okay, so I'm looking at the line diagnostics and... I'm actually seeing some pretty significant noise on the line coming to your address.
+
+Customer: Noise? What does that mean?
+
+Agent: It means there might be a problem with the physical line that runs from our network to your home. It could be damaged somewhere, or there could be a loose connection at the junction box outside. That would explain why the modem keeps losing connection.
+
+Customer: So what do I do about that? Can you fix it?
+
+Agent: (pause) Well, unfortunately that's not something we can fix over the phone. What I'd like to do is escalate this to our Field Services team. They can send a technician out to your location to inspect the line and the connection point. That's really the best way to diagnose what's happening physically.
+
+Customer: Okay... how long does that usually take? I need my internet for work.
+
+Agent: I totally understand. Let me check availability for you. (typing sounds, pause) So the earliest I can get someone out would be... it looks like tomorrow afternoon between 1 and 4 PM. Does that work for you?
+
+Customer: Tomorrow? That's... I mean, I guess it has to. Can they come earlier in the day?
+
+Agent: (pause) I'm showing that afternoon slot is the only availability we have for tomorrow in your area. But if it's urgent, I could also put you down for a priority call. That might get someone out today, but there'd be an additional charge of $35.
+
+Customer: (pause) What time is it now?
+
+Agent: It's currently 2:47 PM.
+
+Customer: So if I pay the $35, how soon could they get here?
+
+Agent: Typically within the next 3 to 4 hours from now, so sometime between 6 and 7 PM. But I want to be transparent—I can't guarantee it'll be on the shorter end of that window.
+
+Customer: (pause) I mean... I really do need this fixed today if possible. Let's do it. Let's do the priority call.
+
+Agent: Perfect. I'm gonna set that up for you right now. (typing sounds) Okay, so you're scheduled for a priority service call today between 6 and 7 PM. The technician will call you 30 minutes before they arrive at your address.
+
+Customer: Got it. And they'll definitely be able to fix it?
+
+Agent: (pause) They'll be able to diagnose the issue and repair most common problems with the line, yes. In some cases, if there's a major issue, they might need to come back with additional equipment, but that's pretty rare. Once they assess the situation, they'll give you a better idea.
+
+Customer: Alright. Anything else I should do in the meantime?
+
+Agent: Just leave the modem plugged in and powered on so they can see the same symptoms when they arrive. And if it happens to come back online before they get there, just let me know or let them know when they arrive.
+
+Customer: Okay. Will I be charged for the service call itself, or just the $35 priority fee?
+
+Agent: The $35 is just the priority fee. The actual service call should be covered under your service plan, so you shouldn't see an additional charge unless they need to replace hardware.
+
+Customer: Alright, that's good. I think I got everything. What's my confirmation number or anything?
+
+Agent: (typing) Your confirmation number is 847392. I'm also gonna email you a summary of the appointment details. You should receive that shortly.
+
+Customer: Great. Thanks for your help, even though we couldn't get it working.
+
+Agent: I appreciate that, Jeremy. I'm sorry we couldn't resolve this remotely, but I'm confident our Field Services team will get you back online. Is there anything else I can help you with today?
+
+Customer: No, I think that's it.
+
+Agent: Perfect. Thank you for choosing Frontier, and we'll get this sorted out for you today.
+
+Customer: Thanks. Bye.
+
+Agent: Bye now.
+
+(call ends)

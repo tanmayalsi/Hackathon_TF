@@ -1,0 +1,111 @@
+# Frontier Communications Call Transcript
+
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hey, yeah, hi. So um, my internet has been down since this morning and I'm not really sure what's going on. I've got work from home stuff I need to do and it's kind of a problem.
+
+Agent: Oh man, I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we can get this sorted out for you. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's... hold on one sec. (rustling sounds) It's 555-0147.
+
+Agent: (typing sounds) Perfect, thank you. I've got you here. So your internet is completely down as of this morning, is that correct?
+
+Customer: Yeah, like completely. No connection at all. The modem's on, I can see the lights, but nothing's working.
+
+Agent: Okay, good. That's helpful information. Let me ask you a few questions real quick. Are you seeing any red lights on the modem, or are they all green?
+
+Customer: Um... let me look at it. (pause) I see green and... actually there's like an orange light blinking on one of them.
+
+Agent: Okay, so which light is blinking orange? Is it the power light, the internet light, or...?
+
+Customer: I think it says... it's hard to read from here, but I think it says "Link" or something like that?
+
+Agent: Right, okay. That could indicate a connection issue with the modem itself. Have you tried unplugging it and plugging it back in yet?
+
+Customer: No, I haven't actually. You want me to do that?
+
+Agent: Yeah, absolutely. Go ahead and unplug it for me, we'll wait about thirty seconds, and then plug it back in. That'll give it a fresh restart.
+
+Customer: (rustling) Okay, unplugging it now. (pause) Yeah, it's off. (longer pause) Alright, thirty seconds... (pause) Okay, plugging it back in.
+
+Agent: Great. While that's booting back up, let me just verify a couple things on my end. It looks like we did have a service alert in your area yesterday evening around 6 PM. Could that be when you noticed the outage started?
+
+Customer: Actually, no. I didn't use the internet yesterday. I just woke up this morning and it was down.
+
+Agent: Got it. Okay, so the modem should be starting back up now. Are you seeing the lights come back on?
+
+Customer: Yeah, yeah, they're coming on. Okay, we've got the green light on power... the orange link light is still there though.
+
+Agent: Still orange, huh? (pause) Alright, let me check if there are any service issues in your area right now. (typing sounds) I'm not seeing any active outages reported for your location. That's interesting.
+
+Customer: Okay, so what does that mean?
+
+Agent: Well, it could mean a few things. Let me try a couple other things with you. Can you see if you have a battery backup unit connected to your modem?
+
+Customer: A battery backup? Um... I don't think so? There's just the modem and the router.
+
+Agent: You know what, that's fine. We can work without that. I'm going to do a power cycle on my end here. Can you just watch your modem for the next minute or so and let me know if anything changes?
+
+Customer: (pause) ...No, nothing's changing. It's still the same. Orange light blinking on that one.
+
+Agent: Okay. (pause) And just to confirm—you're not able to see any WiFi networks showing up on your phone or computer?
+
+Customer: Right, nothing. I checked my phone, my laptop, I can't connect to anything. No WiFi networks at all.
+
+Agent: (typing sounds) Hmm. All right, let me check the modem status from here. (longer pause) I'm not getting a solid connection from the modem to our equipment. This might indicate a problem with the fiber line itself or possibly an issue with your ONT unit.
+
+Customer: The... ONT? I'm not sure what that is.
+
+Agent: Right, sorry about that. That's the optical network terminal. It's basically the device that converts our fiber signal into something your modem can use. It might be a separate box, usually kind of small and white or black. Do you see anything like that?
+
+Customer: Oh! Yeah, actually. I think I see it. It's like... behind the modem?
+
+Agent: Exactly. Can you check if all the lights on that are green?
+
+Customer: (rustling) Okay, yeah, I'm looking at it... there's, um, there's a red light on this one.
+
+Agent: A red light on the ONT? Okay, that's what we're looking for. That tells me there's likely an issue with the fiber connection coming into your home. Have you noticed any damage to the cable outside your home? Any loose connections?
+
+Customer: No, I mean... I haven't been out there to look. Should I?
+
+Agent: It might be worth checking, yeah. If you have a moment, can you take a quick look outside? Maybe by your electrical box or where the fiber cable enters your home? Just to see if anything looks obviously damaged or disconnected?
+
+Customer: (pause) Sure, hold on. (sounds of movement, door opening) Okay, I'm outside... looking around... I see the cable running along the side of my house. It looks fine to me. Doesn't look broken or anything.
+
+Agent: Okay, good. And is it firmly connected where it meets your house?
+
+Customer: (pause) Yeah, it looks connected to me.
+
+Agent: All right, well that's good at least. Look, given that the ONT is showing a red light and we're not seeing any obvious external issues, this is likely a problem on our end—either with the fiber line or the connection at our central office.
+
+Customer: So what does that mean? What do we do?
+
+Agent: (pause) I'm going to schedule a technician to come out and take a look at this. They'll be able to check the fiber connection and the ONT more thoroughly, and replace any equipment if necessary. Let me get that set up for you.
+
+Customer: Okay. How long will that take?
+
+Agent: (typing sounds) Let me check our availability... The earliest we have is tomorrow between 8 AM and 12 PM. Does that work for you?
+
+Customer: Ugh, tomorrow? Really? That's... I mean, I kind of needed this today if possible.
+
+Agent: I completely understand. Unfortunately that's the earliest availability we have in your area right now. We do have same-day service, but it would be more limited. Let me see... (typing) We might be able to get someone out around 4 or 5 PM today if you can be there.
+
+Customer: Yeah, okay, 4 or 5 PM is better than tomorrow morning. Let's do that.
+
+Agent: Perfect. So I have you down for today, 4 to 5 PM window. The technician will call you about 30 minutes before they arrive. You'll just want to make sure you're home and have access to the front of your house and your equipment.
+
+Customer: Okay, yeah, I can do that. So is there anything else I should try in the meantime?
+
+Agent: (pause) At this point, I wouldn't recommend troubleshooting further. Your modem restart was good, but since the issue seems to be with the fiber connection, there's not much else we can do remotely. Just leave everything plugged in and let the technician take a look when they arrive.
+
+Customer: All right. Well, I guess I'm just out of luck for today then.
+
+Agent: I'm sorry we couldn't get this resolved over the phone. Hopefully the tech will have you back up and running this evening. Is there anything else I can help you with?
+
+Customer: No, I think that's it. Thanks, Derek.
+
+Agent: You got it. Thanks for calling Frontier, and sorry again for the inconvenience. Have a good day.
+
+Customer: Yeah, you too.
+
+(call ends)

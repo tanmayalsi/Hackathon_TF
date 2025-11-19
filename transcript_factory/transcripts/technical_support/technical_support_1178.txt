@@ -1,0 +1,105 @@
+# Frontier Communications Support Call
+
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. So, um, my internet's been down since this morning and I have no idea what's going on. I really need to get this fixed because I'm working from home today.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account real quick and we'll get you back online. (typing sounds) Can I get the phone number associated with your account, please?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (pause) Okay, got it here. I'm showing service at 2847 Maple Street, is that correct?
+
+Customer: Yeah, that's right.
+
+Agent: Perfect. So just to confirm, you're completely without internet right now, correct? Your modem and router aren't showing any lights or anything?
+
+Customer: Nothing. It's totally dark. I tried unplugging it for like thirty seconds like I read online, but that didn't help.
+
+Agent: Okay, that's a good first step that you already tried. Let's go through a few more things. Can you tell me what kind of modem you have? Is it the black box or the white one?
+
+Customer: Um... (pause) It's black. Pretty big.
+
+Agent: Alright, so that's likely our standard fiber modem. When you plugged it back in after thirty seconds, how long did you wait before checking the lights?
+
+Customer: I don't know, maybe like a minute? Should I have waited longer?
+
+Agent: Actually, let's try that again just to be sure. Go ahead and unplug it for me, and this time let's wait a full three minutes. I'll stay on the line with you.
+
+Customer: Okay, unplugging it now. (pause) Alright, it's unplugged.
+
+Agent: Great. While we're waiting, can you also check if there's a small gray cable in the back of the modem? I want to make sure it's connected.
+
+Customer: (pause) Yeah, I see it. It looks like it's plugged in. At least... I mean, it looks secure to me.
+
+Agent: Good, good. Okay, go ahead and plug the modem back in now.
+
+Customer: (pause) Plugging it back in... okay, it's in. (pause) I'm looking at it... still nothing. No lights at all.
+
+Agent: (pause) Hmm, okay. Sometimes it takes about thirty to forty-five seconds for it to fully boot up. Let's give it another minute.
+
+Customer: (pause) Yeah, okay... (longer pause) ...still nothing. This is weird, right?
+
+Agent: It could be a few different things. Let me try a different approach. Let me check if there are any service issues in your area. (typing sounds) (pause) I'm not showing any outages on our end, so it's likely something with your equipment or your line. 
+
+Customer: So what does that mean? Is my modem broken?
+
+Agent: It could be, or it could be an issue with the line coming into your house. Can you tell me—when you go to your front door or wherever your modem is located, is there a cable coming into the house from outside?
+
+Customer: Oh, yeah. There's like a white box on the wall outside. Is that what you're talking about?
+
+Agent: Perfect, yes. That's your network termination unit. Can you check if there are any lights on that box? Any green, red, or amber lights?
+
+Customer: (pause) Uh, let me look... (background noise of door opening) Okay, I'm looking at it. Um... (pause) There's... I don't see anything. It's all dark too.
+
+Agent: Okay, everything's dark. That's actually helpful information. It sounds like the issue might be further up the line. Let me try a couple more things with you. Are you seeing any other lights on any equipment in your house? Like, is your TV working? Do you have a phone line through us?
+
+Customer: My TV's fine—that's cable. But, uh, no phone line. Just the internet.
+
+Agent: Alright. (pause) Let me check our system here... (typing sounds) (pause) I'm pulling up your modem logs and... hmm, I'm not seeing any connection activity. Have you experienced anything unusual? Like a storm, or any digging in your yard recently?
+
+Customer: No, nothing like that. It was working fine yesterday. This morning I just... I woke up and tried to connect and nothing.
+
+Agent: Right. Okay, so here's what I'm thinking. The fact that your outside unit has no lights at all suggests there might be a signal issue coming from our network to your house. I'd like to send a technician out to investigate this for you. Can you do that?
+
+Customer: A technician? When could someone come out? I kind of need this working today.
+
+Agent: (pause) Let me check availability. (typing sounds) (pause) The earliest I'm showing right now is... tomorrow between 8 AM and 12 PM. Would that work for you?
+
+Customer: (pause) Really? There's nothing today?
+
+Agent: I wish I could get someone out sooner, but that's the first available slot we have. I'm sorry about that.
+
+Customer: (sighs) Okay, I guess that'll have to do. I'll have to figure something else out for today.
+
+Agent: I completely understand. Before I schedule that though, let me just try one more thing. I'm going to remotely send a reset command to your modem and see if that helps. Sometimes the equipment just needs a hard push from our side.
+
+Customer: Okay, sure. Do that.
+
+Agent: (typing sounds) (pause) Alright, sending that now... (pause) Can you keep an eye on your modem and see if anything changes? Any lights coming on at all?
+
+Customer: (pause) ...Nope. Still nothing.
+
+Agent: Still nothing? (pause) Okay. I gave that a shot. Unfortunately, with no signal coming to your house and no lights on your outside equipment, this is definitely something that needs an in-person visit. There could be a line cut, damage to the infrastructure, or an issue at our network terminal.
+
+Customer: So there's nothing we can do right now? Over the phone?
+
+Agent: I really wish there was. I've run through all the remote troubleshooting steps I can perform. At this point, a technician will need to assess your line physically. I'm sorry I couldn't get you back online today.
+
+Customer: (sighs) Yeah, I understand. Let's just schedule that technician then. Tomorrow morning.
+
+Agent: Absolutely. I'm going to get you scheduled for tomorrow between 8 AM and noon. A technician will come out and diagnose the issue. In the meantime, you should see a confirmation email within the next thirty minutes. Is the email associated with your account still [inaudible]@gmail.com?
+
+Customer: Yeah, that's correct.
+
+Agent: Perfect. Is there anything else I can help you with today?
+
+Customer: No, that's it. Thanks, I guess. Hopefully your guy can figure it out tomorrow.
+
+Agent: We'll do our best to get you back up and running. I apologize again for the inconvenience. You have a good day, and thanks for being a Frontier customer.
+
+Customer: Yeah, you too. Bye.
+
+Agent: Bye now.
+
+(call ends)

@@ -1,0 +1,133 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, thanks for picking up. So, um, my internet went out this morning and I've been without it for like three hours now. I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here. (typing sounds) Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Perfect, thank you. I'm showing an account for... is this James Morrison?
+
+Customer: Yes, that's me.
+
+Agent: Great, James. So you're experiencing a complete internet outage this morning, is that correct?
+
+Customer: Yeah, complete. Nothing. The modem's not showing any lights or anything. Well, actually, there's a red light, I think. Or orange? One of those.
+
+Agent: Okay, that's helpful information. A red or orange light typically indicates a connectivity issue. Let's try to get this sorted out for you. First, can you tell me... is your modem plugged in?
+
+Customer: (pause) Of course it's plugged in. (slight laugh) I mean, yeah, it's plugged into the wall.
+
+Agent: Right, sorry, I have to ask those questions. Is the power cable secure on both ends?
+
+Customer: Um, let me check. (background noise of movement) Yeah, it's... it looks fine to me. Pretty snug.
+
+Agent: Okay, good. And James, do you see any other lights on the modem at all? Like green or blue?
+
+Customer: (pause) No, I don't think so. Just that orange or red light. And... wait, there might be a tiny green light at the bottom. It's hard to tell from where I'm sitting.
+
+Agent: Alright. That green light is a good sign actually. That usually means power is getting to the device. Here's what I'd like you to do—I need you to unplug the modem from the power outlet, wait about 30 seconds, and then plug it back in. That's going to do a hard reset.
+
+Customer: Okay, unplugging it now. (pause) (background noise) Alright, it's unplugged. Should I wait the full 30 seconds?
+
+Agent: Yes, please. That'll give it time to fully discharge. (pause) ...take your time.
+
+Customer: (pause) Okay, it's been a minute. I'm plugging it back in now. (pause) Alright, it's plugged back in.
+
+Agent: Perfect. Now we should see some lights cycling through. Can you tell me what you're seeing?
+
+Customer: Okay, um... there's a couple of lights blinking now. There's like a blue light that's blinking, and... yeah, the orange light is still there.
+
+Agent: Okay, the blue light blinking is normal during startup. It should settle down in about 60 seconds or so. Let's give it a moment. (pause) While we're waiting, have there been any recent storms in your area? Any power outages that you know of?
+
+Customer: (pause) No, not that I'm aware of. It was fine when I went to bed last night. Just woke up and nothing was working.
+
+Agent: Understood. Alright, let's check the status of the lights now. What are you seeing?
+
+Customer: (pause) Um, the blue light is still blinking, but slower now. The orange light is... it's still there. Is that bad?
+
+Agent: The orange light can mean a few different things. It could be a connection issue or possibly a downstream problem on our network. Let me check our system here. (typing sounds) Are you experiencing any outages in your area? (pause) I'm not seeing any reported outages on our end, so that's good. 
+
+Let me try something else. On the modem, James, do you see any cables running into it? Like a coaxial cable?
+
+Customer: Yeah, there's a cable in the back. It screws on, right?
+
+Agent: Yes, that's the one. Can you check to see if that's tight as well?
+
+Customer: (background noise) Okay, checking it now. (pause) Yeah, it seems tight. Doesn't turn anymore.
+
+Agent: Good. And is there an Ethernet cable running from the modem to your computer or router?
+
+Customer: Oh, um... yeah, there's a cable that goes to my router, I think. Yeah, definitely to a router.
+
+Agent: Alright. Can you unplug that Ethernet cable from the modem for just a second?
+
+Customer: (background noise) Okay, it's unplugged.
+
+Agent: Now plug it back in, please. Make sure you hear a click.
+
+Customer: (pause) Okay, click. It's back in.
+
+Agent: Perfect. Now, James, I want to check something—can you power cycle your router as well? Unplug it for about 30 seconds.
+
+Customer: (sigh) Alright. (background noise) Unplugging it now. (pause) ...okay, waiting. (pause) ...30 seconds is a long time. (pause) Alright, plugging it back in.
+
+Agent: Good. Now while that's booting back up, let me check something in our system. (typing sounds) (pause) James, I'm pulling up your line here...
+
+Customer: Did you find anything?
+
+Agent: Just a moment... (pause) (typing sounds) Hmm. I'm not seeing any obvious issues on the account from this end, but there could be something happening with the line itself. Can you try opening a web browser now and see if you can access anything?
+
+Customer: (pause) Okay, I'm on my computer. (pause) (keyboard sounds) Um... still nothing. It's not loading anything.
+
+Agent: Alright, let me ask you this—do you see any lights on the router now?
+
+Customer: (pause) Yeah, some lights came back on the router. It's... there's a couple of lights lit up. But nothing's connecting.
+
+Agent: Okay, so the router's powered up, but you're not able to access the internet. Let me put you on a brief hold while I check with our technical team about possible line issues in your area. This shouldn't take long.
+
+Customer: Oh, okay. Sure.
+
+Agent: Thank you, James. (hold music plays) (pause)
+
+Agent: James, I'm back.
+
+Customer: Yeah, I'm here.
+
+Agent: So I checked with our team, and they're not showing any outages or line issues on your service address. It's possible that there's damage to the line outside your home, or it could be an issue with the modem itself that needs to be replaced. At this point, I think we need to escalate this to a technician who can come out and do an in-person assessment.
+
+Customer: Oh no, really? How long is that going to take?
+
+Agent: Let me check our availability. (typing sounds) (pause) I can schedule a technician to come out tomorrow between 8 AM and 12 PM, or the following day between 1 PM and 5 PM. Which works better for you?
+
+Customer: (sigh) Tomorrow morning, I guess. I really need my internet back.
+
+Agent: I completely understand. Let me get that scheduled for you. (typing sounds) Okay, I've got you down for tomorrow, 8 AM to 12 PM. A technician will come out and diagnose the issue. In the meantime, if you have any mobile data, you might want to use that. And just keep the modem and router powered on so our tech can see the current state of things when they arrive.
+
+Customer: Alright. Is there... I mean, is there anything else I can try tonight?
+
+Agent: (pause) You know what, let me suggest one more thing. Since the router was also unplugged, let's make sure everything is in a good state. Are you near the modem right now?
+
+Customer: Yeah, I'm right here.
+
+Agent: Can you tell me—and I know I asked this before, but double-check for me—on the modem, how many lights are lit up right now?
+
+Customer: (pause) Um, let me see... there's the green light at the bottom, there's the orange light, and... there's like a yellow light maybe? [inaudible] or orange, hard to tell the difference.
+
+Agent: Okay, so the orange and red lights together usually indicate no downstream signal or a connection problem. Unfortunately, without being able to see the specific status codes, it's hard for me to troubleshoot further remotely. I think tomorrow's technician visit is the right move here.
+
+Customer: (frustrated sigh) Okay, I guess that's my only option then.
+
+Agent: I apologize that we couldn't get this resolved over the phone today, James. Our technician will definitely be able to identify the problem and get you back online. Is there anything else I can help clarify before you go?
+
+Customer: No, I think... I think that's it. So just to confirm, tomorrow morning, 8 to 12?
+
+Agent: That's correct. 8 AM to 12 PM tomorrow. You should receive a confirmation text and email as well. If anything changes on your end tonight and your internet comes back up, you can cancel that appointment through the portal or by giving us a call back. But otherwise, we'll see you in the morning.
+
+Customer: Sounds good. Thanks, Derek.
+
+Agent: You're welcome, James. I'm sorry we couldn't get this fixed today, but we'll have you taken care of tomorrow. Have a good evening.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

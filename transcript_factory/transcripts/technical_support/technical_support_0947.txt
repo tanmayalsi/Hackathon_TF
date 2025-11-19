@@ -1,0 +1,141 @@
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Hi, yeah, thanks for picking up. So, um, my internet has been down since this morning and I'm not sure what's going on. I really need to get this fixed because I'm working from home.
+
+Agent: I'm sorry to hear that, sir. I'd be happy to help you troubleshoot this. First, let me just pull up your account here. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147. That's my phone number on the account.
+
+Agent: (typing sounds) Okay, one moment... Got it. I'm showing an account here for a residential fiber connection. Is that correct?
+
+Customer: Yes, that's right. I've been with Frontier for about two years now, and this is the first real issue I've had.
+
+Agent: Great, well we'll get you sorted out. So the internet is completely down right now? No lights on the modem or router at all?
+
+Customer: Well, actually, let me look at it. The modem has... there's a power light on, but I don't see the internet light. It's not lit up like it normally is.
+
+Agent: Okay, that's helpful information. So the device has power but no internet signal. Let's try a few things. First, can you locate the power cable going into your modem and unplug it for me?
+
+Customer: (pause) Yeah, I'm doing that now. It's unplugged.
+
+Agent: Good. Now leave it unplugged for about 30 seconds while that powers down completely. I'm just going to check a few things on my end real quick.
+
+Customer: Mmm-hmm. (pause) Okay, 30 seconds is up.
+
+Agent: Perfect. Go ahead and plug that back in for me.
+
+Customer: (pause) Okay, it's plugged in. I can see the lights coming back on. The power light is on... okay, the internet light is... it's blinking now. Is that normal?
+
+Agent: That's actually good—it means it's trying to connect. It should be solid in about a minute or so. While we wait for that, let me ask you a few more questions. Have you noticed any outages or service interruptions in your area recently?
+
+Customer: Not that I'm aware of. Everything was working fine yesterday, and then when I tried to use it this morning... nothing.
+
+Agent: (typing sounds) Let me check our system for any outages in your zip code. (pause) Hmm, I'm not seeing any widespread outages reported, which is good news. That usually means it's isolated to your connection or equipment.
+
+Customer: Okay... (pause) Um, the light just stopped blinking. It's on solid now.
+
+Agent: Excellent! So your modem should be reconnected. Now let's check your router. Do you have a separate router, or are you using a combined modem-router unit?
+
+Customer: I have a separate router. It's a... uh... (pause) I think it's a Netgear? It's gray.
+
+Agent: Okay, that's fine. Can you check if the lights on that are looking normal? You should see... typically a power light, a WiFi light, and some connection indicators.
+
+Customer: Yeah, let me look. The power light is on. The WiFi light is on. But... hmm, the ethernet light that connects to the modem, I don't think that's lit up.
+
+Agent: That could be our issue right there. Can you check the ethernet cable that's connecting your modem to the router? Make sure it's firmly plugged into both devices.
+
+Customer: (pause, sounds of movement) Yeah, let me... okay, I'm looking at it. The cable looks like it's plugged in on both ends to me.
+
+Agent: Sometimes they can look plugged in but not be seated properly. Can you try unplugging it from the modem end and then plugging it back in? You should hear or feel a little click.
+
+Customer: Okay, I'm doing that now. (pause) I got one end out. Let me... (pause) okay, plugging it back in... there, I feel that click.
+
+Agent: Good. Now check if that ethernet light on the router came on.
+
+Customer: (pause) No, it's... it's still not lit. That's weird.
+
+Agent: Alright, let me try the other end. Unplug it from the router and reseat it there as well.
+
+Customer: (pause) Okay, same thing... (longer pause) ...nope, still nothing.
+
+Agent: Okay, let's try this. Can you look at the ethernet cable itself? Is it damaged at all? Any visible kinks, cuts, or anything like that?
+
+Customer: Let me examine it... (pause) I mean, it looks okay to me. I don't see anything obviously wrong with it. It's just a regular cord.
+
+Agent: Let me try swapping it out with a different cable if you have one available. Sometimes these cables can go bad internally even if they look fine on the outside.
+
+Customer: I might have another one somewhere. Hold on... (background noise) Yeah, I found one. Let me unplug this one and try the other cable. (pause) Okay, I'm plugging in the new cable to the modem first... then into the router...
+
+Agent: (pause) Any change?
+
+Customer: (pause) No. Still nothing. The ethernet light is still off.
+
+Agent: Okay, that's unusual. Let me... (typing sounds, pause) Let me check your modem here on my end. I'm going to look at what ports are active. (longer pause) [inaudible] ...I'm seeing... hmm. Can you tell me, when you look at the modem, the ethernet port where you plugged in the cable—is there any kind of light or indicator around that port specifically?
+
+Customer: Um... no, I don't see anything. Should there be?
+
+Agent: There usually is. Let me ask you this—when you look at the back of the modem, how many ethernet ports do you see?
+
+Customer: (pause) I see four of them, I think.
+
+Agent: Okay, and the cable is in which one?
+
+Customer: It's in the first one on the left.
+
+Agent: Try plugging it into a different port. Let's try the second one.
+
+Customer: (pause, sounds of movement) Okay, I'm unplugging it and moving it to the second port. (pause) Let me check the light... (pause) No, still nothing.
+
+Agent: Let me try one more thing here. I'm going to remotely reboot your modem to see if that helps refresh the connection. This should take about a minute or two.
+
+Customer: Okay, should I do anything?
+
+Agent: Just give me one moment. (typing sounds, longer pause) All right, I've initiated the reboot. Your modem should be cycling now. You might see the lights flash and reset.
+
+Customer: (pause) Yeah, I can see it happening. The lights are all going off... now they're coming back on... (pause) Power light's on... internet light's on solid... but the ethernet light is still dark.
+
+Agent: (sighs) Okay, um... that's not good. Unfortunately, I'm thinking what we might have here is a hardware issue with the modem itself. The ethernet ports might not be functioning properly. We have a couple of options. One, we could arrange to have a technician come out and take a look, or we could ship you a replacement modem.
+
+Customer: How long would either of those take? I really need internet for work.
+
+Agent: A technician visit we can usually schedule within the next two to three business days. A replacement modem, depending on your location, could take anywhere from three to five business days to arrive.
+
+Customer: (frustrated) So I'm looking at at least two or three days without internet either way?
+
+Agent: I understand that's frustrating. Let me see if there's anything else we can try first. Um... (pause) Can you tell me—do you have a device you could connect directly to the modem via ethernet? Like a laptop or desktop computer? Just to test if the modem is actually outputting signal on those ports.
+
+Customer: Yeah, I have a laptop. Let me try that. (pause, sounds of movement) Okay, I'm plugging the ethernet cable directly from the modem to my laptop. (longer pause) Hmm... I don't think it's recognizing it. I don't see any connection there.
+
+Agent: That confirms it then. The ethernet ports on your modem appear to be down. Now, since your WiFi light is on, can you try connecting via WiFi instead? At least temporarily, that would get you back online.
+
+Customer: (pause) Oh, I... yeah, I guess I could try that. I was trying to use the wired connection because I was having some WiFi issues before. That's why I set it up with the router.
+
+Agent: I understand. Well, if you can at least get connected via WiFi, that would be better than nothing for now. Have you tried connecting to the WiFi signal from your modem directly?
+
+Customer: (pause) No, I haven't. Let me grab my phone and see... (pause, background noise) Okay, I'm seeing a network name that looks like it's from the modem... (pause) It's asking for a password. I don't remember what I set it to.
+
+Agent: That information should be on a sticker on the back or bottom of your modem. Can you check there?
+
+Customer: (pause, sounds of movement) Yeah, I see it. Let me type this in... (pause) Okay, I'm connecting... (pause) It says connected!
+
+Agent: Great! So you have WiFi now. That's something. Unfortunately, with the ethernet ports not working, you're going to need a replacement modem to get back to your wired connection. Let me go ahead and get that process started for you.
+
+Customer: Alright... (hesitant) So what do I do now?
+
+Agent: I'm going to process a replacement modem shipment for you. It should arrive in three to five business days. Once it arrives, you'll just swap it out with the current one and connect all your cables to the new unit. The setup should be identical to what you have now.
+
+Customer: And in the meantime, I'm just on WiFi?
+
+Agent: Yes, unfortunately. I know that's not ideal, but it should keep you connected for work until the new modem arrives. Is there anything else I can help you with today?
+
+Customer: (sigh) No, I guess that's it. Thanks for your help, even though we couldn't get it working today.
+
+Agent: I'm very sorry about this inconvenience. We appreciate your patience, and we'll make sure you're back to full service as soon as possible. You should see tracking information on the replacement modem within the next 24 hours. Is there anything else I can assist you with?
+
+Customer: No, that's all. Thanks.
+
+Agent: Thank you for calling Frontier Communications. Have a good day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

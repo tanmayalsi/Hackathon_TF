@@ -1,0 +1,101 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hey, yeah, hi Derek. So my internet's been down since this morning and I've tried everything I can think of. I just need to get it back up and running, man.
+
+Agent: I'm really sorry to hear that. We'll do our best to get you sorted out. Can I start by getting your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, let me pull that up here... alright, I've got you. And what's the name on the account?
+
+Customer: James Richardson.
+
+Agent: Perfect, James. So you mentioned your internet's been down since this morning. Have you had any recent storms or power outages in your area?
+
+Customer: No, no, nothing like that. It was working fine last night. I woke up this morning and just... nothing. The modem's not even showing any lights really.
+
+Agent: Okay, that's helpful information. Let's start with some basic troubleshooting. First, can you tell me... is the modem plugged in? I know it sounds simple, but—
+
+Customer: (chuckles) Yeah, it's plugged in. I checked that right away. The power cable's in the outlet.
+
+Agent: Great, and do you see any lights on it at all? Even if it's just one?
+
+Customer: (pause) Um, there's like a faint red light on the front. Is that normal?
+
+Agent: Actually, a solid red light typically means there's no connection to our network. That's what we need to work on. Can you do me a favor and try unplugging the modem? Just pull the power cable out.
+
+Customer: Sure, yeah. (sounds of unplugging) Okay, it's out.
+
+Agent: Perfect. Now just leave it unplugged for about thirty seconds. While we're waiting, have you noticed any damage to any of the cables? Like the coaxial cable that connects to your wall?
+
+Customer: Uh, no, I don't think so. They look fine to me.
+
+Agent: Alright, go ahead and plug it back in whenever you're ready.
+
+Customer: (pause) Okay, plugging it back in now. (pause) It's booting up... the lights are doing their thing.
+
+Agent: Good. So you should see several lights come on. Give it about a minute or so to fully boot up. While that's happening, can you tell me if you've made any changes to your setup recently? New devices, router changes, anything like that?
+
+Customer: No, not really. Same setup I've had for like... six months, I guess.
+
+Agent: (pause) Okay, and how's it looking now?
+
+Customer: Um... still mostly red. Well, there's a green light now too, but the red one's still there.
+
+Agent: Okay, so the green is good. That usually means power is on. The red indicates the connection issue though. Let me try a couple more things here. Can you check the coaxial cable on the back of the modem? The one that goes into the wall outlet?
+
+Customer: (pause, sounds of movement) Yeah, I'm looking at it now.
+
+Agent: Is it hand-tight? Like, can you gently try to tighten it by hand?
+
+Customer: I can try... (sounds of twisting) I think I just tightened it a bit. It was maybe a little loose.
+
+Agent: Nice catch. Let's give it another minute to see if that helps with the connection.
+
+Customer: Okay, I'm watching it... (long pause) ...no, still looks the same. Still that red light.
+
+Agent: Hmm. Alright, let me check something on my end. (typing sounds) I'm looking at your line here, and I'm actually seeing some signal issues coming from your connection point. Can you tell me... when's the last time the modem worked properly?
+
+Customer: Last night, man. Everything was totally fine. I was streaming Netflix with no problems.
+
+Agent: Okay, and did you restart it at all before bed?
+
+Customer: No, I didn't. Should I have?
+
+Agent: No, no, that wouldn't have caused this. But it does sound like something changed overnight on our end, possibly. Let me try resetting the modem from my system. This might take a few seconds.
+
+Customer: Alright, go ahead.
+
+Agent: (pause, typing sounds) Okay, so I'm sending a reset command now. You might see the lights flicker or turn off momentarily.
+
+Customer: (pause) Yeah, yeah, I see them going dark... and they're coming back on. Still the same red light though.
+
+Agent: (pause, slight sigh) Okay, James, I'm seeing a bit of a degraded signal on your line. It's possible there could be an issue with the line itself, or possibly something with your network interface. Unfortunately, that's something I can't resolve from here. What I'd like to do is schedule a technician to come out and take a look at your setup and check the lines.
+
+Customer: A technician? How long is that gonna take? I really need my internet working. I work from home and I have meetings today.
+
+Agent: I completely understand. Let me see what we have available. (typing sounds) We do have someone available tomorrow morning between 8 and 12. Would that work for you?
+
+Customer: Tomorrow? That's like... I mean, isn't there anything else we can try?
+
+Agent: I wish there were, but at this point, the signal degradation I'm seeing on our end really requires physical inspection. It could be a few different things—cable damage, an issue at the pole, or something with your modem itself. A tech visit is really the best next step.
+
+Customer: (frustrated) Man, this is frustrating. Yeah, okay, fine, tomorrow morning between 8 and 12.
+
+Agent: I appreciate your patience, James. I'm going to get that scheduled for you now. Can I confirm your service address?
+
+Customer: It's 447 Maple Drive, apartment 3B.
+
+Agent: (typing) Perfect. And we'll have someone out there between 8 AM and 12 PM tomorrow. Is there anything else I can help clarify before we wrap up?
+
+Customer: No, I guess not. Just... hopefully your tech can fix this.
+
+Agent: I really hope so too. If you think of anything else or if it starts working before the appointment, you can always give us a call back and we can cancel. But I have you all set for tomorrow morning. Thanks for your patience today, and I'm sorry we couldn't get this resolved over the phone.
+
+Customer: Yeah, alright. Thanks, Derek.
+
+Agent: You're welcome, James. Have a good day, and we'll see you tomorrow.
+
+Customer: See you then. Bye.
+
+Agent: Bye now.

@@ -1,0 +1,117 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hey, yeah, uh, my internet went down this morning and I can't get it back up. I've been without it for like three hours now and I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll get this sorted out for you. Can I get the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm getting that now. And what's the name on the account?
+
+Customer: It's Marcus. Marcus Thompson.
+
+Agent: Perfect, Marcus. Got it here. So you're experiencing a complete outage? The internet's just... not working at all?
+
+Customer: Yeah, completely down. The modem's got like, the lights are on but nothing's actually connecting, you know? I've got nothing.
+
+Agent: Okay, I understand. Let me ask you a few basic questions first. Have you tried restarting the modem yet?
+
+Customer: Yeah, I did that like twice already. First thing I tried.
+
+Agent: Good, good. That's usually the first step. (pause) And when you say the lights are on, what color are they? Can you describe what you're seeing?
+
+Customer: Um... okay so there's a power light that's green, that's solid. But the internet light, the one that usually blinks when things are working... that one's red.
+
+Agent: Red. Okay, that's helpful information. That usually indicates a connection issue. Have you checked to make sure all the cables are plugged in securely? Sometimes they can come loose.
+
+Customer: Yeah, I checked all that. Everything looks tight to me. The coax cable, the power... all of it.
+
+Agent: Alright. (typing sounds) Let me see if there are any outages in your area. What's your address?
+
+Customer: It's 4521 Maple Drive, apartment 3B.
+
+Agent: (typing) 4521 Maple... okay. I'm not seeing any reported outages in your area at the moment. The system shows everything should be up and running. Hmm. (pause) Let me try to access your modem remotely and see what's going on. This might take just a second here.
+
+Customer: Okay, yeah, whatever you need to do.
+
+Agent: (typing sounds continue for several seconds) Marcus, I'm able to reach your modem, which is good news. The bad news is I'm seeing that it's not syncing to our network. That red internet light you're seeing... yeah, that's telling me the modem isn't getting a valid signal from our equipment.
+
+Customer: So what does that mean? Is it like a modem problem or a line problem?
+
+Agent: That's what we need to figure out. It could be either one, honestly. Um, let me have you try something. Can you unplug the modem completely? Just for like, 30 seconds?
+
+Customer: (pause) Yeah, give me one second. (background noise of something unplugging) Okay, it's unplugged.
+
+Agent: Good. Let's wait about thirty seconds here. Just to do a full power cycle.
+
+Customer: (long pause) Okay, I'm counting it down. Ready?
+
+Agent: Go ahead and plug it back in.
+
+Customer: (sound of plugging in) Alright, it's plugged back in. (pause) The lights are coming back up... green power light... and... nope. Still red on the internet light.
+
+Agent: Still red. Okay. (pause) Let me check something on my end. (typing sounds) I'm going to try to push a reset command to the modem. This might take a minute.
+
+Customer: Okay. (pause) Is this... I mean, how long do you think this is going to take? I've got a work call at two and I really need the internet back.
+
+Agent: I totally understand, Marcus. I'm going to do everything I can right now. (pause) Let me just... okay, I've sent the command. Give it about a minute and let me know if anything changes with those lights.
+
+Customer: (long pause) Nothing. Still the same. Red light, no internet.
+
+Agent: Alright. (pause) This is... this is unusual. Your modem should have responded to that. Let me check your service line here. (typing sounds) I'm going to be honest with you—I'm looking at our system and I'm seeing some notes from earlier today that there was some maintenance work in your neighborhood this morning. Around six AM. Did you know about that?
+
+Customer: No, I didn't get any notification about that. But I mean, that could be it, right?
+
+Agent: It might be. That could definitely be it. The problem is that I'm not seeing any error codes or anything that would tell me the work is incomplete. And your line appears to be live on our end. It's just not communicating properly with your modem.
+
+Customer: So what do we do? Can you send someone out?
+
+Agent: (pause) Let me see if I can figure this out first. Um... let me try one more thing. I want you to try a different cable if you have one.
+
+Customer: A different cable? Like... where am I going to get another cable?
+
+Agent: Do you have another coax cable anywhere? Maybe from a TV or something?
+
+Customer: (pause) Um, I don't think so. Not that I can find anyway. I'm looking around here...
+
+Agent: Okay, that's alright. (pause) You know what, Marcus, I've been working with you for about fifteen minutes here and I've tried the standard troubleshooting steps. The modem appears to be functioning, but it's not getting a signal from our network. This is starting to point to either an issue with the outside line or potentially the modem itself.
+
+Customer: So what does that mean?
+
+Agent: I think at this point we need to get a technician out to your location. They can test the line and check the modem directly. But I want to be upfront with you—if it's the modem, we can swap that out. If it's the line, there might be something that needs to be fixed at the junction box.
+
+Customer: How long would that take? When could someone come out?
+
+Agent: (typing sounds) Let me check our availability. (pause) I can see we have a tech available today between two and five PM. Does that work with your schedule?
+
+Customer: I have that work call at two... um. Can they come like between three and five instead?
+
+Agent: Let me see... (typing) I can put you in for a window between three and five. There's no guarantee they'll be exactly at three, but that's the window I can book.
+
+Customer: Yeah, okay. That works.
+
+Agent: Perfect. And just to confirm, that's at 4521 Maple Drive, apartment 3B?
+
+Customer: Yes.
+
+Agent: Okay. I'm setting up that appointment for you today, three to five PM. The confirmation number is 847629. You should get a text and an email with that information within the next few minutes. The tech will have all the details about your case—the modem issue, the maintenance work that was done this morning—everything.
+
+Customer: Alright. And in the meantime, is there anything else I can try?
+
+Agent: (pause) Honestly, I wouldn't recommend messing with it too much. Just leave everything as is. If you want, you can try that full power cycle one more time before the tech gets there, but other than that, I think you're good to just wait for them to come out.
+
+Customer: Okay. So I'm just dead in the water until they show up.
+
+Agent: I know it's frustrating, and I apologize for that. Unfortunately, I can't get any further than this from my end. But our tech will get you sorted out today.
+
+Customer: Alright. Well, I appreciate you trying anyway, Derek.
+
+Agent: Of course, Marcus. And again, I'm sorry we couldn't get this resolved over the phone. If you have any questions before the tech arrives, you can always call back and reference that confirmation number. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. Just... get me back online, you know?
+
+Agent: We will. Thank you for choosing Frontier Communications, and we'll see you this afternoon.
+
+Customer: Thanks. Bye.
+
+Agent: Bye, Marcus.

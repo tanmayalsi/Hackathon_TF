@@ -1,0 +1,147 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. So my internet just went out like an hour ago and I can't get it back up. I've got work I need to do and I'm kind of freaking out here.
+
+Agent: I understand, and I'm sorry you're experiencing that. We'll get this sorted out for you. Can I get your account number or the phone number associated with your account, please?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, thank you. And your name?
+
+Customer: It's James. James Patterson.
+
+Agent: Perfect, James. Let me pull up your account here. (pause) Alright, I'm seeing your service address on Maple Street, is that correct?
+
+Customer: Yeah, that's right.
+
+Agent: Great. So you're saying your internet went down about an hour ago. Was there anything unusual happening before it stopped? Like, did you experience any flickering or slowness, or did it just go out completely?
+
+Customer: No, it was just... I was working and then boom, nothing. The lights went out on my modem for a second and then it came back on, but the internet's still dead. Like, I can see the modem's on but there's no connection.
+
+Agent: Okay, that's helpful information. So the modem is powered on and you're seeing lights, but no internet connection. Let me ask you this—are you seeing any lights on the modem that are normally lit up?
+
+Customer: Um... (pause) yeah, there's like a... there's a green light on, and I think there's a blue one? And then there's some other ones that aren't lit up.
+
+Agent: Alright. So we're gonna do some basic troubleshooting here. Can you tell me which lights specifically are on? There should be a power light, an internet light, and maybe a WiFi light.
+
+Customer: Okay, so... the power light is definitely green. The WiFi one, I think, is... yeah, it's blinking blue. And then there's another one that's not on at all.
+
+Agent: That's good. And the other light that's not on—is it in the middle, or is it one of the others?
+
+Customer: (pause) It's... I wanna say it's on the left side? Below the power light?
+
+Agent: That would be your internet or connection light. So that's the issue. That light should be solid green or solid blue. The fact that it's not lit is telling us there's no connection signal coming through. Let's try a few things. First, can you locate the power cable going into your modem?
+
+Customer: Yeah, I can see it.
+
+Agent: Perfect. I'm gonna have you do a hard reset on the modem. Can you unplug the power cable for me?
+
+Customer: (sounds of movement) Okay, it's unplugged.
+
+Agent: Good. Now I want you to wait about 30 seconds. I know that's a little annoying, but this will clear the modem's memory and it'll reboot fresh. While we're waiting, James, do you know if there were any storms in your area in the last couple hours? Sometimes lightning can cause issues.
+
+Customer: Oh, actually, yeah. There was like a pretty gnarly storm about two hours ago. I didn't think about that.
+
+Agent: That could very well be it. Storms can cause temporary outages or even damage equipment sometimes. Okay, it's been about 30 seconds. Go ahead and plug that power cable back in.
+
+Customer: (sounds of plugging in) Alright, I'm plugging it back in... okay, it's back on.
+
+Agent: Great. Now we're gonna wait for it to fully boot up. This usually takes a couple of minutes. While we're waiting, I'm also gonna check our system to see if there are any outages reported in your area. (pause, typing sounds) Okay, I'm not showing any active outages on our end, so that's good. The modem should be booting up now. Are the lights looking any different?
+
+Customer: (pause) Um... the power light is green again. The WiFi light is doing that blinking thing still. But that third light... it's still not on.
+
+Agent: Okay, it's still booting up. Let's give it another minute or so. These can take a minute and a half sometimes, especially after a reset.
+
+Customer: How much longer do you think?
+
+Agent: Should be just another thirty seconds to a minute. You can try opening your browser or checking your device to see if you're getting a connection. Do you have your laptop or phone near you?
+
+Customer: Yeah, I've got my laptop here. Let me try connecting... (pause) no, I'm not seeing the WiFi network at all now. It's not even showing up.
+
+Agent: Okay, that's... that's a little different. Let me check something on my end. (typing sounds, longer pause) James, can you tell me—when you look at the modem right now, what's the status of all the lights?
+
+Customer: Um, power's green. WiFi is... still blinking blue. And that other one is still dark.
+
+Agent: Alright. So the WiFi light shouldn't be blinking if the modem is fully booted. Normally it should be solid. Let me have you try something else. There's usually a small button on the back of the modem—it might be recessed—called a reset button. Do you see that?
+
+Customer: (background noise of things being moved around) The back of it? Let me... okay, I think I see it? It's like a tiny button?
+
+Agent: That's the one. Now, before you press it, I want to warn you—this is a factory reset. This will wipe all your settings and you'll have to reactivate your modem with us after. It's a last resort kind of thing, but at this point it might help. Are you okay with that?
+
+Customer: Yeah, I mean... I just need this working. What do I do?
+
+Agent: Okay, use something small and pointy—like a paperclip or pen—and press and hold that button for about 10 seconds. You'll probably see the lights flash or something happening.
+
+Customer: (sounds of movement) Okay, I'm gonna... I'm pressing it now. (pause) Yeah, I see things are happening, the lights are all flashing.
+
+Agent: Perfect. Now just let it go and let it reboot. This might take a few minutes, actually. It's gonna restart from scratch.
+
+Customer: Alright, I'm just sitting here staring at it. (pause) How long is this gonna take?
+
+Agent: About three to five minutes typically. But James, while we're waiting for this, I do want to be upfront with you. If this doesn't work, we may need to schedule a technician to come out and either repair or replace the equipment. The storm damage is still a possibility.
+
+Customer: Oh man, really? How long would that take?
+
+Agent: We usually have availability within the next couple business days, sometimes the next day depending on the technician's schedule. But let's see if this reset gets you back up and running first. Do you see any change in the lights yet?
+
+Customer: (pause) I mean, they're still flashing. All of them. The power light is like... strobing? Is that normal?
+
+Agent: Hmm, that's... the power light shouldn't be strobing like that. It should either be solid or not lit at all during a reset. (pause) James, has anything else seemed off with the modem recently? Any weird sounds or overheating or anything?
+
+Customer: No, I mean, I haven't noticed anything. It's always just been sitting there doing its thing.
+
+Agent: Okay. Let me... let me have you just leave it alone for another couple minutes. Sometimes they take a while to stabilize. Why don't you tell me a little bit about your setup? Do you have any other equipment connected? Like, do you have a separate router?
+
+Customer: No, just the modem that Frontier gave me. I've got my laptop and my phone connecting to it via WiFi.
+
+Agent: Okay, that's good to know. And this setup has been working fine up until the storm hit?
+
+Customer: Yeah, no issues before that.
+
+Agent: Alright. (pause) Okay, James, I'm gonna be honest with you—the strobing light is not something I typically see in a normal boot sequence. And the fact that the connection light isn't lighting up at all is concerning. I think what we might be looking at here is that the storm did cause some damage to the modem.
+
+Customer: So... what does that mean?
+
+Agent: It means your modem may need to be replaced. The good news is that Frontier will cover that under our equipment warranty. The not-so-good news is that you'll need to have a technician come out to assess it and replace it if necessary. I can definitely schedule that for you right now.
+
+Customer: Can't you just like... send me a new one? I don't want to wait around for a technician.
+
+Agent: I wish I could do that, James, but unfortunately we need a technician to come out and verify the issue and swap the equipment. It's part of our process. But I can get you scheduled. What does your schedule look like for the next couple days?
+
+Customer: (sighs) I mean... I work from home, so I need this fixed ASAP. Can someone come out today?
+
+Agent: Let me check what we have available. (typing sounds, pause) I'm looking at today... it's pretty booked up, but I might be able to get someone out there this evening if you're available around 5 PM onwards?
+
+Customer: Yeah, yeah, I can do that.
+
+Agent: Excellent. And just to make sure—let me check one more time if those lights have changed at all on the modem.
+
+Customer: (pause) No, it's still the same. The strobing on the power light has stopped now, it's just solid green. But that connection light is still completely dark, and the WiFi is still blinking.
+
+Agent: Alright, yeah. That confirms what I was thinking. We definitely need to get you a new modem. Let me go ahead and get this technician appointment set up for you.
+
+Customer: Okay, sounds good. How long will they be here?
+
+Agent: Usually about 20 to 30 minutes. They'll swap out your equipment and get everything set back up and tested. You should be back online by this evening.
+
+Customer: Alright. I really appreciate that.
+
+Agent: No problem at all, James. This is exactly what we're here for. I'm gonna have someone reach out to you with a window of time this afternoon, and they'll call when they're about 15 minutes away. Does that work for you?
+
+Customer: Yeah, that's perfect.
+
+Agent: Great. I've got your number in the system and I've flagged this as a weather-related equipment issue. Your technician will have all this information when they arrive. Is there anything else I can help clarify before we wrap up?
+
+Customer: No, I think that's it. I'm just... I'm frustrated because I really needed to get work done today, but I understand it happens.
+
+Agent: I completely understand, and I apologize for the inconvenience. Hopefully once we get that new modem in, you'll be all set. And if you need anything else before the technician arrives, feel free to give us a call back.
+
+Customer: Will do. Thanks, Derek.
+
+Agent: You got it, James. Thanks for choosing Frontier, and we'll see you this evening. Have a great day.
+
+Customer: Thanks, you too.
+
+Agent: Take care!
+
+(Call ends)

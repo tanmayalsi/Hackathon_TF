@@ -1,0 +1,111 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hey, yeah, thanks for picking up. So, um, my internet has been down since this morning and I've tried everything I can think of. I'm kind of at my wit's end here.
+
+Agent: I'm sorry to hear that. We'll get this figured out. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, and can I get the last four digits of the Social Security number on the account?
+
+Customer: It's 3827.
+
+Agent: Perfect, thank you. So you mentioned your internet's been down since this morning. Have there been any storms in your area or recent power outages?
+
+Customer: No, actually the weather's been fine. It just... I woke up this morning and went to check email and nothing was loading. The WiFi shows up on my phone but it won't connect, and my computer won't work either.
+
+Agent: Alright. Let me just pull up your account here. (pause) (typing sounds) Okay, I'm seeing your service is active on our end. Let's do some basic troubleshooting. First, can you tell me what equipment you have? Do you have a modem and a router, or is it a combined unit?
+
+Customer: I think it's all in one? It's the box that Frontier gave me when we set up service.
+
+Agent: That's fine. That's our standard gateway unit. Can you take a look at it right now and tell me what lights you're seeing on the front panel?
+
+Customer: Yeah, let me grab it. (pause) Okay, so... I see a power light that's on, it's green. But then there's like a WiFi light and an internet light, and they're both red.
+
+Agent: Okay, so the red lights on the WiFi and internet—that's definitely telling us there's a connection issue. Let's try the most basic fix first. Can you unplug the power cable from the back of the unit?
+
+Customer: Sure, give me a second. (pause) Okay, it's unplugged.
+
+Agent: Great. Just leave it unplugged for about 30 seconds. This gives it time to fully power down and clear its memory.
+
+Customer: (pause) Alright, it's been... yeah, about 30 seconds.
+
+Agent: Perfect. Go ahead and plug it back in.
+
+Customer: (pause) Plugging it back in now. (pause) Okay... the lights are coming on. The power light's green again. (pause) But... no, the WiFi and internet lights are still red.
+
+Agent: They're still red? Okay, that's... hmm. Let me ask—when you look at your connections in the back of the unit, are all the cables plugged in securely? The coaxial cable especially, the one that comes in from the wall?
+
+Customer: (pause) Yeah, let me check. (pause) I see the cable coming in from the wall, and it looks... I mean, it looks pretty snug to me, but let me try tightening it a bit.
+
+Agent: Good idea. Sometimes these can work themselves loose over time.
+
+Customer: (pause) (grunt) Okay, I've tightened it. Still... still red. Both lights.
+
+Agent: Alright. And the ethernet cable, if you have one plugged directly into the device?
+
+Customer: No, I'm just using the WiFi. I don't have anything plugged in.
+
+Agent: Okay, that's fine. Let me check something on my end. (typing sounds) (pause) I'm not seeing any outages in your area, and your account is definitely active. (pause) Can you try one more restart? This time, if you could hold down the reset button on the back of the unit for about 10 seconds?
+
+Customer: Oh, the reset button? That's the little hole, right?
+
+Agent: Yes, exactly. You might need a pen or paperclip to press it.
+
+Customer: (pause) Okay, I've got a pen. (pause) Holding it down... (pause) Okay, releasing it. (pause) The lights are all going through their startup sequence. (pause) And... (pause) no, they're... the red lights are back. Internet and WiFi are red again.
+
+Agent: (pause) Hmm, okay. Let me ask you a couple more questions. Do you have any other devices that might be connected? Any computers, phones, tablets?
+
+Customer: Yeah, I've got my smartphone and my laptop.
+
+Agent: And neither of them can see the WiFi network or connect?
+
+Customer: Well, they can see it. The network shows up. But when I try to connect, it just says "can't connect to network" or "failed password." But I know the password's right because I haven't changed it.
+
+Agent: (pause) Okay. And the network name—the SSID—is that showing up normally?
+
+Customer: Yeah, it's showing up as "FRONTIER-" whatever the numbers are.
+
+Agent: Right, that's normal. Alright, so it sounds like the gateway is having trouble establishing a connection with our network. I'm going to be honest with you—when we have a situation where the red lights won't clear after a restart and a reset, it usually indicates a hardware issue or possibly a line issue on our end.
+
+Customer: Oh no, really? So like... what does that mean?
+
+Agent: So what I'd like to do is either get a technician out to your place to diagnose the problem, or we can try one more thing. Do you happen to have the serial number on the bottom of your gateway? It's a long number.
+
+Customer: (pause) Yeah, let me flip it over. (pause) Okay, I'm looking at it. It's... um... FGW-7556-B... and then there's a bunch of numbers after that. Do you need all of it?
+
+Agent: Just that model number is helpful, actually. Okay, and just to confirm—you're definitely seeing power to the device, right? The green light?
+
+Customer: Yes, that one's definitely on.
+
+Agent: (pause) Alright. Unfortunately, with the gateway not establishing a connection after multiple restarts, I think we're looking at either a defective unit or a service issue that's going to need an on-site technician. Given the model you have, I'd like to get someone out to you to take a look.
+
+Customer: Okay, so how long would that take? I really need to get my internet back up. I work from home.
+
+Agent: (typing sounds) (pause) I completely understand. Let me check our availability. (pause) Okay, so the earliest I can get someone out would be... it looks like we have availability tomorrow between 8 AM and noon, or Thursday afternoon.
+
+Customer: Tomorrow morning works. Can you do that?
+
+Agent: Absolutely. Let me get that scheduled for you. (typing sounds) Okay, I'm booking you for tomorrow, Tuesday, between 8 and noon. A technician will come out and either replace the gateway or diagnose any line issues. Is that address still 447 Maple Street?
+
+Customer: Yes, that's correct.
+
+Agent: Perfect. And a phone number they can reach you at if they're running late?
+
+Customer: It's 555-0147, same as my account.
+
+Agent: Great. So to recap, you have a service appointment tomorrow, Tuesday, from 8 AM to noon. The technician will troubleshoot the connection issue. You should receive a confirmation text and email shortly. Is there anything else I can help clarify before we wrap up?
+
+Customer: No, I think that's it. I just... I hope it gets fixed quickly. I really need my internet for work.
+
+Agent: I completely understand, and I apologize that we couldn't get it resolved over the phone today. But our technician is really good and will get you sorted out. Is there anything else I can help you with?
+
+Customer: No, that's everything. Thanks.
+
+Agent: Thank you for calling Frontier, and we'll see you tomorrow morning.
+
+Customer: Okay, bye.
+
+Agent: Bye now.
+
+(call ends)

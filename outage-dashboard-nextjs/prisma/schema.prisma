@@ -1,0 +1,68 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["multiSchema"]
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+  schemas  = ["public", "team_thread_forge"]
+}
+
+model CallData {
+  call_id        Int      @id @map("call_id")
+  customer_id    String   @map("customer_id") @db.VarChar(255)
+  startdatetime  DateTime @map("startdatetime") @db.Timestamp(6)
+  enddatetime    DateTime @map("enddatetime") @db.Timestamp(6)
+
+  @@map("call_data")
+  @@schema("team_thread_forge")
+}
+
+model TranscriptData {
+  call_id      Int    @id @map("call_id")
+  customer_id  String @map("customer_id") @db.VarChar(255)
+  call_reason  String @map("call_reason") @db.VarChar(255)
+  transcript   String @map("transcript") @db.Text
+
+  @@map("transcript_data")
+  @@schema("team_thread_forge")
+}
+
+model Customer {
+  customer_id                      String    @id @map("customer_id") @db.VarChar(50)
+  customer_name                    String    @map("customer_name") @db.VarChar(255)
+  service_plan                     String    @map("service_plan") @db.VarChar(100)
+  service_address                  String    @map("service_address") @db.Text
+  provisioned_bandwidth_down_mbps  Int       @map("provisioned_bandwidth_down_mbps")
+  provisioned_bandwidth_up_mbps    Int       @map("provisioned_bandwidth_up_mbps")
+  router_serial_number             String    @map("router_serial_number") @db.VarChar(100)
+  account_status                   String    @map("account_status") @db.VarChar(50)
+  email                            String    @map("email") @db.VarChar(255)
+  location                         String    @map("location") @db.VarChar(255)
+  created_at                       DateTime  @default(now()) @map("created_at") @db.Timestamp(6)
+  updated_at                       DateTime  @default(now()) @updatedAt @map("updated_at") @db.Timestamp(6)
+  contact_phone                    String?   @map("contact_phone") @db.VarChar(50)
+  multi_site                       Boolean   @default(false) @map("multi_site")
+  subscription_tier                String?   @map("subscription_tier") @db.VarChar(50)
+  industry                         String?   @map("industry") @db.VarChar(100)
+
+  @@map("customers")
+  @@schema("public")
+}
+
+model SocialMediaData {
+  id            Int      @id @default(autoincrement()) @map("id")
+  username      String   @map("username") @db.VarChar(255)
+  social_media  String   @map("social_media") @db.VarChar(50)
+  comment       String   @map("comment") @db.Text
+  location      String   @map("location") @db.VarChar(255)
+  timestamp     DateTime @map("timestamp") @db.Timestamp(6)
+  category      String   @map("category") @db.VarChar(255)
+
+  @@map("social_media_data")
+  @@schema("public")
+}

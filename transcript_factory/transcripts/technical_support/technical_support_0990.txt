@@ -1,0 +1,111 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi Derek, yeah, so my internet's been down since this morning and I really need to get it working. I'm working from home today and I can't do anything without it.
+
+Agent: I'm really sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll get this sorted out for you. Can I grab your account number or the phone number associated with your account?
+
+Customer: Sure, it's the number you just called me on, actually. 555-0147.
+
+Agent: (typing sounds) Perfect, thank you. Okay, I've got you here. I see you're on our 200 meg fiber plan. So your internet just went down this morning, is that right?
+
+Customer: Yeah, completely dead. I woke up and tried to check my email and nothing. Not even a connection. The router's all lit up, so... I don't know, that's why I'm calling you guys.
+
+Agent: Okay, that's helpful information. The router's showing lights, which is good. Um, let me ask you a few quick questions. Do you see any red or amber lights on the router, or are they all green and blue?
+
+Customer: (pause) Uh, let me look... The power light is green, and then there's like a... I think it's blue? Yeah, blue. But there's one that's just... off? Or red maybe? Hard to tell with this lighting.
+
+Agent: Okay, so you've got at least one light that's not lit up or is red. That could indicate a connection issue. Have you tried unplugging the router yet and plugging it back in?
+
+Customer: No, not yet. You want me to do that now?
+
+Agent: Yeah, absolutely. Go ahead and unplug it, wait about thirty seconds, and then plug it back in. I'll stay on the line with you while you do that.
+
+Customer: (background noise) Okay, unplugging it now... (pause) ...waiting... (pause) Alright, plugging it back in.
+
+Agent: Great. And now we'll just give it a minute or two to boot back up. While we're waiting, let me ask... have there been any storms in your area recently? Or any construction work?
+
+Customer: No, nothing like that. I mean, we had some rain yesterday but nothing crazy. It's been fine since I got the service installed like six months ago.
+
+Agent: Okay, that's good. (pause) So the router should be fully booted up now. Are you seeing any changes in the lights?
+
+Customer: Um... (pause) ...yeah, actually, I'm getting more lights now. There's like... green, blue, and I'm seeing another one flashing... is that normal?
+
+Agent: The flashing light is actually normal—that usually indicates data transfer. Let me have you check if you can connect to the wifi. Are you near a device you can try connecting to the network with?
+
+Customer: Yeah, I've got my laptop right here. (typing sounds) Okay, I'm going to try and connect to the network now... (pause) It's not showing up. Like, I don't even see the Frontier network in my available networks.
+
+Agent: Hmm, okay. That's unusual. Let me check a few things on our end. (pause, typing sounds) I'm checking if the equipment is showing as active on our network... and... (pause) Okay, so I'm not seeing any connection to our network on this end either. Have you looked at the ONT? Do you know where that is? It's the smaller box, usually white, that might be near where your coax cables come in.
+
+Customer: The ONT? I'm not... I'm not really sure what that is, to be honest.
+
+Agent: No problem, no problem. It's usually about the size of a small cable box. It might be in a closet, on a wall, or near your router. It's where the fiber line actually connects.
+
+Customer: (pause) Oh! Yeah, I think I see it. It's on the wall in my hallway. Um... it's got a bunch of lights on it?
+
+Agent: Okay, good. Can you tell me what colors those lights are? Is there a red light on there?
+
+Customer: (pause) Yeah, there's definitely a red one. And I see like a green one... and orange maybe?
+
+Agent: Okay, so a red light on the ONT is telling us there's not a good connection between the fiber line and the equipment. This could be a few things—it could be a loose cable, or there could be an issue with the line itself. Can you check if the cable coming into the ONT is plugged in tightly? It should be the fiber optic cable.
+
+Customer: (pause) Which one is that? I see like three cables here.
+
+Agent: The fiber optic cable is typically yellow or orange and it's pretty thin compared to the others. Does that help?
+
+Customer: Oh, I see a yellow one. It looks... hmm, it actually looks like it might be a little loose? Like, not fully seated?
+
+Agent: Okay, go ahead and try to push that in firmly until you feel it click or seat all the way.
+
+Customer: (pause) Okay, I'm pushing it... I think I got it seated. (pause) Do the lights change?
+
+Agent: Let's wait about thirty seconds and then check the ONT lights again. Sometimes it takes a moment to reestablish the connection.
+
+Customer: (pause) ...Okay, checking now. So... the red light is still there.
+
+Agent: It's still showing red? Okay. Um, (pause) that's not what we want to see. Let me try one more thing. Can you unplug the ONT for about thirty seconds and plug it back in? Just like we did with the router?
+
+Customer: Sure. (background noise, pause) Okay, it's unplugged... (longer pause) ...plugging it back in now.
+
+Agent: [inaudible] ...should start the boot process... (pause)
+
+Customer: The lights are all blinking now. Red, green, orange, all flashing.
+
+Agent: That's normal during the boot sequence. Let's give it about ninety seconds to fully come back up and establish connection.
+
+(long pause)
+
+Customer: Okay, I'm checking again and... (pause) ...still red. Still showing red.
+
+Agent: (longer pause) Okay, so... I think what we might be looking at here is an issue with the fiber line itself or the connection on our end. I'm pulling up the service records and... let me see if there's been any reported outages in your area. (typing sounds, pause) No outages reported, so...
+
+Customer: So what does that mean?
+
+Agent: Well, it could mean there's a break or damage to the fiber line coming to your house, or possibly an issue at our network hub. Unfortunately, I'm not able to diagnose that remotely. We would need to send a technician out to your location to run a line test and see exactly what's going on.
+
+Customer: Oh man, really? How long would that take? I really need this working today if possible.
+
+Agent: I completely understand. Let me check our technician availability in your area. (typing sounds, pause) Okay, so our next available appointment would be... tomorrow between 12 and 4 PM. Would that work for you?
+
+Customer: Tomorrow? Is there anything sooner? Like this afternoon?
+
+Agent: Let me see... (pause, typing) Unfortunately, we're fully booked for the rest of today in your service area. The soonest we can get someone out is tomorrow afternoon.
+
+Customer: (frustrated sigh) That's really not ideal, but I guess I don't have much of a choice, do I?
+
+Agent: I know, and I apologize. I wish I had a faster option for you. If it helps, I can put a note on your account that this is urgent, and our technician will prioritize your case when they arrive tomorrow. Can I get an email address from you so I can send you a confirmation?
+
+Customer: Yeah, it's [inaudible]@gmail.com. That's J-A-M-E-S...
+
+Agent: Got it, thanks. And just to confirm, you'll be available tomorrow between noon and 4 PM?
+
+Customer: Yeah, I'll be here.
+
+Agent: Perfect. I'm going to send that confirmation now, and you should receive it within the next few minutes. Is there anything else I can help you with today?
+
+Customer: No, I guess that's it. I just... I really hope the tech can fix it tomorrow.
+
+Agent: Me too. We'll take good care of you. Thank you for calling Frontier, and sorry again for the inconvenience.
+
+Customer: Alright, thanks Derek.
+
+Agent: Have a good day.

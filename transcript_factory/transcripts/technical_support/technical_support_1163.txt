@@ -1,0 +1,113 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. So, um, my internet's been down since this morning and I really need to get it working. I have a work meeting in like an hour.
+
+Agent: Oh no, I'm sorry to hear that. Let me get some information from you so we can get this sorted out. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, and can I get a name please?
+
+Customer: It's James. James Morrison.
+
+Agent: Perfect, James. Thanks for that. So your internet has been down since this morning? Have you tried restarting your modem and router yet?
+
+Customer: Um, yeah, actually I did that like twenty minutes ago. That's usually the first thing I do, you know? But nothing changed. Still nothing.
+
+Agent: Right, I totally understand. Okay, so when you say nothing's working... do you have lights on your modem right now? Can you tell me what you're seeing?
+
+Customer: (pause) Okay, so... looking at it now. There's a power light, that one's on. But the internet light—that's the one that's usually green or whatever? That one's off. Like, completely off.
+
+Agent: Alright, so no internet light. That's helpful information. And just to confirm, your modem is plugged in directly to the wall outlet, correct?
+
+Customer: Yeah, yeah. It's plugged in. I checked that too.
+
+Agent: Good. And you haven't made any changes to your setup recently? No new equipment or anything?
+
+Customer: No, nothing. It was working fine last night. I was streaming stuff, no problems at all.
+
+Agent: Okay. So this is pretty sudden then. Let me just run a quick line test on our end here. (pause, typing sounds) Give me just one second...
+
+Customer: Sure, yeah.
+
+Agent: (pause) Alright, so on our end, we are showing that there's a signal being received from your modem, but it's pretty weak. It's dropping in and out. That could indicate a few things. Let me have you try something for me, okay?
+
+Customer: Okay, what do you need?
+
+Agent: I need you to unplug the modem completely. We're going to do a hard reset. Can you do that for me?
+
+Customer: (background noise of movement) Yeah, one second. Okay, unplugged.
+
+Agent: Perfect. Now I want you to wait about thirty seconds. Just... give it a moment.
+
+Customer: (pause) Alright, counting it down... and... okay, it's been thirty seconds.
+
+Agent: Great. Now go ahead and plug it back in.
+
+Customer: (sound of plugging in device) Okay, it's back in. Lights are coming back on. The power light's on again.
+
+Agent: Good. Now, let's give it about ninety seconds to fully boot up. We should see that internet light come back on. Can you watch it for me?
+
+Customer: Yeah, I'm looking at it. (long pause) Okay, so the power light's been steady green this whole time, but I'm still not seeing the internet light come up. Nothing yet.
+
+Agent: (typing sounds) Hmm, okay. Let me check something. Are you seeing any red lights on there? Any amber or orange lights?
+
+Customer: Just the power light is on and steady. That's it. Everything else is dark.
+
+Agent: Alright. And you're still not able to connect to Wi-Fi on your phone or anything like that?
+
+Customer: Right, no Wi-Fi at all. And I have an ethernet cable connected too, so I tried that as well. Nothing on either connection.
+
+Agent: (pause) Okay, I'm looking at our system and... actually, I am seeing an issue on our network in your area. Let me check the details here. (typing sounds) It looks like we have a fiber line issue affecting your neighborhood. That's likely what's causing this.
+
+Customer: Oh. So it's not my modem then?
+
+Agent: Well, it could be both, to be honest. But the good news is we're showing that there is an active incident in your area. It was reported this morning. We have a technician team working on it as we speak. But what I want to do is rule out your equipment first, just to be thorough. Do you have another device you could try? Like... a laptop or a tablet?
+
+Customer: Yeah, I mean, I can try my laptop. (pause, movement sounds) Okay, pulling up the Wi-Fi list... and... nope. Still not picking up anything.
+
+Agent: Still nothing, okay. (typing sounds) Let me try one more thing here. I'm going to send a refresh signal to your modem from our end. Can you watch it and let me know if you see any changes?
+
+Customer: (pause) Okay, I'm watching. (longer pause) ...No, nothing's happening. The lights are the same.
+
+Agent: Alright. (pause) I wish I had better news here, James, but I think what we're dealing with is a combination issue. The line problem in your area is definitely contributing to this, but your modem should be showing some kind of signal even if the internet's not fully connected. The fact that you're not seeing any activity light at all tells me there might also be an issue with the modem itself.
+
+Customer: So what do I need to do?
+
+Agent: Well, here's where we stand. We have a technician scheduled to address the line issue in your area. That should be resolved sometime this afternoon. But for your modem... I can definitely get a replacement sent out to you. That typically arrives within two to three business days.
+
+Customer: (frustrated) Two to three days? But my internet is down now. I have meetings and everything...
+
+Agent: I completely understand, and I'm sorry. Ideally, once the line issue is fixed this afternoon, your current modem might start working again. But I can't guarantee that. If it doesn't, we'd need to get that replacement to you. I can also note your account that you're a priority for expedited shipping if needed.
+
+Customer: Is there any way someone could come out sooner? Like, today?
+
+Agent: Let me check if we have any availability... (typing sounds, pause) Unfortunately, all our technician appointments for today are already booked. But given that we have an active incident in your area, our team is already going to be in your neighborhood. Let me add a note to your account about your situation and see if they can potentially swing by.
+
+Customer: Okay, that would be great. (pause) So what happens now?
+
+Agent: So here's what I'm going to do. I'm going to flag your account with a priority note. When our technicians resolve the line issue in your area this afternoon, they'll be aware that you're still having modem issues. They may be able to stop by, or at the very least, we can schedule a technician visit for tomorrow at the earliest.
+
+Customer: Alright... I guess that's the best we can do.
+
+Agent: I'm really sorry about this, James. I know the timing is rough with your meeting coming up. Is there any way you can use your phone's hotspot to tether to a device for your meeting?
+
+Customer: (pause) Yeah, actually, that might work. I hadn't thought of that.
+
+Agent: That could be a good backup plan. And listen, I'm going to make sure this is marked as high priority. Someone from our team will reach out to you later today once that line repair is complete to see if your service is restored.
+
+Customer: Okay. Thank you, I guess. I'll keep an eye out for that call.
+
+Agent: Is there anything else I can help you with today?
+
+Customer: No, I think that's it. I'll just wait to hear back.
+
+Agent: Perfect. Thanks for being patient with us, James. We really appreciate it, and we'll get you back online as soon as we can.
+
+Customer: Yeah, thanks for your help, Derek.
+
+Agent: Have a great day, and again, sorry about the inconvenience.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

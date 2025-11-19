@@ -1,0 +1,97 @@
+Agent: Thank you for calling Frontier Communications, this is Marcus speaking. How can I help you today?
+
+Customer: Yeah, hi. So my internet's been down since this morning and I'm not sure what's going on. I've tried unplugging everything and plugging it back in, but nothing's working.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm pulling that up now... Alright, I've got your account here. And just to confirm, you're experiencing a complete internet outage? No lights on the modem or router?
+
+Customer: Well, actually the modem has some lights. There's like a green one and then a red one that's blinking. I'm not really sure what that means.
+
+Agent: Okay, that's helpful information. The red blinking light typically indicates a connection issue. Can you tell me which light is red? Is it the one labeled "Internet" or "Online"?
+
+Customer: Um... (pause) It's the one on the left. I don't think it says anything specific, but it's definitely red and it's blinking pretty fast.
+
+Agent: Got it. And the green light—where is that one located?
+
+Customer: That's... I think that's the power light? Yeah, it's solid green.
+
+Agent: Perfect. So we've got power to the modem, but no internet connection signal. That's what we're seeing here. Let me ask you a few more questions. Have there been any storms in your area recently, or any construction work?
+
+Customer: No storms that I know of. But actually, now that you mention it, there were some cable trucks in the neighborhood yesterday. I didn't think anything of it at that time.
+
+Agent: Okay, that's definitely worth noting. Sometimes during maintenance work in the area, connections can get disrupted. Let's try a few troubleshooting steps. First, can you locate your modem and your router? Are they separate devices or is it a combo unit?
+
+Customer: They're separate. The modem is... it's connected to the wall with a coaxial cable, and then I have a separate WiFi router next to it.
+
+Agent: Great, thanks for clarifying. Here's what I'd like you to do. I want you to unplug the modem first, wait about thirty seconds, and then plug it back in. While we're waiting for that to boot back up, can you also check the coaxial cable connection at the wall? Just make sure it's screwed in tight.
+
+Customer: (pause) Okay, unplugging now... (rustling sounds) Yeah, the cable looks pretty tight already. It's been in there for a while.
+
+Agent: That's good. Go ahead and plug the modem back in now.
+
+Customer: (background noise, beeping sound) Okay, it's back on. Lights are coming back... we've got the green light again and... yeah, the red light is still blinking.
+
+Agent: (pause) Alright, let me check our system here to see if there are any service alerts in your area. (typing sounds) Hmm, I'm not seeing any active outages reported right now, but given that you mentioned the cable trucks yesterday, there may have been some recent work. Let's try something else. Can you check the coaxial connection on the modem itself? Just make sure that cable screwed into the back is secure.
+
+Customer: (rustling sounds) Yeah, that one's tight too. I mean, I didn't unplug anything... it's been like this the whole time.
+
+Agent: Understood. Okay, let's try a different approach. I'm going to have you do a factory reset on the modem. To do this, there should be a small reset button on the back or bottom of the unit. It might be recessed, so you might need a pen or paperclip to press it. Can you locate that?
+
+Customer: Uh, let me look... (pause) Yeah, I see a little button here. It says "Reset" on it.
+
+Agent: Perfect. I want you to hold that button down for about ten seconds while the modem is powered on. This will reset it to factory settings.
+
+Customer: Okay, holding it now... (pause) ...ten seconds... and releasing. The lights are going crazy now—they're all blinking.
+
+Agent: That's normal. It's rebooting. This should take about two to three minutes. While we wait, let me pull up some information here. (typing sounds) [inaudible] ...checking the line status...
+
+Customer: (pause) Okay, so the lights are kind of settling down now. I've got the green light solid again... but that red light is still blinking.
+
+Agent: (pause) Still blinking, okay. That's... that's unusual. Let me check something on my end. (typing sounds, longer pause) I'm looking at the connection status for your account, and it appears that the modem isn't registering on our network. Typically that would indicate either a signal issue coming from the line itself or possibly a problem with the modem hardware.
+
+Customer: So what does that mean? Is it my modem or is it Frontier's problem?
+
+Agent: That's a good question. It could be either, which is why we need to narrow it down. Can you tell me... do you have a second device you could connect to the router via Ethernet cable? Just to test if the issue is with WiFi or if it's a complete connection failure?
+
+Customer: (pause) I mean, I could try connecting my laptop with an Ethernet cable if that would help?
+
+Agent: That would be perfect, actually. Do you have an Ethernet cable handy?
+
+Customer: Yeah, give me just a second. (rustling sounds, pause) Okay, I've got one. Plugging it in to the router now. (pause) Okay, it's connected. Let me open... Chrome or something and try to load a website... (pause) Nope. Nothing. I'm getting an error message that says no internet connection.
+
+Agent: I see. So even with a direct connection, there's no internet access. That tells me the issue isn't with your WiFi—it's with the connection coming into your house. Given that we can't get the modem to recognize a signal from our network, and considering the cable work in your neighborhood yesterday, I'm fairly confident the issue is on the line side.
+
+Customer: Okay, so... what do I do? Can you guys fix it?
+
+Agent: Absolutely, we can. I want to create a service ticket for you so a technician can come out and inspect the line. They'll be able to identify whether there was a connection disrupted during yesterday's maintenance, or if there's another issue. Let me get some information from you. What's the best contact number to reach you?
+
+Customer: 555-0147 should be fine.
+
+Agent: And what's the best time window for a technician to visit? We have availability tomorrow between... (typing sounds) ...between 8 AM and 5 PM, or we have a few slots the day after if that doesn't work.
+
+Customer: Tomorrow morning would be better. Anytime before noon if possible?
+
+Agent: Perfect. I'll schedule a technician for tomorrow between 8 AM and 12 PM. Can I get a name for the account?
+
+Customer: It's James Mitchell.
+
+Agent: (typing sounds) Great, James. I've got everything set up here. Your service ticket number is 487-FT-92856. A technician will be there tomorrow morning between 8 and noon. They'll be able to get to the root of the issue and get you back online.
+
+Customer: Okay, great. Is there anything I should try in the meantime?
+
+Agent: You know what, you've already done the main troubleshooting steps. You can try power cycling everything again if you want, but honestly, if the line connection isn't reaching your modem, there's not much more we can do from your end. The technician will handle it.
+
+Customer: Alright, sounds good. Thanks for your help, Marcus.
+
+Agent: You're welcome, James. Sorry you're dealing with this. We really appreciate your patience, and the technician should have you back up and running tomorrow. Is there anything else I can help you with today?
+
+Customer: No, that's all. Thanks again.
+
+Agent: Thank you for calling Frontier Communications. Have a great day.
+
+Customer: You too, bye.
+
+Agent: Bye now.

@@ -1,0 +1,103 @@
+# Frontier Communications Support Call
+
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hey, yeah, uh, my internet's been down since this morning and I have no idea what's going on. I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot. Can I start by getting your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm pulling that up here... and I've got you down as a Fiber customer in the Springdale area, is that correct?
+
+Customer: Yes, that's right.
+
+Agent: Perfect. So you mentioned your internet's been down since this morning—do you have any lights on your modem right now? Are any of them lit up at all?
+
+Customer: Um, let me go check. (pause) Okay, I'm looking at it now. The power light is on, it's green, but like... the internet light is completely dark. It's not doing anything.
+
+Agent: Alright, that's helpful information. The internet light being off could mean a few things. Let's try a few basic steps. First, can you unplug the modem from the power outlet for me?
+
+Customer: Okay, doing that now. (pause) Yeah, it's unplugged.
+
+Agent: Great. Let that sit for about 30 seconds while we do a quick restart.
+
+Customer: (pause) Okay...
+
+Agent: And while we're waiting, have there been any storms in your area recently? Any weather events that might've affected your connection?
+
+Customer: No, actually it's been pretty clear all week. That's what's weird about this.
+
+Agent: Right, yeah, that is odd. Okay, go ahead and plug that back in for me.
+
+Customer: Alright. (sound of plug connecting) It's powering back up now.
+
+Agent: Perfect. Give it about a minute to fully boot up and let me know when all the lights come back on.
+
+Customer: (pause) Okay... so I'm seeing the power light and a couple other lights, but that internet light is still... (pause) nope, still nothing. It's still dark.
+
+Agent: Hmm, okay. That's not ideal. Let me check a few things on my end here. (typing sounds) I'm pulling up your connection status... (pause) I'm actually seeing that we may have a service issue in your area. Let me dig a little deeper here.
+
+Customer: A service issue? How long is that supposed to take?
+
+Agent: Good question. Let me see if I can find more details. (pause) So I'm seeing some alerts on the node serving your neighborhood, but I want to make sure that's actually what's affecting you specifically. Can you tell me—when you look at the modem, besides that internet light being off, are you seeing any red lights or any other indicators?
+
+Customer: No, no red lights. Just the power light is on, and then there's like... I don't know, maybe two or three other lights that are kind of glowing, but it's hard to tell.
+
+Agent: Okay, yeah, those are probably just status lights. So let's try one more thing before we determine if this is a network issue. Do you have a coaxial cable running into your modem?
+
+Customer: Um, yeah, I think so? It's the thick cable, right?
+
+Agent: Yes, exactly—the thick cable. Can you trace it from the modem back and just make sure it's connected? Sometimes these can come loose.
+
+Customer: (pause) Okay, I'm following it... yeah, it's plugged in pretty tight to the modem, and it goes back to... (pause) ...it's connected to the wall.
+
+Agent: Great, so that's secure. And you're not seeing any damage on the cable or anything like that?
+
+Customer: No, it all looks fine to me.
+
+Agent: Alright. Let me put you on a brief hold while I check with our technical team about that service alert I mentioned. This'll just take a minute.
+
+Customer: Okay.
+
+Agent: (hold music plays, then ends) Alright, I'm back. So I've confirmed that we are having a service disruption affecting several customers in your area, and our team is actively working on it. However, I want to be thorough here. Let me try one more diagnostic on your account. Are you in front of a computer or phone right now where you could try connecting to our network directly?
+
+Customer: I mean, I have my phone, but I can't really connect it to anything because there's no Wi-Fi coming from the modem. That's the whole problem.
+
+Agent: Right, right, I understand. (pause) Okay, so I'm going to try a hard reset of your modem from here, which might trigger some lights to blink. You might hear it restart.
+
+Customer: Okay, go ahead.
+
+Agent: (pause) Alright, I've initiated that on our end. Do you see anything happening?
+
+Customer: Um, the lights are blinking now, like a bunch of activity... wait, hold on. (pause) Nope, same thing. Internet light is still off.
+
+Agent: Still off, okay. (pause) [inaudible] Yeah, I was afraid of that. So here's what I'm thinking—given that we have a confirmed service disruption in your area and you've gone through these steps with me, it's likely affecting your connection from our end. The good news is our field team is already aware of it, but I want to manage your expectations here. Typically, these things can take anywhere from a few hours to 24 hours to resolve, depending on severity.
+
+Customer: Wait, so you're saying I just... what, I just don't have internet for the next 24 hours?
+
+Agent: I know that's frustrating. Let me see what else I can do for you. (typing sounds) I can escalate this to priority status since you're a Fiber customer and we take service disruptions seriously. That might bump you up in the queue. I can also make a note that you called in so when it gets resolved, we can see if there's anything we can offer you for the inconvenience.
+
+Customer: I mean, I guess that's something. Is there any way to know when it'll actually be fixed?
+
+Agent: That's a great question. You should receive an automated alert to the phone number on your account once service is restored. In the meantime, I can give you our outage hotline where you can check for updates, or I can schedule a follow-up call with our team tomorrow morning.
+
+Customer: You know what, yeah, a follow-up call would be good. Just... can you guys actually figure out what's wrong?
+
+Agent: Absolutely. Our field technicians will be investigating this, and they should have more information by tomorrow. If it's still not resolved by then, they can definitely reach out and either help remotely or schedule a technician visit to your location if needed.
+
+Customer: Okay. I guess I don't have much choice. When would that call come through?
+
+Agent: We'll schedule it for 9 a.m. tomorrow morning. You should get a courtesy reminder call about 30 minutes before. And I'm putting your account as priority, so you'll be one of the first ones our team reaches out to.
+
+Customer: Alright. Well, I appreciate you trying, at least.
+
+Agent: I really do apologize for the inconvenience here. I know this is frustrating. Is there anything else I can help clarify for you?
+
+Customer: No, I think I'm good. Just hoping it's fixed soon.
+
+Agent: I completely understand. Again, sorry about this. We'll be in touch tomorrow morning, and thank you for being a Frontier customer.
+
+Customer: Yeah, thanks. Bye.
+
+Agent: Bye now.

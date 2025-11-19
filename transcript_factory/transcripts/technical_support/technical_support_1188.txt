@@ -1,0 +1,119 @@
+# Frontier Communications Support Call
+
+Agent: Thank you for calling Frontier Communications customer support. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. So my internet has been down since this morning and I've tried everything I can think of. I need to get this fixed because I work from home.
+
+Agent: Oh no, I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here. Can I get the phone number associated with your account?
+
+Customer: Sure, it's 555-0847.
+
+Agent: (typing sounds) Okay, I'm finding you here... and I see you're on our fiber service in the Oakville area, is that correct?
+
+Customer: Yes, that's right.
+
+Agent: Great. So let me just ask you a few quick questions to get started. When did the internet stop working exactly?
+
+Customer: Um, it was around 7 this morning. I went to check my email and nothing was loading, and then I tried to restart my computer and... still nothing.
+
+Agent: Okay, got it. So the first thing I'd like to do is just walk through some basic troubleshooting steps with you. Have you tried unplugging your modem and router yet?
+
+Customer: I... yeah, actually, I did that like an hour ago. I unplugged them both for like thirty seconds and plugged them back in.
+
+Agent: Good, good. That was the right thing to do. Now when you plugged them back in, did you see the lights come back on normally? Like, did they go through their startup sequence?
+
+Customer: (pause) Well, let me look at them right now. Um, the modem has... okay, so the power light is on, and I see... I think it's the internet light that's blinking orange?
+
+Agent: Okay, so the orange blinking light on the modem is actually indicating that there's no signal coming in from the line. That's helpful information. Let me check on our end to see if we're showing any outages in your area. (typing sounds) (pause) Alright, so I'm not seeing any major outages reported, but let me ask you this—do you know where your ONT unit is? That's the optical network terminal. It's a small box, usually white or gray, that connects to the fiber line coming into your home.
+
+Customer: Oh, um... I think it's in my garage? Near where the cables come in?
+
+Agent: Perfect. Can you go check on that for me? I just want to see what lights are showing on it.
+
+Customer: Yeah, hold on. (background noise, footsteps) Okay, I'm in the garage now. Let me see... there's a white box here. Uh, it has... it looks like... there's a power light and some other lights. The power light is green, but... hmm, I don't think any of the others are on.
+
+Agent: Okay, so no other lights are lit up at all?
+
+Customer: No, I don't think so. Should they be?
+
+Agent: Yeah, you should typically see at least one or two lights on. Can you check and see if all the cables connected to that box are plugged in securely? Sometimes they can get a little loose, especially if there's been any movement or activity near it.
+
+Customer: (pause) Okay, let me... yeah, I'm looking at the cables. There's a couple of them going in the back. They look... I mean, they look pretty secure to me, but let me just wiggle them a bit to make sure.
+
+Agent: Good idea.
+
+Customer: (pause) Okay, I'm... I'm wiggling them. Uh, one of them seems to move a little bit. Let me push it back in firmly.
+
+Agent: Perfect. Now let's just give it a minute or two and see if any of the other lights come on.
+
+Customer: (pause) Okay, I'm waiting... (longer pause) Nothing yet. Still just the green power light.
+
+Agent: Alright, um, and do you see any damage to the cables themselves? Any cuts, or anything that looks out of the ordinary?
+
+Customer: (pause) Not that I can see, no. They look normal to me.
+
+Agent: Okay. So here's what I think might be happening. It sounds like the signal isn't reaching your ONT, which means the issue could be with the fiber line itself or possibly at the network side. I'd like to run a remote diagnostic on your equipment to get more information. Can you go back inside to your modem and let me know if you're comfortable with me accessing your device remotely?
+
+Customer: Uh, yeah, I guess so. How does that work?
+
+Agent: I'll send you a link via text message to your phone number on file, and it'll give me permission to see what's happening with your modem. It's completely secure. Should take just a minute.
+
+Customer: Okay, yeah, that's fine.
+
+Agent: (typing sounds) Alright, I'm sending that now. Did you get it?
+
+Customer: (pause) Yeah, yeah, I see it. I'm clicking on it.
+
+Agent: Great. (typing sounds) Okay, wonderful. I'm able to see your modem now and I'm looking at the diagnostics. (longer pause) Hmm. Okay, so the modem is trying to connect to the network but it's not receiving the downstream signal. That confirms what we're seeing on the modem's lights.
+
+Customer: So what does that mean? Is it the fiber line?
+
+Agent: It could be, yes. There might be an issue with the fiber connection between our equipment and your ONT. There's also a possibility of a bad fiber splitter or a damaged cable outside your house that we can't see from here. (pause) I wish I could tell you more specifically, but unfortunately with the lack of signal at your ONT, the remote diagnostics can only tell me so much.
+
+Customer: So what do we do?
+
+Agent: Well, I have a couple of options for you. The first would be to send out a technician to your location to physically inspect the line and identify where the problem is. They can typically come out within one to three business days depending on our schedule.
+
+Customer: (frustrated) One to three business days? I need my internet working today. I have client calls scheduled this afternoon.
+
+Agent: I completely understand, and I'm really sorry about that. Let me see what we can do. (typing sounds) Let me check if we have any emergency slots available today.
+
+Customer: Okay.
+
+Agent: (pause) Unfortunately, I'm not seeing any available same-day appointments in your area. Our next available time slot would be tomorrow between 8 AM and 12 PM. Would that work for you?
+
+Customer: (sigh) I... I guess it has to, doesn't it? Can I at least get that confirmed?
+
+Agent: Absolutely. Let me get that set up for you. I'm just going to need to confirm your service address and best contact number for the technician.
+
+Customer: It's 487 Maple Street, and you can reach me at 555-0847.
+
+Agent: Perfect. (typing sounds) Alright, so I have a technician scheduled to come out tomorrow, Thursday, between 8 AM and noon. You'll receive a confirmation text and email from us with all the details. The technician's name will be provided, and they should be able to diagnose and fix the issue on-site.
+
+Customer: And if it's a fiber line problem, they can fix it tomorrow?
+
+Agent: In most cases, yes. If it's something with the fiber line or the external connections, they'll have the equipment and materials to repair it same-day. If it turns out to be something more complex that requires additional parts or coordination with another team, they'll let you know at that time.
+
+Customer: Okay. (pause) Is there anything I can do in the meantime? Like, should I keep trying anything?
+
+Agent: You can try unplugging everything one more time and leaving it unplugged for a few minutes if you'd like, but honestly, if the signal isn't reaching your ONT, there's not much you can do on your end. The issue is coming from the network side.
+
+Customer: Alright, I'll leave it as is then.
+
+Agent: That's probably your best bet. I do apologize that we weren't able to resolve this over the phone today. I know it's frustrating.
+
+Customer: Yeah, well... I appreciate you trying anyway. So tomorrow morning, 8 to noon?
+
+Agent: That's correct. You'll get the confirmation details sent to you shortly. Is there anything else I can help you with?
+
+Customer: No, I think that's it. I guess I'll just have to use my phone's hotspot for now.
+
+Agent: That's a good workaround. Again, I apologize for the inconvenience, and thank you for being patient with me today. We'll get this resolved for you tomorrow.
+
+Customer: Thanks, Derek.
+
+Agent: You're welcome. Have a good rest of your day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

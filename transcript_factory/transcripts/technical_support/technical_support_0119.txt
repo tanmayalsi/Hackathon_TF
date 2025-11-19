@@ -1,0 +1,117 @@
+# Frontier Communications Support Call
+
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet's been down since this morning and I'm not sure what's going on. I need to get it fixed pretty soon.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot this. First, can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's... (pause) 555-0147.
+
+Agent: (typing sounds) Okay, perfect. And can I get the name on the account?
+
+Customer: Yeah, it's James Mitchell.
+
+Agent: (typing sounds) Got it, James. So you're experiencing a complete internet outage since this morning. Can you tell me a little bit more about that? Do you have any lights on your modem or router right now?
+
+Customer: Um, yeah, I'm looking at it now. The power light is on, but... actually, I don't think the internet light is on. It's normally green and it's definitely not lit up right now.
+
+Agent: Okay, that's helpful. The internet indicator being off suggests we're not getting a signal. Let's try a few things. First, I want you to unplug the modem from the power outlet and wait about thirty seconds, then plug it back in.
+
+Customer: Okay, doing that now. (pause) Unplugged. How long should I wait?
+
+Agent: Just about thirty seconds. That should give it time to fully reset.
+
+Customer: (pause) Alright, plugging it back in now. (pause) Okay, it's back in.
+
+Agent: Great. Give it about two or three minutes to boot up completely. What we're looking for is that internet light to come back on. In the meantime, do you remember if there were any storms last night or early this morning in your area?
+
+Customer: Actually, yeah. There was some pretty rough weather around 3 AM or so. Woke me up actually. Could that have something to do with it?
+
+Agent: It absolutely could. Lightning strikes or power surges during storms can sometimes affect the modem or the line coming into your house. (pause) Are those lights coming back on for you?
+
+Customer: Um... the power light is solid. But the internet light... it's flickering now? Like on and off?
+
+Agent: Okay, so it's flickering. That's a little different. That usually means the modem is trying to establish a connection but something's interrupting it. Let me check your line here. (typing sounds, pause) I'm seeing that we actually do have your modem registering on our network, which is good news. Let's check the router now. Do you have a separate router or is it built into your modem?
+
+Customer: It's separate. It's like a white box sitting on top of the modem.
+
+Agent: Perfect. Let's reset that as well. Go ahead and unplug the router and wait about thirty seconds, same as before.
+
+Customer: (pause) Okay, unplugging it. (pause) How many more of these resets are we gonna need to do? I'm just asking because I have to log into work from home today and my boss is probably wondering where I'm at right now.
+
+Agent: I totally understand. Usually these resets take care of most issues, so hopefully we'll have you back up and running pretty quickly. Go ahead and plug the router back in.
+
+Customer: (pause) Alright, it's back in. Now what?
+
+Agent: Let's give that about a minute to boot up. In the meantime, can you check something for me? I need you to look at the back of the modem and see if there's a cable that looks like it might be loose. It would be a coaxial cable—kind of looks like a TV cable.
+
+Customer: (pause) Let me look... nope, I'm checking the back and everything looks pretty secure back there. The cables are all plugged in.
+
+Agent: Good. Okay, is that router light on yet?
+
+Customer: (pause) Yeah, I'm seeing lights now on the router. The power light is green and there's some... blue lights blinking on there too.
+
+Agent: Excellent. That's a good sign. So you should have Wi-Fi available now. Try connecting your computer or phone and see if you can get online.
+
+Customer: Okay, give me just a second. (pause) [inaudible] where is my... okay, pulling up my laptop. (typing sounds, pause) It's connecting to the network... connecting... and... hmm.
+
+Agent: What's happening?
+
+Customer: Well, it connected to the Wi-Fi. It shows I'm connected, but I can't actually load any websites. It's just spinning and spinning. Nothing's loading.
+
+Agent: Okay, that's... that's more unusual. So you have a connection to the router but no internet data is coming through. Let me take a look at this from my end. (typing sounds, pause) Hmm. I'm still seeing your modem online, but I'm noticing the signal strength is lower than it should be. When did you say you last had internet working?
+
+Customer: Yesterday afternoon, I'd say around 3 or 4 PM. Then I went to bed and when I woke up at like 7 AM, it was already down.
+
+Agent: Right, so that corresponds with that storm you mentioned. The thing is, the modem is communicating with our network, but that weak signal is preventing actual data from flowing through. This could indicate a problem with the line coming into your house.
+
+Customer: So what does that mean? What do I do?
+
+Agent: Well, typically what I'd recommend is scheduling a technician visit. They can come out and check the physical line, the connections outside your house, and make sure there's no damage from the storm. However, before we go down that route, let me try one more thing. I'm going to push a reboot to your modem from my end.
+
+Customer: Okay, sure.
+
+Agent: (pause, typing sounds) Alright, I've sent that through. Give it about three to five minutes and see if that helps refresh the signal.
+
+Customer: (pause) Okay, I'm waiting. How long do you think this is gonna take?
+
+Agent: Should be about five minutes maximum. While we wait, I can get some information together for the technician visit in case we need to go that route. How's your schedule looking this week? Are you home during the day?
+
+Customer: Um, I'm usually here in the afternoons. Not so much in the mornings. Tomorrow would actually be better than today since I'm already falling behind on work.
+
+Agent: Noted. Let me just check something on my screen here. (pause, typing sounds) Actually, James, I'm seeing that the signal is still not improving on my end. It's not recovering from that reboot.
+
+Customer: So it's not working?
+
+Agent: Unfortunately, it doesn't look like it. The reboot didn't resolve the issue. Based on what I'm seeing here and given that this started right around that severe weather, I'm pretty confident there's a physical line issue. We're going to need to get a technician out to your property to diagnose and repair it.
+
+Customer: How long does that usually take? Like, am I gonna be without internet for a week?
+
+Agent: No, typically once we get a technician scheduled, they can be out within 24 to 48 hours. It's pretty quick. And the visit itself usually only takes an hour or two, depending on what they find.
+
+Customer: Okay, I guess that's better than nothing. Can we do tomorrow afternoon?
+
+Agent: (typing sounds, pause) Let me check availability for tomorrow. What time works best for you?
+
+Customer: Anytime after 2 PM.
+
+Agent: (pause, typing sounds) Okay, I have a 2 to 4 PM window available tomorrow. Does that work?
+
+Customer: Yeah, that works.
+
+Agent: Great. I'm going to get that scheduled for you. You should receive a confirmation text and email shortly. The technician will be a Frontier representative, and they'll call you about thirty minutes before they arrive.
+
+Customer: Alright, thank you.
+
+Agent: You're welcome. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. Just... hopefully they can get it fixed tomorrow.
+
+Agent: I understand your frustration, and I'm sorry we weren't able to resolve this remotely today. But I'm confident that once our technician gets out there, we'll get you back online. You should be all set. Thanks for calling Frontier, and have a good rest of your day, James.
+
+Customer: Thanks, you too.
+
+Agent: Bye now.
+
+Customer: Bye.

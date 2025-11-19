@@ -1,0 +1,117 @@
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet has been down since this morning and I really need to get it back up. I'm working from home and this is, uh, kind of a problem.
+
+Agent: I understand, and I'm sorry to hear that. Let me help you get this sorted out. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, let me pull that up here... Alright, I've got your account. Your name is David Chen, is that correct?
+
+Customer: Yes, that's right.
+
+Agent: Perfect. So you're experiencing a complete internet outage this morning. When did you first notice this?
+
+Customer: Um, I'd say around 8 AM? I went to check my email and nothing was loading. I tried restarting my computer, thinking maybe that was the issue, but nothing helped.
+
+Agent: Okay, that's good troubleshooting on your part already. Let me ask you a few quick questions. Do you see any lights on your modem right now? Like the little indicator lights?
+
+Customer: (pause) Yeah, there's a few lights. There's like... a green one, I think? And maybe a red one?
+
+Agent: Okay, so you should have a power light that's typically solid green, and then you should have an internet light. Can you tell me if that internet light is green, red, or is it off?
+
+Customer: The internet one is... it looks red to me. Yeah, it's red.
+
+Agent: Alright, that red light usually indicates a connection issue. That's actually helpful information. Do you have a gateway or a separate router, or just the modem?
+
+Customer: It's just the one box, I think. It's the white one Frontier installed.
+
+Agent: Perfect, so that's the gateway unit. Okay, I'm going to have you try a couple of things. First, can you unplug the power cable from the back of that unit?
+
+Customer: Sure, one second... (pause) Okay, it's unplugged.
+
+Agent: Great. I want you to wait about 30 seconds while it powers down completely. Just let it sit there.
+
+Customer: (pause, background ambient sound) ...Alright, it's been about 30 seconds.
+
+Agent: Perfect. Now go ahead and plug it back in.
+
+Customer: (sounds of cable being plugged in) Okay, plugged back in. Now what?
+
+Agent: Now we're just going to give it a minute or two to boot back up. While it's restarting, you should see some lights flickering and changing. That's totally normal. Just watch those lights for me.
+
+Customer: (pause) Okay, yeah, I'm watching. There's some blinking going on... (pause) ...Still blinking. Uh, the green one is solid again. But... (pause) ...the red one is still there.
+
+Agent: Hmm, it's still showing red. Okay, that's not ideal. Let me check a couple of things on my end. (typing sounds) 
+
+Customer: Is there like, an outage or something in my area?
+
+Agent: That's a good question. Let me look into that. (pause, typing) Okay, I'm not seeing any active outages reported in your zip code right now. So it seems to be isolated to your account or your equipment. 
+
+Customer: Oh, come on. That's frustrating.
+
+Agent: I know, I know. Let me try one more thing here. I'm going to send a signal reset to your gateway. Sometimes that can help re-establish the connection. That's going to take just a minute.
+
+Customer: Okay, go ahead.
+
+Agent: (pause) Alright, it's processing. Can you keep an eye on those lights again? You might see them flicker or reset.
+
+Customer: (pause) Okay... (pause) ...Hmm, they're still the same. Green on one, red on the other.
+
+Agent: Alright. Let me ask you this—have you noticed any of your lights flickering or anything unusual before this morning? Any storms last night?
+
+Customer: No, I don't think so. It was pretty clear yesterday. And no, everything was working fine last night. I was streaming TV before I went to bed.
+
+Agent: Okay, that's useful. Since the gateway is showing that red connection light, there could be a few things going on. It might be an issue with the line coming into your home, or it could be a hardware issue with the gateway itself. 
+
+Customer: So what does that mean?
+
+Agent: Well, let me try a couple more things. Can you check if there are any cables connected to the back of the gateway? I want to make sure everything is plugged in securely.
+
+Customer: (pause) Yeah, there's like a coaxial cable and... I think a power cable?
+
+Agent: Right, so just the coax cable and power. Can you check to see if the coax cable is hand-tight?
+
+Customer: (pause) It seems pretty tight already. Should I try loosening it and retightening it?
+
+Agent: Actually, yeah, that's a good idea. Sometimes they can get a little loose over time. Go ahead and give it a gentle quarter-turn counterclockwise to loosen it, then tighten it back up.
+
+Customer: (sounds of fumbling) Okay, loosening it... and tightening it back up. (pause) Done.
+
+Agent: Good. Now let's wait another minute and see if anything changes with those lights.
+
+Customer: (pause, longer pause) ...No change. Still the same red light.
+
+Agent: Alright. (pause) Okay, David, I've tried a few standard troubleshooting steps, but unfortunately we're not getting that connection light to turn green. At this point, I think we have two options.
+
+Customer: What are they?
+
+Agent: Option one is I can schedule a technician visit to come out to your home. They can check the lines coming in and inspect the equipment. That would be the best way to diagnose what's actually going on here. Or, option two is we can do an equipment replacement and have a new gateway shipped out to you, but that would take a few business days.
+
+Customer: How long would a technician visit take?
+
+Agent: Let me check our availability. (typing sounds, pause) Okay, so I can get someone out to you tomorrow afternoon between 2 and 5 PM. Would that work for you?
+
+Customer: Tomorrow? I really need it today if possible. I have back-to-back meetings this afternoon.
+
+Agent: (pause) Let me see if there's any availability for today. (typing, longer pause) Unfortunately, our technicians are pretty booked for today. The earliest I can get someone to you is tomorrow afternoon.
+
+Customer: Man, that's really not ideal, but... I guess I don't have much choice, do I?
+
+Agent: I know it's frustrating. I'm sorry about that. But the technician will definitely be able to get to the root of the issue and get you back online.
+
+Customer: Okay, yeah, go ahead and schedule it for tomorrow. I'll make it work somehow.
+
+Agent: Perfect. So I have you down for tomorrow between 2 and 5 PM. You should receive a confirmation text and email with all the details. Is there anything else I can help clarify about the appointment?
+
+Customer: No, I think that's it. I just... I hope it gets fixed.
+
+Agent: I understand, and I'm confident the technician will take care of it. You should be back online in no time. Thanks for your patience today, David, and I apologize again for the inconvenience.
+
+Customer: Yeah, alright. Thanks, I guess.
+
+Agent: You're welcome. Have a good day.
+
+Customer: You too.
+
+(call ends)

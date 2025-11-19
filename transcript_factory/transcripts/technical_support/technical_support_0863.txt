@@ -1,0 +1,105 @@
+# Frontier Communications Support Call Transcript
+
+Agent: Thank you for calling Frontier Communications customer support. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, thanks for picking up. So, um, my internet's been down since this morning and I have no idea what's going on. I really need to get this fixed.
+
+Agent: I'm sorry to hear that. We'll do our best to get you back online. Let me pull up your account here. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's... hold on. (rustling) It's 555-0147. That's the phone number on the account.
+
+Agent: (typing sounds) Perfect, I'm seeing your account now. So your internet service is currently down as of this morning, is that correct?
+
+Customer: Yeah, this morning around like, eight or nine o'clock. One minute it was working and the next it just... nothing. No connection at all.
+
+Agent: Okay, I understand how frustrating that is. Let me walk through some troubleshooting steps with you real quick. First, can you tell me—do you have the Frontier gateway router, or do you have your own modem and router setup?
+
+Customer: I think it's... yeah, I have the one you guys provided. The white box thing.
+
+Agent: Great, that's our gateway. Alright, what I'd like you to do is look at the front of the device. Can you tell me what lights you're seeing? Are they on, off, blinking?
+
+Customer: (pause) Uh, let me go look at it. (background noise of footsteps) Okay, so... the power light is on, it's green. But the internet light... it looks like it's not on? Or it's red? It's definitely not green.
+
+Agent: Okay, so the power is good but the internet light is red or off. That's helpful information. Let's try a restart. Can you unplug the gateway for me? Just pull the power cable out.
+
+Customer: Sure, one second. (pause) Okay, it's unplugged.
+
+Agent: Great. Now let it sit for about thirty seconds while we're waiting. This helps reset the system.
+
+Customer: (pause) Alright...
+
+Agent: So while we're waiting, has anything changed recently? Did you have any storms or power outages in your area?
+
+Customer: No, nothing like that. Weather's been fine actually. It's been pretty normal all week.
+
+Agent: Okay, good to know. Did you make any changes to your setup? Like, did you move anything around or add any new devices?
+
+Customer: Nope, everything's exactly where it was. I didn't touch anything.
+
+Agent: Alright. You know what, go ahead and plug that gateway back in now.
+
+Customer: (pause, plugging sound) Done. Plugging it back in now.
+
+Agent: (typing sounds) Give it about a minute to fully boot back up. You should see the lights coming on in sequence.
+
+Customer: (pause) Okay, so... the power light came back on. Still green. And now I'm waiting for the internet light...
+
+Agent: Take your time.
+
+Customer: (pause, longer) Hmm, the internet light is still... I don't think it's coming on. It's still off.
+
+Agent: Still not coming on, okay. Let me check something on our end. (typing) I'm looking at your line here. It looks like we might have a signal issue coming to your address. Can you tell me—and I know this might sound simple—but is your coax cable, that's the thick cable that goes into the gateway, is it securely connected?
+
+Customer: The coax cable? Um... (pause) Let me check. (background noise) Yeah, it looks pretty tight to me. I'm not... I don't know, it seems connected.
+
+Agent: Can you try unscrewing it and screwing it back in? Sometimes these connections can loosen up over time.
+
+Customer: Oh, okay. (pause) Yeah, I can do that. (pause) Alright, unscrewing it now. And... (pause) putting it back on. Let me tighten this up... (pause) There we go.
+
+Agent: Good. Now let's see if that helps. Give it about thirty seconds to reestablish the connection.
+
+Customer: (pause) And... no, still nothing. Still no internet light.
+
+Agent: Hmm. Okay, let me try something else. I'm going to check if there's a service issue in your area. (typing sounds, longer pause) I'm actually not seeing any reported outages in your zip code, so that's good news and... well, not great news at the same time. Let me check your modem's signal levels. (typing) Are you getting any lights at all on the downstream or upstream indicators?
+
+Customer: Uh... I'm not really sure which ones those are. There's like, four or five different lights on the thing.
+
+Agent: Okay, no problem. Looking at the gateway from the front, left to right, can you just tell me which lights are lit up?
+
+Customer: (pause) So the one on the far left is green. Then there's one that's... off? And then another one that looks like it might be slightly on? It's very dim. And then the one on the right is off.
+
+Agent: Alright, so we've got power, and then some very weak signal coming through. That... (pause) that actually suggests there might be a line issue between our equipment at the node and your gateway. It could be the cable line itself, or possibly our equipment on our end.
+
+Customer: Oh. So what does that mean? Can we fix it?
+
+Agent: Well, normally what I would do here is schedule a technician to come out and check the line. They can test all the connections, both outside and inside, and see if there's a physical problem with the cabling or if there's an issue on our network side.
+
+Customer: How long would that take? Because I really need my internet. I have to work from home.
+
+Agent: I completely understand. Let me see what availability we have. (typing, pause) Looking at our schedule, the earliest I can get someone out to you would be... tomorrow between 8 AM and 12 PM. Does that work for you?
+
+Customer: Tomorrow? That's... okay, I guess it'll have to be. But do you think this will actually fix it?
+
+Agent: Honestly, it's hard to say without the tech being there, but based on what we're seeing with that signal degradation, there's definitely something not working properly on the line. It could be anything from a loose external connection, to damage on the cable line, to a bad port on our equipment. The tech will be able to diagnose exactly what it is.
+
+Customer: Alright, fine. Let's schedule that for tomorrow.
+
+Agent: Great. And just to confirm the address... (typing) I've got it as 742 Maple Street, apartment 3B. Is that correct?
+
+Customer: Yep, that's it.
+
+Agent: Perfect. So we have you down for a technician visit tomorrow, [inaudible] between 8 AM and noon. You'll receive a confirmation text and email at the address on file. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. I'm just... I'm really hoping the tech can fix this quickly.
+
+Agent: I understand. I wish I could resolve it over the phone, but we've done what we can from here. The tech should be well-equipped to handle it. We appreciate your patience, and I'm sorry for the inconvenience.
+
+Customer: Thanks, I guess. I'll see you tomorrow then.
+
+Agent: You're welcome. Thank you for calling Frontier, and have a good rest of your day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.
+
+(call ends)

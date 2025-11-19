@@ -1,0 +1,141 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. So my internet just went out about an hour ago and I can't get it back up. I've got stuff I need to do for work and I'm kind of freaking out here.
+
+Agent: I understand, that's definitely frustrating. Let me help you get this sorted out. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147. The area code is 412.
+
+Agent: (typing sounds) Okay, I'm pulling that up now. And what's your name?
+
+Customer: Michael. Michael Brennan.
+
+Agent: Perfect, Michael. Thanks for that. Okay, I've got your account here. I see you're on our Fiber 500 plan. So let's do some basic troubleshooting. First thing—can you tell me what you're seeing right now? Like, do you have any lights on your modem or router?
+
+Customer: Um, yeah, so the modem has a red light on it. Just solid red. And the router... I think the router is off or something because it's not lit up at all.
+
+Agent: Okay, red light on the modem typically means there's no connection coming in. That's what we're gonna focus on. So the red light—is it steady or is it blinking?
+
+Customer: It's... it's just steady. Just sitting there red.
+
+Agent: Got it. And when did this happen? Did anything change before it went out? Like a storm, power outage, anything like that?
+
+Customer: No, nothing. I was just working, my internet was fine, and then just... boom, it cut out. No power outage or anything. It's weird.
+
+Agent: Alright, that's helpful. So here's what I want you to do. I need you to power cycle the modem for me. Can you locate the power cable on the back of it?
+
+Customer: (pause) Yeah, I see it.
+
+Agent: Okay, go ahead and unplug it for me. Let it sit for about thirty seconds.
+
+Customer: (background noise) Okay, unplugged. I'm just gonna... (pause) ...sitting here. How much longer?
+
+Agent: Another fifteen seconds or so should be good.
+
+Customer: (pause) Alright, that should be thirty.
+
+Agent: Perfect. Go ahead and plug it back in and let's see if we get any change in those lights.
+
+Customer: (background noise of plugging in) Okay, plugging it back in now. (pause) Lights are coming on... I see some amber lights now, which is better than the red I guess?
+
+Agent: Right, that's good. That means it's initializing. That amber should cycle through to green. Give it about two to three minutes for the boot-up sequence to complete.
+
+Customer: Okay, I'll wait. (long pause) So... how long have you been working there?
+
+Agent: (chuckles) Few years now. You know how it is. So while we're waiting, let me ask—have you noticed any issues with your connection recently? Anything cutting out before this?
+
+Customer: Not really, no. It's been pretty solid until today. I mean, it's not the fastest internet in the world, but it works, you know?
+
+Agent: Sure, sure. (pause) How are we looking on those lights?
+
+Customer: Um... (pause) ...still amber. Still blinking amber. It's been like, what, two minutes?
+
+Agent: Okay, that should be almost there. Give it about thirty more seconds.
+
+Customer: (pause) Okay... (pause) ...still amber.
+
+Agent: (pause) Alright, let me check something on my end. (typing sounds) Hmm. Michael, I'm going to need you to look at the back of the modem for me. Can you see any cables plugged in besides the power?
+
+Customer: Yeah, there's like... there's the power cable and then there's another cable that goes to... I don't know, it's thick and yellow. Goes into the wall I guess.
+
+Agent: That's the fiber optic cable, okay? Can you make sure that's snug? Sometimes if that gets loose it'll cause this issue.
+
+Customer: (background noise) Yeah, I'm checking it. It looks... it seems pretty tight actually. Feels solid.
+
+Agent: Okay, and that yellow cable—does it look damaged at all? Any kinks or anything?
+
+Customer: No, it looks fine. Looks normal.
+
+Agent: Alright. (pause) How are those lights looking now?
+
+Customer: (pause) Still amber, man. This is taking a while.
+
+Agent: Yeah, I hear you. Sometimes these can take a bit. Let's give it another minute and then we'll try something else if it doesn't come up green.
+
+Customer: Okay. (long pause) This is really frustrating. I have a deadline and...
+
+Agent: I totally understand. We'll get you back up. Let me just... (typing sounds) ...check the network on my end here. (pause) Okay, I'm actually seeing something. It looks like there might be a line issue coming to your address. When did this red light first appear?
+
+Customer: Like I said, about an hour ago. Why, what does that mean?
+
+Agent: Well, it could be a few things. Could be a service disruption in your area, could be a problem with the line itself. Let me check our outage map. (typing sounds) (pause) I'm not seeing any active outages reported in your zip code right now, which is... hmm.
+
+Customer: So what do we do?
+
+Agent: Okay, so I want to try one more thing before we escalate this. I'm gonna need you to restart the router as well. Can you locate that?
+
+Customer: Yeah, it's sitting on the shelf. I'll unplug it.
+
+Agent: (pause) Okay, go ahead.
+
+Customer: (background noise) Unplugging it now. (pause) How long for this one?
+
+Agent: Thirty seconds again, same as before.
+
+Customer: (pause) Waiting... (pause) Okay, plugging it back in. (background noise) There we go.
+
+Agent: Alright, let's give both devices a minute to communicate with each other and come online.
+
+Customer: (pause) The modem is still amber though. I don't think anything changed.
+
+Agent: (pause) I see. Let me check... (typing sounds) ...yeah, I'm actually seeing that your line isn't registering on our network right now. That's the issue. The modem is trying to connect but it can't handshake with our equipment.
+
+Customer: So what does that mean? Is it broken?
+
+Agent: Not necessarily. Could be a few things. Could be an issue with the ONT—that's the box, basically—or it could be a line issue. Unfortunately, I'm not able to reset that remotely. We'd need to send a technician out to your location to do a physical diagnostic.
+
+Customer: How long does that take? When can someone come out?
+
+Agent: (typing sounds) Let me see what we have available. (pause) Okay, so I can get someone out there either tomorrow between 8 AM and noon, or the day after tomorrow between 1 PM and 5 PM. What works better for you?
+
+Customer: Tomorrow morning? Can't you do today? It's only like 3 o'clock.
+
+Agent: I wish I could, Michael, but our technicians are pretty booked up right now. Tomorrow morning is really the earliest we have.
+
+Customer: (sighs) Yeah, okay. Tomorrow morning then. I guess I'll figure something else out for work today.
+
+Agent: I appreciate that. Let me get that scheduled for you. And in the meantime, if you want to try unplugging everything again for like five minutes and plugging it back in, you can, but I have to be honest—I don't think that's gonna resolve this one. This is looking like a line-level issue.
+
+Customer: Yeah, okay. I'll try it, but... alright, whatever.
+
+Agent: Alright, so I've got you down for tomorrow, 8 AM to noon. A technician will come out and run a full diagnostic. If there's an issue with the line or the ONT, they'll be able to repair or replace it. Is that address still 447 Maple Street?
+
+Customer: Yeah, that's right.
+
+Agent: Perfect. And they'll need access to where the fiber comes into the house, which is usually outside or in a closet or something. Do you know where that is?
+
+Customer: I think it's in the basement. Yeah, I'm pretty sure it's in the basement.
+
+Agent: Okay, just make sure that area is accessible when the tech shows up. Now, is there anything else I can help you with today, Michael?
+
+Customer: No, I guess not. Thanks, I mean... I appreciate you trying.
+
+Agent: Of course, I'm sorry we couldn't get it working today. But the tech tomorrow should have you back up and running. You should receive a confirmation text and email with the appointment details. Do you have any other questions for me?
+
+Customer: No, I think that's it.
+
+Agent: Perfect. Thanks for calling Frontier, Michael, and I'm sorry about the hassle. Have a good one.
+
+Customer: Yeah, thanks. Bye.
+
+Agent: Bye.

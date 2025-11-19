@@ -1,0 +1,115 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hey, yeah, um, my internet just went out about an hour ago and I can't get it back online. I've got stuff I need to do for work and it's pretty frustrating.
+
+Agent: I'm sorry to hear that. I know how annoying that can be. Let me help you get this sorted out. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Perfect, thank you. And just to confirm, I'm showing this is for the address on Maple Street, correct?
+
+Customer: Yeah, that's right. 42 Maple.
+
+Agent: Great. Okay, so your internet is completely down right now. Are you able to see any lights on your modem and router at all?
+
+Customer: Um... let me look. (pause) Yeah, I can see the modem has some lights on it. They're... it looks like they're blinking red and orange? Nothing's green.
+
+Agent: Okay, that's helpful information. The red and orange lights typically indicate there's a connection issue. Have you tried unplugging the modem yet and waiting about thirty seconds before plugging it back in?
+
+Customer: No, I haven't done that yet. Should I do that now?
+
+Agent: Yeah, go ahead. That's actually one of the first things we try because it can reset the connection. Just unplug it from the power source, wait about thirty seconds—you can count it out—and then plug it back in.
+
+Customer: Okay, unplugging now. (pause) Yeah, it's unplugged. I'm just gonna wait... (pause) Alright, plugging it back in now.
+
+Agent: Perfect. And just so you know, it can take a couple minutes for the modem to fully restart and reconnect. While we wait, let me ask you—have there been any recent storms in your area, or has anything changed with your setup recently?
+
+Customer: No storms that I know of. And no, nothing's changed. It was working fine this morning and then just... stopped.
+
+Agent: Okay. (pause) How's it looking now? Are you seeing any changes in those lights?
+
+Customer: Um, yeah actually. I'm seeing... (pause) ...some of the lights are starting to turn blue now? And green?
+
+Agent: Excellent. That's a good sign. The green light means it's connecting properly. Give it another minute or so to fully stabilize.
+
+Customer: Okay. (pause) Alright, it looks like everything's green now. Let me try to connect to the Wi-Fi on my phone and see if... (pause) Hmm. That's weird.
+
+Agent: What's happening?
+
+Customer: Well, I can see the Wi-Fi network showing up, but when I try to connect, it's just timing out. It won't actually connect.
+
+Agent: Okay, let me check a few things on my end. (typing sounds) (pause) Alright, I'm showing your modem is back online and communicating with our network, which is good. But let me ask—are you trying to connect to the 2.4 GHz network or the 5 GHz network?
+
+Customer: I don't even know, honestly. I just see "Frontier-XXXX" and I've always just clicked that.
+
+Agent: That makes sense. So what we can try is, on your router, there should be a reset button. It's usually a small recessed button. Do you see that?
+
+Customer: (pause) Yeah, I see it. It's like a tiny little button in a hole, right?
+
+Agent: Exactly. We're going to do a factory reset on the router. I'll need you to hold that down for about ten seconds while the router is powered on.
+
+Customer: Okay... (pause) Holding it down now... (pause) ...still holding... (pause) Okay, released it.
+
+Agent: Good. Now the router's going to restart. This will take another couple minutes. We should see the lights cycle through different colors before they stabilize again.
+
+Customer: Alright, I'm watching it. (pause) Yeah, the lights are doing the thing. (pause) Okay, they're settling down again. Should be good now?
+
+Agent: Let's give it just another thirty seconds to make sure everything's fully booted up.
+
+Customer: (pause) Okay. (pause) Trying to connect to Wi-Fi now... (pause) Still nothing. It's still timing out.
+
+Agent: Hmm, alright. Can you tell me—are you getting an error message or is it just hanging?
+
+Customer: It's just like... it starts to connect and then after like thirty seconds, it says "couldn't connect to network."
+
+Agent: Okay. Let me pull up some more diagnostics on your account. (typing sounds) (pause) I'm not seeing any obvious issues on our end. Everything appears to be active and connected to the network. 
+
+The issue might be with the router itself at this point. When's the last time you rebooted your computer or phone?
+
+Customer: Today? I mean, I restarted my phone this morning, but I haven't restarted my computer. Should I try that?
+
+Agent: Sure, yeah, that could help. Sometimes there's a caching issue with the device. Go ahead and do a full restart of your computer and we'll try again.
+
+Customer: Okay, give me just a second. (pause) Restarting now. (pause) This is gonna take a minute.
+
+Agent: No problem. While that's coming back up, let me ask you something else—do you have any other devices that could connect to the network? Maybe a tablet or another phone, just to test?
+
+Customer: Um, I have another phone. Let me try that one.
+
+Customer: (pause) Okay, I'm trying to connect on my other phone now... (pause) Yeah, same thing. It won't connect. It's doing the same timeout error.
+
+Agent: Alright, so it's not device-specific then. That's actually helpful information. (typing sounds) (pause) Okay, so here's what I'm thinking—it sounds like the router might have gotten corrupted somehow. Let me try to access the router remotely and see if I can see what's going on.
+
+Customer: Can you do that?
+
+Agent: I can try. Let me see... (typing sounds) (pause) Hmm, I'm not able to establish a remote connection to it. That's unusual. Let me try a couple other diagnostic tools here. (pause) (typing sounds)
+
+Customer: What does that mean?
+
+Agent: Well, it means there might be a hardware issue with the router, or possibly with the modem as well. I'm going to try one more thing—let me put you on a brief hold while I check with my supervisor to see if there's anything else we can try remotely.
+
+Customer: Okay, sure.
+
+Agent: (hold music) (pause)
+
+Agent: Okay, I'm back. So I spoke with my supervisor and unfortunately, we're not able to resolve this from our end. What we're likely looking at is either a modem or router hardware failure. The good news is both of those are covered under your service.
+
+Customer: Wait, so you're saying I just... can't fix this?
+
+Agent: Not from our end, no. What I can do is set up a technician visit for you. Our earliest availability is tomorrow afternoon between 2 and 6 PM. Does that work with your schedule?
+
+Customer: Tomorrow? Really? I need internet today. I have work I need to do.
+
+Agent: I completely understand how frustrating that is. Unfortunately, we don't have any emergency appointments available today, but I can add a priority flag to your account so when the technician comes out tomorrow, they'll have this marked as urgent. They may also bring replacement equipment depending on what they find.
+
+Customer: This is... okay. I guess I don't have much choice. Can I do the 2 to 6 window tomorrow?
+
+Agent: Absolutely. Let me get that scheduled for you. (typing sounds) You're all set for tomorrow, 2 to 6 PM. You'll receive a text confirmation shortly with a technician ID number. Is there anything else I can help clarify before I close out this ticket?
+
+Customer: No, I guess that's it. Hopefully they can fix it tomorrow.
+
+Agent: I certainly hope so too. Again, I apologize that we couldn't resolve this remotely today. But our technician will get to the bottom of what's going on. Thank you for being so patient, and thanks for calling Frontier Communications.
+
+Customer: Yeah, thanks. Bye.
+
+Agent: Bye now.

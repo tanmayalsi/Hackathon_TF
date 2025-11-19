@@ -1,0 +1,125 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet's been down since this morning and I have no idea what's going on. I need to get this fixed.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. I'd be happy to help you troubleshoot. Can I grab your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, pulling that up now. One second... Alright, I've got your account here. I'm seeing you're on our Fiber 200 plan. Is that still the service you're subscribed to?
+
+Customer: Yeah, that's right.
+
+Agent: Perfect. And just to confirm, you're getting no internet at all right now?
+
+Customer: None. The modem's been blinking red since around 8 AM. I tried unplugging it and plugging it back in, but nothing changed.
+
+Agent: Okay, that red light typically indicates a connection issue. Let's try a few things. First, can you tell me if you're seeing any lights on the modem right now? And what color are they?
+
+Customer: Um... there's a red light on the left side, and then there's like a... I think it might be orange? It's hard to tell with these lights. And there's a power light that's green.
+
+Agent: Okay, so red and orange, got it. The orange light is likely your Internet light, and that's what we need to get back to blue or green. Can you check the back of the modem for me? Are all the cables plugged in securely?
+
+Customer: (pause) Yeah, I'm looking now. I see the power cable, it's plugged in. There's another cable coming from the wall... let me make sure. Yeah, that looks tight.
+
+Agent: Great. And do you see two ethernet cables, or do you have any devices connected to the modem with cables?
+
+Customer: Oh, one sec. I've got my laptop plugged in with an ethernet cable, and then there's... yeah, there's another cable. That one goes to my router.
+
+Agent: Perfect. Can you unplug that ethernet cable from your laptop for me? Just for a moment.
+
+Customer: Okay, it's unplugged.
+
+Agent: Now, I want you to unplug the power cable from the back of the modem for about 30 seconds. While that's unplugged, can you also unplug your router if you have one?
+
+Customer: Yeah, I'm doing that now. (pause) Okay, both are unplugged.
+
+Agent: Alright. Let's wait about 30 seconds. This will help reset everything. (pause) How long have you had your service with us?
+
+Customer: About two years now. It's been pretty reliable until today.
+
+Agent: That's good to hear. We appreciate your business. Go ahead and plug the modem back in first.
+
+Customer: Doing it now. (pause) It's powered back up.
+
+Agent: Great. Now, we're going to wait about a minute for it to fully boot up. While we're waiting, has anything changed recently? New equipment, any storms in your area, anything like that?
+
+Customer: No, nothing really. It was working fine yesterday. Actually, wait—there was some construction outside my building. They were digging or something. But that was like... a week ago?
+
+Agent: (typing sounds) Hmm, okay. That's probably not related then. How's the modem looking now?
+
+Customer: Um, the power light is green. The red light is still there, and the orange light too.
+
+Agent: Okay, that's normal while it's starting up. Go ahead and plug your router back in as well.
+
+Customer: (pause) Done.
+
+Agent: Alright. Can you give it about another 45 seconds or so? (pause) While we're waiting, have you checked if there are any outages in your area? Sometimes we have scheduled maintenance.
+
+Customer: No, I didn't think to do that. Should I be checking your website?
+
+Agent: You could, yeah. Or you can tell me your address and I can check on my end. What's your service address?
+
+Customer: It's 428 Maple Street, Apartment 3B.
+
+Agent: (typing sounds) Okay, let me pull that up. (pause) I'm not showing any outages or maintenance in your area currently. Now, how's that modem looking?
+
+Customer: The red light is... still red. The orange is still orange. This doesn't seem to be working.
+
+Agent: I know, I'm sorry. Let me try a few more things. Can you do a full factory reset on the modem? There should be a small reset button on the back. You'll need something like a paperclip to press it.
+
+Customer: Uh, yeah. Let me grab something. (pause) Okay, I found a pen. I'm pressing the button... (pause) Nothing's really happening.
+
+Agent: It might take a minute. The lights should all go out and then come back on. Just hold it for about 10 seconds.
+
+Customer: [inaudible] ...okay, everything just went dark. Now... (pause) now the lights are coming back on. The green power light is on. And I'm seeing... red and orange again.
+
+Agent: (pause) Okay, that's not what we want to see. Let me check something on my end. (typing sounds) Can you tell me, when you look at your modem, is there a model number on the sticker?
+
+Customer: Yeah, it says... FXC2200.
+
+Agent: Perfect. Let me pull up your connection history here. (typing sounds, pause) Hmm. Alright, I'm going to be honest with you—I'm seeing that your modem connected briefly about 20 minutes ago, but then it dropped. And before that, nothing since this morning. That tells me it might be a hardware issue or possibly a line issue outside your apartment.
+
+Customer: What do you mean a hardware issue? Do I need a new modem?
+
+Agent: It's possible, but let me try one more thing before we go down that road. I'm going to reboot your modem from my end. Can you just watch it for me?
+
+Customer: Okay, I'm watching it now.
+
+Agent: (pause, typing sounds) Alright, I've sent the reboot command. You should see the lights go out in the next few seconds.
+
+Customer: (pause) They're starting to go dark now. Power light's off. Everything's off. (pause) Okay, they're coming back on. (pause) Power's green again. And... (long pause) ...still red and orange. Same thing.
+
+Agent: Yeah, I was afraid of that. Okay, listen—I think we're looking at either a modem failure or potentially a line issue. Since you mentioned construction in the area a week ago, it's possible there's a fiber cut or damage we haven't detected yet. 
+
+Customer: So what does that mean? How do I get internet back?
+
+Agent: We have a couple options. One is I can send you a replacement modem, but honestly, based on what we're seeing, I don't think that's going to solve the problem. The bigger issue might be the line itself. I think we should get a technician out to your location to check the fiber line coming into your building.
+
+Customer: When can someone come out?
+
+Agent: (typing sounds) Let me check availability. What days work best for you?
+
+Customer: Um, I'm pretty flexible. Just... soon? I'm working from home and I really need my internet.
+
+Agent: I completely understand. Let me see... (pause) I can get someone out there tomorrow between 8 AM and 12 PM, or the day after tomorrow in the afternoon. Which works better?
+
+Customer: Tomorrow morning would be better if possible.
+
+Agent: Perfect. Let me get that scheduled for you. (typing sounds) Alright, I've got a technician appointment for you tomorrow, 8 AM to 12 PM. Is there anything else I can help you with before we wrap up?
+
+Customer: No, I guess that's... I mean, hopefully they can fix it tomorrow. This is really inconvenient.
+
+Agent: I absolutely understand, and I apologize for the inconvenience. I'm going to make a note on your account that this is urgent. The technician will prioritize your location. You should get a confirmation text and email shortly with all the details.
+
+Customer: Okay, thanks.
+
+Agent: Is there a number the technician can call if they need to reach you?
+
+Customer: The number on the account should be fine.
+
+Agent: Perfect. Well, I'm sorry we couldn't get this resolved over the phone today, but I'm confident our technician will be able to diagnose the issue tomorrow. Thank you for being a Frontier customer, and we appreciate your patience.
+
+Customer: Alright, thanks. Goodbye.
+
+Agent: You're welcome. Have a good day.

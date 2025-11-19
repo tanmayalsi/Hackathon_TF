@@ -1,0 +1,115 @@
+# Frontier Communications Support Call
+
+Agent: Thank you for calling Frontier Communications customer support. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, thanks for picking up. So, um, my internet has been down since this morning and I'm not really sure what's going on. I work from home and I really need to get this fixed.
+
+Agent: I completely understand how frustrating that must be. I'm sorry you're experiencing that. Let me pull up your account here and we can get to the bottom of this. Can I get the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, let me just... got it. I'm showing an account for a residential address on Maple Street. Is that correct?
+
+Customer: Yes, that's right.
+
+Agent: Perfect. So your internet is completely down, or are you seeing any lights on your modem or router?
+
+Customer: Um, the modem... let me look at it. Yeah, the lights are on. I see a couple of green lights and... I think there's a red one blinking?
+
+Agent: Okay, a red blinking light could indicate a few different things. Let me walk you through some troubleshooting steps here. First, can you tell me what model modem you have? It should say on the front or back of the device.
+
+Customer: Let me check. It says, uh... "Arris" and then... SB8200?
+
+Agent: Great, that's a solid modem. Okay, so here's what I'd like you to do first. Can you unplug the modem from the power for about 30 seconds? While you're doing that, I'll check a few things on my end.
+
+Customer: (pause) Yeah, okay, unplugging it now.
+
+Agent: (typing sounds) So I'm looking at your service history and I actually do see we had some scheduled maintenance in your area early this morning. That could potentially be related to what you're experiencing. Sometimes after maintenance, modems need to be restarted.
+
+Customer: Oh, okay. So that might be it then?
+
+Agent: It's possible. Let's see once we get the modem back online. Go ahead and plug that back in whenever you're ready.
+
+Customer: Alright, plugging it back in... (pause) ...okay, it's back on.
+
+Agent: Good. Give it a few seconds to boot up. You should see the lights start going through their startup sequence. Once everything settles, you should see a solid green light on the internet indicator. Can you let me know when that happens?
+
+Customer: (pause) I'm watching it... the lights are doing their thing... and, hmm, okay so I'm not... I'm still seeing that red light blinking.
+
+Agent: Still red? Okay, let me check something on our end. (typing sounds) Hmm, I'm actually seeing that your modem is online in our system right now. That's interesting. So let me ask you—when you say your internet isn't working, are you able to see the WiFi network pop up on your devices?
+
+Customer: Yeah, I can see the WiFi network. It shows up with full bars and everything. But like, nothing's actually loading. Pages aren't loading, nothing. I tried to check email and it just times out.
+
+Agent: Okay, so you can connect to the network but you're not getting actual internet access. Let me have you try a hard reset on your router. Do you have a wireless router separate from the modem?
+
+Customer: I do, yeah. It's... uh, a Netgear. It's sitting right next to the modem.
+
+Agent: Perfect. I'd like you to unplug that as well and keep it unplugged for about 30 to 45 seconds.
+
+Customer: Okay, doing that now. (pause) Alright, it's unplugged.
+
+Agent: (typing sounds) While you're waiting, let me just pull up some additional diagnostics on your line. I'm going to check for any signal issues or line problems that might be causing this.
+
+Customer: Yeah, that sounds good. How much longer should I wait?
+
+Agent: Just about another 15 seconds or so... go ahead and plug the router back in.
+
+Customer: (pause) Okay, it's back in. Do I need to wait for it to boot up again?
+
+Agent: Yes, give it about a minute or so to fully initialize. The lights should go through their startup sequence as well.
+
+Customer: (pause) Alright... seems like it's back up. I'm seeing... similar situation though. WiFi is there, full signal, but I'm still not able to actually browse or anything.
+
+Agent: Hmm, okay. I'm looking at the diagnostics and... this is interesting. I'm seeing that there's actually a service degradation flag on your line. It looks like it might not have fully come online after the maintenance this morning.
+
+Customer: What does that mean? Like, is it something you can fix on your end?
+
+Agent: Let me try a few things. I'm going to send a refresh signal to your modem right now. Just give me a moment. (typing sounds) Okay, done. That should push a configuration update to your equipment.
+
+Customer: (pause) Okay, I'm waiting... anything happening yet?
+
+Agent: Give it about another minute for the modem to cycle through that. Keep an eye on those lights.
+
+Customer: (pause) Alright... still got the same situation. Red light is still there.
+
+Agent: Still seeing the same thing, huh? (pause) Okay, let me escalate this a bit here. I'm going to have you check something for me. Can you try plugging a device directly into the modem with an ethernet cable? That will help me determine if it's a WiFi issue or a broader connectivity issue.
+
+Customer: Um, I don't really have an ethernet cable handy. Is that important?
+
+Agent: It would help us narrow down the problem, but I understand. Let me try another approach. Have you noticed any of the lights on the modem changing color or behavior in the last minute or two?
+
+Customer: (pause) No, not really. They seem to be staying the same. Red one's still blinking, greens are green...
+
+Agent: [inaudible] Alright, so based on what I'm seeing here and what you're telling me, it seems like there's an issue with the signal coming into your modem from our network. The maintenance this morning may have affected your connection in a way that requires a more hands-on approach.
+
+Customer: What does that mean? Do I need a technician or something?
+
+Agent: It very well might come to that, yes. I'm going to be honest with you—I've tried the standard troubleshooting steps and the line-side resets, and the signal degradation isn't clearing. Usually that indicates either a signal quality issue on the line itself or possibly equipment at the node level that needs attention.
+
+Customer: So you can't fix it from there?
+
+Agent: Unfortunately, not in this case. I wish I could. What I'd like to do is schedule a technician visit for you. They can check the line quality, verify all the connections, and if there's something that needs to be repaired on our infrastructure, they can handle that as well.
+
+Customer: Okay... how long before someone can come out?
+
+Agent: Let me check our availability. (typing sounds) What's your general availability looking like? Are you available during business hours?
+
+Customer: Yeah, I mean, I need the internet, so I'll make time. When's the soonest you have?
+
+Agent: I'm showing that we have availability tomorrow between 1 and 5 PM. Does that work for you?
+
+Customer: (pause) Yeah, tomorrow afternoon works. Can you do like, morning instead? I need to try to get some work done.
+
+Agent: Let me see... (typing sounds) It looks like our morning slots are actually full for tomorrow, but I can get you on the list for 1 to 5 PM. We do typically get there on the earlier end of those windows.
+
+Customer: Alright, fine. Let's do it.
+
+Agent: Perfect. So I have you down for tomorrow, 1 to 5 PM. The technician will be able to diagnose and repair the issue at that time. Is there anything else I can help you with while we're on the call?
+
+Customer: No, I guess that's it. I just really hope this gets fixed tomorrow because I can't work without it.
+
+Agent: I completely understand, and I apologize for the inconvenience. The technician will take good care of you. You should receive a confirmation text and email shortly with all the details. If you have any questions before tomorrow, feel free to give us a call back.
+
+Customer: Okay, thanks.
+
+Agent: Thank you for choosing Frontier Communications, and I'm sorry we couldn't resolve this remotely today.

@@ -1,0 +1,30 @@
+You will be generating a realistic call transcript for Frontier communications, a Fiber internet service provider. Generate the call based on the provided call details.
+
+<call_details>
+{{CALL_DETAILS}}
+</call_details>
+
+Your task is to create a believable, detailed call transcript that matches the scenario described in the call details above. The transcript should feel authentic and include natural conversation flow, realistic dialogue, and appropriate context.
+
+Here are the requirements for your transcript:
+
+**Formatting:**
+- The call starts with the "Agent:" first greeting the customer. 
+- No title or date or timestamps.
+- Start each speaker's line with their role followed by a colon. ("Customer:" or "Agent:")
+- Add brief action descriptions in parentheses when relevant (e.g., "(background noise)", "(pause)", "(typing sounds)")
+- Use "..." to indicate trailing off or hesitation
+- Use "[inaudible]" for parts that would be unclear in a real recording
+
+**Content Guidelines:**
+- Make the dialogue sound natural and conversational, including filler words, interruptions, and realistic speech patterns
+- Include appropriate greetings, transitions, and closing remarks
+- Ensure the conversation flows logically and addresses the key points mentioned in the call details
+- Keep the length appropriate for the type of call described (typically 3-10 minutes for most business calls)
+- Include realistic details that would naturally come up in such a conversation
+- Make sure all speakers have distinct voices and speaking styles
+
+**Realism:**
+- Include minor technical issues, brief holds, or other common call experiences if appropriate
+- Add realistic background context or references that would naturally occur
+- Ensure the tone and formality level matches the type of call described

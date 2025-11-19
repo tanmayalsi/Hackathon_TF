@@ -1,0 +1,199 @@
+Agent: Thank you for calling Frontier Communications. This is Marcus speaking. How can I help you today?
+
+Customer: Hey, yeah, hi. So my internet's been down since this morning and I'm not really sure what's going on. I've got an important work meeting in like twenty minutes, so I'm kind of freaking out a little bit here.
+
+Agent: Oh man, I'm sorry to hear that. Let me definitely help you get that sorted out. Can I grab your account number or the phone number associated with your account?
+
+Customer: It's 555-0847. That's my landline... well, it was my landline before I switched to mostly Frontier.
+
+Agent: (typing sounds) Perfect, I'm pulling that up right now. And can I get the name on the account?
+
+Customer: It's under David Chen.
+
+Agent: Got it, David. Okay, so you've been without internet since this morning. What time did you first notice it went down?
+
+Customer: Uh, probably around 7 AM? I was trying to check my emails and nothing would load. At first I thought maybe my router just needed a reset or something, so I unplugged it, waited like thirty seconds, plugged it back in, but... nothing. Still nothing.
+
+Agent: Okay, that's actually a good troubleshooting step that you already did. So when you say the internet's not working—can you see any lights on the router right now? Like, is it powered on?
+
+Customer: Yeah, it's on. I can see... let me look at it. There's like a power light that's green, but the internet light—I think it's supposed to be blue or something?—that one's not on. It's just off.
+
+Agent: Okay, so no internet light. That's helpful information. Let me ask you a few more things. Are you able to see the Frontier network when you scan for available WiFi networks on your phone or computer?
+
+Customer: (pause) No, actually. I just checked my phone and I don't see it. I don't see our network name at all.
+
+Agent: Alright, and do you know if there have been any recent storms or anything in your area? Or any construction work, power outages?
+
+Customer: No, nothing like that. It was fine yesterday. I was working from home all day yesterday and everything was perfect.
+
+Agent: Got it. Let me look at your account here... (typing sounds) Okay, so on my end, your modem is showing as offline. That could mean a few things. Let me have you try something for me. Can you locate your modem—that's the box that's separate from the router—and just to double-check, is it powered on as well?
+
+Customer: Oh, um... (pause) Yeah, I see it. It's got some lights on it too. There's a power light, and... okay, so there's like a downstream light, an upstream light, both green, but then there's like an online light and that one's red. That's not good, is it?
+
+Agent: So the online light being red means the modem isn't properly connected to our network. That's actually what I'm seeing on my end too. Okay, so here's what I want you to do. Can you unplug the modem for me? Just pull the power cable out.
+
+Customer: Okay, pulling it now.
+
+Agent: Perfect. While that's unplugged, I also want you to go ahead and unplug your router as well.
+
+Customer: Alright, both are unplugged.
+
+Agent: Great. Now I want you to wait for about two minutes. I know it seems like a long time, but this lets everything fully power down and reset.
+
+Customer: (pause) Yeah, sure, I can do that. (pause) I'm just... I'm really hoping this works because I've got to get online soon, you know?
+
+Agent: I completely understand, David. Let's see if this clears it up. (pause) Okay, go ahead and plug the modem back in first.
+
+Customer: It's back in. Okay, so the lights are... they're cycling through different colors now. Let me wait a second... (pause) Okay, I think I see the online light turning green now. That's good, right?
+
+Agent: Excellent! That's exactly what we want to see. Give that another thirty seconds to fully stabilize, and then go ahead and plug the router back in.
+
+Customer: Okay, plugging the router back in now. (pause) It's booting up... (pause) Alright, I'm seeing the lights come on. There's the power light, and... hmm. The internet light is still not coming on though.
+
+Agent: Still no internet light on the router?
+
+Customer: No, it's not on. It's been like thirty seconds and still nothing.
+
+Agent: Okay, let me ask you—what model router do you have? Do you see any model number on it?
+
+Customer: (pause) Um, I see... it says "Frontier" on it, and there's like... Netgear? Is that what I'm looking for?
+
+Agent: Yeah, Netgear is the brand. Do you see like a model number? Usually it's something like "AC1200" or similar.
+
+Customer: (pause) Yeah, I see "AC1900" on here.
+
+Agent: Perfect, okay. And when you reset everything, did the router lights go through like a boot-up sequence?
+
+Customer: Yeah, they were kind of blinking and stuff for a bit, but now they're just... the internet one is just staying off. And I'm still not seeing the WiFi network on my phone.
+
+Agent: Right. Okay, so here's what I want to try next. On the back of the router, there should be a small button—it might be recessed—usually labeled "Reset." Do you see that?
+
+Customer: (pause) I'm looking... yeah, I think I see it. There's like a tiny little button back here.
+
+Agent: Okay, don't press it yet—that's a factory reset and we want to avoid that if we can. But I want you to try something else first. Can you check if there's a cable connecting your modem to the router?
+
+Customer: Oh! (pause) Actually... I'm looking back here and I don't think anything's plugged into the modem. I mean, other than the power cable.
+
+Agent: Oh! Okay, so there might not be an ethernet cable running from your modem to the router?
+
+Customer: I think... I think there might be an issue with the cables? Let me... (sounds of things moving around) Actually, yeah, I see a cable on the floor here. It looks like it might have gotten knocked loose. Let me plug this into the modem... okay, where does the other end go?
+
+Agent: The other end should plug into one of the ports on the back of your router. Usually there's one that's a different color or labeled "Internet" or "WAN."
+
+Customer: (pause) Okay, I think I found it. Plugging it in now... (pause) Oh! Oh, I see the internet light on the router is starting to blink now!
+
+Agent: Great! That's a very good sign. Give it just a moment to establish the connection.
+
+Customer: (pause) Okay, and... (pause) it's still blinking but it looks like it might be... no, wait. It stopped blinking. Now it's just off again.
+
+Agent: Hmm, so it went off after it was blinking?
+
+Customer: Yeah, it was blinking for maybe like five seconds and then it just stopped. This is frustrating.
+
+Agent: I hear you. Let me check on the modem status again on my end. (typing sounds) (pause) Okay, I'm still seeing your modem online, which is good. But the router's not establishing. Let me ask—when you plugged that cable in, did you hear a click or feel it click into place?
+
+Customer: (pause) I... I'm not entirely sure? I mean, it looked like it went in, but maybe it didn't fully seat? Let me try unplugging it and plugging it back in again.
+
+Agent: Sure, go ahead.
+
+Customer: Okay... unplugging it... and back in. (pause) I'm definitely hearing a click that time. (pause) But the light is still not coming on.
+
+Agent: Okay. Let me ask you something—where is that cable coming from? Like, is it connected to the modem on the other end?
+
+Customer: (pause, sounds of movement) Oh... oh no. I don't think so. I don't think the other end is plugged into anything. It's just... it's just loose.
+
+Agent: Ah, okay, so that might be the issue. Let me have you try to locate where that other end should go. On the modem, look for a port that says "Ethernet" or has an icon that looks like a little network jack. Usually it's one of several ports on the back.
+
+Customer: (pause, background noise of things being moved around) Okay, I'm looking at the back of the modem here. I see several ports... there's like four of them and then one that's separate.
+
+Agent: The four ports together are likely your Ethernet ports. The separate one should be your Internet or WAN port. It might be a different color—often yellow or red.
+
+Customer: Okay, I see one that looks a little different. It's like, kind of yellowish?
+
+Agent: That sounds like it. Go ahead and plug the cable into that port.
+
+Customer: Okay, plugging it in... (pause) And I can feel it click. Now let me look at the router... (pause, several seconds of silence) Nothing. Still nothing.
+
+Agent: Still no light?
+
+Customer: Nope. No internet light. This is really not good.
+
+Agent: (typing sounds) Okay, let me check something here. David, can you tell me—when was the last time you definitely had working internet?
+
+Customer: Yesterday afternoon, I'd say around 4 PM. I was on a video call for work and everything was working fine.
+
+Agent: Okay, and nothing happened between then and this morning that you know of? No storms, power outages, anything like that?
+
+Customer: No, honestly, nothing. The power stayed on. Everything seemed normal. I just woke up this morning and it was down.
+
+Agent: Right. Okay, I'm looking at your account and I'm not seeing any alerts or issues on our end that would explain an outage. Let me try a couple more things. Do you have access to a computer or another device you could use to connect via Ethernet cable directly to the modem?
+
+Customer: I... I don't have a computer right here. I've just got my phone and the laptop, and the laptop is out of battery.
+
+Agent: Okay, no problem. Let me have you try one more thing with the router. Can you pull the power from the router again and just leave it unplugged for about one full minute this time?
+
+Customer: Sure. (pause) It's unplugged.
+
+Agent: Okay, while that's unplugged, let me just confirm that the cable is still firmly seated in both the modem and where it needs to connect on the router.
+
+Customer: (pause, sounds of movement) Okay, I'm checking... yeah, the modem end feels pretty secure. And on the router end, I can see it's... (pause) actually, wait. Let me look at this. The cable might not be fully in on the router side. It's kind of... loose-looking.
+
+Agent: Okay, try pushing that in again, make sure you hear that click.
+
+Customer: (pause) Okay, pushing it in hard... I feel it click. That feels better.
+
+Agent: Good. Okay, now go ahead and plug the router back in.
+
+Customer: (pause) Plugging it back in now. (pause) Okay, lights are coming on again. Booting up... (pause, several seconds) And... (pause) ...nothing. The internet light is still not turning on.
+
+Agent: (long pause) Okay, David, let me be honest with you. I've gone through the standard troubleshooting steps with you, and we're still not seeing the router establish a connection to the modem, even though the modem itself is online on our network. This could indicate a hardware issue—either with the router or with the cable itself.
+
+Customer: So what does that mean? Like, is my equipment broken?
+
+Agent: It could be. It could also potentially be the cable—sometimes those can go bad. But given that the router was working yesterday and now it's not, and we've restarted everything multiple times, my recommendation at this point would be to get a technician out to your location. They can check all the physical connections, test the equipment, and if something's faulty, they can replace it.
+
+Customer: How long would that take? I need my internet working. I've got work to do.
+
+Agent: I understand. Let me check availability for you. (typing sounds) What area are you in, or what's your ZIP code?
+
+Customer: It's 94105.
+
+Agent: (pause, typing sounds) Okay, so for that area, I'm looking at earliest availability being tomorrow between 1 and 5 PM. We do have some emergency same-day appointments, but those typically come with an additional fee. Or, if you have a phone line with us, you could potentially use that to work on some things. Do you have a Frontier phone line?
+
+Customer: No, I don't. I mean, I have cell phone. And I really can't wait until tomorrow. I've got client calls I need to do. (pause) How much is the emergency fee?
+
+Agent: The emergency same-day fee is typically $79.99, and then there's still the service call fee on top of that depending on whether it's equipment replacement or not. But I want to be upfront that I can't guarantee they'll be able to get there today in this timeframe. Can I put in a request and see what they say?
+
+Customer: (pause) Yeah, okay. I mean... yeah, let's try that. But I really need to see if there's any other option first. Are you absolutely sure there's nothing else we can try?
+
+Agent: (pause) Well, let me ask you one more time—you're absolutely certain that cable is fully connected on both ends? Because honestly, that's the only thing left I can think of.
+
+Customer: (pause, sounds of movement) I'm looking right now. Yeah, I... I mean, I feel like it is, but... you know what, let me try one more time. Maybe I wasn't pressing hard enough. (sounds of plugging and unplugging) Okay, I'm really pushing this in hard... (pause) ...and it's still the same. Internet light is still off.
+
+Agent: Alright, David, I think we've done what we can do over the phone. I'm going to go ahead and create that emergency service request for you, but I want to manage expectations—they might not be able to get out today.
+
+Customer: Okay, yeah. Do it. I don't know what else to do.
+
+Agent: (typing sounds) (pause) Alright, I've submitted the request. They'll call you at the number on file to confirm timing, and they should call you within the next hour or so. Your service request number is 8847-FCP-5521. Do you want me to repeat that?
+
+Customer: No, I got it. 8847-FCP-5521. And they're just going to call me?
+
+Agent: Yes, they'll call to confirm they can make it out today, or they'll offer you the next available appointment. Is there anything else I can help you with today?
+
+Customer: (pause) No, I guess not. I just... I was really hoping we could get this fixed over the phone.
+
+Agent: I completely understand. I'm sorry we weren't able to resolve it remotely. But the technician should be able to figure out what's going on and get you back online. Is there a number where they should reach you?
+
+Customer: The number on file should be fine. That's my cell phone.
+
+Agent: Perfect. Alright, David, I appreciate your patience, and we'll get you back online as soon as possible.
+
+Customer: Yeah, thanks, I guess. I hope they can make it today.
+
+Agent: We'll do our best. Thanks for calling Frontier Communications.
+
+Customer: Okay, bye.
+
+Agent: Goodbye, David.
+
+(call ends)

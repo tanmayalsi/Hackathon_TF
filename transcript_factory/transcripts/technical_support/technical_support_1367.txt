@@ -1,0 +1,133 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. My internet's been down since this morning and I've got no idea what's going on. I'm working from home and I really need to get this fixed.
+
+Agent: Oh man, I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here real quick. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, perfect. And just to confirm, is this David Martinez?
+
+Customer: Yes, that's me.
+
+Agent: Great, David. I'm really sorry you're experiencing this. Let me ask you a few quick questions. When you say your internet's been down since this morning, did you notice anything specific? Like, did you lose power or see any lights on your router?
+
+Customer: Well, yeah, actually. The router's still lit up. It's got power, but like... none of the lights that usually blink are doing anything. It's just sitting there dead.
+
+Agent: Okay, that's actually helpful information. So the modem's powered on but you're not seeing the normal activity lights. Have you tried unplugging it and plugging it back in yet?
+
+Customer: No, I haven't. Should I do that now?
+
+Agent: Yeah, let's do that. Go ahead and unplug the modem—that's the device with all the lights on it—and just count to about ten, then plug it back in. I'll hold here.
+
+Customer: (background noise, rustling) Okay, unplugged... counting... ten... and plugging back in now.
+
+Agent: Perfect. Give it about a minute to boot back up. While we're waiting, let me just ask—have you noticed any service issues in your area recently? Any storms or construction work?
+
+Customer: No, nothing like that. The weather's been fine all week.
+
+Agent: (pause) Okay, good. Are you seeing any lights coming back on the modem now?
+
+Customer: Um... yeah, actually. I'm seeing some blinking now. There's a green light and... it looks like it's connecting or something?
+
+Agent: Excellent. That's a really good sign. Now try opening a browser on your computer or phone and see if you can access anything. Try going to Google.com or something simple.
+
+Customer: (pause, typing sounds) I'm... loading... no, it's still not working. The page won't load. It's just spinning.
+
+Agent: Okay, no worries. Let me check a few things on my end. (typing sounds) I'm seeing that your modem is online in our system now, which is good news. But let me ask you—do you have a separate router, or are you just using the modem?
+
+Customer: I've got a separate router. It's connected to the modem with an ethernet cable.
+
+Agent: Perfect. And is that router powered on?
+
+Customer: Yeah, it's right there. I can see... all the lights are on on that too.
+
+Agent: Great. Okay, so here's what I want to try. Can you restart the router? Go ahead and unplug that one and wait about thirty seconds, then plug it back in.
+
+Customer: Sure, yeah. (rustling, pause) Okay, unplugging it now... (longer pause) ...and back on. It's booting up.
+
+Agent: Perfect. Give it another minute or so to fully come back online. In the meantime, let me just check your service status here. (typing sounds, longer pause) Hmm, okay, I'm not seeing any outages reported in your area, so that's good. Your modem is showing good signal strength coming from our network.
+
+Customer: So it should be working then?
+
+Agent: It should be, yeah. Let me have you try the internet again. Are the lights on the router all stabilized now?
+
+Customer: Yeah, they look normal. Let me try loading a page again... (pause) No, still nothing. It's not even trying to load. It just says "can't reach this page" or whatever.
+
+Agent: Hmm, that's strange. Okay, let me ask you this—are you connected to WiFi or are you hardwired with an ethernet cable?
+
+Customer: I'm on WiFi. Should I try... should I try the ethernet cable?
+
+Agent: That's actually a great idea. Let me try that. Grab an ethernet cable and plug directly into the back of your router if you can.
+
+Customer: (rustling, pause) Okay, I've got a cable. Plugging in now. One second... (pause) Okay, now let me try the internet. (pause) Oh! Oh wow, it's loading now! I'm getting to Google!
+
+Agent: Okay, great! So it's working through the ethernet cable. That tells me your modem and our service are fine, but there might be an issue with the WiFi on your router.
+
+Customer: So what do I need to do?
+
+Agent: Well, let me walk you through a few things. First, can you try restarting the router one more time? And this time, let me see if we can do a factory reset on it.
+
+Customer: A factory reset? Won't that erase everything?
+
+Agent: It will reset it back to default settings, so you'd have to set up your WiFi network again, but it should resolve the WiFi issue if that's what's causing the problem. Let's see if we can pinpoint it first though. Let me ask you—when's the last time you restarted this router?
+
+Customer: I... I don't know, man. A few weeks maybe? Maybe longer.
+
+Agent: That could be it, actually. Routers benefit from regular restarts. What I'd like you to do is unplug it, wait a full minute this time, and plug it back in. Don't do a factory reset just yet.
+
+Customer: Okay. (rustling, pause, long pause) Alright, it's plugged back in and booting up... (pause) Okay, the lights are on again. Let me try WiFi... (pause) No, still not working. WiFi's not connecting.
+
+Agent: Can you see your WiFi network showing up on your devices?
+
+Customer: Yeah, I can see it in the list, but when I try to connect it just says "can't connect."
+
+Agent: Okay, that's interesting. Do you remember the WiFi password?
+
+Customer: Uh, probably not off the top of my head, but I have it written down somewhere. Why, do I need to reconnect?
+
+Agent: That might help, actually. What I want you to do is try to connect again and re-enter the password. Sometimes there's a glitch and it just needs you to re-authenticate.
+
+Customer: (long pause with background noise) Okay, I found it... trying to connect... entering the password... (pause) Okay, and... no, it's still saying can't connect. It's not even accepting the password.
+
+Agent: Alright, so the router's not accepting connections at all. (pause, typing sounds) David, I hate to say this, but it sounds like there might be an issue with the WiFi radio in your router itself. That's separate from the modem, which seems to be working fine based on your ethernet connection.
+
+Customer: So what does that mean? Do I need a new router?
+
+Agent: It might be that, yeah. But let me try one more thing before we go down that road. I'm going to have you do a factory reset on the router. This will take about five minutes, but it might restore the WiFi functionality.
+
+Customer: Alright, what do I do?
+
+Agent: On the back of your router, there should be a small button labeled "Reset." You're going to need to hold that down for about ten to fifteen seconds. The lights will go dark, and then it'll restart from scratch.
+
+Customer: (rustling, pause) Okay, I'm looking at the back... I see the button. It's like really small, huh? (pause) Holding it down... ten seconds... fifteen... (pause) Okay, all the lights went dark. Now I just wait?
+
+Agent: Exactly. It'll take a couple minutes to fully boot back up. Just give it a few minutes and we'll see if the WiFi comes back.
+
+Customer: (longer pause) Okay... lights are coming back on... and it looks like it's fully booted up now. Let me try to connect to WiFi. (pause) I can see the network... (pause, longer pause) ...nope. Same thing. Won't connect. It's not even letting me try the password again.
+
+Agent: [inaudible, sounds like Derek is checking notes] Yeah, okay. I'm really sorry, David, but at this point I think we've exhausted the troubleshooting options on my end. The issue is definitely with your router's WiFi capabilities, not with Frontier's service or your modem. The fact that your ethernet connection is working perfectly tells me everything's fine on our end.
+
+Customer: So I need to buy a new router?
+
+Agent: Unfortunately, it looks like that's the case. Your router might be failing or there's an issue with the WiFi module. Since you're able to hardwire with ethernet, you can still use your internet that way in the meantime if you need to.
+
+Customer: This is really frustrating. I need WiFi for my phone and stuff.
+
+Agent: I completely understand, and I'm really sorry we couldn't get this resolved today. If you do decide to get a new router, we can certainly help you set it up when you call back in. We support most major brands. And just so you know, if you'd like, we also offer a WiFi router as part of our Frontier service. It's $10 a month and we provide tech support for it.
+
+Customer: Hmm, maybe I'll look into that. So just to be clear, you're saying my internet service is actually fine?
+
+Agent: Yes, absolutely. Your modem is working perfectly, and your connection to our network is solid. It's just the WiFi router that needs to be replaced. You should be all set once you get a new router up and running.
+
+Customer: Alright, well, thanks for trying. This is just... it's frustrating, you know?
+
+Agent: I know, and I really am sorry. Is there anything else I can help you with today? Would you like me to get some information about our router rental program?
+
+Customer: No, I'll figure it out. Thanks.
+
+Agent: Alright, thank you for calling Frontier Communications, David. Have a good rest of your day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

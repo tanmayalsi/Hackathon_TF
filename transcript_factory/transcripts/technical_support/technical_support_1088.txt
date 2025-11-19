@@ -1,0 +1,119 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, thanks for picking up. So, um, my internet has been down since this morning and I really need to get this fixed. I work from home and I've already lost a couple hours.
+
+Agent: I'm really sorry to hear that. I know how frustrating that can be. Let me help you get back online. Can I grab some information from you first? What's the phone number or account number associated with your account?
+
+Customer: Yeah, it's... hold on. (pause) Okay, it's 555-0147.
+
+Agent: (typing sounds) Perfect, thank you. And what's the name on the account?
+
+Customer: Michael Torres.
+
+Agent: Great, Michael. I've got your account pulled up here. I see you're on our Fiber 200 plan in the Westchester area. So the internet just went out this morning?
+
+Customer: Yeah, sometime around eight-thirty or nine. I was in the middle of a call with my boss and everything just... stopped. I haven't been able to get it back since.
+
+Agent: Okay, that's definitely not ideal. Well, let's see what we can figure out. First thing I'm gonna have you do is look at your gateway—that's the modem and router box. Do you see that?
+
+Customer: Yeah, it's right here on the shelf. Um... (pause) okay, I'm looking at it.
+
+Agent: Perfect. Can you tell me what color the lights are on the front? Are they lit up?
+
+Customer: So, uh... the power light is on—that's green. But the internet light... it's not on at all. It's just dark.
+
+Agent: Alright, so the power is good but we're not seeing an internet connection light. That tells me the gateway's not detecting a signal from our network. Let's try the simplest fix first. I'm gonna have you do a restart. Go ahead and unplug the power cable from the back of the gateway.
+
+Customer: (pause) Okay, it's unplugged.
+
+Agent: Great. Now just leave it unplugged for about thirty seconds. While we're waiting, Michael, have you had any weather issues in your area? Any storms or anything like that?
+
+Customer: No, no, it's been clear all morning. Pretty quiet weather-wise.
+
+Agent: Okay, that's good. That usually isn't a factor then. Go ahead and plug it back in for me.
+
+Customer: (pause) Alright, plugging it back in... (pause) ...okay, it's back in.
+
+Agent: Good. Now just give it about a minute to boot back up. While it's starting, I'm gonna check our service map real quick.
+
+(pause - background typing)
+
+Agent: How's it looking over there?
+
+Customer: Um... (pause) the power light is green again, but the internet light... it's still not coming on. Nothing's changed.
+
+Agent: Hmm. Okay, let me check something on my end. (typing sounds) I'm looking at your service location now. (pause) Alright, I'm not seeing any reported outages in your area, which is... that's interesting. Let me ask you—when you look at the gateway, do you see the cable coming from outside? The fiber optic cable?
+
+Customer: Oh, um... let me move over here. (pause) Yeah, I can see it. It's plugged in. It looks like it's... I mean, it looks fine to me. It's connected.
+
+Agent: Okay, good. Can you check if that cable is crimped or bent in any weird ways? Or if there's any... I don't know, any damage you can see?
+
+Customer: (pause) No, it looks straight. It goes along the wall and... no, I don't see anything wrong with it.
+
+Agent: Alright. Let me try something else. I'm gonna walk you through a factory reset of the gateway. This might take a few minutes. Are you able to do that right now?
+
+Customer: Yeah, sure. What do I need to do?
+
+Agent: Okay, so on the back of the gateway, there's a small button. It might be recessed, so you might need something like a paperclip to press it. It's labeled "Reset."
+
+Customer: (pause) Yeah, I see it. Do I just... press it?
+
+Agent: Exactly. Go ahead and press it for about ten seconds and then release.
+
+Customer: (pause) Okay... (pause) ...holding it down... (pause) ...alright, releasing it now. (pause) Okay, it's... the lights are blinking a bunch now.
+
+Agent: Perfect. That's exactly what we want to see. That means it's resetting. Go ahead and give it about three to five minutes to fully reboot and reconfigure. Why don't we just stay on the line while that happens?
+
+Customer: Yeah, okay. That works. (pause) So, um, do you know what might have caused this?
+
+Agent: Well, that's a good question. (pause) Without seeing anything on the network side, it could be a few things. Sometimes the gateway can just need a reset, or occasionally there's an issue with the connection point outside. Could even be something with the fiber line itself. We'll know more once we see if this reset works.
+
+Customer: (pause) How long have you been working there? You seem like you know what you're doing.
+
+Agent: Oh, thanks! I've been with Frontier for about five years now. (pause) Seen a lot of these issues come through. Most of them we can solve pretty quickly. (pause) How's it looking over there? Are those lights changing at all?
+
+Customer: Um... (pause) the power light is still green. The internet light is... (pause) no, it's still off. This is taking a while, right?
+
+Agent: Yeah, sometimes the reboot can take a bit. Let's give it another minute or so.
+
+(longer pause)
+
+Customer: Okay, so... still nothing. The internet light hasn't come on.
+
+Agent: (sigh) Yeah, okay. Unfortunately, that tells me that the gateway isn't able to establish a connection to the network, and a factory reset didn't resolve it. (pause) Michael, I hate to tell you this, but I think we might be looking at either a hardware failure with your gateway, or potentially an issue with the fiber line coming into your home that I'm not able to see from my end.
+
+Customer: Oh, great. (pause) So what does that mean? How long before I can get it fixed?
+
+Agent: Well, we have two options. The first would be to have a technician come out to diagnose the issue in person. They can check the fiber connection outside and potentially swap out your gateway if that's the problem. The second would be for me to send you a replacement gateway and you can try installing it yourself, though that does require some setup.
+
+Customer: How long for a technician? I really need my internet back today if possible.
+
+Agent: (typing sounds) Let me check the schedule for your area. (pause) Okay, so our earliest availability today is between 2 PM and 4 PM. Would that window work for you?
+
+Customer: Yeah, 2 to 4 is... yeah, that works. Can you do that?
+
+Agent: Absolutely. I can schedule that for you right now. That'll be a standard service call. You shouldn't be charged since this appears to be a network or equipment issue on our end.
+
+Customer: Okay, that's good to hear. So I'm all set then?
+
+Agent: Almost. Let me just get a couple more details and confirm that appointment. You're at 447 Maple Street, correct?
+
+Customer: Yes, that's right.
+
+Agent: (typing sounds) Perfect. And a phone number where the technician can reach you if they need to?
+
+Customer: 555-0183.
+
+Agent: Great. So I have you down for today between 2 and 4 PM. The technician will call you about thirty minutes before they arrive. You should receive a confirmation text at [inaudible] as well. In the meantime, if anything changes or you want to try anything else, feel free to give us a call back. But I think the technician visit is really your best bet here.
+
+Customer: Yeah, okay. I appreciate it. Hopefully they can fix it quickly.
+
+Agent: I hope so too, Michael. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. Thanks for your help.
+
+Agent: You're very welcome. Thanks for being a Frontier customer, and we'll get you back online soon. Have a great day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

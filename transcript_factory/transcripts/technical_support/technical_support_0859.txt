@@ -1,0 +1,137 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet's been down since this morning and I really need to get it working. I'm working from home today and I can't do anything without it.
+
+Agent: I'm really sorry to hear that. I know how frustrating that can be. Let me pull up your account here. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0847.
+
+Agent: (typing sounds) Okay, I've got you here. Account for James Mitchell at 4721 Birch Street. Is that correct?
+
+Customer: Yes, that's right.
+
+Agent: Great. So you mentioned your internet went down this morning. Have you tried restarting your modem and router yet?
+
+Customer: Um, I did restart the modem earlier, but... I mean, I'm not really sure what I'm doing, honestly. The lights on the front are just... they're not doing what they normally do. There's no green light or anything.
+
+Agent: Okay, okay. So the status lights aren't normal. Let me walk you through this. First, can you look at your modem right now? It should be a white box, probably in your living room or wherever you set it up.
+
+Customer: Yeah, I'm looking at it now. It's right here on the shelf.
+
+Agent: Perfect. What color lights do you see on the front of it?
+
+Customer: Um... there's a red light, and then... it looks like there might be an orange one? And nothing else is lit up.
+
+Agent: Alright. A red light typically means there's no connection. Let me have you do a full restart. Can you unplug the modem completely?
+
+Customer: (pause) Yeah, okay. It's unplugged.
+
+Agent: Good. Now I need you to count to thirty before you plug it back in. That'll help clear out the system.
+
+Customer: Okay... (long pause, counting audibly in background) ...twenty-eight, twenty-nine, thirty. Plugging it back in now.
+
+Agent: Great. Now we're gonna give it about two to three minutes to fully boot back up. Sometimes these things take a minute to reconnect. While we wait, let me ask you—have there been any storms in your area recently, or anything else unusual?
+
+Customer: Well, actually, there was some pretty bad weather last night. Really heavy rain and wind. I didn't think anything of it though.
+
+Agent: That could definitely be a factor. Sometimes lightning strikes or water damage can affect the outdoor equipment. (pause) Let me just check something here in your account. (typing sounds) Okay, I'm showing that we did have a service alert in your area last night around 11 PM. We had some infrastructure damage. Most customers came back online, but it looks like there might still be some lingering issues.
+
+Customer: Oh, so it's not just my modem then?
+
+Agent: Well, it could be a combination. Let's see if your modem connects first. Are you seeing any changes in the lights yet?
+
+Customer: Um... not really. Still the same red and orange lights.
+
+Agent: Still red and orange? (pause) Okay. Let me try unplugging it one more time, and this time let's leave it unplugged for a full sixty seconds.
+
+Customer: Sixty seconds? Okay... (pause) Unplugging now.
+
+Agent: While that's sitting, let me ask—do you have a router separate from the modem, or is it all in one unit?
+
+Customer: I think... I think it's all in one? It's got that one cord coming out of the wall and then another cord, like, going to my computer.
+
+Agent: That's helpful. Okay, so after we plug this back in, we should see the lights cycle through some colors—maybe start with amber and then green. That would mean everything's coming back online properly.
+
+Customer: (pause) Okay, it's been about a minute. Should I plug it back in?
+
+Agent: Yes, go ahead and plug it back in now.
+
+Customer: (pause, sound of plugging in) Alright, it's back on.
+
+Agent: (pause) Okay. Now just give it about three minutes to fully restart and connect. It's going to take a second.
+
+Customer: (long pause) You know what, I'm looking at it and... I'm still seeing red. This is really not good. I have a meeting in like forty-five minutes.
+
+Agent: I understand. Let me see what else we can do here. (typing sounds) I'm actually going to run a line test from my end to see if I can detect what's happening on the network side. (pause) Okay, I'm testing the line now... (longer pause) Hmm. I'm not getting a solid connection on my end either.
+
+Customer: So that means it's not the modem?
+
+Agent: Right. It's looking like the problem might be on the network side or the outside equipment. The storm last night may have caused more damage than we initially thought. Let me pull up your service area. (typing sounds) I've got a couple of options here. I can schedule a technician to come out and assess the line, or I can escalate this to our Network Operations team to see if there's something they can do remotely first.
+
+Customer: How long would a technician take? I mean, I really need this today if possible.
+
+Agent: Let me check the availability. (pause, typing) The earliest I can get someone out there is tomorrow afternoon between two and five PM. Would that work for you?
+
+Customer: Tomorrow? That's... I mean, I work from home and I have a deadline tomorrow. This is really frustrating.
+
+Agent: I completely understand, and I sincerely apologize. Let me see if the Network Operations team can take a look first. Sometimes they can remotely reset things on our end. It won't hurt to try, and it might get you back online faster than waiting for a tech visit.
+
+Customer: Yeah, okay. Do that. I mean, anything's worth a shot at this point.
+
+Agent: (pause, typing) Okay, I'm escalating this now to the Tier 2 team. They're gonna dig into this, and they should have someone reach out to you within the next thirty to forty-five minutes. Is this the best number to reach you?
+
+Customer: Yeah, that's... well, I mean, my phone's the only thing that works right now, so yeah. 555-0847.
+
+Agent: Perfect. In the meantime, I do want you to know that we're gonna credit your account for the downtime, okay? I'm putting a note here that you're a work-from-home customer with a business need.
+
+Customer: Oh, well, thanks. I guess I appreciate that.
+
+Agent: Now, I do want to set expectations. The Tier 2 team might still determine that a technician visit is necessary, especially if the outside line is damaged. But they'll try everything they can first.
+
+Customer: Okay. And if they can't fix it remotely? What happens then?
+
+Agent: If they can't, they'll schedule a tech visit for you. And based on what you told me about your deadline, I'm going to flag this as priority. That should move you up in the queue.
+
+Customer: How long does that usually take?
+
+Agent: Priority calls usually get a tech out within 24 hours. Sometimes same-day if we have availability. Since you called today, worst case is probably tomorrow morning.
+
+Customer: (sigh) Alright. I guess that's better than tomorrow afternoon. Is there anything else I can try in the meantime?
+
+Agent: You know what, let me have you try one more thing. I want you to check the cable connection where the line comes into your house. Can you look at that for me?
+
+Customer: The cable? Um... where does that come in?
+
+Agent: It usually comes in through the side of your house or the back. It's a thick coaxial cable, probably black. It might go to a box on the wall.
+
+Customer: (pause) Oh, I think I see it. Yeah, there's something on the side of my house. There's a connection point or whatever.
+
+Agent: Can you see if it looks loose at all, or if there's any water damage or debris around it?
+
+Customer: (pause) It looks... I mean, it's pretty hard to see. It's dark and I don't have a flashlight nearby. It doesn't look visibly loose or anything, but I can't really tell.
+
+Agent: That's okay. Don't worry about it. The tech can check that when they come out. I think what we've done is about all we can do from my end.
+
+Customer: So... I just wait to hear from them?
+
+Agent: Exactly. You'll get a call from the Network Operations team within 45 minutes, and they'll either fix it or schedule the tech. I'm putting all of this in your account notes, so whoever reaches out will have the full picture.
+
+Customer: Okay. Um, what if I don't hear from them? Should I call back?
+
+Agent: If you don't hear anything within an hour, please do give us a call back and reference this ticket. But I'm pretty confident they'll reach out. I'm giving this a priority ticket number here. Let me give that to you. It's ticket number 4-4-7-8-9-2.
+
+Customer: 447892?
+
+Agent: That's correct. 4-4-7-8-9-2.
+
+Customer: Got it. I've got that written down.
+
+Agent: Perfect. James, I really do apologize that we couldn't get this resolved today, but I promise you we're going to make this a priority. Is there anything else I can help you with?
+
+Customer: No, I think that's it. Thanks for trying, I guess. I just hope they can fix it soon.
+
+Agent: I completely understand. Thank you for your patience, and we'll get you back online as quickly as we can. Have a good rest of your day.
+
+Customer: You too. Thanks.
+
+Agent: Thank you for calling Frontier Communications. Goodbye.

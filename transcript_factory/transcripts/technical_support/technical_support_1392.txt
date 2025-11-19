@@ -1,0 +1,113 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hey, yeah, hi Derek. So um, my internet has been down since this morning and I'm not sure what's going on. I've tried restarting everything but nothing's working.
+
+Agent: Oh, I'm sorry to hear that. I'd be happy to help you troubleshoot. Let me just pull up your account here. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, got it. Thanks. So you mentioned your internet's been down since this morning. Have you experienced any outages in your area recently, or is this the first time?
+
+Customer: No, first time. I mean, we've had pretty solid service up until today. It just stopped working around like... I dunno, eight or nine this morning.
+
+Agent: Alright. And just to confirm, your modem and router are both powered on right now, correct?
+
+Customer: Yeah, yeah, they're both on. I can see the lights are on and everything.
+
+Agent: Perfect. Can you describe what you're seeing on your modem? Are there any lights that are red, or are they all green?
+
+Customer: Um... (pause) So there's a few green ones, but there's like a red light on the front. I think it says like... WAN or something?
+
+Agent: Okay, so the WAN light is red. That's actually really helpful information. That usually means there's no connection coming into your modem. Have you tried doing a hard reset yet? Like unplugging it from power for about thirty seconds?
+
+Customer: Yeah, I did that already. Twice actually. Nothing changed.
+
+Agent: Okay, no problem. Let me check your line from this end. (typing sounds) Hmm... I'm showing that we do have service provisioned to your location. Can you just give me one second?
+
+Customer: Yeah, sure. Take your time.
+
+Agent: (pause) Alright, so I'm not seeing any obvious outages on your line. Let me ask you a few more things. Do you have a separate modem and router, or is it a combo unit?
+
+Customer: It's separate. The modem is like... the bigger one? And then I have the router over there.
+
+Agent: Got it. And you said you've already restarted both of those, correct?
+
+Customer: Yeah, multiple times.
+
+Agent: Okay. Let's try something different. Can you check the cable that goes from the wall into your modem? Just make sure it's... it's plugged in securely on both ends?
+
+Customer: (pause) (rustling sounds) Yeah, it looks like it's... it's in there pretty tight. I mean, I don't think it's loose.
+
+Agent: Alright. And just to be thorough, can you also check if there are any cable splitters between the wall outlet and your modem?
+
+Customer: Um... yeah, actually there is. There's like a splitter thing there. Is that... is that bad?
+
+Agent: It's not necessarily bad, but it can sometimes cause signal loss. This might sound simple, but can you try bypassing the splitter? Just connect the cable directly from the wall to the modem and see if that helps?
+
+Customer: Oh really? Okay, hold on. (rustling sounds) Let me do that right now.
+
+Agent: Sure, go ahead.
+
+Customer: (pause) Okay, I'm unplugging the other cable and... plugging this one directly in. (pause) Alright, it's connected. Now what?
+
+Agent: Now let's give it about thirty seconds to establish a connection and see if that red WAN light changes to green.
+
+Customer: (pause) ...Still red. Same thing.
+
+Agent: (sighs) Okay. Let me put you on a brief hold while I check on a few other things on your account. Should only be just a moment.
+
+Customer: Alright.
+
+Agent: (hold music plays briefly) (30 seconds) Thank you for holding. Alright, so I'm looking at everything here and I'm not seeing any issues on our end with your line. Let me ask... have you checked your bill recently? Is it all paid up?
+
+Customer: What? Yeah, of course it's paid. I pay that online every month.
+
+Agent: Great, just had to ask. Um, one more thing I want to try. Can you tell me the exact model number of your modem? It should be on a sticker on the bottom or the back.
+
+Customer: (rustling sounds) Uh, let me flip it over... It says, um, "Arris SB8200" I think?
+
+Agent: Okay, the SB8200. That's a solid modem. (pause) You know what, here's what I think might be happening. Your modem might have lost its provisioning information. That's actually a fairly common thing. What I'm going to do is send a signal to your modem remotely to reprovision it. This might take a couple of minutes to complete.
+
+Customer: Oh okay. So like, you're doing that from there?
+
+Agent: Exactly. I'm sending a signal right now. Can you keep an eye on that modem and let me know if you see any changes to the lights?
+
+Customer: (pause) Um, okay. Yeah, I'm watching it. So far... no. Nothing's really changing.
+
+Agent: Just give it another minute or so. Sometimes it takes a little bit to process.
+
+Customer: (long pause) ...Still nothing, man. Still red.
+
+Agent: (pause) Okay. I'm gonna be honest with you, um... we may have a more serious issue here. When you look at your other lights on the modem, the ones that are green, are they blinking or are they solid?
+
+Customer: They're... they're blinking. Some of them are, like, blinking pretty fast.
+
+Agent: Hmm. Alright, and this has been going on since this morning?
+
+Customer: Yeah, since like eight or nine AM, like I said.
+
+Agent: Right. Okay, um... (pause) I think what might be happening is there could be a physical issue with the line coming into your home, or there could be an issue with the modem itself that I can't diagnose remotely. At this point, I think we're gonna need to send a technician out to take a look.
+
+Customer: A technician? How long is that gonna take? I need my internet for work, man.
+
+Agent: I completely understand. Let me see what I can get scheduled for you. (typing sounds) (pause) So the earliest I'm showing is... next Tuesday between 10 AM and 2 PM. Does that work for you?
+
+Customer: Next Tuesday? That's like... four days away. Isn't there anything sooner?
+
+Agent: Let me check... (pause) I'm not seeing any same-day or next-day availability in your area right now. We do have a waiting list for expedited appointments though, if you'd like me to put you on that. If something opens up, we'll call you.
+
+Customer: Yeah, fine. Put me on the list, I guess.
+
+Agent: Alright, I've added you. And just so you know, if a tech can get out sooner, we'll reach out as soon as possible. In the meantime, is there anything else I can help clarify about what might be going on?
+
+Customer: No, I mean... not really. Just frustrated that it happened and I can't use my internet.
+
+Agent: I totally get it, and I'm sorry we couldn't get this resolved over the phone today. You should receive a confirmation email shortly with all your appointment details. And again, if something opens up sooner, we will contact you right away.
+
+Customer: Okay. Thanks, Derek.
+
+Agent: You're welcome. Thanks for being patient with us today, and sorry again about all this. Have a good one.
+
+Customer: Yeah, you too. Bye.
+
+Agent: Bye now.

@@ -1,0 +1,133 @@
+# Frontier Communications Support Call
+
+Agent: Thank you for calling Frontier Communications customer support. My name is Marcus. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet just went out about an hour ago and I can't get it back up. I've tried unplugging the modem and router already, so...
+
+Agent: I'm sorry to hear that. We'll definitely get this figured out for you. Can I start by grabbing your account information? What's the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, and what name is the account under?
+
+Customer: David Chen. C-H-E-N.
+
+Agent: Perfect, thank you David. I'm showing your account here. I see you're on our Fiber 200 plan in the Portland area. So the internet just went out about an hour ago, and you've already done the restart on the modem and router. That's great. Let me ask you a few questions to help troubleshoot. Are you seeing any lights on the modem right now?
+
+Customer: Um, yeah. There's... let me look at it. It's sitting right here. I see a power light, that's on, and there's like a red light that's blinking.
+
+Agent: Okay, so you're seeing a red blinking light. That's actually helpful information. Can you tell me if that light is on the front of the modem or the back?
+
+Customer: Front. It's definitely the front.
+
+Agent: Got it. And is there any light that's blue or green at all?
+
+Customer: (pause) No, I don't think so. Just the red one and the power light.
+
+Agent: Alright, so typically a solid red or blinking red light indicates that the modem isn't able to establish a connection to our network. Let's try a few things. First, can you unplug the modem for me, and then wait about 30 seconds before plugging it back in?
+
+Customer: Sure. (pause) Okay, unplugging it now. (rustling sounds) 
+
+Agent: Great, and we'll just give it a half minute to fully power down.
+
+Customer: Yeah, I'm counting... (pause) Alright, plugging it back in.
+
+Agent: Perfect. Now while that's booting back up, can I ask—are you on a desktop, a laptop, or a phone right now?
+
+Customer: Phone. I'm using my phone's data to call you, actually.
+
+Agent: Oh, okay, that makes sense. So you've got your phone on data. Alright, so the modem should be booting up now. Can you let me know when you start seeing lights come back on? It usually takes about a minute or two.
+
+Customer: (pause) Yeah, okay, so... I'm seeing the power light again, and now there's a green light next to it. And then there's that red one still blinking underneath.
+
+Agent: Okay, so the green light is good—that means it's getting power. But we still have the blinking red light, which means it's still not establishing that network connection. Let me check something on our end. (typing sounds) David, are you at your home right now?
+
+Customer: Yeah, I'm here.
+
+Agent: Okay, can you go ahead and check the fiber jack—that's the box where the fiber line connects to your house? Do you know where that is?
+
+Customer: (pause) I think it's in the garage? Or wait, maybe it's outside on the side of the house. I'm not... I'm not super familiar with where all that stuff is, to be honest.
+
+Agent: No problem, that's pretty common. It's typically a small white or gray box, usually about this big. (gestures, inaudible) And it'll usually have a cable running from it. Do you want to go take a look and see if you can find it?
+
+Customer: Uh, sure. Let me put you on speaker. (pause) Okay, I'm walking around... (background noise, footsteps) Yeah, I think I found it. There's a box on the side of the house with a cord coming out of it.
+
+Agent: Great! Can you look at that box and tell me if you see any lights on it?
+
+Customer: (pause) Yeah, there are lights. There's a... a green light, and then an orange or yellow light I think? Both are blinking.
+
+Agent: Okay, so green blinking and orange blinking. The orange light is actually what we want to investigate. That could indicate an issue with the fiber line itself. Have you noticed any weather recently? Any storms or anything like that?
+
+Customer: (pause) No, actually it's been pretty clear all week. The weather's been fine.
+
+Agent: Alright, well, the good news is it's probably not weather-related then. Let me check if there are any outages in your area. (typing sounds) (pause) I'm not seeing any active outages on our end right now, which suggests the issue might be specific to your line or equipment. 
+
+Customer: Hmm, so what does that mean?
+
+Agent: Well, it could be a few things. It could be a problem with the fiber line running to your house, or it could be an issue with the ONT—that's the optical network terminal, the box you're looking at right now. Unfortunately, those are things we typically can't troubleshoot over the phone. 
+
+Customer: Oh no, really? So what am I supposed to do?
+
+Agent: (pause) Let me see what I can do here. Let me try a few more things first. Can you look at that box again and see if there's a small reset button on it? It might be recessed, so you might need something like a paperclip to press it.
+
+Customer: (pause) Yeah, I see a button. Do I... do I push it?
+
+Agent: Yes, go ahead and press it and hold it for about 10 seconds.
+
+Customer: (pause) Okay, holding it... (pause) ...still holding... (pause) Alright, I let go.
+
+Agent: Good. Now let's give that about a minute to reset. While we wait, let me just say that I understand this is frustrating, and I want to be upfront with you about what we might need to do next.
+
+Customer: (pause) What do you mean?
+
+Agent: Well, if we're still not seeing a connection after this reset, we'll likely need to schedule a technician to come out and inspect the line and the equipment. That would be our best bet to get this resolved.
+
+Customer: How long would that take?
+
+Agent: We typically have availability within 24 to 48 hours, depending on your area.
+
+Customer: (pause) Okay, so... did the reset help? Should I check the box again?
+
+Agent: Yeah, go ahead and check it now.
+
+Customer: (pause) Um, no, it's still the same. The green is blinking, the orange is still blinking.
+
+Agent: (pause) Yeah, okay. And are you checking your modem too? Any change in the lights there?
+
+Customer: (pause) No, still red and power light.
+
+Agent: Alright, David, I think at this point we're going to need to get a technician out there. I'm not comfortable having you continue troubleshooting because those lines require specialized equipment to diagnose properly. Let me get you scheduled. Are you available tomorrow?
+
+Customer: Um, tomorrow is... what day is today? (pause) Yeah, tomorrow should be fine.
+
+Agent: Great. And do you have a preferred time window?
+
+Customer: Morning would be better for me. Like, before noon if possible.
+
+Agent: Let me see what we have. (typing sounds) (pause) I can get a technician there between 8 AM and 12 PM. Does that work?
+
+Customer: Yeah, that's perfect.
+
+Agent: Awesome. So I have you down for tomorrow morning, 8 to 12. The technician will inspect the fiber line and the ONT. In the meantime, is there anything else I can help you with?
+
+Customer: I guess... is there anything I should do? Or should I just leave everything as is?
+
+Agent: Yeah, just leave it as is. Don't unplug anything else or try anything else. The technician will take it from there when they arrive. And you'll receive a confirmation email shortly with all the details of the appointment.
+
+Customer: Okay, got it. I really hope they can fix it. I need the internet for work.
+
+Agent: I completely understand. Hopefully the technician will have you back up and running quickly. I'm going to send a note to the team flagging this as a potential line issue so they're prepared when they arrive. Your confirmation number is 7-8-9-4-2-6. Do you have that?
+
+Customer: 789426, yep.
+
+Agent: Perfect. Thanks for your patience today, David. Is there anything else I can help you with?
+
+Customer: No, I think that's it. Thanks for trying to help.
+
+Agent: You're welcome. Have a good rest of your day, and we'll see you tomorrow morning.
+
+Customer: Thank you, bye.
+
+Agent: Bye now.
+
+(call ends)

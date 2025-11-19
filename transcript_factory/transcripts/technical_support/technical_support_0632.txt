@@ -1,0 +1,99 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, thanks for picking up. So, uh, my internet has been down since this morning and I'm not sure what's going on. I really need to get it back up and running.
+
+Agent: I'm sorry to hear that. We'll get this figured out for you. Can I grab your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, pulling that up now. And what's the name on the account?
+
+Customer: It's James Hendricks.
+
+Agent: Perfect, James. So I'm seeing your account here. You're on our Fiber 200 plan. And you mentioned your internet went down this morning—around what time did that happen?
+
+Customer: Um, I'd say around 8:30 or so. I was trying to work from home and everything just... stopped. The router's still on, lights are all there, but nothing's actually connecting.
+
+Agent: Okay, so the router is powered on. That's good. Let me ask you a few quick questions. When you look at your ONT—that's the box that connects to your fiber line, usually white or gray—do you see any red lights on it?
+
+Customer: The... the ONT? I'm not entirely sure which one that is, to be honest.
+
+Agent: (pause) No problem. So you should have a box somewhere near where your internet router is. It might be mounted on a wall or in a closet. It's typically about this big (gestures, though inaudible) and it's where the fiber line actually comes into your home.
+
+Customer: Oh! Yeah, I think I see it. There's a white box up in the corner. Let me... (rustling sounds) Yeah, okay. So looking at it, I see... there's a green light, and then there's a red light on the right side.
+
+Agent: Okay, and is that red light blinking or solid?
+
+Customer: It's solid. Just steady red.
+
+Agent: Got it. That red light typically indicates there's an issue with the fiber connection or the signal coming in. Let me try a few things here. First, can you unplug the power cable from the back of that white box for me?
+
+Customer: Sure. (pause) Yeah, unplugged.
+
+Agent: Good. Leave that unplugged for about 30 seconds while we let it fully power down.
+
+Customer: Okay. (pause) Man, I really hope this fixes it. I've got a meeting at 11 and I need to be online.
+
+Agent: I hear you. We'll do our best. (pause) Alright, go ahead and plug that back in now.
+
+Customer: (rustling sounds) Plugged back in. (pause) Okay, so now the lights are... the green one's blinking, and the red one's still solid.
+
+Agent: Still solid? (typing sounds) Hmm. Okay, let me check on our end to see if there are any service issues in your area. (pause) Can I get your service address to verify everything?
+
+Customer: Yeah, it's 1247 Maple Street, apartment 3B.
+
+Agent: (typing sounds) 1247 Maple Street, 3B. Okay, I'm checking the network here and... I'm not seeing any widespread outages reported in your area. But let me ask—have there been any recent storms, construction, or anything unusual happening in your neighborhood?
+
+Customer: Not that I'm aware of. It's been pretty quiet, actually. But wait—there was someone working on the telephone pole a couple days ago. Could that have something to do with it?
+
+Agent: It's possible. They could have accidentally damaged the line or something. So the red light is still solid. Let me try something else. Can you check the cable that goes into the ONT from the wall? I want to make sure it's firmly connected.
+
+Customer: (rustling sounds) Yeah, I'm looking at it. It looks pretty secure to me. There's a cable coming in from outside and it's... yeah, it's plugged in tight.
+
+Agent: Okay, good. And then there should be another cable coming out of the ONT going to your router. Can you check that one too?
+
+Customer: (pause) Yeah, that one's connected as well. Both of them look fine to me.
+
+Agent: (pause) Alright. Let me try one more thing. I'm going to send a restart command to your equipment from here. It might take a minute for everything to reset. Just leave it plugged in and... okay, sending that now. (typing sounds)
+
+Customer: (pause) Okay, so... is something happening? The lights just changed.
+
+Agent: What are you seeing now?
+
+Customer: Um, the green light's solid now but the red one's still there. It's still solid red.
+
+Agent: (pause) Okay, and your router, is it showing any internet connection lights?
+
+Customer: No, uh, the router's just showing the power light. There's no internet indicator lighting up at all.
+
+Agent: (sighs) Alright, I'm gonna be honest with you, James. That solid red light on the ONT is typically indicating a fiber line issue on our end or a problem with the connection between your box and our network. Given that we tried the restart and it didn't resolve it, this might be something that needs an in-person technician visit.
+
+Customer: (frustrated) Really? How long would that take? I need to be up and running soon.
+
+Agent: I understand. Let me check our appointment availability for you. (typing sounds) I'm showing we have a technician who can come out tomorrow between 2 and 5 PM. Would that work for you?
+
+Customer: Tomorrow? That's pretty far out. There's nothing sooner?
+
+Agent: Unfortunately, we don't have any same-day appointments available. I wish I could get someone out there faster. But the good news is that once the technician gets there, they should be able to identify whether it's the fiber line itself or your equipment, and they can get you back up and running pretty quickly.
+
+Customer: (pause) Yeah, I guess that's the best I can do. Go ahead and schedule it for tomorrow.
+
+Agent: Absolutely. So I have you down for tomorrow, June 15th, between 2 and 5 PM. I'm going to send a confirmation to the phone number on file. The technician will have access to your account information, but if you could let me know—have you had any issues with Frontier before?
+
+Customer: No, this is the first time something like this has happened. I've been pretty happy with the service until now.
+
+Agent: Well, I'm sorry you're experiencing this. Hopefully the technician can get everything sorted out tomorrow. In the meantime, is there anything else I can help you with or any questions you have about the visit?
+
+Customer: No, I think... I think that's it. Can you just make sure this gets noted on my account? That we tried troubleshooting and it didn't work?
+
+Agent: Absolutely. I'm putting in a detailed note right now about everything we tried—the power cycle, the cable checks, and the remote restart. The technician will have all of this information.
+
+Customer: Okay, thanks. I appreciate it.
+
+Agent: You're welcome, James. Again, sorry about the inconvenience. We'll have you back online tomorrow. Thank you for choosing Frontier Communications.
+
+Customer: Thanks. Have a good one.
+
+Agent: You too. Bye now.
+
+(call ends)

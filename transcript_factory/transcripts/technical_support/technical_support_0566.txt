@@ -1,0 +1,121 @@
+# Frontier Communications Support Call
+
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet went out this morning and I've been without it for like three hours now. I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, I've got you here. I'm showing service at 4821 Maple Drive?
+
+Customer: Yeah, that's right.
+
+Agent: Great. So you're experiencing a complete outage—no internet connection at all?
+
+Customer: That's correct. Like, nothing. The router's on, the lights are blinking, but I can't connect to anything. I tried restarting it twice already.
+
+Agent: Okay, good thinking on restarting it. Let me ask you a few questions. When you say the lights are blinking, what color are they and which lights specifically?
+
+Customer: Uh... there's a green light on the front, and it looks like there's a red light too. I'm not really sure what they mean, to be honest.
+
+Agent: That's alright. The red light typically indicates there might be a connection issue. Let me have you try something for me. Can you unplug the router for about thirty seconds? Just completely unplug it from the power.
+
+Customer: (pause) Yeah, I can do that right now. (background sound of rustling) Okay, it's unplugged.
+
+Agent: Perfect. While we're waiting, let me also ask—did anything change recently? Any storms, power outages, or new equipment added to your system?
+
+Customer: No, nothing like that. It was working fine last night. I went to bed around midnight and everything was good. This morning when I got up, it just wasn't working.
+
+Agent: Alright. Go ahead and plug that router back in now.
+
+Customer: (rustling sounds, beeping in background) Okay, it's back in. The lights are coming back on.
+
+Agent: Good. Now let's give it about a minute to fully boot up. While that's happening, are you able to see the Frontier WiFi network when you scan for available networks?
+
+Customer: (pause) Let me check my phone... yeah, I see it. The network is showing up.
+
+Agent: Excellent. So the router is broadcasting. Now try connecting to it. Do you remember your WiFi password?
+
+Customer: Yeah, I've got it written down. (pause) Okay, I'm connecting now... (longer pause) Hmm, it's not connecting. It says password incorrect, but I'm pretty sure I'm entering it right.
+
+Agent: I understand. Let me have you try one more time, just to be sure. Sometimes it's easy to mix up a number or letter.
+
+Customer: (pause) Okay, trying again... no, same thing. It's definitely not accepting it.
+
+Agent: Alright, let's reset the network password. Can you locate the reset button on your router? It's usually a small button on the back.
+
+Customer: (pause) Um, hold on. I'm looking at the back... okay, yeah, I see it. There's a little recessed button back here.
+
+Agent: Perfect. I'm going to need you to hold that down for about ten seconds. It'll reset the router to factory settings. Just be aware that you'll need to set up your WiFi again after this.
+
+Customer: (pause) Okay, holding it down... (longer pause) ...and I'm letting go. The lights are going crazy now—they're all blinking.
+
+Agent: That's normal. It's resetting. Give it about two to three minutes to fully reboot and reinitialize.
+
+Customer: Okay, I'm waiting. (pause) So, um, how long do you usually see outages last in this area?
+
+Agent: That's a good question. If there were any service disruptions, they're usually resolved pretty quickly, but it depends on the cause. Let me check our system here to see if there are any reported outages on your line. (typing sounds) (pause) I'm not seeing any active outages in your area right now, which is actually a good sign.
+
+Customer: Okay, so... is it coming back up?
+
+Agent: Let's check. Are the lights more stable now?
+
+Customer: (pause) Yeah, yeah they are. They're not blinking as much. There's a solid green light now and... one of the other lights is steady too.
+
+Agent: Great. So now try scanning for the WiFi network again.
+
+Customer: (pause) Alright, I'm looking... okay, I see the Frontier network. Let me try connecting. (pause) It's asking for the password again, but this time it should be reset to the default. Try "frontier1234" with no spaces.
+
+Customer: (pause) Okay, typing that in... (pause) It connected! It says I'm connected now! Oh man, finally.
+
+Agent: Wonderful! So you have a connection now. Let me have you do a quick speed test just to make sure everything is running normally. You can go to speedtest.net in your browser.
+
+Customer: (pause) Okay, I'm going there now... (typing sounds) (longer pause) Alright, I'm starting the test...
+
+Agent: Take your time.
+
+Customer: (pause) Okay, um... (pause) Wait. The page just... it stopped loading. The internet cut out again.
+
+Agent: It cut out?
+
+Customer: Yeah, I lost the connection. I'm trying to load the page and nothing's happening. And now I don't even see the WiFi network anymore.
+
+Agent: I see. That's concerning. Let me check a few things on my end here. (typing sounds, pause) Okay, I'm seeing that your modem might be having some stability issues. Let me check the signal levels coming into your home. (pause) I'm showing some fluctuations in the downstream signal. That could be causing the dropouts.
+
+Customer: So what does that mean? Is it something I did?
+
+Agent: No, not necessarily. This could be an issue with the line itself or the modem. Since the reset didn't fully resolve it, I think we may need to have a technician come out to your location to run some diagnostics. Have you had any issues like this before?
+
+Customer: Not really. This is pretty unusual for me.
+
+Agent: Alright. I'm going to schedule a technician visit for you. We have availability tomorrow between 8 AM and 12 PM, or later in the afternoon between 1 PM and 5 PM. Which window works better for you?
+
+Customer: Tomorrow? I was hoping to have this fixed today.
+
+Agent: I completely understand your frustration. Unfortunately, with the signal issues I'm seeing, this really does need to be looked at in person. The technician will be able to check the line, test the modem, and run a full diagnostic. I wish I could get someone out today, but they're fully booked.
+
+Customer: (frustrated) This is really frustrating. I work from home and I've already lost half my day.
+
+Agent: I know, and I'm genuinely sorry about that. The good news is that once the technician is there, they should be able to get to the root of the problem quickly. The morning slot would give you earlier access to the internet tomorrow. Would that work for you?
+
+Customer: Yeah, I guess the morning slot. Between 8 and 12.
+
+Agent: Perfect. I'm going to get that scheduled for you. Your appointment is confirmed for tomorrow, Thursday, between 8 AM and noon. The technician will call you about thirty minutes before arrival. Is the phone number on file still the best way to reach you?
+
+Customer: Yeah, that should be fine.
+
+Agent: Great. I'll also note in your account that you're experiencing intermittent connection issues and signal fluctuations. When the technician arrives, they'll have all this information. Is there anything else I can help you with today?
+
+Customer: No, I guess... I just hope they can fix it tomorrow.
+
+Agent: I understand. I've got a feeling the technician will get you sorted out. You'll be back up and running smoothly. Your confirmation number is 7842591. Is there anything else?
+
+Customer: No, that's it.
+
+Agent: Alright. Thank you for choosing Frontier Communications, and I apologize again for the inconvenience. Have a good day.
+
+Customer: Thanks. Bye.
+
+Agent: Bye now.

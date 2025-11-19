@@ -1,0 +1,109 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet's been down since this morning and I really need to get it fixed. I've got work I need to do from home and I'm pretty frustrated right now.
+
+Agent: I completely understand, and I'm sorry you're experiencing issues. I'll do my best to get this resolved for you. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, let me pull that up here... and I'm showing an account for... is this Robert Martinez?
+
+Customer: Yes, that's me.
+
+Agent: Perfect, Robert. So you mentioned your internet's been down since this morning. Have you had any recent storms in your area, or did anything change with your equipment recently?
+
+Customer: No, no storms or anything. It just... I woke up this morning and tried to check my email and nothing was loading. I restarted the modem and router already, tried that a couple times actually.
+
+Agent: Good, good, that's a helpful first step. Okay, so when you restart them, do you see the lights come back on? Like the power lights?
+
+Customer: Yeah, they light up. Everything looks normal on the modem and router. I'm getting the normal lights, but I still can't connect to anything.
+
+Agent: Alright, and are you able to see your WiFi network show up when you look for available networks?
+
+Customer: Yeah, I can see it. I can see my network name and I can actually connect to it, but then nothing will load. It's like... it's connected but there's no actual internet, you know?
+
+Agent: Right, I know exactly what you mean. That's helpful information. Let me check a few things on our end here. (typing sounds) (pause) Okay, so I'm looking at your modem now and I'm actually showing that your connection is... hmm, that's interesting.
+
+Customer: What? What's interesting? What are you seeing?
+
+Agent: Well, the modem appears to be online from our end, but I'm seeing some unusual activity on the line. Have you noticed any flickering with the lights on the modem at all? Like do they go off and on?
+
+Customer: Oh... actually, now that you mention it, yeah, I think I did notice that earlier. The lights were kind of blinking weird this morning. I thought maybe it would just stabilize on its own.
+
+Agent: Okay, that might be pointing us toward a signal issue. Let me try something here. Can you unplug the modem for me? Just pull the power cable out completely.
+
+Customer: (pause) Okay, unplugged. Should I unplug the router too?
+
+Agent: Not yet, just leave that one plugged in. Now can you wait about thirty seconds for me?
+
+Customer: Sure, I'm waiting... (pause) ...okay, it's been about thirty seconds.
+
+Agent: Alright, now go ahead and plug the modem back in. And while that's booting up, let me ask you—do you have any idea if there's been any construction in your neighborhood or any maintenance work that Frontier might be doing in your area?
+
+Customer: Um, no, not that I'm aware of. I mean, I work from home so I'm usually pretty aware of what's going on outside. (pause) Okay, the modem's powered back up. The lights are coming back on. (pause) Still blinking kind of strangely though, one of them is just... it's not solid like it normally is.
+
+Agent: Which light is blinking? Is it the internet light, or is it a different one?
+
+Customer: It's like... there's a white light and then there's a blue one. The blue one is solid but the white one is just slowly blinking.
+
+Agent: (pause) Okay, yeah, that white blinking light is typically indicating a connection or signal issue. Let me try to run a diagnostic on my end here. (typing sounds) (pause) Hmm, Robert, I'm not getting good results from that diagnostic. I'm going to check our network status in your area.
+
+Customer: Is something wrong with your network?
+
+Agent: No, no, our network looks fine in your area. Let me ask you this—when you look at the back of the modem, do you see the cable connection? Like the coax cable coming into it?
+
+Customer: Yeah, I can see it. Do you want me to check if it's tight or something?
+
+Agent: Actually, yeah, that would be really helpful. Can you just give that cable a gentle twist and make sure it's secure?
+
+Customer: (pause) Okay, I'm checking it... yeah, it seems pretty tight. I don't think that's it.
+
+Agent: Alright, well I appreciate you checking. So... I'm looking at a few possibilities here. It could be an issue with the line itself coming into your home, or it could potentially be an issue with the modem hardware. Have you had any power outages recently that might have affected things?
+
+Customer: Not that I noticed, no. This just happened overnight. Everything was working fine yesterday.
+
+Agent: (pause) Okay, I'm going to be honest with you, Robert. The diagnostics I'm running aren't giving me a clear picture of what's happening, and the modem is showing some signs that concern me. I think we might be looking at either a line issue between your home and our network, or possibly the modem itself is failing.
+
+Customer: So what does that mean? Can you fix it remotely or...?
+
+Agent: Well, let me try one more thing before we go down that road. Can you go ahead and restart the router now? Just unplug that for about thirty seconds and plug it back in.
+
+Customer: (pause) Okay, unplugging it... (pause) ...waiting... (pause) ...plugging it back in. (pause) The lights are coming back on. (pause) No change. Still the same thing. I can see the WiFi network but nothing's actually working.
+
+Agent: (pause) Yeah, I'm not seeing any improvement on my end either. Robert, I think at this point we're looking at something that's going to require an onsite visit. It could be a modem issue, but more likely it's a signal issue with the line coming into your home, and those are things I can't really diagnose or fix over the phone.
+
+Customer: Oh, come on. Really? How long would that take? I really need my internet working.
+
+Agent: I completely understand your frustration, and I'm sorry. Let me see what I can get you scheduled for. (typing sounds) What does your availability look like? Are you available tomorrow?
+
+Customer: Yeah, tomorrow works. Morning would be better than afternoon if you have anything.
+
+Agent: (typing sounds) I'm showing... let me see here... We could get a technician out to you tomorrow between 8 AM and 12 PM. Does that window work for you?
+
+Customer: Yeah, that's fine. That's fine. But is there anything else we can try right now? I'm going to be without internet overnight.
+
+Agent: I... (pause) ...yeah, I know that's not ideal. Let me try one more thing. Have you by any chance accessed your modem's admin panel before? Like, do you know your modem's IP address?
+
+Customer: [inaudible] I don't... no, I don't think I know how to do that.
+
+Agent: You know what, that's okay. That's probably getting a little too technical for troubleshooting over the phone anyway. I think your best bet is really to wait for the technician tomorrow. But just in case, can you keep that modem and router powered on overnight? Sometimes these things sort themselves out.
+
+Customer: (sighs) Okay, yeah, I'll leave them on. So tomorrow morning between 8 and 12?
+
+Agent: That's correct. I'm going to send that appointment confirmation to the phone number on file via text and email. A technician will either call or text you when they're on their way. The reference number for your service call is 847521. Can you make a note of that?
+
+Customer: Yeah, 847521. Got it.
+
+Agent: Perfect. And Robert, I really do apologize that we couldn't get this resolved over the phone. The technician tomorrow should be able to identify whether it's a modem issue or a line issue and get that taken care of for you.
+
+Customer: Alright. Thanks, I guess. Hopefully they can fix it.
+
+Agent: I'm confident they will. Is there anything else I can help you with today?
+
+Customer: No, that's... I think that's it.
+
+Agent: Alright, well thank you for calling Frontier, and we'll see you tomorrow morning.
+
+Customer: Yeah, thanks. Bye.
+
+Agent: Bye, Robert.

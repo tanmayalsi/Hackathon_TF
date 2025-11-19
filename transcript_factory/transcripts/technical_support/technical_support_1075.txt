@@ -1,0 +1,103 @@
+# Frontier Communications Customer Support Call
+
+Agent: Thank you for calling Frontier Communications. This is Marcus speaking. How can I help you today?
+
+Customer: Hi, yeah, um, my internet went out about an hour ago and I'm not sure what's going on. I've tried restarting the modem but nothing's working.
+
+Agent: I'm sorry to hear that, sir. I'd be happy to help you get back online. Can I start by getting your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm pulling that up here... And can I get the name on the account?
+
+Customer: It's David Chen.
+
+Agent: Perfect, David. I see your account here. So you mentioned you restarted your modem already. That's good. Um, just to get a full picture, can you describe what you're seeing right now? Like, is the modem completely dark or are there lights on it?
+
+Customer: There are lights on it. Like, the power light is on, and I think... yeah, there's a couple other lights, but they're not the right color. They're like red or orange, not green like they usually are.
+
+Agent: Okay, so you're seeing some red or orange indicator lights. That's actually helpful information. Can you tell me which lights specifically? Are they all the lights or just certain ones?
+
+Customer: (pause) Um, the power light is green, that one's fine. But the internet light—I think it's the internet light—that one's red. And there's like a WiFi light that's... I'm not sure, maybe orange?
+
+Agent: Alright, so the internet light being red typically means there's no connection coming in from the line. Let me check something on my end here. (typing sounds) I'm looking at your service... hmm, one moment please.
+
+Customer: Okay.
+
+Agent: (pause) So I'm not seeing any active service interruptions in your area right now, but let me have you try a couple more things just to make sure we've got everything covered. First, can you unplug the modem from the wall outlet?
+
+Customer: Yeah, sure. (rustling sounds) Unplugged.
+
+Agent: And let it sit for about thirty seconds. While we're doing that, is this a fiber connection or cable?
+
+Customer: I think it's fiber? You guys installed that new fiber line last year, I believe.
+
+Agent: Right, okay. So you should have a fiber optic modem. Is it a small white box or is it black?
+
+Customer: White box.
+
+Agent: That's the one. Go ahead and plug it back in now.
+
+Customer: (rustling sounds) Okay, it's plugging back in. The lights are... booting up I guess. I'm seeing all different colors right now.
+
+Agent: Yeah, that's normal. It takes about a minute to fully boot up. Go ahead and just hold for about sixty seconds while that's happening, and then tell me when you see if that internet light turns green.
+
+Customer: (long pause) ...Okay, I'm looking at it. It's been like maybe forty-five seconds... The power's green, the WiFi is showing green now, but that internet light is still red.
+
+Agent: Still red, okay. Alright, that's unfortunately telling us that the signal isn't making it from the line to your modem. Let me ask you a few questions. Have you noticed if your connection has been acting up at all before today? Like any slowness or drops?
+
+Customer: No, actually it was working perfectly fine. Then this morning I woke up and it just... nothing. It was just down.
+
+Agent: And you haven't had any storms or weather issues where you're at, right?
+
+Customer: (pause) Actually, yeah, we did have pretty heavy rain last night and some lightning, but I didn't think that would... I mean, is that what caused it?
+
+Agent: It's definitely possible. Weather can sometimes affect fiber connections, especially if there's been any damage to the external lines. I want to check something. Do you have any fiber optic cables running outside your house that you can see?
+
+Customer: Um, yeah, I think there's a cable that comes in on the side of the house. I'd have to go look at it.
+
+Agent: If you don't mind, that would be really helpful. Can you take a quick look and tell me if everything looks okay with it? Like if it's connected properly or if you see any damage?
+
+Customer: (rustling sounds, background noise) Okay, give me one second... (pause) Alright, I'm outside. I can see the cable coming down from the pole and it's connected to the side of the house here... Um, the connection looks okay, I think? It's a little bit loose maybe? Like I can almost wiggle it a tiny bit.
+
+Agent: Okay, don't wiggle it too much, but if you can gently tighten it, go ahead and do that. Just twist it clockwise until it's snug.
+
+Customer: (rustling) Okay, trying that now... Yeah, I can feel it tighten up. It was definitely loose.
+
+Agent: Great. Once you get that nice and tight, go ahead and come back inside and check on that modem for me.
+
+Customer: (pause, footsteps, background noise) Alright, back inside. Let me look at the modem. (pause) ...Nope. Still red. Same as before.
+
+Agent: (sighs) Okay, so tightening that didn't help. Um, let me try one more diagnostic from our end here. (typing sounds, pause) I'm going to see if I can ping your modem. (pause) Yeah, so unfortunately I'm not getting a response, which means the signal still isn't reaching your equipment from the network side.
+
+Customer: So what does that mean? Is it like something with the line?
+
+Agent: It could be a few things. It could be damage to the fiber line from the weather you mentioned, it could be an issue at the hub where we connect your neighborhood, or there could be something going on with the connection point outside your house. Without being able to physically inspect it, it's hard to say exactly.
+
+Customer: (pause) So... what do I do? Can you guys send someone out?
+
+Agent: I think at this point, yeah, we're going to need to get a technician out to your location. Let me get you scheduled for that. Um, hold on just one second. (typing sounds, pause) Okay, so I'm looking at our availability. We have a window tomorrow between 8 AM and 12 PM, or we have another slot on Thursday between 1 PM and 5 PM. Which would work better for you?
+
+Customer: Tomorrow morning would be better if that's possible. Eight to twelve.
+
+Agent: Perfect. (typing sounds) Okay, I've got you down for tomorrow, 8 AM to 12 PM. The technician will call you about thirty minutes before they arrive, so you should get a call around 7:30 AM. Is the number I have on file still the best way to reach you?
+
+Customer: Yeah, that should be fine.
+
+Agent: Excellent. And just so you have it, your service order number is 447829. The technician will be able to use that to pull up your account. In the meantime, try to keep your modem plugged in so they can do a full diagnostic when they arrive. And obviously, avoid going back out there and unplugging that fiber cable or anything.
+
+Customer: Okay, got it. Is there anything else I can try tonight? Like, I've got some work I need to do...
+
+Agent: (pause) Unfortunately at this point I think we've exhausted the troubleshooting we can do remotely. If the signal isn't reaching your modem, it's something on the infrastructure side. I wish I had better news for tonight, but hopefully the technician will be able to resolve it first thing tomorrow morning.
+
+Customer: Alright, I understand. Thank you, I guess. I mean, hopefully they can fix it.
+
+Agent: I really do apologize for the inconvenience, David. Is there anything else I can help you with today?
+
+Customer: No, I think that's it.
+
+Agent: Alright, well thank you for calling Frontier Communications. We appreciate your business, and again, you're all set for tomorrow morning. Have a good evening.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

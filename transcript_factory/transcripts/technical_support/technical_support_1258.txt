@@ -1,0 +1,101 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. So my internet's been down since this morning and I've got no idea what's going on. I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll see what we can figure out. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, I've got you here. Your service address is on Maple Street, correct?
+
+Customer: Yeah, that's right.
+
+Agent: Alright, so you're experiencing a complete outage right now?
+
+Customer: Yeah, nothing. My modem's on, it's got lights and everything, but I can't connect to anything. My phone's still working on data, so it's just the internet.
+
+Agent: Okay, that's helpful information. So the modem is powered on, you're seeing the lights... Let me ask you a few quick questions. Are you seeing any red lights on the modem, or are they all green or blue?
+
+Customer: Um, let me look here... (pause) There's green lights on the front, and there's like a... I think it's an orange light on the top? Yeah, there's definitely an orange one.
+
+Agent: An orange light on top. Okay, that typically indicates a connection issue between the modem and our network. Can you tell me what model modem you have? It should be printed on a sticker on the back or bottom.
+
+Customer: (pause) Yeah, I'm looking at it now... it says... Arris SB8200.
+
+Agent: Perfect, thank you. The SB8200 is a good modem. So that orange light is the upstream light, and if it's not green, that means we're not getting a stable signal from our network to your modem. Let's do a couple of things. First, can you unplug the modem for about thirty seconds and plug it back in?
+
+Customer: Sure. (pause) Yeah, doing that right now. I'll unplug it...
+
+Agent: Take your time.
+
+Customer: (pause) Okay, it's unplugged. I'm gonna count to thirty here... (pause) Alright, it's been about thirty seconds. Plugging it back in now.
+
+Agent: Great. Let's give it about two to three minutes to fully restart and reconnect to the network.
+
+Customer: Okay... (pause) So I'm just gonna wait here?
+
+Agent: Yep, just give it a moment. While we wait, have you noticed any issues with the modem or the fiber line outside your home? Any signs of recent work, damage, or anything like that?
+
+Customer: Um... no, I don't think so. I mean, nothing that I'm aware of. Everything looked fine when I left this morning.
+
+Agent: Okay. (pause) Alright, what are the lights showing now?
+
+Customer: (pause) Um, the green lights are there still, but that orange light is still orange. It's not changing.
+
+Agent: It's still showing orange. Alright, let me try one more thing. Can you try a factory reset on the modem? You're gonna need to hold down the reset button for about ten seconds. There should be a small recessed button, usually on the back of the unit.
+
+Customer: Oh, okay. Let me... (pause) Yeah, I found it. It's like a little button you have to use a pin for, right?
+
+Agent: Exactly. You can use a paperclip or a pen.
+
+Customer: Alright, I'm holding it down now... one, two, three... (pause) I'm at about ten seconds. Letting go.
+
+Agent: Good. This will take a bit longer to restart, so let's give it about three to five minutes this time. While that's happening, I'm gonna pull up our network status in your area to check if there are any outages reported.
+
+Customer: Okay, thanks. (pause) Is there anything I should be doing?
+
+Agent: Just let it restart. You might see the lights go through a sequence of different colors while it's booting back up, and that's totally normal. (typing sounds) (pause) Alright, so I'm checking the system here and I'm not seeing any reported outages in your area currently. The network appears to be up and running.
+
+Customer: Hmm, that's weird then. Why isn't mine working?
+
+Agent: Well, this could be a few different things. It could be an issue specific to your line, or it could be the modem itself, or there could be a problem with the outside equipment. (pause) What's the status looking like now?
+
+Customer: (pause) It's still the same. Green lights on the front, orange light on top. It's not changing.
+
+Agent: Still orange. Alright, let me ask you this—when this started happening this morning, did anything change? Did you lose power, have any storms in your area, or did anything else happen that day?
+
+Customer: No, we didn't lose power or anything. There wasn't a storm. I just... I woke up, tried to use my computer, and it just wasn't working. No internet.
+
+Agent: Okay. (pause) I'm going to be honest with you—at this point, the orange upstream light combined with the modem restart not resolving it suggests there might be an issue with either the fiber line connection to your house or potentially the equipment outside. This isn't something we can typically resolve over the phone.
+
+Customer: So... what does that mean? How do I get it fixed?
+
+Agent: We're going to need to send a technician out to your home to diagnose the issue. They can check the line, the outside connections, and if necessary, they can replace the modem. Let me get you scheduled for that.
+
+Customer: How long is that gonna take? I really need my internet back.
+
+Agent: I understand. Let me check our availability. (typing sounds) (pause) We have availability tomorrow between 8 AM and 5 PM, or we can get someone out on Thursday morning if that works better for you.
+
+Customer: Tomorrow is fine. The sooner the better, honestly.
+
+Agent: Great. So I have you down for tomorrow, and someone will be out between 8 AM and 5 PM. Is there someone who can be home during that window?
+
+Customer: Yeah, I'll make sure I'm there.
+
+Agent: Perfect. We'll send you a confirmation text and email with the technician's information. Is the phone number 555-0147 the best number to reach you if the technician needs to contact you?
+
+Customer: Yeah, that's fine.
+
+Agent: Alright, I've got everything set up for you. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. I just hope they can fix it tomorrow.
+
+Agent: I'm confident they'll get you taken care of. I apologize that we couldn't resolve this over the phone. Thank you for your patience, and thank you for being a Frontier customer.
+
+Customer: Thanks, I appreciate it.
+
+Agent: Have a great day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

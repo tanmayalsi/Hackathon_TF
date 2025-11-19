@@ -1,0 +1,109 @@
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Hi, yeah, um, my internet went down this morning and I can't get it back up. I've been without service for like two hours now.
+
+Agent: I'm sorry to hear that. Let me help you get this resolved. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0847.
+
+Agent: (typing sounds) Perfect, I've got you pulled up here. I'm showing an account for David Martinez on Maple Street, is that correct?
+
+Customer: Yeah, that's me.
+
+Agent: Great. So you mentioned your internet went down this morning. Have you experienced any outages in your area recently, or is this the first time?
+
+Customer: No, first time. It was working fine when I went to bed last night, and then this morning when I tried to check my email, nothing. The router's still on, all the lights are doing their thing, but I got no internet.
+
+Agent: Okay, that's helpful information. Let me walk you through a few troubleshooting steps. First, can you tell me what lights you're seeing on your modem and router right now?
+
+Customer: Um, yeah. On the modem, I see the power light is on, it's green. The internet light is... it's amber. Is that bad?
+
+Agent: An amber light typically means there's a connection issue. That's what we need to address. Can you do me a favor and unplug the modem for about thirty seconds? Just pull it out completely.
+
+Customer: Okay, unplugging now. (pause) It's unplugged.
+
+Agent: Great. While we wait, let me ask—are you on Wi-Fi or are you plugged in with an ethernet cable?
+
+Customer: I'm on Wi-Fi. My computer, anyway.
+
+Agent: Alright. Go ahead and plug the modem back in now.
+
+Customer: (pause) Okay, it's plugged back in. (pause) Lights are coming back on... power's green again... and the internet light is still amber.
+
+Agent: Okay, I see. Let's give it about a minute to fully boot up and establish connection. While that's happening, have you noticed any storms last night or early this morning? Sometimes that can affect the connection.
+
+Customer: Nope, it's been clear all day. No storms or anything.
+
+Agent: Good to know. (pause) Alright, is that amber light still showing on the internet port?
+
+Customer: Yeah, it's still amber. Nothing's changed.
+
+Agent: Okay. Let's try a different approach. Can you also do a hard reset on your router? There should be a small reset button—usually recessed—on the back of the router.
+
+Customer: Um... (pause) I see it. It's a tiny little button, right?
+
+Agent: That's the one. You'll need something like a paperclip to press it, and just hold it for about ten seconds.
+
+Customer: Okay, let me grab a paperclip. (pause) Okay, I'm holding it... (pause) ...and releasing. The lights just went off and they're coming back on now.
+
+Agent: Perfect. Let's wait about ninety seconds for the router to fully restart.
+
+Customer: Sure. (pause) So, um, is this something you guys experience a lot on this street or in this neighborhood?
+
+Agent: We do occasionally get reports, but it's not overly common. The amber light on your modem is usually a line issue on our end or potentially a problem with the modem itself. (pause) Alright, how are those lights looking now?
+
+Customer: The modem still has the amber light on the internet. The router... the router lights came back on, but I'm still not getting Wi-Fi signal.
+
+Agent: [inaudible] not connecting. Let me check something on my end. (typing sounds) I'm pulling up your line status here. (pause) Hmm, interesting. I'm not seeing any active alerts on your account, but let me run a line test.
+
+Customer: Okay...
+
+Agent: (pause) Alright, the line test is showing that we're getting signal on our end, so the issue might be with your modem. How old is your modem, do you know?
+
+Customer: Uh, it's gotta be... maybe five, six years old? I've had it for a while.
+
+Agent: That could definitely be a factor. Older modems can start having connection issues. But let me try one more thing before we go down that road. Can you try an ethernet cable? Do you have one handy?
+
+Customer: Yeah, actually, I've got one right here. Let me plug it in. (pause) Okay, it's connected directly to the modem.
+
+Agent: Good. Now try accessing the internet on your computer using that cable instead of Wi-Fi.
+
+Customer: (pause) Nope. Still nothing. Still can't connect.
+
+Agent: Alright, let me check our network on my end one more time. (typing sounds) (pause) I'm not seeing any outages in your area, and the line is active on our side, so...
+
+Customer: So what does that mean?
+
+Agent: Well, the issue is almost certainly with your modem. It's not establishing a proper handshake with our network, which is why you're seeing that amber light. The modem isn't communicating correctly with our equipment.
+
+Customer: Great. So what do I do? Do I need to buy a new one?
+
+Agent: We can either send you a replacement modem—that would take about three to five business days—or you can pick one up locally if you want to get back online sooner. You'd just need to reimburse us for the equipment cost.
+
+Customer: Three to five days? That's not ideal. I need my internet for work. Can't you just send someone out today?
+
+Agent: Let me check our technician availability. (typing sounds) (pause) Unfortunately, our next available appointment in your area isn't until Thursday between 1 and 5 PM. I know that's frustrating.
+
+Customer: That's still two days away. Is there really nothing you can do sooner?
+
+Agent: I understand your frustration. We've had high demand recently. But if you want to get online today, I'd recommend picking up a modem from a local electronics store. We'll reimburse you for it once you return your old unit.
+
+Customer: That's... I guess that'll have to work. But I'm not happy about this. I've been a customer for years.
+
+Agent: I completely understand. I apologize for the inconvenience. Let me go ahead and document this in your account. For your next bill, we can apply a credit for today's outage. What's the date of your next billing cycle?
+
+Customer: I think it's the 15th?
+
+Agent: (typing sounds) Perfect. I'll add a note here, and you should see a credit applied. And once you get that new modem set up, just plug in the old one in the box and contact us for a prepaid shipping label to return it.
+
+Customer: Okay. Alright, well, thanks for trying, I guess.
+
+Agent: I really do apologize we couldn't get you back up and running immediately. Is there anything else I can help clarify for you today?
+
+Customer: No, I think that's it. I'll go grab a modem and hopefully this works out.
+
+Agent: Thank you for your patience, and I'm sorry again for the trouble. We appreciate your business, and hopefully we'll have your service back up and stable very soon.
+
+Customer: Yeah, thanks. Bye.
+
+Agent: Take care!

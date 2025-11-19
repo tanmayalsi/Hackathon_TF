@@ -1,0 +1,109 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi Derek. So, um, my internet just went out about an hour ago and I can't get it back up. I've tried unplugging the router and everything but nothing's working.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot this. Let me pull up your account real quick. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm looking here... and I've got you down at the address on Maple Street, is that correct?
+
+Customer: Yeah, that's right.
+
+Agent: Perfect. So you mentioned your internet went out about an hour ago. Have you noticed any outages in your area, or did it just suddenly stop working?
+
+Customer: No, I mean, I wasn't doing anything. I was just working from home and suddenly all my lights on the router went dark. Like, completely off.
+
+Agent: Okay, so the router is completely powered down. When you unplugged it, how long did you wait before you plugged it back in?
+
+Customer: Um, I'd say like thirty seconds? Maybe a minute.
+
+Agent: Got it. And when you plugged it back in, did you see any lights come back on at all?
+
+Customer: (pause) No, that's the thing. Nothing. It's just... dark. And usually the lights are all over the place, you know?
+
+Agent: Right, I understand. That does sound like a power issue. Let me ask you a few things. First, is the power cable securely connected to the back of the router?
+
+Customer: Yeah, I checked that. It's definitely plugged in.
+
+Agent: Okay. And the outlet itself—is it working? Like, do you have anything else plugged into it that you could test?
+
+Customer: (pause) Oh, good question. Hold on... (rustling sounds) Yeah, I plugged in my lamp and it works fine. So the outlet is good.
+
+Agent: Great, that's helpful. So we know the outlet has power. Let me try something else. The cable that comes into your modem from the wall—can you check that connection for me? Just make sure that's seated firmly.
+
+Customer: Okay, um... (sounds of movement) Yeah, that one looks tight too. Everything seems connected.
+
+Agent: Alright. Let me check our systems here to see if there's anything on our end. (typing sounds) Are you seeing any lights on the modem itself? That would be the device before the router.
+
+Customer: Oh, the modem. (pause) No, nothing there either. Both devices are dark.
+
+Agent: Okay, that's actually important information. So both the modem and the router are powered down. That suggests the issue might be with the power to the modem. Is there a separate power cable for the modem?
+
+Customer: Yeah, there's definitely a separate one. Let me check that. (pause) Okay, yeah, it's plugged in too.
+
+Agent: And that outlet is also working?
+
+Customer: I mean... I guess I should test it, huh? (laughs) Let me try the lamp there. (sounds of movement) Hmm, the lamp doesn't come on.
+
+Agent: Ah, there we go. So that outlet doesn't have power. That could very well be your issue. Do you have another outlet nearby that you could move the modem to?
+
+Customer: Yeah, actually, there's one right around the corner here. Let me unplug it and move it over. (sounds of unplugging, movement) Okay, plugging it in now... (pause) Still nothing.
+
+Agent: Hmm, still nothing? Okay, let me think about this. (pause) Just to confirm—you're plugging the modem into the new outlet?
+
+Customer: Yeah, the modem first. And... no. Still dark.
+
+Agent: Okay. And you're using the same power cable?
+
+Customer: Yeah, same cable.
+
+Agent: Alright, let's try something. Can you try plugging the lamp into that new outlet to make sure it's actually working?
+
+Customer: Good idea. (sounds of plugging in) Oh... no, the lamp doesn't work there either. So that outlet's dead too.
+
+Agent: Okay, so we're having trouble finding a working outlet. This might be a larger electrical issue at your residence, which is unfortunately outside of what I can help with from a service standpoint. But let me ask—do you have any other outlets in your home that are working?
+
+Customer: (sighs) Yeah, I mean, the kitchen outlets work fine. But my setup is all back here in the office and it's not really practical to run cables all the way through the house.
+
+Agent: I understand. That would be inconvenient. Well, you know what, let me try one more thing from my end. Let me check our network to see if your modem is actually connecting. Sometimes a device can appear dark but still be communicating. (typing sounds) (pause) Okay, I'm not seeing any connection from your modem on our end, so that would confirm that it's a power issue.
+
+Customer: So, what, I need to call an electrician?
+
+Agent: It does sound like you might have a breaker that's flipped or possibly an electrical issue, yes. But before we go down that road, let me just double-check one more thing. You said you've been working from home on this connection for a while now, right? Has anything like this happened before?
+
+Customer: No, never. This is the first time.
+
+Agent: And you haven't had any storms or power surges recently?
+
+Customer: No, it's been pretty clear out. Why?
+
+Agent: Just trying to rule out if something might have damaged the modem itself. (pause) You know, actually, I want to make sure we're not missing anything obvious. When you moved the modem to the second outlet—the one that didn't power the lamp—did you try it there while the lamp was still plugged in?
+
+Customer: Oh... no, I didn't think of that. But the lamp didn't work, so...
+
+Agent: Right, right, I'm just being thorough. Um... (pause) Okay, look, I'm not seeing any outages on our end, and the fact that you can't get power to any of these outlets suggests this is definitely an electrical issue at your location rather than a service issue on our end. The modem itself should be fine.
+
+Customer: So you're saying I'm stuck without internet until I get an electrician out here?
+
+Agent: I think that would be your best bet, yes. I'd recommend having them check that circuit and possibly reset the breaker. It might be something simple. But I want to be honest with you—there's not much else I can troubleshoot from my end if the modem isn't receiving power.
+
+Customer: (frustrated) Man, this is frustrating. I've got meetings this afternoon.
+
+Agent: I completely understand, and I'm sorry you're dealing with this. Is there anywhere else you could work from in the meantime? A coffee shop with WiFi, or a library?
+
+Customer: (pause) Yeah, I guess I could go to the coffee shop downtown. I just... I was hoping this would be a quick fix.
+
+Agent: I know, and I wish I had better news. But the good news is, once you get that electrical issue sorted out, your Frontier service should come right back online. There's nothing wrong with your account or our network.
+
+Customer: Okay, well... I guess I'll have to call someone. Thanks for trying anyway, Derek.
+
+Agent: Of course. And hey, if you do get it all sorted out and the internet still isn't working for some reason, don't hesitate to call us back. We're here 24/7.
+
+Customer: Will do. Thanks again.
+
+Agent: You're welcome. Have a good day, and I hope you get this resolved soon.
+
+Customer: Thanks, bye.
+
+Agent: Bye now.

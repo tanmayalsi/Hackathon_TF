@@ -1,0 +1,165 @@
+Agent: Thank you for calling Frontier Communications, this is Marcus speaking. How can I help you today?
+
+Customer: Hey, yeah, hi. So my internet just went out completely. I've been without it for like... I don't know, maybe twenty minutes now? And I really need to get it back up and running.
+
+Agent: I'm sorry to hear that. I'll definitely help you troubleshoot this. Can I get your account number or the phone number associated with your account?
+
+Customer: Uh, yeah, it's 555-0147. That's the phone number on the account.
+
+Agent: (typing sounds) Okay, thank you. And what's the name on the account?
+
+Customer: David Chen.
+
+Agent: Perfect, David. I've got your account pulled up here. So you're saying your internet connection is completely down right now?
+
+Customer: Yeah, completely down. Like, nothing. The modem—I can see the lights are on and everything, but there's no internet. My phone's not connecting to the WiFi or anything.
+
+Agent: Okay, that's helpful. Let me ask you a few questions. Have you had any recent storms or weather in your area?
+
+Customer: No, it's been clear all day. That's not it.
+
+Agent: Alright. And have there been any recent changes to your setup? Like, did you move anything around or unplug anything?
+
+Customer: (pause) No, I mean... I unplugged my router this morning to restart it, but that's like... I do that all the time. It's been working fine since then.
+
+Agent: That's fine, that's actually pretty normal. So after you plugged it back in this morning, how long did the internet work before it went out?
+
+Customer: Maybe like... eight hours? Nine hours? I was working all day and didn't really think about it until maybe fifteen minutes ago when I tried to check my email and nothing loaded.
+
+Agent: Got it. Well, let me start with some basic troubleshooting. Can you locate your modem right now? It should be a rectangular box, usually with some lights on the front.
+
+Customer: Yeah, I can see it. It's right here next to my router.
+
+Agent: Perfect. I'm going to need you to do a hard reset of your modem. Can you unplug it from the power outlet?
+
+Customer: (pause) Okay, unplugging now. (pause) Yeah, it's unplugged.
+
+Agent: Great. Can you leave it unplugged for about thirty seconds? Just... while we wait, let me ask—what type of modem do you have? Do you know the model?
+
+Customer: Uh... (pause) It says "FrontierTech" on it... and there's a model number. It's... FT-2000 or something like that?
+
+Agent: Okay, that's one of our standard modems. That's good. Have you had any issues with your service recently? Outages, slow speeds, anything like that?
+
+Customer: Not really, no. It's been pretty solid. This is the first real issue I've had in like... six months maybe?
+
+Agent: That's good to know. Alright, go ahead and plug that modem back in now.
+
+Customer: (pause) Plugging it back in. (pause) Okay, it's back in.
+
+Agent: Give it about a minute to fully boot up. You'll see the lights start to cycle through. There should be a power light, an internet light, and a WiFi light. They might blink for a bit.
+
+Customer: (pause) Yeah, I see them. The power light is solid, and now the internet light is... blinking. It's yellow or orange?
+
+Agent: That's normal for the startup sequence. It should turn green once it's fully booted. Give it another thirty seconds or so.
+
+Customer: (pause) Still blinking. How long does this usually take?
+
+Agent: It can take up to two minutes sometimes. Let's give it a bit more time. While we wait, I'm going to check a few things on my end. (typing sounds) Can you tell me if anything changes with the modem lights?
+
+Customer: (pause) Okay, so... the internet light just turned green. Does that mean it's working?
+
+Agent: That's a good sign. Can you try connecting to your WiFi network now? On your phone or computer, whichever is closest?
+
+Customer: (pause) Okay, I'm grabbing my phone. (pause) Let me see... (pause) Okay, my network is showing up, and I'm... (pause) I'm connecting... (pause) Hmm.
+
+Agent: What's happening?
+
+Customer: It's asking me to enter the password, which is weird because it usually just connects automatically. But I'm entering it now... (pause) Nope. It says "Can't connect to this network."
+
+Agent: Okay, that's... (pause) Let me check something here. Can you try forgetting the network and then reconnecting? Usually on an iPhone you go into Settings and then WiFi—
+
+Customer: I have an Android.
+
+Agent: Oh, okay. Can you go into Settings, then WiFi, and look for your network name?
+
+Customer: Yeah, I'm looking at it. I can see the network. I'm going to tap on it and then hit "Forget."
+
+Agent: Good, yeah, do that.
+
+Customer: (pause) Okay, it says "Forget," and I'm confirming. (pause) Okay, done.
+
+Agent: Now try to reconnect to it. It should ask you for the password again.
+
+Customer: (pause) Yeah, I'm typing in the password and... (pause) connecting... (pause) No, same thing. "Can't connect to this network." This is frustrating.
+
+Agent: I understand. Let me try a different approach. Can you check if your computer can connect? Sometimes it's a phone-specific issue.
+
+Customer: Let me boot up my laptop. (pause) Okay, give me a second. (pause) Alright, it's starting up. (pause) Okay, so I'm looking at available networks and I can see my WiFi network name there. Let me try to connect... (pause) (typing sounds) (pause) Okay, I'm entering the password... (pause) Nope. Same error. It won't connect.
+
+Agent: Hmm. Okay, let me check something on my end. (typing sounds) (pause) Can you tell me the exact model number on your modem? I want to make sure I have the right one.
+
+Customer: (pause) It says... FrontierTech FT-2000.
+
+Agent: Got it. (typing sounds) (pause) And the internet light on the modem is green right now?
+
+Customer: Yeah, it's green. It's solid green.
+
+Agent: That's... that's odd. The fact that it's connecting to the internet but you can't authenticate to the WiFi is unusual. Let me try resetting the network settings. Can you hold down the reset button on the modem for about ten seconds?
+
+Customer: Okay, I see a little reset button here. It's like... recessed. I'm going to use a paperclip. (pause) Holding it down... (pause) How long?
+
+Agent: Ten seconds. So you should see the lights go out and then come back on.
+
+Customer: (pause) Okay, the lights went out and they're coming back on now. (pause) Okay, they're rebooting again.
+
+Agent: Good. Now give it a couple of minutes to fully restart.
+
+Customer: (pause) Alright. (pause) Okay, the internet light is green again. (pause) Let me try my phone again. (pause) I'm looking for the network... (pause) I can see it. (pause) Entering the password... (pause) Nope. Still won't connect.
+
+Agent: (pause) That's... okay, let me check the signal strength on your end. When you look at your WiFi networks, does it show a strong signal for your network?
+
+Customer: Yeah, it shows like full bars or whatever. The signal is strong.
+
+Agent: (pause) Okay, this is... (typing sounds) (pause) David, I'm going to be honest with you. This is pointing to something deeper than a simple reset. The fact that your modem is connecting to our network—the internet light is green—but you can't authenticate to the WiFi connection suggests either a modem hardware issue or possibly a provisioning issue on our end.
+
+Customer: So what does that mean? Do I need a new modem?
+
+Agent: It might come to that. Let me try one more thing. Can you try connecting directly to the modem with an Ethernet cable? Do you have one available?
+
+Customer: Uh... (pause) I might have one. Let me look. (pause) Yeah, I found one. (pause) I'm plugging it into the modem and my laptop.
+
+Agent: Great. Now try to open a web browser and see if you can load any website.
+
+Customer: (pause) Okay, I'm opening Chrome and... (pause) trying to go to Google dot com... (pause) (pause) No. It's not loading. It says "No internet connection."
+
+Agent: (pause) Okay. So even with a direct wired connection, you're not getting internet?
+
+Customer: No, nothing. That's weird, right?
+
+Agent: (pause) Yeah, that... that actually changes things. So the modem is connecting to us—we can see that on the line—but it's not passing data through to your devices. (pause) I'm going to need to escalate this to our technical team because this is likely a modem hardware failure or it could be something on our backend that we need to investigate from this side.
+
+Customer: How long is that going to take?
+
+Agent: Well, I can get you scheduled with a technician. We have availability... let me see here... (typing sounds) We could get someone out to you tomorrow between 9 AM and 12 PM, or we have an opening on Wednesday afternoon?
+
+Customer: Tomorrow morning would be better. Can you do that?
+
+Agent: Absolutely. Let me get that scheduled for you. Can I confirm your address?
+
+Customer: It's 447 Maple Street, apartment 3B.
+
+Agent: (typing sounds) Perfect. And a contact number?
+
+Customer: It's the same number you have on file, 555-0147.
+
+Agent: Great. So we have a technician scheduled for tomorrow, 9 AM to 12 PM window. Your confirmation number is 4857392. I'm going to email that to you at... (pause) what's your email?
+
+Customer: It's david.chen@emailprovider.com.
+
+Agent: Perfect. I'm sending that confirmation now. In the meantime, unfortunately, I don't have a workaround for you beyond trying to use your mobile phone's hotspot if you need internet access for anything urgent tonight.
+
+Customer: (pause) Yeah, okay. I can do that.
+
+Agent: I'm really sorry we couldn't get this resolved over the phone today. The technician tomorrow should be able to either repair or replace your modem.
+
+Customer: Okay, I appreciate it. So to confirm, tomorrow morning, 9 to noon?
+
+Agent: That's correct. And if anything changes or you need to reschedule, you can call back and reference your confirmation number 4857392.
+
+Customer: Got it. Thanks.
+
+Agent: You're welcome, David. We appreciate your patience, and we'll get you back online as soon as possible.
+
+Customer: Thanks, bye.
+
+Agent: Take care. Bye now.

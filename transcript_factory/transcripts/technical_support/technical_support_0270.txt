@@ -1,0 +1,117 @@
+# Frontier Communications Customer Service Call
+
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Hi, yeah, thanks for picking up. So, um, my internet went out sometime this morning and I've tried everything I can think of, but nothing's working.
+
+Agent: I'm sorry to hear that! We'll get this sorted out for you. Can I start by getting your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm pulling that up now. One moment... Alright, I've got your account here under David Martinez, is that correct?
+
+Customer: Yeah, that's me.
+
+Agent: Perfect. So you're experiencing no internet connection at all this morning. Can you walk me through what you've already tried?
+
+Customer: Well, I... I turned the modem off and back on a few times. I waited like ten minutes between restarts. I also unplugged the router and did the same thing. And then I checked all the cables in the back and, you know, everything seemed to be plugged in correctly.
+
+Agent: Great, those are all good troubleshooting steps. And just to confirm—when you say no internet, are you getting any lights on your modem or router at all?
+
+Customer: Um, yeah, actually. The modem has... let me see here... it's got a red light on the power, and then there's a... it looks like a yellow or amber light on another port. The router doesn't have any lights on it at all.
+
+Agent: Okay, that's helpful information. The yellow light on the modem typically indicates either a connection issue or that it's still initializing. Can you tell me which port that yellow light is on?
+
+Customer: It's... (pause) ...it's the one that says "Internet" at the top.
+
+Agent: Alright, so the Internet port is showing yellow. That suggests the modem isn't receiving a signal from our network. Let me check your line status here. (typing sounds) Hmm, okay. I'm not seeing any outages in your area, but let me run a line test from our end.
+
+(pause - background hold music faintly audible)
+
+Agent: Okay, I'm back. The line test came back inconclusive. I'm going to walk you through a couple more troubleshooting steps, if that's alright?
+
+Customer: Yeah, sure, go ahead.
+
+Agent: First, I'd like you to locate the power cable going into your modem and fully disconnect it. Let's leave it unplugged for about thirty seconds, okay?
+
+Customer: (background noise - rustling) Okay, it's unplugged.
+
+Agent: Perfect. While we're waiting, can you tell me—have you had any recent storms or power outages at your location?
+
+Customer: No, nothing like that. It's been pretty clear all week.
+
+Agent: Okay, good. Go ahead and plug the modem back in now.
+
+Customer: (plugging sound) Yep, plugging it back in... Okay, it's back on.
+
+Agent: Great. Now let's watch those lights. It's going to take about two or three minutes for it to fully boot up and establish a connection. While that's happening, can you check the cable coming into your house? Do you know where the main line enters your home?
+
+Customer: Uh, I think it's on the side of the house. There's this gray box thing...
+
+Agent: That's exactly what I'm talking about. Could you take a look at it and see if you notice any loose connections or if the cable looks damaged at all?
+
+Customer: (background noise of door opening) ...Yeah, okay, I'm looking at it. Everything seems... seems fine. I don't see any damage. But, um, there's a little green light on the box, so I guess that's good?
+
+Agent: That's a good sign, yes. That means the signal is reaching your location. So the issue is likely with the modem itself. Have you checked back on those lights yet?
+
+Customer: Oh, yeah, let me... (pause) ...okay, it's still showing that yellow light on the Internet port. No change.
+
+Agent: Hmm. Let me try a factory reset on the modem. I'm going to walk you through that. On the back of the modem, there should be a small recessed button labeled "Reset." Do you see that?
+
+Customer: Uh... (pause) ...I see a bunch of cables back here. Let me... oh, yeah, I think I see it. It's really small, right?
+
+Agent: Exactly. You'll likely need a paperclip or something similar to press it since it's recessed. While the modem is powered on, I want you to hold that button for about ten seconds.
+
+Customer: Okay, I got a pen. (pause) Holding it... (pause) ...ten seconds, right?
+
+Agent: That's right. Go ahead.
+
+Customer: (pause) Okay, I let go. What happens now?
+
+Agent: The modem should restart. This will erase all its settings and restore it to factory defaults, so it'll take about three to five minutes to reconnect to our network. Let's check on it in just a moment. What's your first name, by the way?
+
+Customer: It's David.
+
+Agent: Thanks, David. And how long have you been a Frontier customer?
+
+Customer: Oh, maybe two years now? Maybe a little less. It's been pretty reliable until today.
+
+Agent: We appreciate your business. Okay, let's take another look at those lights. What are you seeing now?
+
+Customer: (pause) Uh, still the same. Red power light, and... yellow on the Internet port. It's been like, what, three minutes?
+
+Agent: It should be finished by now, yeah. Okay, David, I've tried several troubleshooting steps on my end and yours, and unfortunately the modem isn't establishing a connection to our network. At this point, I think we're looking at either a hardware issue with the modem itself, or there's a problem on the line that I can't diagnose remotely.
+
+Customer: Oh no. So... what does that mean? Do I need to buy a new modem?
+
+Agent: Well, before we go that route, I'd like to schedule a technician to come out and take a look at everything. They can test the line, check the connections outside your home, and if it is the modem, we can replace that as well.
+
+Customer: Okay, how long would that take? I really need to get online—I've got work stuff I need to do.
+
+Agent: I completely understand. Let me check what our availability looks like. (typing sounds) I'm seeing that we have an appointment available tomorrow between 12 and 4 PM. Would that work for you?
+
+Customer: Tomorrow? I mean... I guess I don't have a choice, do I?
+
+Agent: Unfortunately, our earliest available slot is tomorrow. If you're unable to wait, we do have a premium same-day service option, but that would be an additional charge.
+
+Customer: (sigh) No, no, tomorrow's fine. I can work from my phone or something for today.
+
+Agent: Perfect. So I have you down for tomorrow, 12 to 4 PM. One of our technicians will give you a call about thirty minutes before they arrive. Is there a cell phone number we should use?
+
+Customer: It's 555-0847.
+
+Agent: (typing sounds) Great, I've got that. Is there anything else I can help clarify about the appointment?
+
+Customer: No, I think... I mean, I think we covered everything. It's just frustrating, you know?
+
+Agent: I completely understand your frustration, David. We'll get this resolved tomorrow. We really appreciate your patience, and I apologize for the inconvenience this has caused.
+
+Customer: Alright, thanks for trying to fix it, Marcus. I'll see what the technician says tomorrow.
+
+Agent: Thank you for choosing Frontier Communications. Have a great rest of your day, David.
+
+Customer: You too. Bye.
+
+Agent: Bye now.
+
+(call ends)

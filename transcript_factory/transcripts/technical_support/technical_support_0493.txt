@@ -1,0 +1,113 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hey, yeah, so my internet went down this morning and I've been without service for like, I dunno, three hours now? I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, got it. Account for Michael Chen at 842 Riverside Drive, is that correct?
+
+Customer: Yeah, that's me.
+
+Agent: Perfect. So you're completely without internet right now, is that what you're experiencing?
+
+Customer: Yeah, nothing. Like, I got no WiFi, nothing. The modem's got some lights on it but... I don't know, it doesn't seem right.
+
+Agent: Okay, that's helpful information. Let's troubleshoot this together. First, can you tell me what lights are showing on your modem right now? Are they red, green, blinking...?
+
+Customer: Uh, there's like a green light on the left side and then there's two that are like... orange? Or maybe yellow? They're definitely not green.
+
+Agent: Okay, so we've got one green and two that are orange or yellow. And are any of those lights blinking or are they solid?
+
+Customer: (pause) They're solid. They're just staying on.
+
+Agent: Alright. What I'd like you to do is unplug the modem from the power source, wait about 30 seconds, and then plug it back in. That's a standard restart and it clears out any temporary glitches. Can you do that for me?
+
+Customer: Yeah, sure. Give me a second. (background noise, rustling) Okay, unplugging it now. (pause) I'm gonna wait... (longer pause) Alright, plugging it back in.
+
+Agent: Great. Now while that's restarting, the lights should start cycling through different colors. Just let me know once you see them stabilize and what colors you're seeing.
+
+Customer: (pause) Okay, yeah, I'm seeing... the green light's back and now it's... wait, are all of them supposed to be blinking?
+
+Agent: Well, it depends. When the modem first starts up, it's normal to see some blinking. But after about a minute or so, you should see at least one solid light indicating a connection. Are you still getting all orange and yellow lights?
+
+Customer: (pause) No, actually, the green one's solid now. But these other two are still just like... alternating or blinking really fast.
+
+Agent: Okay, that's a little unusual. Can you tell me—do you have any cables plugged into the modem? I want to make sure all the connection ports are secure.
+
+Customer: Yeah, there's like... I think three cables going into it. One from the wall and then two going into like, the back.
+
+Agent: Right, so one should be from the wall outlet, and then typically we have an ethernet cable and possibly a phone line if you have our phone service. Can you check if those are pushed in all the way? Sometimes they can work loose.
+
+Customer: (background noise) Okay, I'm... yeah, I'm checking. The one from the wall feels pretty solid. The other two... (rustling sounds) Okay, I'm pushing this one in and... oh, wait, maybe that did something? One of the lights just went green.
+
+Agent: Oh good! That's progress. What about the other cable?
+
+Customer: (pause) Pushing it in now... (pause) Hmm, nope. Nothing changed with that one.
+
+Agent: Alright, no worries. So we should have one ethernet connection active now. Can you try opening a web browser on your computer or phone and see if you're getting internet?
+
+Customer: (pause, typing sounds in background) Okay, I'm on my laptop and I'm... (longer pause) No, I got nothing. It says like, "no internet connection."
+
+Agent: Hmm, okay. Let me ask you this—when you look at the modem now, are all the lights you're looking at, are they stable or is anything still blinking?
+
+Customer: (pause) The green one's solid. And then the other two that were yellow are actually... oh, now they're both blinking again. That's weird, right?
+
+Agent: That is a little unusual, yeah. Those lights typically indicate a connection status. When they're blinking repeatedly like that, it usually means the modem is trying to connect but can't establish a stable link. (typing sounds) Let me check on our end to see if there's anything going on with your service address. Can you give me just one moment?
+
+Customer: Yeah, sure. (pause) Take your time.
+
+Agent: (longer pause with hold music in background) Okay, I'm back. I'm not seeing any service outages in your area, which is good news. But I am noticing that your modem isn't showing an active connection on our backend either. That tells me it's having trouble communicating with our network. Have you noticed any damage to the cable coming from the wall? Any loose connections, cuts, that sort of thing?
+
+Customer: (pause) I mean... I can look. (background noise) It looks fine to me. I don't see anything wrong with it.
+
+Agent: Okay. You know what, let me have you do one more thing. Can you unplug the modem again, but this time wait a full minute? A longer reset sometimes helps clear out any stuck connections.
+
+Customer: Yeah, okay. (pause, rustling sounds) It's unplugged. I'm gonna count to like, 60 here... (long pause) ...57, 58, 59, 60. Alright, plugging back in now.
+
+Agent: Perfect. Let's see how this restarts.
+
+Customer: (pause, background noise) Okay, lights are cycling again... (pause) And... same thing. Green on the left, and then these other two are blinking.
+
+Agent: I see. (pause) Alright, so we've tried a couple of resets and the same pattern is persisting. Let me be honest with you, Michael—this could be a couple of different things. It could be an issue with the modem itself, or it could potentially be an issue with the line coming into your home from our network. 
+
+Customer: (sighs) Oh man. So what does that mean?
+
+Agent: Well, normally I'd recommend getting a technician out to do an in-person diagnostic. They can check the outside connections and test the equipment directly. Do you have access to your account online? I can look at scheduling an appointment for you, or... (pause) ...have you tried connecting via ethernet cable directly to the modem instead of WiFi? Just to rule out a WiFi issue?
+
+Customer: No, I haven't tried that. Can I just try that real quick?
+
+Agent: Of course, yeah. Do you have an ethernet cable handy?
+
+Customer: (background noise, rustling) I think I have one in my desk. Give me a sec... (pause) Okay, I found one. (more rustling) Plugging it into the laptop and the modem... and, uh... (pause) Still saying no internet.
+
+Agent: Okay, so it's not a WiFi issue. That tells me the modem itself probably isn't getting a signal from our network. (typing sounds) So here's where we're at—I've troubleshot what I can do remotely, but at this point I really think we need to get a technician to look at this in person. They'll need to check the line coming into your house and potentially test or replace the modem. 
+
+Customer: How long would that take? I really need my internet for work.
+
+Agent: I understand completely. Let me check what appointments are available. (typing, pause) We have availability tomorrow morning between 8 AM and 12 PM, or Thursday afternoon between 1 and 5 PM. What would work better for you?
+
+Customer: Tomorrow morning would be better, but... I mean, is there anything else you can try right now? I'm really stuck without this.
+
+Agent: I wish there was, but unfortunately we've cycled through all the standard remote troubleshooting steps. The blinking lights, the failed restart, the ethernet test—those all point to something that needs hands-on diagnostic work. I want to get this resolved for you, and a technician will be able to do that much faster than trying different things over the phone.
+
+Customer: (sighs) Yeah, okay. I guess that makes sense. Let me set up that appointment for tomorrow morning then.
+
+Agent: Perfect. I'm going to get you scheduled, and we'll send you a confirmation. The technician will have your account information and can run full diagnostics when they arrive. Is there a preferred time within that 8 to 12 window, or just anytime?
+
+Customer: Anytime is fine, I guess. Whatever's earliest.
+
+Agent: Great. I'm going to book you for 8:30 AM tomorrow. You'll get a confirmation text and email with the technician's details. And Michael, I'm sorry you're dealing with this. We'll get it sorted out tomorrow.
+
+Customer: Yeah, thanks. I appreciate it.
+
+Agent: Is there anything else I can help you with today?
+
+Customer: No, that's it. Thanks, Derek.
+
+Agent: You're welcome. Thank you for choosing Frontier, and we'll see you tomorrow morning. Have a good day.
+
+Customer: Bye.
+
+Agent: Bye.

@@ -1,0 +1,167 @@
+# Frontier Communications Customer Support Call
+
+Agent: Thank you for calling Frontier Communications customer support. This is Marcus speaking. How can I help you today?
+
+Customer: Hey, yes, hi. So I've been without internet for about two hours now and I'm not sure what's going on. I work from home and I really need to get this fixed.
+
+Agent: Oh man, I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll see what we can figure out. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, great. So I'm looking at your account here for... is this Marcus Chen?
+
+Customer: No, it's actually David Chen. Different person.
+
+Agent: Oh, got it. Let me just verify the service address to make sure I have the right account. You're at 428 Willow Street, correct?
+
+Customer: Yes, that's right.
+
+Agent: Perfect. Okay, David, so I see you've got our Gigabit fiber plan active. Let me ask you a few quick questions. When you say the internet's not working, do you see any lights on your modem or router at all?
+
+Customer: Um, let me look... Yeah, the modem has some lights on it. There's like a red light blinking on the front, I think. Is that bad?
+
+Agent: Okay, the red light usually indicates that there's a connection issue. That's actually helpful. Do you have a router as well, or are you just using the modem?
+
+Customer: I have both. The router is... actually, let me check on that. The router doesn't seem to have any lights on at all.
+
+Agent: Hmm, okay. So the router's completely dark. Let me try a few basic troubleshooting steps with you. First thing I want you to do is unplug the modem from the back. Just pull the power cable out.
+
+Customer: (pause) Okay, yeah, I'm doing that now.
+
+Agent: Great. And while we're at it, go ahead and unplug the router as well.
+
+Customer: (pause) Both are unplugged now.
+
+Agent: Perfect. Let's wait about 30 seconds for them to fully power down. I'm going to... actually, while we're waiting, let me just check on our end if there's any outages in your area. (typing sounds) Okay, I'm not seeing any reported outages on Willow Street, so that's good news.
+
+Customer: Okay, that's good at least.
+
+Agent: Alright, it's been about 30 seconds. Go ahead and plug the modem back in first, and then we'll wait for it to boot up.
+
+Customer: (pause) Okay, plugging it back in. It's... yeah, the lights are starting to come back on.
+
+Agent: Excellent. What color lights do you see now?
+
+Customer: Um, there's a green light and... it looks like there's still a red light blinking. Actually, there might be two red lights?
+
+Agent: Okay, that's not quite what we want to see. Let me just give this a moment to fully boot up. Sometimes it takes about a minute or so. Why don't you give it... I'd say another 45 seconds and then tell me what you see.
+
+Customer: (pause) Alright, I'm waiting... (longer pause) Okay, I'm looking at it now and... one of the red lights seems to have stopped, but there's still one that's blinking red.
+
+Agent: Still blinking red. Okay. Do you see any green lights at all on the modem right now?
+
+Customer: Let me see... Yeah, there's like one green light that's kind of steady.
+
+Agent: Okay, that's the power light. The blinking red one usually means there's no signal coming from our line. Let me check a couple things. Can you tell me if you see a coaxial cable plugged into the back of the modem? It looks like a thick cable with a metal connector.
+
+Customer: (pause) You mean like... yeah, I see it. It's connected.
+
+Agent: Good, good. And is it screwed in pretty tight, or does it look loose at all?
+
+Customer: It seems pretty secure to me. I'm not going to unscrew it or anything if that's what you're thinking.
+
+Agent: No, no, that's fine. Actually, before we mess with cables, let me try something else. I'm going to send a reset signal to your modem from our system here. That should take about 30 to 60 seconds. Just sit tight and watch the lights.
+
+Customer: Okay, I'm watching them.
+
+Agent: (typing sounds, brief pause) And... it should be processing now. It might reboot one more time.
+
+Customer: (pause) Okay, the lights are... the red light is still there. This doesn't seem to be working.
+
+Agent: Yeah, I'm seeing that too on my end. The signal still isn't coming through. Alright, let me go ahead and plug in that router now and see if we can at least get some connectivity through a different pathway.
+
+Customer: Okay. (pause) Plugging it in now.
+
+Agent: Good. Is there an Ethernet cable that runs from the modem to the router?
+
+Customer: Yes, there's a cable between them.
+
+Agent: Okay, so that's connected. Give the router about 30 seconds to boot up as well.
+
+Customer: (pause) Okay... nothing. The router still has no lights at all. It's not turning on.
+
+Agent: Hmm, that's... that's odd. It might be a separate issue. Let me try reseating that Ethernet cable. Can you unplug it from both ends and then plug it back in?
+
+Customer: (pause) Yeah, I'm doing that now. (another pause) Okay, it's reconnected.
+
+Agent: And the router still has no lights?
+
+Customer: Nope, still nothing.
+
+Agent: Okay, that might be a power issue with the router itself, but let's focus on the modem first since that's the main device. Let me try one more thing. I'm going to have you check where the coaxial cable connects outside your house. Do you have an exterior cable box or a wall jack where the main line comes in?
+
+Customer: Um, it's been a while since I've looked at that. I'd have to go outside and check.
+
+Agent: Yeah, if you could take a quick look and let me know if the cable is connected securely there, that would help us figure out if this is an outside line issue.
+
+Customer: (pause, background noises) Okay, I'm going outside... (sound of door opening) Let me see here... Yeah, I see a box on the side of the house. There's definitely a cable going into it.
+
+Agent: Can you check if it's screwed in tightly?
+
+Customer: (pause) It looks... yeah, it looks connected. I'm trying to twist it a little... it doesn't really move. I think it's pretty tight.
+
+Agent: Okay, that's good. Do you see any damage to the cable itself? Any kinks, cuts, or anything like that?
+
+Customer: (pause) Not that I can see, no. It looks fine to me.
+
+Agent: Alright. Well, at this point, I'm thinking we might be dealing with either a line issue on our end or possibly an issue with the modem itself. The fact that the modem isn't getting a signal but the line connection looks solid suggests... let me put you on a brief hold while I check our line diagnostics for your address. It should just be a couple of minutes.
+
+Customer: Okay, sure.
+
+Agent: (hold music plays briefly, about 90 seconds) (background beeping)
+
+Customer: Hello? I'm still here.
+
+Agent: Yes, I'm still here, David. Sorry about that. Okay, so I've reviewed the line diagnostics and there does appear to be a signal issue on our end. The signal strength is coming through extremely low, which is consistent with what we're seeing on the modem. This could be due to a few different things—it could be an issue in the external network, a problem with the line to your house, or possibly the modem itself is having trouble receiving the signal.
+
+Customer: So what does that mean? When can you get someone out here?
+
+Agent: Good question. So, I can definitely dispatch a technician to your location. We typically have availability within 24 to 48 hours depending on our schedule. However, before we do that, let me try one more diagnostic. I'm going to perform a full factory reset on your modem, which will clear everything out and reset it to default settings. It's a last-ditch effort, but sometimes it helps. Are you okay with that?
+
+Customer: I mean, I guess so. If it might fix it.
+
+Agent: Okay. So what you're going to do is look on the back of the modem for a small button, usually labeled "Reset." You'll need a paperclip or something small and pointy to press it. It's going to completely restart the modem.
+
+Customer: (pause) Okay, I found it. It's got a little recessed button. I'm using a paperclip.
+
+Agent: Perfect. Go ahead and hold it down for about 10 seconds.
+
+Customer: (pause) I'm holding it... and... okay, it's resetting. The lights are all going crazy now.
+
+Agent: That's normal. It might take a few minutes to fully reset and come back online. Let's give it about three to five minutes and then we'll see where we stand.
+
+Customer: (long pause, about 5 minutes of silence with occasional background noise)
+
+Agent: Okay, David, you still there?
+
+Customer: Yeah, I'm here. I'm looking at the modem and... nothing's changed. Same red blinking light. And the signal still isn't working.
+
+Agent: (sigh) Alright. Yeah, it doesn't look like the reset resolved it. At this point, I think we're going to need to get a technician out to your property. They'll be able to check the line from the street, inspect the external box, and test the modem with our equipment to determine exactly what's going on.
+
+Customer: Okay, fine. How soon can someone come out?
+
+Agent: Let me pull up our availability... (typing sounds) So, we have an opening tomorrow between 8 AM and noon, or we have another slot on Thursday afternoon between 1 PM and 5 PM. Which would work better for you?
+
+Customer: Tomorrow morning would be great. I really need to get back online ASAP.
+
+Agent: Excellent. I'm going to book you for tomorrow between 8 and noon. That's under your phone number 555-0147. You should receive a confirmation email within the next 15 minutes, and we'll also send a text message reminder the morning of the appointment. The technician will have all the information they need and should be able to resolve this quickly once they're there.
+
+Customer: Okay, I appreciate it. Is there anything else I should try in the meantime or...?
+
+Agent: You know what, just leave everything as is. Don't do any more troubleshooting. Sometimes power cycling things multiple times can cause additional issues. Just let it sit, and the technician will take it from there tomorrow morning.
+
+Customer: Alright, sounds good.
+
+Agent: Alright, David, I'm so sorry we couldn't get this resolved remotely tonight. I know that's frustrating. But our technician is going to take great care of you tomorrow. Is there anything else I can help you with?
+
+Customer: No, that's it. Thanks for trying anyway.
+
+Agent: You're very welcome. Thanks for being patient with me, and we'll have you back up and running tomorrow. Have a good night.
+
+Customer: Thanks. You too.
+
+Agent: Bye now.
+
+Customer: Bye.
+
+(call ends)

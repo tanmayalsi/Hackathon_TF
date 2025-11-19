@@ -1,0 +1,109 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. So my internet just went out about an hour ago and I can't get it back up. I've got no connection at all.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot. Can I grab your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm looking that up here. And what's the name on the account?
+
+Customer: Michael Chen.
+
+Agent: Perfect, Michael. I've got your account right here. It looks like you've got our Fiber 500 plan. Is that correct?
+
+Customer: Yes, that's right.
+
+Agent: Great. So no internet connection at all right now?
+
+Customer: No, nothing. My router's on, the lights are blinking, but nothing's working on any of my devices. My phone, my laptop, nothing.
+
+Agent: Okay, I understand. Let's start with some basic troubleshooting. First, can you tell me what color the light is on your modem right now?
+
+Customer: Um... (pause) it's kind of red and orange? Like, it's not the normal blue it usually is.
+
+Agent: Okay, so not the normal blue. That typically indicates a connection issue. Have you tried unplugging the modem and letting it sit for about 30 seconds?
+
+Customer: Not yet, no. Should I do that now?
+
+Agent: Yeah, go ahead and do that for me. Just unplug it, wait about 30 seconds, and then plug it back in. I'll be here.
+
+Customer: (background noise, sound of unplugging) Okay, it's unplugged. I'm just... waiting. (pause) Alright, plugging it back in now.
+
+Agent: Great. While that boots back up, which typically takes about a minute or two, let me ask you—have there been any storms in your area recently or any work done on your line?
+
+Customer: No storms that I know of. Nothing like that. Actually, wait—there were some cable trucks in the neighborhood yesterday. Could that have something to do with it?
+
+Agent: That's definitely possible. Sometimes work on the lines can cause temporary disruptions, but usually it resolves itself pretty quickly. (pause) How's that modem looking now? Is it lit up?
+
+Customer: Yeah, it's coming back to life. I see some blue now... but not all blue. It's still got some orange in there.
+
+Agent: Hmm, okay. Is it still blinking or is it solid blue?
+
+Customer: It's... blinking. Slowly, I think?
+
+Agent: Alright, a slow blink is usually a good sign—that means it's trying to sync up with our network. Let me check your account on my end here. (typing sounds) I'm going to look at your line status...
+
+(pause)
+
+Agent: Michael, I'm seeing that there might be a signal issue on your line. It looks like the signal levels are... they're lower than they should be. Do you have a coaxial cable running from your wall outlet to your modem?
+
+Customer: Yeah, I do. It's been the same setup for like two years.
+
+Agent: Right, okay. Can you check that connection? Just make sure it's tight? Sometimes they can loosen up over time.
+
+Customer: (sound of movement) Okay, I'm checking it... it seems pretty tight to me. Let me try tightening it a bit more just to be sure. (pause) There we go, a little bit tighter.
+
+Agent: Good, good. Now try restarting the modem one more time with that tighter connection.
+
+Customer: (pause) Alright, unplugging it again...
+
+(pause)
+
+Customer: Okay, it's back on. Still got that orange mixed in with the blue though.
+
+Agent: (pause) Still the same?
+
+Customer: Yeah, pretty much the same as before.
+
+Agent: Let me try something here. I'm going to send a signal refresh to your modem. It should take just a moment... (typing sounds) Alright, sending that now. Give it about 30 seconds to process.
+
+Customer: Okay... (pause) I'm watching it... (pause) Nope, still the same.
+
+Agent: I'm not seeing an improvement on my end either. Let me escalate this a bit. Is your router a separate device from your modem?
+
+Customer: Yeah, I've got them both. The router's sitting next to the modem.
+
+Agent: Okay, can you check the router lights for me?
+
+Customer: Sure, um... some are on, some are off. I see like a white light and a blue light, but I don't see any internet activity.
+
+Agent: Right. Given what I'm seeing on my end with those lower signal levels and the fact that nothing's responding to our refresh command, I think there may be a line issue that needs an on-site visit. We might have damage from that work yesterday or a connectivity issue at the network level.
+
+Customer: Okay... so what does that mean? How long would that take?
+
+Agent: Well, let me check availability for you. (typing sounds, pause) We have technicians available... looks like the earliest we could get someone out would be tomorrow between 8 AM and noon. Does that work for you?
+
+Customer: Tomorrow? I really need this working today if possible.
+
+Agent: I understand, and I'm sorry I can't resolve this over the phone. Unfortunately, with a potential line-level issue, we really do need to get a tech out there. Let me see if there's anything sooner... (pause, typing) Unfortunately, that's the earliest availability we have right now.
+
+Customer: (sigh) Can you make sure they come in the morning? I have meetings in the afternoon.
+
+Agent: Absolutely. I'm going to note that on your account. So I've got you scheduled for tomorrow, 8 AM to noon, for a technician visit. You'll receive a confirmation email, and the tech will also probably call you about 30 minutes before they arrive.
+
+Customer: Okay. Is there anything else I should try in the meantime?
+
+Agent: Just leave your modem and router unplugged overnight and restart them fresh in the morning before the technician arrives. But other than that, I wouldn't try anything else that might complicate things for the tech to diagnose.
+
+Customer: Alright, I will. Thank you.
+
+Agent: You're welcome, Michael. I apologize we couldn't get this resolved today. Is there anything else I can help you with?
+
+Customer: No, that's... that's all. Thanks.
+
+Agent: Thank you for calling Frontier, and we'll get you back up and running tomorrow. Have a good night.
+
+Customer: Thanks, you too.
+
+Agent: Bye now.

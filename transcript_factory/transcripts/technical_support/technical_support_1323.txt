@@ -1,0 +1,83 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, thanks for picking up. I'm having trouble with my internet. It's just... it's completely down right now and I need to get it working.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account real quick and we'll get this sorted out. Can I get the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, perfect. And just to confirm, is this for the service address on Maple Street?
+
+Customer: Yes, that's correct.
+
+Agent: Great. So you're experiencing a complete internet outage right now—nothing's connecting at all?
+
+Customer: Right, nothing. I tried restarting the router about twenty minutes ago, but that didn't help. The lights are on, but it's just not working.
+
+Agent: Okay, that's good information. Let me ask you a few questions to help troubleshoot. When you look at your modem and router, can you tell me what lights you're seeing?
+
+Customer: Um, let me go look at it. (pause) Okay, so the power light is on, it's solid green. The internet light is... it's like a solid red. And the WiFi light is blinking green.
+
+Agent: Alright, so we've got a solid red on the internet light—that's typically indicating a connection issue with the line. Let me try refreshing your connection from my end here. (typing sounds) Just give me one second...
+
+Customer: Okay.
+
+Agent: (pause) And... let's see if that helps. Can you keep an eye on that red light for me?
+
+Customer: I'm looking at it right now. (pause) Hmm, still red. Yeah, nothing's changed.
+
+Agent: Okay. Let's try a different approach. I want you to do a full reset of the modem this time. There should be a small reset button on the back of the device—it might be recessed, so you might need a paperclip or something small to press it.
+
+Customer: Uh huh, yeah, I see it. Hold on. (pause) Okay, I'm pressing it now.
+
+Agent: Great. Go ahead and hold that for about ten seconds.
+
+Customer: (pause) Alright, it's... I can see the lights are going dark. How long should this take?
+
+Agent: Give it about two to three minutes to fully boot back up. The lights should cycle through and then stabilize.
+
+Customer: (pause) Okay, yeah, I'm watching them now. They're doing that cycling thing... (longer pause) ...the power light's green again. The internet light is... still red. Ugh.
+
+Agent: Okay, so we're back to the same issue. Let me ask you this—have you had any recent weather or storms in your area? Sometimes that can affect the line.
+
+Customer: Oh, actually, yeah. We had some pretty heavy rain last night and early this morning. Could that be it?
+
+Agent: That could definitely be a contributing factor. Weather can sometimes cause issues with the fiber connection. Let me check the line diagnostics on my end. (typing sounds) I'm going to run a line test to see if we're getting a signal on our equipment...
+
+Customer: Okay.
+
+Agent: (pause) Hmm. So I'm showing that we're not getting a connection on your line. That solid red light and what I'm seeing here suggests there might be an issue with the fiber connection itself, potentially at the point where it enters your home or at the terminal outside.
+
+Customer: Oh no. So, like... is that something I can fix? Or...?
+
+Agent: Unfortunately, that's something we're going to need to send a technician out to look at. It's outside the scope of what we can do remotely if there's a physical issue with the fiber line. But before I schedule that, let me just try one more thing. Can you check outside your home? Do you see a small box on the side of your house or near your property?
+
+Customer: Yeah, there's like a gray box, I think. It's kind of mounted on the side near where the cables come in.
+
+Agent: Perfect, that's the terminal. Can you see if there are any lights on that box?
+
+Customer: (pause) Let me go look... (pause) Okay, I'm looking at it. I don't see any lights at all. It's completely dark.
+
+Agent: Okay, that's... that's telling. The terminal should have at least some indicator lights. That's definitely pointing to a line issue, likely from the weather last night causing damage or a disconnection somewhere.
+
+Customer: So you're definitely going to need someone to come out?
+
+Agent: Yeah, I think that's our best option here. I can get a technician scheduled for you. We have availability tomorrow between 8 AM and 12 PM, or later in the week if that doesn't work for you.
+
+Customer: (sighs) Okay, tomorrow morning would be better if possible.
+
+Agent: Perfect. Let me get that scheduled for you. (typing sounds) I'm putting in a service call for tomorrow, March 15th, between 8 and noon. Can I get a callback number for the technician?
+
+Customer: It's 555-0147, same as the account.
+
+Agent: Great. So to recap, we're going to have a technician come out tomorrow morning. They'll inspect the fiber line and the terminal to determine what happened and get everything reconnected and running. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. Just... hopefully they can fix it tomorrow.
+
+Agent: I understand. I'm sorry you're dealing with this, especially on a day when you need your internet. Our technician will take good care of you. You should receive a confirmation email shortly, and the tech may call before they arrive tomorrow. Thank you for calling Frontier Communications.
+
+Customer: Thanks, Derek.
+
+Agent: You're welcome. Have a good day.
+
+(call ends)

@@ -1,0 +1,93 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hey, yeah, hi. Um, my internet has been down since this morning and I really need to get it fixed. I've got work stuff I need to do and it's been a nightmare.
+
+Agent: I'm really sorry to hear that. I know how frustrating that can be. Let me get some information from you so I can help troubleshoot. Can I start with your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, I've got your account here. I'm showing service at 2847 Maple Drive, is that correct?
+
+Customer: Yes, that's right.
+
+Agent: Perfect. And just to confirm, you're experiencing a complete loss of internet connectivity, correct? No connection at all?
+
+Customer: Right, nothing. The modem's on, like, I can see the lights, but I can't get online. I've tried restarting it but that didn't work.
+
+Agent: Okay, those are good troubleshooting steps you've already taken. Let me ask you a few more questions. When you look at your modem right now, what lights do you see? Are they all lit up, or are some of them off?
+
+Customer: (pause) Um, so there's a power light that's solid green. Then there's like... an internet light, I think, and it's... it's flickering red.
+
+Agent: Okay, that's helpful information. The red light usually indicates there's an issue with the connection. Let me have you try something. Can you unplug the modem completely—just pull the power cable out—and then wait about thirty seconds?
+
+Customer: Sure, give me a sec. (pause) Okay, I'm unplugging it now. (pause) Alright, it's unplugged.
+
+Agent: Great. Now if you could just count to thirty... take your time.
+
+Customer: One, two, three... (pause) ...twenty-eight, twenty-nine, thirty.
+
+Agent: Perfect. Now go ahead and plug it back in.
+
+Customer: (sounds of plugging in) Okay, it's plugged back in. (pause) The lights are... okay, they're turning on. Power light's green again.
+
+Agent: Good. Now we're going to let it boot up completely. That usually takes about a minute or two. While we wait, let me check a few things on my end. (typing sounds) I'm showing your account is active and there are no outages in your area according to our system.
+
+Customer: Hm, okay...
+
+Agent: (pause) Alright, give it another moment. How are those lights looking now?
+
+Customer: Um, the power light's still green. The internet light is... it's still red, but it's not flickering as much? It's like... slower blinking, I guess.
+
+Agent: It's still red though?
+
+Customer: Yeah, it's still red.
+
+Agent: Okay. Let me have you try something else. Can you check the cable connections on the back of your modem? Sometimes they can get a little loose. There should be a coaxial cable—it's the thick cable with a connector on the end—coming from the wall.
+
+Customer: (pause) Yeah, I see it. It looks pretty tight to me, but let me... (sounds of moving things around) ...let me try wiggling it a bit.
+
+Agent: Okay, good. Is it pretty snug?
+
+Customer: Yeah, it seems like it. I don't think that's it.
+
+Agent: Alright. And the other cable there should be your ethernet cable going to your router or computer. Can you check that one too?
+
+Customer: (pause) It's connected to my router. Looks fine to me.
+
+Agent: Okay. Let me try something from my end. I'm going to send a reset signal to your modem. This should only take a moment. (typing sounds) Go ahead and give that a few seconds to process...
+
+Customer: (pause) Okay... (longer pause) Nope, still red.
+
+Agent: Still red, huh? (pause) Let me check something. Do you happen to have a different ethernet cable you could try? Sometimes they can go bad.
+
+Customer: I mean... I might have one around here somewhere. (pause, background rummaging) Found one. Trying it now. (pause) Same thing. Still not working.
+
+Agent: Okay. Let me check on something. (typing sounds) I'm looking at the modem diagnostics from here and I'm actually seeing... that's strange. The modem is showing as registered on our network, but it's not receiving an active signal from our line. That typically means there's an issue either with the line itself coming into your home, or there's a problem with the equipment.
+
+Customer: So what does that mean? Is it broken?
+
+Agent: It could be a few things. It could be the modem, or it could be an issue with the line. Unfortunately, given what I'm seeing in the diagnostics, I think we're going to need a technician to come out and take a look at this in person. They can test the line and check all the connections outside your home.
+
+Customer: Are you serious? I really need internet today.
+
+Agent: I completely understand, and I'm sorry we're dealing with this. (pause) Let me see what appointments we have available. (typing sounds) Looking at our schedule, I can get someone out there tomorrow between 8 AM and 12 PM. Would that work for you?
+
+Customer: That's... I mean, I guess I don't have a choice. Yeah, tomorrow morning works.
+
+Agent: Great. Let me get that scheduled for you. Your appointment is tomorrow, March 15th, between 8 and noon. Our technician will bring any necessary equipment. The appointment confirmation number is 4847-592-JW.
+
+Customer: (frustrated sigh) Okay. Is there anything else I should try in the meantime?
+
+Agent: Unfortunately, not really. I don't want to have you spend more time on this if there's a physical issue with the line or the equipment. The technician will be able to diagnose it properly. But just keep the modem powered on so we can continue monitoring it from our end if needed.
+
+Customer: Alright. I guess I'll just see if I can work from somewhere else tomorrow morning.
+
+Agent: I'm really sorry about this. We do apologize for the inconvenience. You should receive a text and email confirmation of your appointment. If you have any other questions, feel free to reach out. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. Thanks for trying, I guess.
+
+Agent: Thank you for calling Frontier, and we'll get this sorted out for you tomorrow.
+
+Customer: Okay, bye.
+
+Agent: Bye now.

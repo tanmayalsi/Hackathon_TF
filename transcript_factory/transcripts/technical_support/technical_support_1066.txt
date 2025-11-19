@@ -1,0 +1,99 @@
+# Frontier Communications Support Call
+
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, um, my internet just went out about an hour ago and I can't get it back up. I've tried unplugging everything and nothing's working.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, I've got you here. I see you're on our 500 megabit fiber plan. And when you say the internet went out, are you seeing any lights on your modem or router right now?
+
+Customer: Um, let me look... (pause) No, nothing. The modem is completely dark. No lights at all.
+
+Agent: Okay, that's helpful information. So the modem has no power indicator at all?
+
+Customer: Right, nothing. It's just dead.
+
+Agent: Alright. Let's start with the basics. Can you check the power cable for me? Make sure it's securely plugged into both the wall outlet and the modem?
+
+Customer: (sound of rustling) Yeah, I'm looking at it now. It seems pretty... oh wait, hold on. Let me try wiggling it. (pause) Nope, still nothing.
+
+Agent: Okay. And the wall outlet itself—do you have anything else plugged into that same outlet that's currently working? Like a lamp or something?
+
+Customer: (pause) I can... I can plug a lamp in, hold on. (background noise) Yeah, the lamp turns on fine. So the outlet's got power.
+
+Agent: Good. That rules that out. Okay, so what I'd like you to do is unplug the modem completely for about thirty seconds. Just to do a full power cycle. Can you do that for me?
+
+Customer: Sure, yeah. (unplugging sounds) It's unplugged. I'm counting... thirty seconds. (pause) Okay, thirty seconds are up.
+
+Agent: Alright, go ahead and plug it back in now.
+
+Customer: (plugging sounds) Plugged back in. I'm... I'm waiting here. (pause) Still nothing. No lights coming on.
+
+Agent: Hmm. No power lights at all?
+
+Customer: Correct. Nothing.
+
+Agent: (pause) Okay, um, let me pull up your account here. (typing sounds) I'm seeing that we actually had a service notification in your area yesterday. There was some maintenance work being done on the fiber line. It's possible that could be related to this. Can I ask—did your internet go out suddenly or did you notice it was getting slower first?
+
+Customer: It was just... suddenly gone. I was on my computer working and then just boom. Connection dropped and wouldn't come back.
+
+Agent: Right. And that was about an hour ago, you said?
+
+Customer: Yeah, around an hour ago now, maybe a little more.
+
+Agent: (pause) Okay. Um, I'm going to be honest with you—the fact that the modem isn't powering on at all is a bit unusual. It could mean a few things. Either there's an issue with the modem itself, or there could be a power issue in your setup that we're not catching. Let me ask you this: Do you have a battery backup device? Like a UPS system?
+
+Customer: No, I don't have anything like that.
+
+Agent: Okay. So, I want to try one more thing before we proceed. Can you locate the power adapter? It should be a fairly large black brick-shaped thing, usually near where the modem is.
+
+Customer: (sounds of moving things around) Yeah, I see it. It's... it looks fine to me. It's plugged into the outlet.
+
+Agent: Can you try unplugging the adapter from the outlet—not from the modem, but from the wall—and see if it feels warm at all?
+
+Customer: (unplugging sound) Oh, interesting. Yeah, actually it does feel... kind of warm. Not burning hot or anything, but definitely warmer than I'd expect.
+
+Agent: (pause) Okay. That's... that's actually not ideal. That could indicate an issue with the power adapter. We might be looking at a hardware failure. Let me just double-check something on my end here. (typing sounds) (pause) Alright, I'm not seeing any active alerts in your area right now, so it doesn't appear to be a network-side issue.
+
+Customer: So what does that mean? Like, my modem's broken?
+
+Agent: It's quite possible. When the power adapter gets warm like that and the modem won't power on, it usually means one of those components has failed. Now, here's what we can do. We have a couple of options for you. We can arrange for a technician to come out and assess the situation, or if you'd prefer, we could ship you a replacement modem.
+
+Customer: How long would a technician take? I really need my internet back.
+
+Agent: Well, let me check availability. (typing sounds, pause) The earliest I'm showing is... tomorrow between 12 and 4 PM. But the replacement modem we ship out would take 3 to 5 business days depending on your location. Given that you need it sooner, the technician visit might be your better option.
+
+Customer: (sigh) Tomorrow? Okay, I guess... I guess I can do tomorrow. But can you, um, can you try anything else first? I really don't want to wait if we can fix this right now.
+
+Agent: I understand. Um... (pause) Let me think here. The only other thing I could suggest is trying a different outlet. Do you have an outlet in another room you could try plugging the power adapter into? Just to rule out any electrical issues on that particular outlet?
+
+Customer: Yeah, I can try that. Hang on. (background noise, moving sounds) Okay, I've got it plugged into an outlet in my bedroom. (pause) Still nothing. No lights.
+
+Agent: Okay, so that rules out the outlet. (pause) I think at this point, we're looking at a hardware issue. The modem or the power adapter isn't functioning properly, unfortunately.
+
+Customer: So that's it? There's nothing else we can do?
+
+Agent: (pause) I wish there was, but based on everything we've tried, I don't think so. The modem should have at least a power light on, and if the adapter itself is warming up when the modem isn't getting power, that's indicating a problem with one of those components. A technician would be able to come out, confirm that, and get you set up with working equipment.
+
+Customer: (sigh) Alright. Yeah, okay. Can you... can you set up that appointment for tomorrow then?
+
+Agent: Absolutely. Let me get that scheduled for you. (typing sounds) Okay, I'm getting you down for tomorrow from 12 to 4 PM. The technician will have access to your account information, so they'll be able to confirm everything. Do you want the appointment confirmation sent to your email?
+
+Customer: Yeah, that's fine.
+
+Agent: Okay, and just to set expectations—when the tech arrives, they'll be able to confirm whether it's the modem or the power adapter that's the issue, and they'll get you set up with a replacement device on-site if possible. You should have everything operational by the end of the visit.
+
+Customer: Alright. I appreciate your help, even though we couldn't fix it tonight.
+
+Agent: I'm sorry we couldn't resolve this remotely. We did our best to troubleshoot, but this appears to be a hardware failure. You should see that confirmation email shortly, and the technician will contact you tomorrow if they need anything else before arriving. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. Thanks, Derek.
+
+Agent: You're welcome. Thank you for calling Frontier Communications, and sorry again for the inconvenience. Have a good night.
+
+Customer: You too. Bye.
+
+Agent: Bye.

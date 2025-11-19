@@ -1,0 +1,125 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, so my internet went out about an hour ago and I can't get it back on. I've tried everything I can think of and nothing's working.
+
+Agent: I'm sorry to hear that. We'll get this sorted out for you. Let me pull up your account real quick. (typing sounds) Can I get the phone number associated with your account, please?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (pause) (typing sounds) Okay, I've got you here. I'm showing a Frontier Fiber connection at your address. Just to confirm, you're in the Riverside area, correct?
+
+Customer: Yes, that's right. 2847 Maple Street.
+
+Agent: Perfect. So your internet just stopped working about an hour ago? Did anything happen before that—like a power outage or a storm in your area?
+
+Customer: No, nothing like that. It was working fine this morning. I was on a video call with my boss and then suddenly everything just... died. No warning or anything.
+
+Agent: Okay, that's helpful information. Let's start with some basic troubleshooting. First, can you tell me what you're seeing right now? Do you have any lights on your modem and router?
+
+Customer: Um, yeah. The modem has... (pause) the power light is on, but it's like a solid green. And then the internet light is red. Is that bad?
+
+Agent: Okay, so the red light on the internet connection is typically what we want to investigate. That usually means the modem isn't connecting to our network. Have you tried unplugging the modem and plugging it back in?
+
+Customer: Yeah, I did that already. I waited like thirty seconds and plugged it back in, and the same thing happened. Red light came right back.
+
+Agent: All right. And the router—what color are the lights on the router?
+
+Customer: Um, it's also not looking great. The power light is on, but the internet light is also red.
+
+Agent: Okay. Let me try a factory reset on the modem. To do this, I'm going to need you to locate the small reset button on the back of your modem. It should be recessed, so you might need a paperclip or something small.
+
+Customer: Okay, hold on. (background noise, sound of things moving) Yeah, I found it. There's a button back here.
+
+Agent: Great. Now, with the modem still plugged in and powered on, I want you to hold that button down for about ten seconds.
+
+Customer: (background noise) Okay... (pause) ...counting... and... released.
+
+Agent: Perfect. Now let's wait about two minutes for the modem to fully reboot. During this time, you should see the lights cycling through different colors.
+
+Customer: (pause) Okay, it's doing something now. There's like blinking lights and... (pause) okay, yeah, it's cycling through.
+
+Agent: Great. This is normal. While we wait, let me ask—have you had any recent issues with the connection before this happened? Any flickering or slowness?
+
+Customer: No, it was actually running really smoothly. That's what's so weird about this. Everything was fine and then just... nothing.
+
+Agent: (pause) Okay, the lights should be settling down now. What are you seeing?
+
+Customer: (pause) Um... okay, the power light is solid green again. But the internet light is... (pause) still red.
+
+Agent: Still red? Okay, that's... let me see here. (typing sounds) Let me check if there are any outages in your area. (pause) I'm not seeing any active outages reported at your location, which is interesting. Do you have a landline phone with us, or is it just the internet service?
+
+Customer: Just the internet.
+
+Agent: Okay. Can you do me a favor and check all the cables connected to your modem? Sometimes they can get jostled loose. The main one coming in from the wall and the power cable.
+
+Customer: (background noise) Yeah, let me... (pause) ...okay, I'm looking. The cable from the wall seems pretty tight. The power cable is... also seems fine. They both feel secure.
+
+Agent: Good. Now, I'm going to run a remote diagnostic on your modem. This will take just a moment. (typing sounds, pause) Can you still see that red light on the internet connection?
+
+Customer: Yeah, it's still red. Nothing's changed.
+
+Agent: (pause) Hmm. I'm not getting a connection to your modem on my end, which suggests it's not able to communicate with our network at all. This could be a few things—it might be an issue with the ONT, which is the box that connects fiber to your modem. Is there a small box, maybe white or gray, usually mounted on the outside of your house or in a closet?
+
+Customer: Oh, um... yeah, actually there is one. It's in the hallway closet. Should I check that?
+
+Agent: Yes, please. Can you see if there are any lights on it, and what color they are?
+
+Customer: (background noise, sound of closet opening) Okay, I see it. There's a couple lights on it. One is green, and one is... red.
+
+Agent: (pause) Which light is which? Is there any labeling on the box?
+
+Customer: (pause) Let me look... okay, I see like a power symbol and then it looks like... internet or something? The internet one is red.
+
+Agent: That's the issue right there. That red light on the ONT is indicating that there's no fiber signal coming into your equipment. There's a few things we can try. First, can you check if there's a reset button on that ONT box as well?
+
+Customer: Okay, looking... (pause) I don't see a reset button. Should it be obvious?
+
+Agent: It should be fairly visible, but sometimes they're small. Look for any recessed button or anything like that.
+
+Customer: (pause) No, I really don't see one. There's just the lights and some ports.
+
+Agent: Okay, that's fine. Let me put you on a brief hold while I check something on my end. This should only be a minute or two.
+
+Customer: Sure, no problem.
+
+Agent: (hold music plays for approximately 90 seconds)
+
+Agent: Thanks for holding. Okay, I've checked our system and I'm showing that there may be an issue on our network side affecting your ONT. The fiber signal isn't reaching your equipment. Normally this would indicate a line issue somewhere between our network and your home. Typically, this requires a technician to come out and check the fiber line.
+
+Customer: Oh no, really? How long does that usually take?
+
+Agent: A technician can typically get out within the next 24 to 48 hours. Before we schedule that though, I want to try one more thing. Can you go back to the ONT and check if all the cables are fully connected? Sometimes there's a fiber cable that can come loose.
+
+Customer: (background noise) Okay, I'm back in the closet. (pause) There are some cables... and they all look pretty... I mean, they're all plugged in, I think.
+
+Agent: Can you describe what the cables look like? Is there one that looks like a thin fiber optic cable? It would be different from the others, might look almost like a fishing line?
+
+Customer: (pause) I... I'm not really sure what I'm looking at here. They all kind of look the same to me.
+
+Agent: That's okay. Without being certain, it's probably best not to mess with them. Let me schedule a technician visit for you. When would be a good time? We have openings tomorrow between 8 AM and 5 PM, or the day after.
+
+Customer: Tomorrow would be better. Can you do like... afternoon? I have something in the morning.
+
+Agent: (typing sounds) Let me see what we have. We can get someone out to you tomorrow between 2 and 5 PM. Does that work?
+
+Customer: Yeah, that works. That's fine.
+
+Agent: Perfect. (typing sounds) I've got you scheduled for tomorrow, June 15th, between 2 and 5 PM. A technician will come to your home to assess the fiber line. You'll receive a confirmation text and email with that appointment. Is the number on file still the best way to reach you?
+
+Customer: Yes, 555-0147.
+
+Agent: Great. Before we wrap up, I just want to let you know what to expect. The technician will check the fiber line from the street to your ONT. If there's damage or an issue with the line, they'll repair it or replace it. If there's an issue with the ONT itself, we may need to replace that as well. Is there anything else I can help clarify?
+
+Customer: No, I think... I mean, I think that covers it. So there's nothing else I can do right now, right?
+
+Agent: Unfortunately, no. Once that fiber signal is restored, everything should come back online automatically. Your internet should just... start working again. The technician will also be able to test everything before they leave.
+
+Customer: Okay, sounds good. Thanks for your help, Derek.
+
+Agent: You're welcome. I'm sorry we couldn't get this resolved remotely today, but our technician should have you back up and running tomorrow. Thank you for calling Frontier, and we appreciate your patience.
+
+Customer: All right, thanks. Have a good day.
+
+Agent: You too. Bye now.
+
+Customer: Bye.

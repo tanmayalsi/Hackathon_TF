@@ -1,0 +1,93 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi Derek. My internet's been down since this morning and I have no idea what's going on. I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I'll definitely do my best to help you get back online. Can I get your account number or the phone number associated with your account?
+
+Customer: Um, it's 555-0147.
+
+Agent: (typing sounds) Okay, great. And can I get the name on the account?
+
+Customer: It's Michael Chen.
+
+Agent: Perfect, Michael. Just pulling up your account here. (pause) Alright, I see you're on our Fiber 200 plan. So your internet's completely down since this morning?
+
+Customer: Yeah, completely. No lights on the modem, nothing. I need it back up—I've got work stuff I need to do.
+
+Agent: I totally understand. Let's get you sorted out. So first things first, can you locate your modem for me? It should be a white box, probably near your router.
+
+Customer: Yeah, I see it. It's right here next to my router.
+
+Agent: Okay, great. What I'm seeing on the modem right now—are there any lights on it at all? Any blinking, any colors?
+
+Customer: No, nothing. It's completely dark.
+
+Agent: Alright, so it sounds like it might not be getting power. Can you check if the power cable is plugged in securely on both ends? Sometimes these things come loose.
+
+Customer: (pause) Okay, let me... yeah, it's plugged in. I mean, it looks plugged in. Let me try... (sounds of movement) ...unplugging it and plugging it back in.
+
+Agent: Good idea.
+
+Customer: (pause) Okay, I just plugged it back in. Still nothing. No lights.
+
+Agent: Hmm, okay. Let me ask—do you see the power adapter? That brick thing that plugs into the wall?
+
+Customer: Oh, yeah, I see it. The black box thing?
+
+Agent: Exactly. Can you check if it's plugged into a working outlet? Maybe try plugging something else into that same outlet—like a lamp or something—just to verify the outlet itself is working?
+
+Customer: (pause) Let me grab... okay, I'm plugging in my phone charger. (pause) The charger's working, so the outlet's fine.
+
+Agent: Good, so we know the outlet's good. The power adapter itself might be the issue then. This is where it gets a little tricky because we can't really test it remotely. But let me try a couple other things first. Do you have another outlet nearby that you could try plugging the modem setup into? Just to rule things out?
+
+Customer: Yeah, I could try the kitchen. Hang on. (sounds of movement, slightly distant voice) Okay, I'm moving everything over here... plugging it in... (pause) ...still nothing. Same thing—no lights at all.
+
+Agent: Okay. That's helpful information actually. So it's unlikely to be an outlet issue. Have you experienced any storms recently or power outages in your area?
+
+Customer: Actually, yeah. There was a storm last night. Pretty bad one too. Could that have something to do with it?
+
+Agent: That could definitely be it. Power surges from storms can fry equipment sometimes. (typing sounds) So at this point, Michael, I'm going to need to check if we're seeing your modem on our network. (pause) I'm not seeing an active connection from your device. Normally that would show up here.
+
+Customer: So what does that mean?
+
+Agent: Well, it could mean a few things. It could be that the modem suffered damage from the surge, or there could be an issue on our end with the line to your house. Let me do a line test real quick. (pause) (typing sounds) I'm running a test on your service line... (longer pause) Okay, I'm seeing a signal on our end, so the line seems to be active. That tells me it's most likely your modem that's had an issue.
+
+Customer: So it's broken?
+
+Agent: It's looking that way, unfortunately. Especially with the storm you mentioned. These power surges can damage the internal components. The good news is we can definitely get you a replacement modem sent out. Normally there is a replacement fee, but given that this was likely weather-related, let me see what I can do for you. (typing sounds) (pause)
+
+Customer: Okay, how long would that take?
+
+Agent: So we have a few options. We can do standard shipping, which would be three to five business days, or we can do expedited, which gets it to you in one to two business days. Let me just... (pause) I can actually waive the shipping fee on expedited for you to make up for the inconvenience.
+
+Customer: Oh, that's good. Yeah, let's do expedited then.
+
+Agent: Perfect. I'm going to get that processed for you right now. (typing sounds) Just to confirm, is the address on file still good? It should be 447 Maple Street?
+
+Customer: Yeah, that's right.
+
+Agent: Great. (pause) (more typing) Okay, I'm entering your information for the expedited modem shipment. You should receive it by tomorrow or the day after. Once you get it, installation is really straightforward—you just plug it in and it should automatically connect to the network within a few minutes.
+
+Customer: And there's no charge for shipping?
+
+Agent: No, I've waived the expedited shipping fee for you. You will see a replacement modem fee of $49.99 on your next bill, but the shipping is taken care of.
+
+Customer: (pause) Okay... I guess that's better than nothing.
+
+Agent: I wish I had better news, but at least we can get you back online quickly. You should get a tracking number via email within the hour. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. I just... is there any way to get me online in the meantime? I really do need to work today.
+
+Agent: That's a great question. Unfortunately, without the modem, there's no way to establish a connection on our end. If you have mobile data on your phone, that might be your best bet for now. Or if you have a neighbor or friend nearby with internet, that could be another option.
+
+Customer: Yeah, I guess I'll figure something out. This is just really frustrating.
+
+Agent: I completely understand. I'm sorry you're dealing with this. The good news is you'll be back up and running very soon. Is there anything else I can do for you?
+
+Customer: No, that's all. Thanks, I guess.
+
+Agent: You're welcome, Michael. Again, I'm sorry for the trouble. You should see that tracking email soon. Have a good day.
+
+Customer: Yeah, you too. Bye.
+
+Agent: Bye now.

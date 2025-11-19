@@ -1,0 +1,157 @@
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Yeah, hi Marcus. Um, my internet's been down since this morning and I'm not sure what's going on. I've got a work call in like an hour and I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account real quick. Can I get your account number or the phone number associated with your service?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, pulling that up now... Alright, I've got you here. I see you're on our Fiber 200 plan in the Beaverton area. So your internet's completely down as of this morning?
+
+Customer: Yeah, completely. Like, nothing's working. The router's not even showing any lights or anything.
+
+Agent: Okay, so the router itself doesn't have any lights on it at all?
+
+Customer: Right. It's just dark. Which is... I mean, that's not normal, right?
+
+Agent: Well, that could mean a few things. Let's go through some troubleshooting. First, can you check if the modem is powered on? That's the smaller box that should be connected to your router.
+
+Customer: Oh, um... (pause) Yeah, there's a box. Let me see... (background noise) Okay, so I can see the modem, and it's got... it's got some lights on it. Red and green, I think?
+
+Agent: Good, good. So the modem has lights. What color exactly are they showing? Are they solid, blinking...?
+
+Customer: One of them's red and one's blinking green. Does that mean something's wrong?
+
+Agent: A blinking green light is actually normal – that means the modem's trying to connect. But if you're seeing red, that usually indicates a signal issue. Let me just verify something on my end. (typing sounds) Can you tell me if your ONT is powered on? That's a small white or gray box, usually mounted on the side of your house or near your main line.
+
+Customer: The ONT? I... I'm not really sure what that is, to be honest.
+
+Agent: No problem. It's the optical network terminal – it's basically the box that connects our fiber line to your home equipment. Do you happen to know where your modem is located?
+
+Customer: Yeah, it's in the living room, right by the window.
+
+Agent: Okay, so can you look around that area? There should be a cable coming in from outside, possibly through the wall?
+
+Customer: (pause) Okay, um, I'm looking... Yeah, I see a cable coming in. And I see a small gray box kind of mounted near it.
+
+Agent: That's your ONT. Can you check if there are lights on that box?
+
+Customer: (background noise) Let me get closer... Okay, yeah. I see... I see it's got lights, but they're all red. Is that bad?
+
+Agent: All red lights typically means there's no signal coming from our network. That's unusual. Have you noticed any physical damage to the cable or the box itself? Any weather issues in your area recently?
+
+Customer: No, I don't... I mean, it rained yesterday, but nothing crazy. And I don't see any damage.
+
+Agent: Alright, let me try a couple things. First, can you unplug the modem and the ONT from power? Both of them.
+
+Customer: (pause) Okay, just unplugging now... (background noise) Done. Both are unplugged.
+
+Agent: Great. Now let's wait about 30 seconds for them to fully power down.
+
+Customer: (long pause) Okay, it's been like 30 seconds or so.
+
+Agent: Perfect. Now go ahead and plug the ONT back in first – that's the gray box. Wait for it to fully boot up, which should take about a minute. You'll see the lights cycle.
+
+Customer: (background noise) Plugging it back in... Okay, the lights are... they're cycling now. Different colors.
+
+Agent: Good, that's what we want to see. Just give it another 30 seconds or so to fully stabilize.
+
+Customer: (pause) Okay... so now they're... they're settling. I'm seeing green lights now, which seems better.
+
+Agent: Excellent. Now go ahead and plug the modem back in.
+
+Customer: (background noise) Alright, plugging it in... (pause) Okay, it's booting up too.
+
+Agent: Perfect. Let's give that about 60 seconds to fully connect. Once the lights stabilize, try to connect to your WiFi network and let me know if you're getting internet.
+
+Customer: (long pause) Um... (pause) Okay, I'm trying to connect now... (longer pause) No, it's not... it's not connecting. The network's showing up, but it won't connect.
+
+Agent: It's showing up but won't connect? Okay, let me try resetting the modem. Can you hold down the reset button on the back of the modem for about 10 seconds?
+
+Customer: (pause) There's a little button here... is that it?
+
+Agent: Yeah, there should be a small recessed button. You might need a paperclip or something to press it.
+
+Customer: (background noise) Okay, I'm holding it... How long again?
+
+Agent: About 10 seconds.
+
+Customer: (pause) Okay, 10 seconds... and... done.
+
+Agent: Good. Now the modem's going to reboot and it should take a couple minutes. During this time, you're also going to lose power to your WiFi temporarily.
+
+Customer: (pause) Okay, yeah, I can see the lights are doing that cycling thing again.
+
+Agent: Right, that's normal. Let's give it a couple minutes.
+
+Customer: (long pause) It's been a couple minutes now. The lights are... green and blinking again. But I'm still not getting internet when I try to connect to the WiFi.
+
+Agent: Hmm, okay. Can you check your WiFi settings and see if the network name is showing up as "Frontier" or something else?
+
+Customer: Yeah, I see it. It's "Frontier-XXXX" ... so it's definitely my network. But when I try to connect, it just says "can't connect to this network."
+
+Agent: Alright, and you're entering the correct password?
+
+Customer: Yeah, I mean... I think so? I'm pretty sure I am. (pause) Actually, where would I find that? The password?
+
+Agent: It's usually on the back of your modem or in a manual that came with it. There should be a sticker.
+
+Customer: (background noise) Let me flip it over... Okay, I see a sticker here. It says "WiFi password:" and then there's... (pause) Oh, I was entering the wrong one. I was using my old Comcast password. Let me try this one...
+
+Customer: (pause) Oh! Oh, it connected! Okay, I've got... (pause) ...wait. Um, no internet. Like, the WiFi's connected but there's no internet.
+
+Agent: Okay, so you're connected to the network but no data's flowing. Let me check the status on our end. (typing sounds) I'm showing everything should be active here. This is strange. Let me try something else. Can you restart your modem one more time? Just unplug it for 10 seconds and plug it back in.
+
+Customer: Do I need to do the ONT too?
+
+Agent: Good question. Let's just try the modem first.
+
+Customer: (background noise) Okay, unplugging... (pause) ...and plugging back in. (pause) Lights are cycling again.
+
+Agent: Give it about a minute to fully connect.
+
+Customer: (long pause) Okay... lights are back to normal. But... I'm still not getting internet. It's the same thing.
+
+Agent: Alright, let me check something. Can you try opening a website on your phone using the WiFi?
+
+Customer: (pause) Yeah, let me try... I'm going to go to Google... (pause) No, it's just loading and loading. It's not loading.
+
+Agent: And your WiFi signal is showing as strong?
+
+Customer: Yeah, it's showing four out of four bars.
+
+Agent: I'm seeing a few things here that don't add up. Your ONT's showing all green, which means the signal from our network is good, but we're not getting data flow to your devices. (pause) Alright, I think what we're dealing with here might be a deeper network issue or possibly a hardware failure with your modem itself. Unfortunately, I'm not able to fully troubleshoot that from here.
+
+Customer: So... what does that mean? My internet's just not gonna work?
+
+Agent: No, no. Let me see what we can do. Typically, when we run into this, we have a couple options. I can schedule a technician to come out to your home – usually within 24 to 48 hours – and they can diagnose the issue on-site and potentially replace the modem if that's what's causing the problem.
+
+Customer: But I have work calls today and tomorrow. I really need this working.
+
+Agent: I completely understand. Let me see if we have any emergency appointments available. (typing sounds) (pause) Looking at our schedule for today, we're actually fully booked with emergency calls. But I can get you in tomorrow morning between 8 and 10 AM if that works for you?
+
+Customer: Tomorrow morning? That's... (pause) I guess that'll have to work. I'll see if I can reschedule my meetings.
+
+Agent: I'm sorry about that. And just to set expectations, if it is a modem issue, we can replace it free of charge. If there's a network-level issue, that might take a bit longer to resolve, but the tech will be able to tell you more when they're there.
+
+Customer: Okay, so tomorrow morning between 8 and 10?
+
+Agent: Yes, sir. Between 8 and 10 AM tomorrow. I'm going to go ahead and schedule that for you now. (typing sounds) Perfect, I've got you down. You'll get a confirmation text and email with the appointment details and a window for the technician to arrive. 
+
+Customer: Alright. Is there anything else I can try in the meantime? Like, to get it working before the tech comes?
+
+Agent: Unfortunately, we've kind of exhausted the standard troubleshooting steps. I wouldn't want you to do anything that might complicate things further. The tech will take a fresh look at everything tomorrow. 
+
+Customer: Okay. Well, I guess I'll just have to use my phone hotspot for work today. Not ideal, but...
+
+Agent: I'm sorry you have to deal with this. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. I'll see the tech tomorrow.
+
+Agent: Perfect. Thank you for being so patient with me through this troubleshooting. We really appreciate it. If you have any other questions before the appointment, feel free to give us a call back. Have a good day.
+
+Customer: You too. Thanks, Marcus.
+
+Agent: Thank you. Bye now.
+
+Customer: Bye.

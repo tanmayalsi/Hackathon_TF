@@ -1,0 +1,145 @@
+# Frontier Communications Support Call
+
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Hey, yeah, hi. So my internet just went out completely and I've been without it for like an hour now. I really need to get this fixed.
+
+Agent: I'm sorry to hear that. We'll definitely get this sorted out for you. Can I grab your account number or the phone number associated with your account?
+
+Customer: Um, sure. It's 555-0147. The account's under James Mitchell.
+
+Agent: (typing sounds) Okay, James, I'm pulling up your account now. Just one second here... Alright, I've got you. You're on our Fiber 500 plan, is that correct?
+
+Customer: Yeah, that's right.
+
+Agent: Perfect. So you mentioned your internet went out about an hour ago. Has it been completely out this whole time, or did it drop and come back?
+
+Customer: No, it's just... it's completely down. My router's on, I can see the lights, but nothing's working. I can't get online at all.
+
+Agent: Okay, and just to confirm—are you calling from a mobile phone right now, or a landline?
+
+Customer: Mobile. I had to use my phone's hotspot to try to look up the number.
+
+Agent: Got it. That makes sense. Alright, let's run through some quick troubleshooting steps. First, can you tell me what lights you're seeing on your router right now?
+
+Customer: Um, okay, let me look at it. (pause) I see a blue light on the front, and there's... it looks like a green light on one side and... I think there's a red light too?
+
+Agent: Which one is blinking, the red or the green?
+
+Customer: The red one's blinking.
+
+Agent: Okay, so a blinking red light typically indicates there's no connection coming from our network. Before we go further, let me just verify a couple things on our end. (typing sounds) Do you remember if there were any storms in your area today?
+
+Customer: Now that you mention it, yeah. There was a pretty bad storm earlier this afternoon. Like around three o'clock.
+
+Agent: That could definitely be it. Can you do me a favor and unplug the power cable from your router for about thirty seconds? That should reset it.
+
+Customer: Sure, no problem. (pause) Okay, it's unplugged.
+
+Agent: Great. Just... just let it sit for about thirty seconds while we're talking. So James, during that storm—did you lose power in your house at all?
+
+Customer: No, actually the power stayed on the whole time. The modem and router were fine.
+
+Agent: Okay, good. That's helpful information. You know what, go ahead and plug it back in now.
+
+Customer: (pause) Alright, it's plugged back in. (pause) Okay, I see the lights coming back on.
+
+Agent: Good. Let's give it about a minute to fully boot up and reconnect. While that's happening, can you tell me—do you have an ONT? That's the fiber terminal box, usually smaller, might be mounted on a wall near your router or in a closet?
+
+Customer: Oh, um, yeah. I think so? It's like a white box in my bedroom closet, right?
+
+Agent: That sounds about right, yeah. Can you go check on that for me? Just look at the lights on it.
+
+Customer: (pause) Okay, give me just a second. (background noise, footsteps) Alright, I'm looking at it. It's got... I see a green light, and a white light, and... (pause) one red light that's blinking.
+
+Agent: A red light blinking on the ONT. Okay, that's what we need to address. That red light means there's no signal coming in from our network on your line. [inaudible] Let me check something here. (typing sounds) 
+
+James, this is interesting. I'm showing some network activity issues in your area, particularly affecting fiber customers who experienced power fluctuations during the storm. Do you have a battery backup unit in your setup, or any surge protectors?
+
+Customer: I've got them plugged into a surge protector, but I don't have a battery backup or anything like that.
+
+Agent: Okay. You know what, let me try a couple more things. Can you unplug the ONT now? That's the white box in your closet.
+
+Customer: Sure. (pause) Okay, it's unplugged.
+
+Agent: Now, leave it unplugged for about thirty seconds as well... (pause) Alright, you can plug it back in now.
+
+Customer: (pause) Okay, plugging it back in. (pause) I see it starting up again.
+
+Agent: Alright, let's wait about two minutes for it to fully power back on and establish connection. What I'm going to do is run a diagnostic on our end as well. (typing sounds) 
+
+Customer: How long do you think this is going to take?
+
+Agent: Well, the diagnostic will just take a couple minutes. But I'll be honest with you—based on what I'm seeing on my end, I think the issue might be a bit more involved than just a simple reboot. There are some anomalies showing up on your port on the network side that suggest the storm may have affected the equipment or the line itself.
+
+Customer: So... is my internet just broken?
+
+Agent: Not necessarily. We may need to send a technician out to check the equipment and the line. But let me exhaust all the options first. (typing sounds, pause) Okay, the diagnostic is complete. The ONT is still showing that red light, correct?
+
+Customer: Yeah, it's still there. Still blinking.
+
+Agent: Yeah, that's what I'm seeing too. Unfortunately, that indicates the signal isn't making it to your equipment from our network. Now, this could be a few things—it could be a provisioning issue on the line, could be a damaged fiber line from the storm, could be an issue at the junction box on your property...
+
+Customer: Is there anything else I can try?
+
+Agent: Let me have you check one more thing. Can you go look at your network box outside? It should be a gray or beige colored box, usually mounted on the side of your house or on a pole nearby.
+
+Customer: Okay, hold on. (background noise, footsteps, door opening) Um... I don't really see anything like that. Are you sure it's outside?
+
+Agent: In some cases, yeah, it can be inside depending on how your setup is configured. For fiber customers, sometimes it's in a garage or utility closet. But since you're in a residential area—
+
+Customer: (interrupting) Well, I checked the garage too. I don't see anything.
+
+Agent: Okay, okay. Let me look up your specific installation details here. (typing sounds, pause) 
+
+Alright, I'm looking at the notes from when you were installed. It says the connection point is on the outside of your home. Let me ask—is there any kind of box or terminal on the exterior that you might not have noticed?
+
+Customer: I can walk around and look if you want.
+
+Agent: That would actually be really helpful.
+
+Customer: (pause, footsteps, background noise) Okay... so I'm walking around the side... (pause) Oh, wait. Is it like a small gray thing about yay big? (holding hands apart)
+
+Agent: Yeah, that could be it. Can you check if there's any water damage or if anything looks loose or disconnected?
+
+Customer: (pause) It all looks pretty... pretty normal, I guess? I don't see anything obviously wrong with it. There's some water on it, but that's probably from the storm.
+
+Agent: That's probably fine. Okay, everything seems physically intact. Let me try one more diagnostic reset from my end. (typing sounds) Give me just a moment here. (pause) Okay, I'm initiating a line reset. You might see the lights on your ONT turn off briefly.
+
+Customer: (pause) Yeah, they just went off. (pause) They're back on now... (pause) ...but that red light is still blinking.
+
+Agent: Unfortunately, that's what I was expecting to see. James, here's what I think is happening. The storm damage appears to have affected the signal quality on your line in a way that these basic resets can't fix. This is going to require a technician visit to physically inspect the line and test the signal strength at various points.
+
+Customer: So... I can't just fix this myself?
+
+Agent: I'm afraid not on this one. I've done all the remote troubleshooting I can do from this end. The red light on the ONT is a pretty clear indicator that the issue is on the network side, not with your equipment itself. I wish I had better news.
+
+Customer: (sigh) Okay, so what do I need to do to get someone out here?
+
+Agent: I can absolutely schedule a technician for you. They typically have a twenty-four to forty-eight hour window. Are you available during business hours, or would you prefer an evening appointment?
+
+Customer: Um, I mean, I work from home, so this is kind of urgent. When's the earliest someone could come out?
+
+Agent: (typing sounds) Let me check what we have available. The earliest I can get someone out would be tomorrow afternoon between two and five PM. Would that work for you?
+
+Customer: That... that's the best we can do?
+
+Agent: Unfortunately, yes. We don't have any same-day availability right now, especially given the storm activity in your area. I know it's frustrating. But the good news is that once the technician gets out there, they can usually resolve this pretty quickly if it's what I think it is.
+
+Customer: Okay, fine. Go ahead and book it for tomorrow.
+
+Agent: Perfect. I'm going to get that scheduled for you right now. (typing sounds) Alright, I have a technician appointment set up for tomorrow, December 15th, between two and five PM. Someone will call you about thirty minutes before arrival to confirm. And James, I'm going to put a note on your account about the storm and the red light issue, so the tech will be prepared when they arrive.
+
+Customer: Okay, thank you.
+
+Agent: I'm really sorry you're dealing with this, but we'll get you back online tomorrow. Is there anything else I can help you with today?
+
+Customer: No, I think that's everything. Thanks for trying.
+
+Agent: Of course. Thanks for being patient with me through all that troubleshooting. You have a good rest of your day, and we'll see you tomorrow.
+
+Customer: Bye.
+
+Agent: Bye now.
+
+(call ends)

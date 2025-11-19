@@ -1,0 +1,113 @@
+Agent: Thank you for calling Frontier Communications. This is Marcus speaking. How can I help you today?
+
+Customer: Hi, yeah, um, my internet's been down since this morning and I have no idea what's going on. I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll get you sorted out. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0847. That's my phone number.
+
+Agent: (typing sounds) Perfect, thank you. I'm showing an account here for... Robert Chen, is that correct?
+
+Customer: Yes, that's me.
+
+Agent: Great, Robert. So you mentioned your internet's been down since this morning. Have you tried unplugging your router and modem yet?
+
+Customer: Yeah, I actually did that about an hour ago. I unplugged everything, waited like five minutes, and plugged it back in. It came back on for like maybe thirty seconds and then it just died again.
+
+Agent: Okay, interesting. So it booted up briefly but then went back down. That's actually helpful information. And right now, are any of the lights on the modem or router lit up at all?
+
+Customer: (pause) Um, let me look here... The modem has like one light that's kind of orange or amber colored, and then the router... the router doesn't seem to have any lights on at all.
+
+Agent: Okay, so the modem has an amber light. That typically indicates either a connection issue or it's still trying to establish a connection. Let me just verify something here. Are you in the Asheville area?
+
+Customer: Yeah, I'm in Asheville. Why?
+
+Agent: Just checking our system. We did have some maintenance work scheduled in your area yesterday, so I wanted to rule that out. But that should have been completed. Okay, let's do a couple more things. Can you unplug the modem for me, but this time leave it unplugged for about thirty seconds?
+
+Customer: Sure, give me a second... (background noise of unplugging) Okay, it's unplugged.
+
+Agent: Perfect. Now just count to thirty for me while I'm looking at your line here.
+
+Customer: (pause) Alright, thirty seconds should be... about now?
+
+Agent: Great, go ahead and plug it back in.
+
+Customer: (plugging sounds) Okay, it's back in.
+
+Agent: Now let's give it a minute to fully boot up. While we're waiting, have you noticed any issues with your service before this, or is this the first time?
+
+Customer: No, this is the first time in like... I've had Frontier for about two years and it's been pretty solid until today.
+
+Agent: That's good to know. Okay, what lights are you seeing now on the modem?
+
+Customer: Still just that amber light. Nothing else.
+
+Agent: Hmm, still amber. And the router still has no lights?
+
+Customer: Right, nothing on the router.
+
+Agent: (typing sounds) Let me check something on my end here... (pause) Robert, I'm showing that your line is actually registering as down at our network hub. That's telling me the issue might be outside the home, possibly with the fiber line itself or the equipment at the connection point.
+
+Customer: Oh, so it's not something I can fix?
+
+Agent: Well, let me ask you this. Have you had any recent storms in your area, or noticed anything unusual outside like loose cables or anything like that?
+
+Customer: (pause) You know, we did have some pretty heavy rain last night. I didn't think about that. Um, I don't really know what to look for though.
+
+Agent: That could definitely be it. If there's any physical damage to the line coming into your home, that could cause this. Tell you what, can you go take a look at where the fiber line connects to your house? It's usually a small box on the outside of the home, often near where power lines come in.
+
+Customer: Okay, hold on... (background noise, footsteps) Yeah, I can see it. There's a gray box here on the corner of the house. I don't see anything obviously wrong with it though. It looks... normal?
+
+Agent: Is the box closed and sealed properly?
+
+Customer: Yeah, I mean... it looks closed to me. [inaudible] I'm not really sure what I'm looking for.
+
+Agent: That's totally fine. It sounds like that's probably not the issue then. Let me try one more thing from my end. I'm going to attempt a network reset on your account here. This will restart the provisioning on your line. 
+
+Customer: Okay...
+
+Agent: (typing sounds) Alright, that's processing. Give it about two minutes and see if those lights change at all. Can you stay on the line with me?
+
+Customer: Yeah, no problem.
+
+Agent: (pause) So how long have you been in Asheville?
+
+Customer: About five years now. Moved here from Charlotte.
+
+Agent: Oh, nice. That's a great area. (pause) Okay, anything changing on those lights?
+
+Customer: (pause) Nope, still just the amber light on the modem. And the router is still dark.
+
+Agent: Still amber... (pause, typing sounds) Alright, I'm not seeing the provisioning go through on my end either, which is concerning. Let me check something else. (pause) Okay, so I'm seeing a signal issue at the network level for your connection. Typically that means either the line is damaged, there's a problem at the distribution point in your neighborhood, or there's an issue with the optical network terminal at your home.
+
+Customer: So what does that mean? Like, how long before I can use the internet again?
+
+Agent: Well, this is going to require a technician to come out and diagnose the issue properly. I can't resolve this remotely, unfortunately. But I can absolutely get someone scheduled for you.
+
+Customer: How soon can they come out?
+
+Agent: (typing sounds) Let me check our availability... We have some openings tomorrow between 8 AM and 5 PM, or if you need it sooner... unfortunately today is fully booked. We've had quite a few service calls because of that storm system.
+
+Customer: Tomorrow is fine, I guess. I mean, I don't love it, but... can I do 1 PM or so? I have some work stuff in the morning.
+
+Agent: Actually, let me see... we can do 12:30 to 2:30 PM tomorrow. Does that work?
+
+Customer: Yeah, that works.
+
+Agent: Perfect. I'm going to get that scheduled for you. The technician will be out between 12:30 and 2:30 PM tomorrow. Is this the address on file at 847 Ridgewood Drive?
+
+Customer: Yes, that's correct.
+
+Agent: Excellent. And they'll have your account information, but just to note, we don't charge for technician visits for service outages on our end, which this appears to be. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. I just... I need to get this working because I work from home and I've already lost the whole day.
+
+Agent: I completely understand, and I apologize for that. The technician will get to the bottom of this tomorrow. Your appointment is confirmed. You should get a confirmation text or email shortly. If you need to reach us before the appointment, you can call back at the number on your bill.
+
+Customer: Okay, thanks Marcus.
+
+Agent: You're welcome, Robert. Thanks for calling Frontier and we'll get you back online tomorrow.
+
+Customer: Appreciate it. Bye.
+
+Agent: Bye now.

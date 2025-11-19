@@ -1,0 +1,125 @@
+# Frontier Communications Support Call
+
+Agent: Thank you for calling Frontier Communications customer support. My name is Marcus. How can I help you today?
+
+Customer: Hi, yeah, um... my internet just went out about an hour ago and I can't get it back online. I'm working from home and I really need to get this fixed.
+
+Agent: Oh no, I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll see what we can do. Can I get the phone number associated with your account, please?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, got it. I see you're on our Fiber 500 plan in the Westside area. And just to confirm, you're completely without internet right now?
+
+Customer: Yeah, completely down. Like, no connection at all. My phone and everything—well, my phone works on cellular—but none of my devices are connecting to the WiFi.
+
+Agent: Got it. Alright, let's start with some basic troubleshooting. First thing I want you to do is locate your gateway—that's the box with the lights on it. Do you know where that is?
+
+Customer: Yeah, it's right here in my living room. Um... (pause) I'm looking at it right now.
+
+Agent: Perfect. What color are the lights on the front? Are they on at all?
+
+Customer: Let me see... the power light is on, it's blue. But... the internet light is red. It's solid red.
+
+Agent: Okay, solid red is telling us there's no internet connection coming in. That actually helps. What I want you to do is unplug the gateway from the power outlet. Just pull the plug out.
+
+Customer: (pause) Okay, it's unplugged.
+
+Agent: Now I'm going to have you wait about thirty seconds for it to fully power down. While we're waiting, have you noticed any service issues in your area recently? Any work being done?
+
+Customer: Not that I'm aware of, no. I mean, I'm pretty home bound because of the work-from-home thing, so... I don't know. Is there something going on?
+
+Agent: We can check on that in just a moment. Okay, go ahead and plug it back in now.
+
+Customer: (sounds of plugging in device) Okay, it's in. Now what?
+
+Agent: Now we're just going to wait for it to boot back up. This typically takes about two to three minutes. While we're waiting, let me check if there are any service alerts in your area. (typing sounds) (pause) Okay, I'm not seeing any major outages reported, but let me check your line specifically.
+
+Customer: All right, so like... is that a good sign or a bad sign?
+
+Agent: Well, it means the outage is likely isolated to your connection rather than affecting the whole neighborhood, which is good news. (pause) How are those lights looking now?
+
+Customer: Um... the power light is solid blue still, but the internet light is... still red. It's still red, Marcus.
+
+Agent: Still red. Okay. Let's try another approach. I want you to do what we call a factory reset on the gateway. There should be a small button on the back of the device. It might be recessed, so you might need a paperclip or something similar.
+
+Customer: Okay, hold on. (pause) Yeah, I see it. There's a little button back here. What do I do?
+
+Agent: Go ahead and hold that down for about ten seconds. You'll notice the lights will go dark—that's normal.
+
+Customer: (pause) Okay, they're all off now.
+
+Agent: Good. Now let go of the button and let it restart. This reset will take a bit longer, maybe three to four minutes. We're going to stay on the line.
+
+Customer: Okay. (pause) So... what could be causing this? Like, is it my equipment or is it something with Frontier's network?
+
+Agent: Well, that's what we're trying to figure out here. Sometimes it's equipment, sometimes it's a connection issue on our end. The fact that the light is solid red suggests the gateway isn't receiving a signal from our network, which could be either scenario. Let me pull up your connection logs here. (typing sounds) (pause) Hmm.
+
+Customer: What is it? What's "hmm"?
+
+Agent: Well, I'm seeing that your device did connect briefly about forty-five minutes ago, and then the connection just... dropped. There's no error code or anything unusual in the logs, it just stopped communicating. That's a little odd.
+
+Customer: What does that mean?
+
+Agent: It could mean a few things. It could be a line issue between our network and your home, or it could be that the gateway's modem component is failing. How old is your equipment? Do you remember when we installed it?
+
+Customer: Um, I want to say it's been... maybe three years? Maybe a little more?
+
+Agent: Okay, that's fairly standard. (pause) All right, are you seeing any lights yet?
+
+Customer: The power light just came back on. It's blue again. But... (pause) the internet light is still... it's still red. I'm sorry.
+
+Agent: No, don't apologize. (pause) Okay, let me try to provision the gateway again from my end. This might take a minute. (typing sounds) (longer pause) All right, I've sent a signal to re-establish your connection. (pause) How are we looking?
+
+Customer: Still red. Is that... is that bad?
+
+Agent: (pause) It's... well, it's not responding on our end. I'm not getting a handshake from the device. That usually indicates that the modem portion of your gateway might be having an issue.
+
+Customer: So what does that mean? Do I need a new one?
+
+Agent: That's quite possible. Before we go down that road though, let me try one more thing. I'm going to have you disconnect the coaxial cable—that's the cable that comes from the wall and connects to the gateway.
+
+Customer: The cable from the wall? (pause) Okay, I unplugged it.
+
+Agent: Can you look at the connector on the end of that cable? The part that screws in? Does it look clean, or is there any dirt or corrosion on it?
+
+Customer: (pause) It looks... I mean, it looks okay to me. Maybe a little dusty?
+
+Agent: Dust is fine. Go ahead and reconnect it, just make sure you screw it on nice and snug.
+
+Customer: (pause) Okay, it's plugged back in.
+
+Agent: (pause) Still nothing, huh?
+
+Customer: (pause) No, still solid red. Marcus, I've been on the phone with you for like... what, ten minutes? Is there anything else you can do?
+
+Agent: (pause) I know this is frustrating. Let me be honest with you—and I really wish I had better news here—but at this point, the gateway isn't responding to our network signals at all. Everything I'm checking from my end shows that we're trying to reach you, but your device just isn't communicating back.
+
+Customer: So... that means I'm down?
+
+Agent: I'm afraid so, yes. It does appear that way. The good news is that we can get you a replacement gateway. [inaudible] ...we can actually have a technician out to your place... probably by tomorrow or the day after at the latest. And we can get you a loaner device if you need to get online before then.
+
+Customer: (sigh) How much is that going to cost me?
+
+Agent: Well, since you're in your service window and this appears to be a hardware failure, the replacement gateway and the technician visit shouldn't cost you anything. We'll cover that.
+
+Customer: Okay, well... I guess that's something. When can someone come out?
+
+Agent: Let me check our availability. (typing sounds) (pause) Okay, I'm showing that we have openings tomorrow between 9 AM and 1 PM. Would that work for you?
+
+Customer: Tomorrow morning? Yeah, I can make that work.
+
+Agent: Great. I'm going to get you scheduled. Before we wrap up, is there anything else I can help you with today?
+
+Customer: No, I think... I think that's it. Just get someone out here to fix this.
+
+Agent: Absolutely. You're all set. Your appointment is scheduled for tomorrow between 9 and 1. You should get a confirmation text within the next hour. Thank you for your patience today, and I really do apologize that we couldn't get this resolved over the phone.
+
+Customer: Yeah, thanks, Marcus. I appreciate it.
+
+Agent: No problem at all. Have a great day, and thanks for choosing Frontier.
+
+Customer: Bye.
+
+Agent: Bye now.
+
+(call ends)

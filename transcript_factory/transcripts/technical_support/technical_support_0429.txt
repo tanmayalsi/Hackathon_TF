@@ -1,0 +1,117 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, thanks for picking up. So, uh, my internet has been down since this morning and I'm not sure what's going on. I've got work calls coming up and I really need to get this fixed.
+
+Agent: Oh no, I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's... hold on. (pause) It's 555-0147.
+
+Agent: (typing sounds) Okay, I've got you here. I'm showing an account for Michael Chen at 442 Elm Street. Is that correct?
+
+Customer: Yes, that's me.
+
+Agent: Perfect. So you're experiencing a complete internet outage as of this morning, is that right?
+
+Customer: Yeah, completely down. The router's on, the lights are all... they're blinking like normal, but I can't get online. I've tried restarting it a couple times already but nothing's working.
+
+Agent: Okay, let me help you troubleshoot this. When you say the lights are blinking normally, can you describe what you're seeing? Are they the typical colors?
+
+Customer: Um, yeah. I see a white light, and then there's some blinking blue ones. That's usually what it looks like.
+
+Agent: Okay, that sounds right. And just to clarify, you're unable to connect to Wi-Fi or... are you trying to connect via ethernet cable as well?
+
+Customer: I've tried both. I plugged in my laptop with the ethernet cable directly to the router, and I'm still getting nothing. Wi-Fi won't connect either.
+
+Agent: Got it. Alright, let me check our network status on your line. (typing sounds) (pause) I'm not seeing any active outages in your area, so it's likely an issue with your modem or the equipment on your end. Let's try a few things. First, can you unplug the modem for me? The box that's connected to the wall.
+
+Customer: Yeah, unplugging it now. (pause) Okay, it's unplugged.
+
+Agent: Great. Let that sit for about thirty seconds while we wait. (pause) This actually resets the modem and clears the cache, which usually resolves these kinds of issues.
+
+Customer: Alright, I'm waiting. (long pause) Okay, thirty seconds is up.
+
+Agent: Perfect. Now go ahead and plug it back in.
+
+Customer: Plugging it in now. (pause) Okay, it's back on. I see the lights coming back on.
+
+Agent: Excellent. Now, what we want to do is wait about two minutes for it to fully boot up and establish the connection. While we wait, let me ask you a few questions. Have you had any recent storms in your area?
+
+Customer: No, not that I can recall. It's been pretty clear.
+
+Agent: Okay, and you haven't done any work on your equipment or moved anything around recently?
+
+Customer: No, everything's been the same for months.
+
+Agent: Alright. (pause) Have those lights stabilized yet? What are you seeing now?
+
+Customer: Um, I've got the white light solid, and the blue lights are... they're still blinking. Same as before.
+
+Agent: Okay, and do you have the ability to see if there's an internet connection now? Can you try pinging a website or opening your browser?
+
+Customer: Let me try. (pause) No, still nothing. The browser won't load anything. (pause) It just keeps timing out.
+
+Agent: Hmm, alright. Let me check something on my end here. (typing sounds) (pause) Can you walk me over to the modem? I want you to look at the bottom or back of it. Do you see a serial number or model number?
+
+Customer: Yeah, yeah. (pause) I'm looking at it. It says... it looks like a Frontier Gateway 5268, I think? It's hard to read.
+
+Agent: Okay, that helps. So we do know that equipment is compatible and fairly new. Let me check the line itself. (pause) I'm running a test on your line now... (pause) [inaudible] that's strange. The line seems to be responding, but there's definitely something blocking the signal to your modem.
+
+Customer: What does that mean? Is it something I can fix?
+
+Agent: It might be. A few possibilities here. Sometimes there can be a loose connection either at the wall outlet or at the modem port itself. Can you check both those connections? Look behind your modem and see if the cable going into it is firmly seated.
+
+Customer: Okay, holding on. (pause) Let me look back there. Yeah, it looks pretty secure to me. I mean, I'm not seeing anything loose.
+
+Agent: Can you unplug it and plug it back in? Sometimes even if it looks secure, it might need to be reseated.
+
+Customer: Sure. (pause) Okay, I unplugged it. (pause) Plugging it back in now... (pause) Still the same thing.
+
+Agent: Alright. Now check the outlet at the wall as well. Is it the same cable that was there before?
+
+Customer: Yeah, it's the same cable. But let me check... (pause) [inaudible] ...it seems fine. It feels tight.
+
+Agent: Okay. Let me ask you something else. Are you in a basement or anywhere that might be damp or have water exposure?
+
+Customer: No, I'm in my living room. It's upstairs. Why do you ask?
+
+Agent: Just ruling things out. Sometimes moisture can cause connection issues. Let me try something else here. I'm going to push a configuration update to your modem. It should take about thirty seconds. You'll probably see the lights flash a bit.
+
+Customer: Okay, pushing an update?
+
+Agent: Yes, I'm sending it now. Just give it a moment... (typing sounds) (pause) Alright, it's going through. You should see some activity on the modem.
+
+Customer: Yeah, I see some lights blinking. (pause) Okay, they're settling down again. (pause) But... still nothing. Still can't get online.
+
+Agent: (pause) Hmm. Okay, Michael, I want to check one more thing. I'm going to see if there's an issue with the line coming into your house. Can you tell me where your connection comes in? Is it through a wall jack or is it coming from outside?
+
+Customer: It comes from outside. There's a box on the side of my house where it connects.
+
+Agent: Okay, that's helpful. That might be where the problem is. There could be a loose connection at that external junction box, or even potentially an issue with the line between that box and the pole. That would be beyond what we can troubleshoot over the phone.
+
+Customer: Oh, so... what are you saying? I need a technician to come out?
+
+Agent: It does seem like it at this point. I've tried a few standard troubleshooting steps, and unfortunately none of them resolved it. My best recommendation would be to schedule a service call. We can get someone out to you to inspect that external connection and the line.
+
+Customer: How long would that take? Like, could someone come today?
+
+Agent: (typing sounds) Let me check our availability. What's your zip code?
+
+Customer: 10023.
+
+Agent: (pause) Okay, I'm looking at our schedule for that area... (pause) It looks like we can get someone out there today actually, between 2 and 5 PM. Does that work for you?
+
+Customer: Yeah, that works. I'm here all day anyway.
+
+Agent: Perfect. Let me get that scheduled for you. (typing sounds) Alright, so we have you down for a service visit today, 2 to 5 PM window. The technician will come and check the external connection and run diagnostics on the line. Is there anything else I can help clarify before we wrap up?
+
+Customer: No, I think that's it. So I should just... wait for the technician?
+
+Agent: Yes, just keep an eye out. They'll arrive sometime in that window. If you need to reschedule, you can always call back. Do you have any other questions for me?
+
+Customer: No, I think I'm good. Thanks for your help, Derek.
+
+Agent: Of course, Michael. I'm sorry we couldn't get it working over the phone, but hopefully the technician will get you up and running today. Thanks for calling Frontier, and we appreciate your business.
+
+Customer: Thanks. Bye.
+
+Agent: Take care. Have a good day.

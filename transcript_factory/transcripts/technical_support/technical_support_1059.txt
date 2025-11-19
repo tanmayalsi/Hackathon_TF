@@ -1,0 +1,87 @@
+Agent: Thank you for calling Frontier Communications. This is Marcus speaking. How can I help you today?
+
+Customer: Hi, yeah, so my internet just went out about an hour ago and I can't get it back up. I've tried unplugging the modem and router but nothing's working.
+
+Agent: Oh, I'm sorry to hear that. Let me pull up your account and we'll get this sorted out for you. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, got it here. And what's the best name to have on the account?
+
+Customer: It's David Chen.
+
+Agent: Perfect, David. So you're experiencing a complete outage right now, is that correct?
+
+Customer: Yeah, complete outage. The modem and router lights are just... they're not doing anything. It's all dark.
+
+Agent: Alright, I understand. Let me start with a few basic troubleshooting steps. First, can you tell me—is your modem plugged in directly to a power outlet?
+
+Customer: (slight pause) Yes, it is. I mean, I assumed it was. Let me just... yeah, no, it's definitely plugged in. The outlet's working because I tested it with my phone charger.
+
+Agent: Good, good. And the modem itself—do you see any lights at all? Sometimes there's a power light that might be on even if other lights aren't responding.
+
+Customer: Um, let me look more closely... (pause) No, nothing. It's completely black. Not even a power light.
+
+Agent: Okay. So when you unplugged the modem earlier, how long did you leave it unplugged before plugging it back in?
+
+Customer: Maybe like thirty seconds? Should I have waited longer?
+
+Agent: Actually, yes. Let's try that again. Can you unplug the modem for me now and just leave it unplugged for about two minutes? While you're doing that, go ahead and unplug the router as well.
+
+Customer: Okay, unplugging now. (sounds of movement) Both are unplugged. I'm gonna wait... I'll let you know when two minutes is up.
+
+Agent: (pause) Sure thing, David. I'll be right here.
+
+Customer: (after pause) Alright, it's been about two minutes. Should I plug them back in?
+
+Agent: Yes, go ahead and plug the modem back in first. Let's give that a minute to fully boot up before we plug in the router.
+
+Customer: (plugging sounds) Okay, modem's back in. (pause) I'm waiting... and... still nothing. No lights coming on at all.
+
+Agent: Hmm, okay. That's unusual. Let me ask you this—have there been any recent storms in your area, or any construction work nearby?
+
+Customer: No storms, but actually... yeah, now that you mention it, there was a utility crew working on the telephone lines down the street yesterday. Could that have something to do with it?
+
+Agent: It's possible. Sometimes construction can affect the fiber lines. Let me check if there are any service alerts or outages in your area. (typing sounds) (pause) I'm not seeing any widespread outages on my end, but that doesn't mean there isn't something with the external line to your home. Can you tell me where your fiber connection comes into your house?
+
+Customer: Uh, it comes in through the basement. There's like a box on the wall down there.
+
+Agent: Okay. If you could take a quick look at that box—sometimes called an ONT—do you see any lights on there at all?
+
+Customer: Let me go check. (background noise, footsteps) Okay, I'm looking at it now and... no lights. Nothing on that either.
+
+Agent: Alright. That actually tells me a lot. The ONT not having any power suggests there might be an issue with the connection from the street to your home, or possibly with our infrastructure. Let me try a couple more things from my end. (typing sounds) I'm going to send a reset signal to your equipment now. Give it about five minutes and see if anything lights up.
+
+Customer: (pause) Okay, I'll wait. (long pause) Still nothing. Five minutes is up and... nope, still dark.
+
+Agent: Okay, I'm not seeing the equipment come back online on my end either. At this point, David, I think we may be looking at an issue that's beyond the modem and router—something with the line coming into your home or potentially in our network infrastructure from that construction work yesterday.
+
+Customer: So what does that mean? How do we fix it?
+
+Agent: Well, typically what I'd recommend is dispatching a technician to your home to check the external line and the connection point. They can inspect whether yesterday's construction damaged anything.
+
+Customer: How long would that take? When could someone come out?
+
+Agent: (typing sounds) Let me check our availability. We have some slots open... the earliest we can get someone out would be tomorrow between 8 AM and 12 PM, or we have afternoon slots on Thursday and Friday as well.
+
+Customer: Tomorrow morning would be good if that works.
+
+Agent: Perfect. Let me get that scheduled for you. (typing sounds) Okay, I have you down for tomorrow, Tuesday, between 8 AM and noon. A technician will come by and diagnose the issue with your external line and connection.
+
+Customer: Alright. Is there anything else I should try in the meantime?
+
+Agent: You can leave the modem and router unplugged for now—no need to keep trying to reset them. When the technician arrives, we'll get everything working. You should see a confirmation email within the next thirty minutes.
+
+Customer: Okay, thanks. So if it's that construction crew's fault, will Frontier cover the repair?
+
+Agent: That's a good question. Once the technician assesses the damage, they'll be able to determine the cause. If it's external infrastructure damage, Frontier typically covers that. We'll know more tomorrow.
+
+Customer: Alright. I appreciate the help, Marcus. Hopefully that gets it sorted.
+
+Agent: You're welcome, David. I'm sorry you're experiencing this outage. We'll get you back online as soon as possible. Your ticket number is 847392 if you need to reference this call. Is there anything else I can help with today?
+
+Customer: No, that's everything. Thanks again.
+
+Agent: Thank you for calling Frontier Communications. Have a good day.
+
+Customer: You too.

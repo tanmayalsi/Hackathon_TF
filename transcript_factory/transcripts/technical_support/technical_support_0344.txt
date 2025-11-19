@@ -1,0 +1,117 @@
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet just went out completely about an hour ago and I can't get it back up. I've tried unplugging everything and... nothing's working.
+
+Agent: I'm sorry to hear that. We'll get this figured out for you. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, I'm pulling that up here... and I've got your account. I see you're in the Maplewood area. Just to confirm, you're experiencing a complete internet outage, correct? No lights on the modem at all?
+
+Customer: Right, nothing. The modem's just completely dark. Like, usually there's that little light that blinks, you know?
+
+Agent: Yeah, I know exactly what you mean. Okay, let's start with some basic troubleshooting. Can you locate your modem for me? It's probably a white box, maybe about this big... (gestures, inaudible)
+
+Customer: Yeah, I see it. It's right there under the TV stand.
+
+Agent: Perfect. So here's what I want you to do. Can you unplug the power cable from the back of the modem? Just give it a good five-second unplug, and then plug it back in.
+
+Customer: Okay, doing that now... (pause) ...and it's plugged back in.
+
+Agent: Great. Now we're just gonna wait about two minutes for it to boot back up. While we're waiting, let me ask you—have you had any storms or power outages in your area recently?
+
+Customer: Uh, now that you mention it, yeah. There was actually a pretty bad storm last night. Knocked the power out for like twenty minutes or so.
+
+Agent: Ah, okay. That could definitely be a factor here. A power surge could've damaged the modem. (pause) So what I'm seeing now on your account is that your modem should be coming online. Are you seeing any lights at all yet?
+
+Customer: Um... let me look. (pause) No, still nothing. It's still completely dark.
+
+Agent: Okay, still dark. Hmm. Let me try something else. Can you check the back of the modem and tell me if there's a small button, maybe recessed into the back? It might say "Reset" on it.
+
+Customer: Oh yeah, I see it. It's got like a little hole with a button inside.
+
+Agent: That's the one. Now, I'm gonna have you press and hold that for about ten seconds. You'll probably need like a paperclip or pen to reach it.
+
+Customer: Hold on, let me grab something... (pause) Okay, I got a pen. I'm pressing it now... (pause) ...ten seconds, okay, releasing.
+
+Agent: Good. Let's give that another minute or so to reboot. (pause) Have you noticed any other issues with your service before today? Any intermittent outages or slow speeds?
+
+Customer: No, actually it's been pretty solid. This is the first real problem I've had in... I dunno, maybe three months?
+
+Agent: That's good to know. Alright, so how are we looking now? Any signs of life on that modem?
+
+Customer: (frustrated) No, man. Still nothing. This is really frustrating.
+
+Agent: I completely understand. Let me check something on my end here. (typing sounds) So I'm looking at our network in your area and... I'm not seeing any outages reported currently, so it does seem to be isolated to your location. Can you do me a favor and look at the back of the modem where the cables plug in? I want to make sure everything's fully connected.
+
+Customer: Yeah, okay. (pause) Everything looks plugged in pretty tight. There's the power, the ethernet cable going to my router, and... yeah, that's it.
+
+Agent: Okay. And just to clarify, you've got a separate router as well, or is that all one unit?
+
+Customer: No, there's two separate things. The modem is separate from the router.
+
+Agent: Perfect. So here's what I want to try—can you unplug the ethernet cable that's going from the modem to the router and just leave it unplugged for now. Sometimes that connection can get finicky.
+
+Customer: (pause) Okay, it's unplugged.
+
+Agent: And now unplug the modem's power one more time, just for about thirty seconds.
+
+Customer: Alright. (pause) Unplugged. (pause) ...okay, plugging it back in now.
+
+Agent: Good. Let's see if that helps this time. (pause) Anything yet?
+
+Customer: I'm... I'm looking and... nope. Still dark. Not even a flicker.
+
+Agent: (sigh) Okay, I hear you. Let me... let me try a different approach here. I'm going to check if we're even detecting your modem on the network. (typing sounds) (pause) So, um... I'm actually not getting a signal from your modem at all right now. That's... that's not a good sign, to be honest with you.
+
+Customer: What does that mean? Is it like... dead?
+
+Agent: Well, it could be a few things. It could be that the modem got damaged during that power surge last night. Do you happen to have a surge protector that it's plugged into?
+
+Customer: No, it's just plugged directly into the wall outlet.
+
+Agent: Ah, there we go. Yeah, that's probably what happened. A power surge could definitely fry the modem without a surge protector. That would explain why there's no power at all to the unit.
+
+Customer: So what... what do I need to do? Do I need to buy a new one?
+
+Agent: Well, let me check your account here. (typing sounds) So you're within your first year of service, which means... yes, the modem should be covered under our equipment warranty. We can definitely send you a replacement.
+
+Customer: Oh, okay. How long is that gonna take?
+
+Agent: So we have a few options. We can have a technician come out to your place within 24 to 48 hours to install a replacement, or if you'd prefer, we can ship one out to you. The shipped option usually takes about 5 to 7 business days, but you can install it yourself.
+
+Customer: Hmm. (pause) And just to... I mean, is there like any way we can figure out if it's actually the modem before I wait for a replacement?
+
+Agent: That's a good question. Um, honestly, given that we're getting no power signal at all and you're not seeing any lights, and you've got it plugged directly into an outlet with no surge protection after a power surge... I'm about 95% confident it's the modem. But if you wanted to be absolutely sure, we could try plugging something else into that same outlet to make sure the outlet itself is working.
+
+Customer: Oh, good idea. (pause) Let me try that. (pause) Okay, I plugged in a lamp and it turned on, so the outlet's fine.
+
+Agent: Right, so that tells us the outlet's working. I think we can pretty safely say it's the modem at this point. I'm sorry about this, but the good news is we'll get you back up and running quickly.
+
+Customer: Yeah, okay. I guess I'll just... schedule the technician visit then? I need internet pretty soon.
+
+Agent: Absolutely. Let me get that set up for you. (typing sounds) I can schedule a technician visit for tomorrow between 8 AM and 12 PM. Does that work for you?
+
+Customer: Tomorrow? Really? Yeah, that works.
+
+Agent: Excellent. So I've got you scheduled for tomorrow, 8 AM to noon, for modem replacement. Your technician's name will be... it looks like it'll be James. He'll text you an hour before he arrives.
+
+Customer: Great, thanks.
+
+Agent: Is there anything else I can help you with today?
+
+Customer: No, I think that's it. I just hope the internet comes back up tomorrow because I've got work meetings.
+
+Agent: I totally understand. And we'll make sure James gets you all set up. Is there a contact number I should have on file for tomorrow?
+
+Customer: Um, it's 555-0147, same as the account number.
+
+Agent: Perfect. Well, I really apologize for the inconvenience, and thank you for being so patient with the troubleshooting today. We appreciate your business, and we'll get you back online tomorrow.
+
+Customer: Alright, thanks Marcus. I appreciate it.
+
+Agent: You're welcome. Have a good rest of your day, and we'll see you tomorrow.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

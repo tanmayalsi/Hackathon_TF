@@ -1,0 +1,153 @@
+Requirements for fake data:
+1. Limit the states and cities to TX, FL, CA, CT, IN
+CA Cities: PERRIS, LONG BEACH,MENIFEE,ONTARIO,TEMECULA,MURRIETA,CHINO,APPLE VALLEY,MORGAN HILL,LAKE ELSINORE
+
+TX Cities:
+PLANO,LEAGUE CITY,COLLEGE STATION,GARLAND,ROSHARON,ARGYLE,WYLIE,DICKINSON,LEWISVILLE,KELLER
+
+FL Cities:
+BRADENTON,RIVERVIEW,DAVENPORT,TAMPA,LITHIA,BARTOW,SARASOTA,LAND O LAKES,VALRICO,WESLEY CHAPEL
+
+CT cities:
+NORWICH,BRISTOL,NEW HAVEN,W HAVEN,E HARTFORD,WATERBURY,MERIDEN,DANBURY
+
+IN cities:
+FORT WAYNE,LOGANSPORT,LAFAYETTE,ANGOLA,HOBART,DELPHI
+
+
+Each city should have 6-10 valid zipcodes
+
+
+2. Distribution of customers across cities and zipcodes
+Randomly Distribute customers among the zipcodes and cities with atleast 50 in each zipcode
+This will help us showcase the outages realistically across the map.
+
+
+4. Call Data (Most Essential)
+-To simulate call data we need to create 5-10 network outage events. To show case this in the data we need surge of calls in a certain time frame. We already have the call transcripts generated, but we need to map them to the customer data within the proper distribution
+ For example:
+Outage in CA, Murrieta, 92562 started on 11/16/2025 at 10 AM. We should have surge of calls from the customers in the region from 10 am to 11 am Most of the time customer will call in the first hour of the outages and 
+the volume will drop later on. So we need to fill the fake data in the datetime column accordingly.
+
+- Transcripts: We would require variety of transcripts with various issues. But the transcript talking about outages should be concentrated between the outage time frame to simulate the reality in synthetic data.
+
+
+Outage examples:
+
+Outage Events (Total: 10 events, ~2000 customers affected)
+Outage Event 1
+CA, PERRIS, (7 zipcodes)
+ 
+Zipcodes: 92570, 92571, 92572, 92573, 92574, 92599, 92596
+Total Customers Affected: 245
+Outage Start: 11/16/2025 10:15 AM
+Outage End: 11/16/2025 11:32 AM
+Duration: 77 minutes
+ 
+Outage Event 2
+TX, PLANO, (4 zipcodes)
+ 
+Zipcodes: 75023, 75024, 75025, 75074
+Total Customers Affected: 180
+Outage Start: 11/18/2025 1:11 PM
+Outage End: 11/18/2025 2:21 PM
+Duration: 70 minutes
+ 
+Outage Event 3
+CA, LONG BEACH, (6 zipcodes)
+ 
+Zipcodes: 90801, 90802, 90803, 90804, 90805, 90806
+Total Customers Affected: 220
+Outage Start: 11/18/2025 10:32 AM
+Outage End: 11/18/2025 12:01 PM
+Duration: 89 minutes
+ 
+Outage Event 4
+FL, TAMPA, (8 zipcodes)
+ 
+Zipcodes: 33602, 33603, 33604, 33605, 33606, 33607, 33610, 33612
+Total Customers Affected: 290
+Outage Start: 11/19/2025 8:45 AM
+Outage End: 11/19/2025 9:47 AM
+Duration: 62 minutes
+ 
+Outage Event 5
+CT, NEW HAVEN, (7 zipcodes)
+ 
+Zipcodes: 06510, 06511, 06512, 06513, 06515, 06519, 06520
+Total Customers Affected: 165
+Outage Start: 11/20/2025 2:20 PM
+Outage End: 11/20/2025 3:25 PM
+Duration: 65 minutes
+ 
+Outage Event 6
+IN, FORT WAYNE, (6 zipcodes)
+ 
+Zipcodes: 46802, 46803, 46804, 46805, 46806, 46808
+Total Customers Affected: 195
+Outage Start: 11/21/2025 11:05 AM
+Outage End: 11/21/2025 12:20 PM
+Duration: 75 minutes
+ 
+Outage Event 7
+CA, TEMECULA, (6 zipcodes)
+ 
+Zipcodes: 92590, 92591, 92592, 92593, 92596, 92597
+Total Customers Affected: 210
+Outage Start: 11/22/2025 3:30 PM
+Outage End: 11/22/2025 4:45 PM
+Duration: 75 minutes
+ 
+Outage Event 8
+TX, LEAGUE CITY, (7 zipcodes)
+ 
+Zipcodes: 77573, 77574, 77539, 77546, 77565, 77568, 77598
+Total Customers Affected: 175
+Outage Start: 11/23/2025 9:15 AM
+Outage End: 11/23/2025 9:45 AM
+Duration: 30 minutes
+ 
+Outage Event 9
+FL, BRADENTON, (8 zipcodes)
+ 
+Zipcodes: 34201, 34202, 34203, 34205, 34207, 34208, 34209, 34210
+Total Customers Affected: 185
+Outage Start: 11/24/2025 7:00 AM
+Outage End: 11/24/2025 8:25 AM
+Duration: 85 minutes
+ 
+Outage Event 10
+IN, LAFAYETTE, (6 zipcodes)
+ 
+Zipcodes: 47901, 47902, 47903, 47904, 47905, 47909
+Total Customers Affected: 155
+Outage Start: 11/25/2025 4:10 PM
+Outage End: 11/25/2025 5:30 PM
+Duration: 80 minutes
+ 
+ 
+Total Summary
+ 
+Total Outage Events: 10
+Total Customers Affected: 2,020
+Duration Range: 30-89 minutes
+Date Range: 11/16/2025 - 11/25/2025
+ 
+ 
+Call Volume Distribution Guidelines
+For each outage event, distribute calls as follows:
+Time-based Call Distribution:
+ 
+First 15 minutes: 40% of total calls (high surge)
+15-30 minutes: 30% of total calls (continued high volume)
+30-45 minutes: 20% of total calls (declining)
+45-60 minutes: 7% of total calls (tapering off)
+60+ minutes: 3% of total calls (residual)
+ 
+Example for Outage Event 1 (245 customers):
+ 
+10:15-10 AM: ~98 calls (40%)
+10:30-10 AM: ~74 calls (30%)
+10:45-11 AM: ~49 calls (20%)
+11:00-11 AM: ~17 calls (7%)
+11:15-11 AM: ~7 calls (3%)

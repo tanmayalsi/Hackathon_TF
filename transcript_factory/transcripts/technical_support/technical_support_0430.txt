@@ -1,0 +1,153 @@
+Agent: Thank you for calling Frontier Communications, this is Marcus speaking. How can I help you today?
+
+Customer: Hi, yes, um, my internet went out this morning and I can't get it back online. I've been without service for like two hours now.
+
+Agent: Oh, I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll get this sorted out for you. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, got it. I'm seeing your account here. So your internet service went down this morning around... let me see... what time did you first notice it?
+
+Customer: Uh, maybe around 9 or 9:30? I tried to work from home and nothing was loading.
+
+Agent: Alright, I'm not seeing any outages in your area at the moment, so let's do some troubleshooting on our end. First thing—can you tell me what you're seeing right now? Is the modem powered on?
+
+Customer: Yeah, yeah, the modem's on. I can see the lights and everything. They're... well, some of them are on anyway.
+
+Agent: Okay, good. Which lights are on for you? Can you read them off?
+
+Customer: Um, so the power light is on, that's green. And then there's like a white light that's blinking. Is that... is that normal?
+
+Agent: (pause) The white light blinking—that usually means it's trying to establish a connection. So it's searching for a signal right now. Let me ask you this: are you using the router that came with us, or do you have your own?
+
+Customer: No, I'm using the one you guys gave me.
+
+Agent: Perfect. And that router—is it powered on as well?
+
+Customer: Yeah, it's on. Um, but now that I'm looking at it, I don't see any lights on the router at all.
+
+Agent: Okay, so the router's plugged in but no lights are showing?
+
+Customer: Right, nothing. Like, is that bad?
+
+Agent: It could be a few things. Let me have you try a hard reset. Can you unplug both the modem and the router?
+
+Customer: Both of them?
+
+Agent: Yep, both of them. Just pull the power cables out.
+
+Customer: (pause) Okay, they're unplugged.
+
+Agent: Great. Now let's wait about 30 seconds—this'll give everything time to fully power down.
+
+Customer: (long pause) ...Alright.
+
+Agent: Perfect. Now go ahead and plug the modem back in first.
+
+Customer: (sound of plugging in) Okay, plugged back in.
+
+Agent: Let's give that about a minute to fully boot up. While that's happening, go ahead and plug the router back in too.
+
+Customer: (sound of plugging in) Got it.
+
+Agent: (pause) So once those boot up, we should see some lights coming on. The modem will take about a minute, and the router maybe 30 seconds after that. What are you seeing now?
+
+Customer: Um, the modem is showing more lights now. I'm seeing green... and orange... and like, that white one's blinking again.
+
+Agent: Okay, that's actually progress. The orange usually indicates it's processing. Let's give it another moment. How about the router?
+
+Customer: (pause) The router still has nothing. Like, completely dark.
+
+Agent: That's... that's concerning. Can you check the cable connecting your modem to the router? Make sure it's firmly plugged in on both ends.
+
+Customer: (pause) Yeah, it's pretty snug. Wait, um... I'm actually looking at it now and I'm not sure if it's the right cable. There's one here that's kind of loose.
+
+Agent: Oh! Try tightening that up.
+
+Customer: (pause) Okay... okay, I did. And... hmm, nothing changed on the router.
+
+Agent: Still no lights?
+
+Customer: Still nothing.
+
+Agent: Let me try something else. Can you unplug just the router this time?
+
+Customer: Just the router?
+
+Agent: Yeah, leave the modem alone.
+
+Customer: (pause) Okay, it's unplugged.
+
+Agent: Now let's leave it unplugged for about 30 seconds.
+
+Customer: (long pause) Waiting...
+
+Agent: Alright, now plug it back in.
+
+Customer: (sound of plugging in) Plugged it in.
+
+Customer: (pause) ...Okay, now I'm seeing some lights! There's a couple of lights on now. One's green, one's orange, one's...
+
+Agent: Great! Now we're getting somewhere. That orange light means it's still connecting. Give it maybe another 30 seconds to establish a connection. What we're looking for is a solid green or blue light, typically labeled internet or WiFi.
+
+Customer: (pause) Okay, so I'm looking and... the green one is solid now. But the orange one is still... it's blinking.
+
+Agent: Hmm, okay. The blinking orange usually means it's still trying to sync. Can you check your WiFi networks from your phone or computer? Do you see the Frontier network showing up?
+
+Customer: I'm checking on my computer right now... (pause) No, I don't see it. I see other networks from neighbors but not... not the Frontier one.
+
+Agent: (pause) Okay, let me check a few things on my end. (typing sounds) (pause) Let me ask you—are there any other cables plugged into the router besides the one from the modem?
+
+Customer: Um, no, I don't think so. Just the one coming from the modem.
+
+Agent: Alright. And you're sure the power is definitely going to the router?
+
+Customer: (pause) Well... it's plugged into the outlet. I'm looking at it and... actually, wait. Is there supposed to be an indicator light that shows power? Because I don't see one.
+
+Agent: (pause) Yes, there should typically be at least one light on to indicate power. That suggests the router might not be receiving power. Can you try a different outlet?
+
+Customer: (pause) Hold on, let me unplug it and try... (sound of unplugging) ...okay, moving it over. (sound of plugging in) ...Plugged into the living room outlet.
+
+Customer: (pause) Uh... nope. Still nothing.
+
+Agent: (pause) Okay, I think... I think the router might have an internal issue. This is unusual. Have you had any power outages or storms recently?
+
+Customer: Actually, yeah. There was lightning last night. Pretty bad storm.
+
+Agent: That could very well be it. The surge might've damaged the router's power supply. Let me check something on the modem side. Are you still seeing those lights on the modem? The solid green and the blinking orange?
+
+Customer: Yeah, both are still showing.
+
+Agent: Okay, so the modem seems to be functioning, but without the router, you won't be able to get WiFi throughout your home. And that orange light on the modem—that's indicating the modem isn't fully connected to our network yet either, which is odd given that the router isn't powering up.
+
+(pause)
+
+Agent: I think what we're looking at here is possible damage from that power surge last night. The router might be fried. And potentially there could be an issue with the modem as well, though it's showing some activity.
+
+Customer: So what do I do? I really need my internet back up. I work from home and I've already lost half my workday.
+
+Agent: I completely understand. Here's what I'd like to do: I'm going to schedule a technician to come out to your location. They can diagnose both units and if needed, replace them. Given the damage from the storm, this should be covered. How does your schedule look? We have availability tomorrow between 8 and 12 in the morning, or we could potentially do later tomorrow afternoon.
+
+Customer: Tomorrow? Isn't there anything we can do today? I really can't be without internet.
+
+Agent: I wish I had availability sooner. Let me check. (typing sounds) (pause) Unfortunately, our technicians are booked solid for the rest of today. But I can flag your case as urgent. If you do the morning window tomorrow, 8 to 12, I'll make a note that you're a work-from-home customer and this should be prioritized.
+
+Customer: (sigh) Okay, fine. Tomorrow morning.
+
+Agent: Perfect. Let me get that scheduled for you. And just to recap what we've tried here—we did a full power reset on both units, we checked the cable connections, we tested a different outlet for the router. The router appears to be non-functional, likely due to power surge damage from the storm last night.
+
+Customer: Yeah. Okay.
+
+Agent: A technician will arrive between 8 and 12 tomorrow. They'll bring replacement equipment if needed. Is the phone number 555-0147 still the best way to reach you?
+
+Customer: Yeah, that's fine.
+
+Agent: Great. I'll get everything set up for you. Again, I'm sorry we couldn't get this resolved today. Is there anything else I can help you with?
+
+Customer: No, I think that's it. Thanks, I guess.
+
+Agent: You're welcome, and again, I apologize for the inconvenience. You'll see a confirmation email shortly. Have a good day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

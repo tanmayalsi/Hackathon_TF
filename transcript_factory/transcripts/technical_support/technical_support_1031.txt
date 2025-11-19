@@ -1,0 +1,127 @@
+# Frontier Communications Customer Support Call
+
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hey, yeah, thanks for picking up. So, uh, my internet just went out like an hour ago and I can't get it back up. I've tried the usual stuff already.
+
+Agent: Oh no, sorry to hear that. I'd be happy to help you troubleshoot. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, pulling that up now. And can I get a name for the account?
+
+Customer: It's James. James Carmichael.
+
+Agent: Perfect, James. I see your account here. I'm showing you're on our 500 Mbps fiber plan in the Denver area. Is that correct?
+
+Customer: Yeah, that's right.
+
+Agent: Okay, great. So you mentioned the internet went out about an hour ago. Has it been out the entire time, or did it come back on at all?
+
+Customer: No, it's been out the whole time. Like, my phone was plugged into the router and everything just went dark. No lights, nothing.
+
+Agent: Alright, so no lights on the modem at all. That's helpful information. Let me start with the basics here. Can you check and see if the power cable is firmly connected to the back of your modem?
+
+Customer: (pause) Yeah, let me... (background noise of moving things) Okay, I'm looking at it now. The cable looks pretty tight to me.
+
+Agent: Good. And is there power going to the outlet? Like, do you have another device you could plug in really quick to test the outlet?
+
+Customer: Um... yeah, actually, I could plug in a lamp. (pause) Hold on. (background noise) Okay, yeah, the lamp turns on, so power's definitely getting to the outlet.
+
+Agent: Excellent. So the outlet's working. Now, what I want you to do is unplug the modem from the power outlet, wait about thirty seconds, and then plug it back in. That's going to do what we call a hard reset.
+
+Customer: Okay, doing that now. (pause) It's unplugged.
+
+Agent: Great. Why don't we just wait about thirty seconds while it's unplugged. I'll be right here. (pause) How long have you been with Frontier, James?
+
+Customer: Oh, uh, maybe two years? Yeah, about two years. Usually the service is pretty solid, so this is weird.
+
+Agent: That's good to hear. We appreciate your business. Okay, thirty seconds should be up. Go ahead and plug it back in.
+
+Customer: (background noise) Alright, plugging it back in now.
+
+Agent: Perfect. Now, what we're going to do is wait for it to fully boot up. You should start seeing lights come on the modem in just a moment.
+
+Customer: (pause) Okay, yeah, I'm seeing a light now. It's kind of blinking. (pause) Oh wait, now I'm seeing like... three or four lights turning on.
+
+Agent: That's exactly what we want to see. That's a good sign. Now, sometimes it can take a minute or two for everything to fully sync up. Can you give it about two minutes and then check if you can connect to your WiFi?
+
+Customer: Sure, I'll wait. (long pause) Okay, I'm checking now... I can see the WiFi network name showing up on my phone, so that's something.
+
+Agent: Excellent. Go ahead and try to connect to it.
+
+Customer: (pause) Alright, I'm connecting... (pause) Okay, it says connected. Let me try opening a website real quick. (pause) Oh, hmm. It's loading but it's... it's really slow. Like, normally this loads in like half a second.
+
+Agent: How slow are we talking? Do you have a rough idea?
+
+Customer: I don't know, maybe... thirty seconds? And it's still loading. Like, the page is barely loading.
+
+Agent: Okay, that definitely sounds like there might be a connection issue. Let me check a few things on my end here. (typing sounds) Can you try running a speed test for me? You can go to speedtest.net.
+
+Customer: Okay, let me try that. (pause) [inaudible] ...loading... (pause) Alright, it finished. It's showing like... download speed of 2 Mbps. That's... that's way slower than what I'm supposed to be getting, right?
+
+Agent: Yeah, that's significantly lower than your 500 Mbps plan. Something's definitely not right there. Let me see if there's anything on the network side that I'm seeing. (typing sounds) (pause) I'm checking for outages in your area and I'm not showing any widespread outages affecting your location right now.
+
+Customer: So what could it be then?
+
+Agent: Well, there could be a few things. It could be an issue with the modem itself, or possibly a line issue outside. Let me have you try something else. Can you restart your modem one more time? And this time, I also want you to check if you have any other devices connected to the WiFi that might be using up bandwidth.
+
+Customer: Um, let me see... (pause) Just my phone and my laptop right now. Usually I have my tablet too but I've got that turned off today.
+
+Agent: Okay, that's not too bad. Go ahead and do a restart on the modem again.
+
+Customer: (background noise) Unplugging it... (pause) Waiting... (pause) Okay, plugging it back in.
+
+Agent: (pause) Give it another minute or two to boot back up.
+
+Customer: (pause) Okay, lights are back on. Let me try the internet again. (pause) Okay, I'm loading a website... (pause) Same thing. Really slow. This is frustrating.
+
+Agent: I understand, and I appreciate your patience. Let me ask you a couple more questions. Are you using the WiFi or are you hardwired into the modem with an ethernet cable?
+
+Customer: Oh, I'm just using WiFi.
+
+Agent: Okay. What I'd like to try is connecting directly with an ethernet cable if you have one available. That will help us figure out if it's a WiFi issue or a broader connection issue.
+
+Customer: Uh... (pause) I might have one somewhere. Let me look. (long pause, background noise) Okay, I found one. Plugging it in now. (pause) So now I'm connected to the modem directly with the cable.
+
+Agent: Great. Now try that speed test again for me.
+
+Customer: (pause) Alright, it's running... (pause) Same thing. 2 Mbps download. So it's not the WiFi then.
+
+Agent: No, it's definitely not the WiFi. (pause, typing sounds) Okay, James, I'm looking at everything here and... I'm actually seeing some signals on the line that are coming in a little weaker than they should be. That could indicate an issue with the connection from our end, or possibly with the line outside your home.
+
+Customer: So what does that mean? Can you fix it?
+
+Agent: Well, what I'd like to do is escalate this to our technical team. They have more advanced diagnostics they can run remotely. But here's the thing—I'm not seeing an immediate remote fix that I can apply from my end.
+
+Customer: How long will that take?
+
+Agent: Typically they can get someone to call you within 24 hours, and they might be able to troubleshoot further or dispatch a technician to your location if needed. But I do want to be honest with you—the signals I'm seeing suggest there might be a physical issue with the line.
+
+Customer: So my internet's just going to stay down until then?
+
+Agent: I know that's not ideal. Let me try one more thing here. I'm going to send a reset signal to your modem from our end. (typing sounds) (pause) Okay, that's been sent. Why don't you give it about two minutes again and then try another speed test?
+
+Customer: (long pause) Okay, I've waited. Trying again... (pause) Nope. Still the same. 2 Mbps. This isn't working.
+
+Agent: Yeah, I'm... I'm not seeing an improvement on my end either. I'm sorry, James. Based on what I'm seeing here, I think we're at the point where we need to get our technical team involved. This is likely going to require either more advanced remote diagnostics or a technician visit to check the line outside your home.
+
+Customer: Alright, I guess that's what we need to do then. This has been down for over an hour now though.
+
+Agent: I completely understand your frustration. Let me get you set up with a service ticket right now. (typing sounds) I'm creating a priority ticket for you. What's the best number to reach you at?
+
+Customer: 555-0147, same as the account number.
+
+Agent: Perfect, I have that. You should receive a call from our technical team within 24 hours, and they'll work with you to get this resolved. In the meantime, if your internet comes back on before then, just give us a call back and let us know so we can cancel the ticket.
+
+Customer: Okay. Thanks, I guess.
+
+Agent: I'm sorry we weren't able to get this resolved today, James. Is there anything else I can help you with?
+
+Customer: No, I think that's it. Just hoping this gets fixed soon.
+
+Agent: I hope so too. Thanks for being a Frontier customer, and again, sorry for the trouble. You should expect that call within 24 hours.
+
+Customer: Alright, thanks. Bye.
+
+Agent: You take care. Goodbye.

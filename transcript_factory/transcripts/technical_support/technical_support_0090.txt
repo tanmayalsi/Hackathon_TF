@@ -1,0 +1,141 @@
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet's been down since this morning and I really need to get it back online. I work from home and I'm kinda in a bind here.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me get some information from you so I can help troubleshoot. Can I get the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, perfect. I'm pulling that up now. And just to confirm, is this a residential account?
+
+Customer: Yeah, yeah, residential. It's just me and my roommate.
+
+Agent: (pause) Alright, I've got your account here. So it looks like you're on our fiber service. When exactly did you notice the internet went down?
+
+Customer: Um, I'd say around 8 or 8:30 this morning. I tried to log into a Zoom call and just... nothing. No connection at all.
+
+Agent: Okay, so no connection at all. Have you tried any troubleshooting steps on your end yet?
+
+Customer: Well, I unplugged the router, waited like thirty seconds, and plugged it back in. That's about it.
+
+Agent: That's a good start. Alright, so let me ask you this—when you look at your modem right now, what lights are you seeing on the front of it?
+
+Customer: (background noise of rustling) Okay, so... I'm looking at it. Um, the power light is on—that's green. But the internet light, I think it's red? Or maybe orange? It's definitely not green.
+
+Agent: Okay, that's helpful information. The orange or red light typically means we're not getting a solid connection to the modem. Can you also check your router for me?
+
+Customer: The router lights are... I mean, the power's on, and there's... (pause) ...it's hard to see back there. There's a light that looks like it's blinking orange or yellow.
+
+Agent: Alright, so we've got indicators on both devices that suggest a connection issue. Let me try a couple of things here. First, I'm going to send a remote signal to your modem to reboot it. That should take about three to five minutes. Can you just watch and let me know when those lights start changing?
+
+Customer: Oh, okay. Sure. Yeah, I'll watch it.
+
+Agent: (typing sounds) Sending that now. So while we wait, I'm just going to pull up your service history here. It looks like everything was working fine yesterday?
+
+Customer: Yeah, as far as I know. I was on most of the day yesterday and didn't have any issues.
+
+Agent: (pause) Okay, and has there been any recent weather where you are? Any storms or anything like that?
+
+Customer: No, not really. It's been pretty clear. Oh, wait—is something happening? The modem light just turned... it was red and now it's like, cycling through colors?
+
+Agent: That's actually normal—that means it's rebooting right now. Just give it another minute or so to finish up.
+
+Customer: (pause) Okay, okay. Um... still cycling. How much longer do you think?
+
+Agent: Should be any second now. It typically takes about two to three more minutes to fully boot back up.
+
+Customer: (pause) Alright. So... (pause) ...is it normal for it to take this long?
+
+Agent: It can sometimes, yeah. Every modem's a little different. But you should see those lights settle down in just a moment. (pause) Is it settling down at all?
+
+Customer: Um, actually... no, not really. It's still kind of cycling. The power light went back to green, but the internet light is... it's back to orange now.
+
+Agent: Okay, hmm. (pause) Alright, let me try something else. I'm going to have you do a manual restart on the modem. Can you locate the power cable on the back?
+
+Customer: Yeah, I see it.
+
+Agent: Okay, go ahead and unplug that for me, please.
+
+Customer: (background noise) It's unplugged.
+
+Agent: Perfect. Now, I want you to wait for about thirty seconds to a full minute before you plug it back in. While we're waiting, let me check something on my end. (typing sounds) Okay, go ahead and plug it back in now.
+
+Customer: (background noise) Okay, it's plugged back in.
+
+Agent: Great. And the power light should come back on in just a few seconds.
+
+Customer: (pause) Yeah, I see it. Power light's on.
+
+Agent: Excellent. Now we're going to wait for the internet light to stabilize. What's it doing now?
+
+Customer: Still orange. It was green for like, a split second, but now it's orange again.
+
+Agent: (pause) Okay. Um, I'm checking a few things on the backend here. (typing sounds) Actually, let me ask you—do you have a coax cable running into your modem? It would be, like, a thick cable with a connector on the end?
+
+Customer: Oh, yeah. I see it. It's connected in the back.
+
+Agent: Can you try disconnecting that and reconnecting it? Just make sure it's hand-tight, not overly tight.
+
+Customer: (pause) Okay, I disconnected it. Should I... reconnect it now?
+
+Agent: Yes, go ahead and reconnect it. Hand-tight, like I said.
+
+Customer: (background noise) (pause) Okay, it's back in. Lights are still the same though. Orange.
+
+Agent: (pause) Alright. (typing sounds) I'm not seeing any outages in your area, so it's likely a connectivity issue between you and our network. Let me try one more thing. I'm going to reset your modem remotely. This is going to erase your current settings, so your WiFi network name and password might revert to factory defaults. Are you okay with that?
+
+Customer: Um, I guess so? I mean, if that fixes it, yeah.
+
+Agent: [inaudible] ...go ahead and send that command now. Again, this is going to take a few minutes. The modem will restart completely.
+
+Customer: Okay. (pause) Okay, it's doing something now. The lights are all going out and... they're coming back. Um, they're blinking faster this time.
+
+Agent: That's the reset in progress. Just let it run through its cycle.
+
+Customer: (pause) How much longer?
+
+Agent: Should be another minute or two.
+
+Customer: (longer pause) Alright, so... it's been a couple minutes now. The internet light is still orange.
+
+Agent: (pause) (typing sounds) Hmm. Okay, that's... that's not what we want to see. Let me check something here. (pause) (typing sounds) I'm actually not seeing any issues on my end with your connection, but the fact that the internet light isn't stabilizing suggests there might be a hardware issue with the modem itself, or possibly a line problem that I can't diagnose remotely.
+
+Customer: So like... what does that mean? Can you fix it?
+
+Agent: Well, I have a couple of options for you. The first would be to schedule a technician visit. They'd be able to come out and check the line running to your house and potentially replace the modem if it's defective. That typically takes three to five business days.
+
+Customer: Three to five days? I really need my internet working sooner than that. I have back-to-back calls tomorrow.
+
+Agent: I completely understand. Let me see what I can do. Can you hold for just one moment while I check with my supervisor about availability?
+
+Customer: (pause) Yeah, sure.
+
+Agent: (hold music plays briefly) Okay, thank you for holding. I looked into it and the earliest I can get someone out would be tomorrow afternoon, actually. We had a cancellation. Would that work for you?
+
+Customer: Tomorrow afternoon? Yeah, that... that could work. What time are we talking about?
+
+Agent: We have a window between 1 PM and 5 PM. Would that time work?
+
+Customer: Yeah, that's fine. That's better than waiting five days, anyway.
+
+Agent: Great. So just to recap, I've tried several troubleshooting steps—we've rebooted the modem multiple times, reconnected the coax cable, and attempted a full reset. Given that the internet light isn't stabilizing, it's likely a modem hardware issue or a line issue. A technician will be able to come out and diagnose and repair it.
+
+Customer: Okay. And they'll be able to get my internet back up tomorrow?
+
+Agent: They should be able to, yes. They'll have replacement equipment if needed. Is the address on file still current?
+
+Customer: Yeah, 447 Maple Street, Apartment 3B.
+
+Agent: Perfect. And what's the best phone number to reach you on?
+
+Customer: 555-0147, same as the account.
+
+Agent: Great. Alright, so you're all set for tomorrow between 1 and 5 PM. You should receive a confirmation email within the next few minutes. Is there anything else I can help you with?
+
+Customer: No, I think that's it. I really appreciate you trying to fix it on the phone. I know it didn't work out, but I appreciate the effort.
+
+Agent: I appreciate you saying that. I'm sorry we couldn't resolve it remotely. Hopefully the technician will have you back up and running tomorrow. Thank you for calling Frontier Communications, and I apologize again for the inconvenience.
+
+Customer: Thank you.
+
+Agent: You're welcome. Have a good day.

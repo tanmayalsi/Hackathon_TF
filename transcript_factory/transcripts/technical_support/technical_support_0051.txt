@@ -1,0 +1,187 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet's been down since this morning and I'm not sure what's going on. I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, one moment... Alright, I've got your account here. So your internet service went down this morning, is that correct?
+
+Customer: Yeah, sometime around 8 AM. I tried unplugging everything and plugging it back in, but nothing's worked.
+
+Agent: Good thinking on that. That's usually a good first step. Let me ask you a few questions. Are you able to see any lights on your modem or router right now?
+
+Customer: Um... (pause) Yeah, I can see... there's a light on the modem. It's like a green light, but I think it's blinking? And the router has some lights too, but they're not doing what they normally do.
+
+Agent: Okay, so the green light is blinking. That typically means it's trying to connect but hasn't established a connection yet. Which lights on the router are lit up?
+
+Customer: There's like... one light that's normally solid and it's off now. And then I see a red light, I think? It's kind of hard to tell from where I'm sitting.
+
+Agent: A red light usually indicates an error. Can you get a little closer to the router and take a look? Let me know which lights you see lit up.
+
+Customer: (pause, background shuffling) Okay, yeah, so I'm looking at it now. I see a power light that's on, but like I said, there's this red light that's on too. And the internet light is off.
+
+Agent: Alright, that's helpful. The red light and the internet light being off tells me there's definitely a connection issue. Let's try a hard reset of your modem. Can you unplug it for me?
+
+Customer: Now?
+
+Agent: Yes, please.
+
+Customer: (rustling) Okay, it's unplugged.
+
+Agent: Great. Let it sit unplugged for about thirty seconds while we wait. I'm just going to check a few things on my end here. (typing sounds)
+
+Customer: Okay... (pause, background noise)
+
+Agent: Alright, go ahead and plug it back in.
+
+Customer: (rustling, beeping sounds in background) Okay, it's back in.
+
+Agent: Perfect. Now we're gonna wait about two to three minutes for it to fully boot up and establish a connection. While we're waiting, can you tell me—have there been any storms in your area recently? Or any construction work?
+
+Customer: Um, no storms that I'm aware of. There was some roadwork down the street a few days ago, but I don't think that's related.
+
+Agent: Okay, that's good. (pause) Let me check your account here. It looks like... hmm, I'm not seeing any service outages reported in your area at the moment.
+
+Customer: So what does that mean?
+
+Agent: It means the issue is likely isolated to your equipment. Once the modem finishes booting up, we should see those lights change. Can you check on it for me?
+
+Customer: (pause) Um, the green light is still blinking. And the red light is... it's still there.
+
+Agent: Okay, so no change. Let me try something else. Can you check to see if there's a reset button on the back of the modem? It's usually a small button you have to press for several seconds.
+
+Customer: (rustling sounds, pause) Yeah, I see it. It's like... a tiny button that says "reset."
+
+Agent: That's the one. I need you to hold that down for about fifteen seconds. This will reset the modem to factory settings, so fair warning—you'll lose your WiFi settings, and we'll need to reconfigure everything after.
+
+Customer: Oh, um... okay. (pause) How long do I hold it?
+
+Agent: Fifteen seconds. So go ahead when you're ready.
+
+Customer: (beeping sound in background, pause) Okay, I'm holding it... (pause) Alright, I'm at like fifteen seconds. Can I let go?
+
+Agent: Yes, you can let go now.
+
+Customer: (pause) The lights just went crazy for a second. Now they're... they're back to blinking again, I guess.
+
+Agent: Okay, let's give it another minute or two to fully restart. (pause) You know what, I'm actually going to check something on the line side. Can you hold on for just one moment?
+
+Customer: Sure, yeah.
+
+Agent: (hold music plays briefly, about 30 seconds)
+
+Agent: Okay, I'm back. So I'm not seeing any issues coming from our end with your connection. The signal looks normal on our equipment. Let me ask—when you reset the modem, did you hear it go through a restart sequence, like beeping or anything?
+
+Customer: Yeah, it beeped a couple times. But honestly, I think it's doing what it normally does.
+
+Agent: Okay. So, can you check the lights again for me?
+
+Customer: (pause, rustling) Um... no, nothing's changed. The green light is still blinking and that red light is still on.
+
+Agent: Alright, I'm gonna be honest with you—at this point, with the red light and the internet light remaining off after both a power cycle and a factory reset, it sounds like the modem itself might be defective. That sometimes happens.
+
+Customer: So, what do I do? I need my internet working. I work from home.
+
+Agent: I completely understand. So here's what we can do. I can get a replacement modem shipped out to you. It typically takes about five to seven business days for delivery.
+
+Customer: Five to seven days?! That's... that's not gonna work for me. Is there any way to get it faster, or is there anything else we can try?
+
+Agent: (pause) Well, let me see... (typing sounds) We do have expedited shipping available, which would get it to you in two to three business days, but there would be a shipping fee of about $14.99 added to your account.
+
+Customer: (sighs) So I'm gonna be without internet for at least two more days either way?
+
+Agent: Unfortunately, it appears so. The alternative is if there's a Frontier store or service center near you, you might be able to pick one up today, but I'm not able to look that up from my system.
+
+Customer: (pause) I mean... I guess I have to do what I have to do. But before we do that, is there really nothing else we can try?
+
+Agent: (pause) Um, let me think... (typing sounds) You know, we could try one more thing. Let me walk you through checking all the cable connections. Sometimes they can come loose, especially if someone was moving things around.
+
+Customer: Okay, yeah. Let's try that.
+
+Agent: So first, can you locate where the line comes into your modem? It should be a coaxial cable—it looks kind of like the cable that goes into a TV?
+
+Customer: (rustling, pause) Yeah, I see it. It's plugged in.
+
+Agent: Okay, can you unplug it and then plug it back in, making sure it's nice and snug?
+
+Customer: (rustling) It's pretty tight... I don't think it was loose, but okay. (pause) It's back in.
+
+Agent: Good. And then the second cable you want to check is the one from the modem to the router. Can you do the same thing there?
+
+Customer: (rustling) Yeah, this one... (pause) Oh, actually, this one was a little loose. Let me push it in tighter.
+
+Agent: Oh, good catch. Alright, let's see if that helps. Let me check the lights again.
+
+Customer: (pause, rustling) Um... okay... the green light is... wait. Is it supposed to be solid?
+
+Agent: (pause) Yes! Yes, the green light should be solid. That means you have an active connection. Do you see the internet light coming on on the router?
+
+Customer: (pause, rustling) I... I don't think so. The green light on the modem is solid now, which is new, but the router... let me look closer.
+
+Agent: Okay, so the connection from Frontier's side seems to be established now. The router lights might take a moment to catch up. Can you check your WiFi? See if your network shows up on your phone or computer?
+
+Customer: (pause, background noise of typing) Oh! Oh, I see it! The WiFi is showing up on my phone now!
+
+Agent: Excellent! Try connecting to it.
+
+Customer: (pause) Yeah, okay, I'm connecting... (pause) Hmm, it's asking for the WiFi password. I... I don't remember what it is. [inaudible] Can I see it somewhere?
+
+Agent: You know, after we did the factory reset, we'll need to set up a new WiFi password. Are you able to access the router's admin panel?
+
+Customer: I... I'm not really sure how to do that.
+
+Agent: (pause) Okay, um... (typing sounds) Let me walk you through it. Can you open a web browser on your computer?
+
+Customer: Yeah, I'm on my computer now.
+
+Agent: Type in the address bar "192.168.0.1" and press enter. It should take you to your router's settings page.
+
+Customer: (typing sounds, pause) Okay, it's loading... (pause) I see a login screen.
+
+Agent: Okay, the default username should be "admin" and the default password is... (pause) actually, it should be on a sticker on the back of your router. Can you check there?
+
+Customer: (rustling, pause) Um, I don't see... wait, yeah, here it is. "Admin" and then... (squinting sounds, pause) ...looks like it's "password123" or something like that.
+
+Agent: Alright, try that.
+
+Customer: (typing sounds, pause) Okay, I'm in. There are a lot of options here...
+
+Agent: Look for something that says "WiFi" or "Wireless Settings."
+
+Customer: (pause) I see "Wireless"... I'm clicking on it. (pause) Okay, now I'm looking at a bunch of settings.
+
+Agent: You should see a field where you can enter a WiFi name and password. Can you create a new password? Make it something you'll remember.
+
+Customer: (typing sounds, pause) Okay, I'm doing that... (pause) Done.
+
+Agent: Great. Now save those settings.
+
+Customer: (pause, clicking sounds) It says the changes are being applied...
+
+Agent: Perfect. Now disconnect from the WiFi on your phone if it's connected, and then reconnect with the new password you just created.
+
+Customer: (pause, rustling) Okay, I'm... (pause) Oh! It's working! I have internet! (pause) Wait, let me make sure. (pause) Yeah, no, I'm getting a full connection. The WiFi is working. There's internet!
+
+Agent: Fantastic! I'm so glad we were able to get that sorted out for you. It turned out to be just a loose connection, which is great news.
+
+Customer: Yeah, wow, I'm really relieved. Thank you so much for sticking with me on this. I was worried I was gonna be down for days.
+
+Agent: Of course! Happy to help. Just for my records, can you do a quick speed test for me? Go to speedtest.net in your browser and run a test. Just want to make sure everything is performing normally.
+
+Customer: Sure. (pause, typing sounds, pause) Okay, it's running... (pause) It says... download speed is 500 Mbps and upload is 100 Mbps. Is that normal?
+
+Agent: That's perfect! That's right in line with what you should be getting with Frontier Fiber. Everything looks great on your end.
+
+Customer: Excellent. Well, thank you again. I really appreciate it.
+
+Agent: You're very welcome. Is there anything else I can help you with today?
+
+Customer: No, that's it. Thanks again.
+
+Agent: Alright, well, thanks for choosing Frontier Communications, and have a great rest of your day!
+
+Customer: You too. Bye.
+
+Agent: Bye now!

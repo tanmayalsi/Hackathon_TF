@@ -1,0 +1,119 @@
+Agent: Thank you for calling Frontier Communications, my name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet just went out like an hour ago and I can't get it back up. I've tried unplugging everything and nothing's working.
+
+Agent: I'm sorry to hear that. I'd be happy to help you get back online. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, pulling that up now. One moment... alright, I've got your account here. So you're experiencing a complete internet outage, is that correct?
+
+Customer: Yeah, completely down. No lights on the modem or anything.
+
+Agent: Okay, got it. And you mentioned you already tried unplugging it. When you plugged it back in, did you give it a few minutes to fully boot up? These modems can take like three to five minutes sometimes.
+
+Customer: (sighs) Yeah, I waited. I've been dealing with this for like an hour, so... I definitely gave it time.
+
+Agent: Understood. Alright, let's do a quick walkthrough here. Can you tell me what lights, if any, are showing on your modem right now?
+
+Customer: Nothing. It's completely dark. There's no power light, no internet light, nothing.
+
+Agent: (pause) Okay, so we're not getting any power indicator at all. Can you check the power cable for me? Is it securely plugged into the back of the modem?
+
+Customer: (sound of movement) Yeah, it's... it's plugged in. Wait, let me check the other end. (pause) The outlet... yeah, the outlet's got power. My lamp's plugged into the same one and it's on.
+
+Agent: Good, good. That rules that out. Is the power adapter itself—do you see any lights on the actual adapter brick?
+
+Customer: (pause) Um... no, I don't see anything. It's just black.
+
+Agent: Alright. Can you try unplugging it from the wall outlet, and then plug it back in for me? Just give it a fresh start.
+
+Customer: (sound of unplugging) Okay... (pause) ...plugging it back in now.
+
+Agent: (typing sounds) Take your time. While we wait, let me ask—have you had any storms in your area recently? Or any recent power outages?
+
+Customer: (pause) Not that I know of, but... yeah, actually, come to think of it, my power did flicker this morning. Could that have...?
+
+Agent: That could definitely be it. Power surges can sometimes fry the power adapter. (pause) Are you seeing any lights now?
+
+Customer: (pause) No... still nothing. This is ridiculous.
+
+Agent: I understand your frustration. Let me try one more thing. Can you double-check that you're looking at the correct power adapter? Sometimes people have multiple cables back there. Is it the one that's thicker and has the Frontier logo on it?
+
+Customer: Yeah, no, I'm looking at the right one. It's the only thing plugged into that area.
+
+Agent: (pause) Okay. And just to confirm, you're not seeing any indicator lights at all—not even a faint glow or anything?
+
+Customer: Nope. Nothing. It's dead.
+
+Agent: (typing sounds) Alright. Let me check something on our end here. (pause) Hmm... actually, I am showing that we have a signal coming from your modem on our network.
+
+Customer: Wait, really? But there's no lights...
+
+Agent: Yeah, which is unusual. Can you describe the modem you have? What model is it?
+
+Customer: Uh... (pause) It says... it looks like an Arris something? Arris... MB8621? I think.
+
+Agent: MB8621, okay. (typing sounds) So we're definitely getting a connection from that device. The issue might be with the power indicator LED itself, which wouldn't affect your actual service. Let me have you try something—can you check if anything's working on your end? Like, do you have a computer or phone you can test?
+
+Customer: (pause) My computer's right here. Let me... let me try to connect to WiFi. (pause) It's not showing any network. Like, I'm not seeing the Frontier network at all.
+
+Agent: (typing sounds) Hmm. Okay, that's... let me pull up the device status here. (pause) ...I'm showing that your modem is connected and provisioned, but your router might have gone down. The MB8621 is a modem and router combo, so...
+
+Customer: So what does that mean? Can I fix it?
+
+Agent: (pause) Well, ideally we'd do a manual reset. It's a small button on the back of the unit. Do you have a paperclip or something small handy?
+
+Customer: (background noise of searching) Yeah, I think I've got one. (pause) Okay, I've got it.
+
+Agent: Alright, so on the back of the modem, you're going to locate a small reset button. It might be recessed into the device. It'll probably be labeled "reset" in small text.
+
+Customer: (pause) Okay, I'm looking... I don't see it on the back. Wait, is it on the bottom?
+
+Agent: It could be on the bottom, yeah. Let me just check one thing here... (typing) ...actually, according to this, that model typically has it on the rear panel.
+
+Customer: (pause) I'm looking at every inch of this thing and I don't see it. There's no button labeled reset anywhere.
+
+Agent: (pause) Okay. Alright, let me... let me think here. (pause) You know what, if the power adapter itself isn't showing any indicator light and you're not seeing the router broadcasting, I'm thinking that power surge this morning might have damaged the equipment. Can you tell me—have you noticed anything else unusual? Any burning smell or anything like that?
+
+Customer: No smell. But I'm starting to think that's what happened. So what now?
+
+Agent: (pause) Unfortunately, if the adapter has failed, that's going to require a replacement device. I can definitely get that ordered for you. It typically takes three to five business days for delivery. (typing sounds)
+
+Customer: Three to five days? I need internet before then. Is there any other option?
+
+Agent: Well, I wish I could get you back up today, but given that the power supply seems to have failed, we'd need to get you a replacement unit. Now, if you're in an area where we have a retail location, you could potentially pick one up in person today, which would be faster. Are you near any Frontier retail stores?
+
+Customer: (pause) I... I don't think so. Not nearby anyway.
+
+Agent: (pause) Okay. Let me see what I can do here. (typing sounds) (pause) Unfortunately, I'm not seeing any expedited options available through my system. I can definitely get the standard replacement shipped out—that would be at no cost to you given the equipment failure. But I can't guarantee it would arrive before the three to five business days.
+
+Customer: This is just... this is not great timing for me.
+
+Agent: I completely understand, and I'm sorry we're dealing with this. Is there anything else I can try on the technical side before we go down the replacement route?
+
+Customer: (pause) I don't know... I mean, I feel like we've tried everything.
+
+Agent: (pause) Yeah, I think... I think we've exhausted the troubleshooting options on my end. If the power adapter isn't showing any signs of life at all, that's typically the culprit. So what I'm going to do is get a replacement modem/router combo ordered for you today. Can I confirm your shipping address?
+
+Customer: Yeah, it's 2847 Maple Drive, Apartment 3B.
+
+Agent: (typing sounds) 2847 Maple Drive, Apartment 3B. Let me get that into the system. (pause) Alright, I've got the replacement device queued for shipment. You should receive a confirmation email within the next couple hours with tracking information. Again, standard delivery is three to five business days.
+
+Customer: (sighs) Okay. Is there anything I need to do when it arrives?
+
+Agent: When it arrives, the installation should be pretty straightforward. The instructions will be included in the box. Basically, you'll just need to plug in the power adapter, wait for the lights to come up, and then reconnect your devices to the WiFi network. If you run into any issues with the setup, just give us a call back and we'll walk you through it.
+
+Customer: Alright. Thanks, I guess.
+
+Agent: I really am sorry we couldn't get you back online today. This isn't the resolution we typically like to provide. Is there anything else I can help clarify for you?
+
+Customer: No, I think that's... that's it.
+
+Agent: Perfect. Thank you for calling Frontier, and we appreciate your patience. You should be all set once that device arrives.
+
+Customer: Thanks.
+
+Agent: Have a great day.
+
+(call ends)

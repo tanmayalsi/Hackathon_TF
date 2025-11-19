@@ -1,0 +1,121 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hey, yeah, thanks for picking up. So, um, my internet just went out about an hour ago and I can't get it back online. I've tried unplugging the router and everything.
+
+Agent: I'm sorry to hear that. I'd be happy to help you get this resolved. Let me pull up your account here. Can I get the phone number associated with your account, please?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, got it. And just to confirm, is this for the address on Oak Street?
+
+Customer: Yeah, that's right.
+
+Agent: Perfect. So you mentioned the internet went out about an hour ago. Have you experienced any service issues recently, or is this the first time?
+
+Customer: No, it's been working fine up until now. Pretty random, honestly.
+
+Agent: Understood. Well, let's run through some troubleshooting steps. First things first—can you check if the modem is powered on? Usually it should have some lights on the front.
+
+Customer: (pause) Yeah, the lights are on. There's like... a blue light and a green light. They're both solid.
+
+Agent: Good, that's a good sign. The modem's powered up. Now, do you have a router separate from the modem, or do you have a combo unit?
+
+Customer: I have both. The modem and the router are separate.
+
+Agent: Okay, great. Can you check the router lights for me as well? What are you seeing there?
+
+Customer: Uh, the power light's on, but... hmm, the internet light isn't on. That's usually green and it's like, totally dark right now.
+
+Agent: Ah, okay. That's actually pretty helpful information. That tells me the router might not be communicating with the modem properly. Let's try a few things. First, can you unplug the modem from the power outlet? Just hold it for about thirty seconds and then plug it back in.
+
+Customer: Sure. (pause) Yeah, okay, unplugging it now. (pause) Alright, I'm gonna wait... (long pause) Okay, plugging it back in.
+
+Agent: Good. While that's restarting, let me ask—did you experience any storms in your area recently? Any power surges or anything like that?
+
+Customer: Actually, yeah, there was a pretty heavy storm last night. Lightning and everything. Could that be it?
+
+Agent: It's possible, yeah. That can sometimes cause issues with the equipment. Okay, so the modem should be booting back up now. Give it about two minutes to fully restart. While we're waiting, let me ask—are you seeing any error messages on your devices, or is it just that you can't connect at all?
+
+Customer: I can't even find my network showing up on my phone. It's like it doesn't exist.
+
+Agent: (typing sounds) Right. Okay, so the network's not broadcasting. That does suggest a modem-router connection issue. (pause) Alright, the modem should be good and booted up by now. Can you take a look at the modem lights again? Are they the same as before?
+
+Customer: Yeah, same thing. Blue and green, both solid.
+
+Agent: Perfect. Now I need you to unplug the router and wait about thirty seconds, then plug it back in.
+
+Customer: Okay, doing that now. (pause) Unplugged. (long pause) Alright, plugging it back in. (pause) It's booting up.
+
+Agent: Great. While that's restarting, do you remember the last time you restarted either of these devices?
+
+Customer: Not really. I mean, they just run all the time, you know? Unless there's an outage or something.
+
+Agent: Yeah, that's pretty normal. Sometimes they just need a fresh restart. (pause) Okay, so how's the router looking now?
+
+Customer: (pause) Uh... still nothing. The internet light is still off. It's been like a minute.
+
+Agent: Let's give it another minute or two. Sometimes they take a little while to fully sync up after a restart. In the meantime, let me check on our end to see if there's anything happening with the line. (typing sounds) (pause) 
+
+Customer: Okay, um... (pause) ...still nothing.
+
+Agent: Alright, let me ask you this. On the back of the modem, do you see an ethernet cable plugged in? The cable connecting the modem to the router?
+
+Customer: Yeah, I see it. It's plugged in.
+
+Agent: Can you try unplugging that ethernet cable from the back of the modem and then plugging it back in? Sometimes the connection can get a little loose.
+
+Customer: Sure. (pause) Okay, it's out. Plugging it back in... (pause) There we go. Still nothing.
+
+Agent: (pause) Hmm. Okay. Let me check a couple of things on my end. (typing sounds) (pause) Sir, I'm actually showing that your modem is online and connected on our network, so the issue seems to be between your modem and router specifically.
+
+Customer: So the modem's good, but the router's messed up?
+
+Agent: That's what it's looking like, yeah. And honestly, given that you had a lightning storm last night, it's possible the surge damaged the router. That happens more often than you'd think.
+
+Customer: Oh man, really? (pause) Is there anything else we can try?
+
+Agent: Well, I want to make sure we've covered everything. Can you check the power adapter on the router? Is it plugged in securely? And can you feel if it's warm at all?
+
+Customer: (pause) Yeah, it's plugged in. And... it feels kinda warm, actually. Like, warmer than normal, I'd say.
+
+Agent: That's... hmm, that's not ideal. A warm adapter could indicate there's an issue with the device. (pause) Okay, here's what I want to try. I'm going to have you do a factory reset on the router. This should clear any corrupted settings. Do you have a pin or paperclip handy?
+
+Customer: Uh, yeah, I think I have a paperclip here somewhere. (pause) Okay, I got one.
+
+Agent: Great. On the back of the router, there should be a small recessed button labeled "reset." I want you to hold that button down with the paperclip for about ten seconds while the router is powered on. Ready?
+
+Customer: Yeah, I'm looking at it. I see the button. (pause) Okay, I'm holding it down. One... two... three... (pause) ...alright, it's been like ten seconds.
+
+Agent: Good. Now let go and just let the router restart. This might take a few minutes.
+
+Customer: Okay. (long pause) (pause) It's restarting now. I can see the lights kinda going crazy. 
+
+Agent: That's normal. It's resetting to factory defaults. Just give it a few minutes to fully come back online.
+
+Customer: (pause) Alright, I'm watching it. (long pause) (pause) Okay, so... the internet light is still off. This isn't working.
+
+Agent: (pause) I see. Well, I hate to say this, but it really does sound like the router may have been damaged by the power surge. The warm adapter you mentioned is another indication of that. I don't think we're going to be able to bring it back online with the troubleshooting steps.
+
+Customer: So you're saying I need to buy a new router?
+
+Agent: Unfortunately, yeah, it seems that way. However, what I can do is... let me see here. (typing sounds) What I can offer you is a credit of $25 toward the cost of a new router. I can also provide you with some information on compatible models that work well with Frontier service.
+
+Customer: Okay, I guess that's something. But I need internet like, today if I can.
+
+Agent: I completely understand. If you have a smartphone with a data plan, you might be able to use that as a mobile hotspot in the short term. And for getting a new router—Best Buy, Amazon, and most electronics retailers carry routers that work with our service. You don't necessarily have to get anything fancy, just something standard that supports WiFi 5 or 6.
+
+Customer: Alright, yeah, I'll look into that. And how do I get that $25 credit?
+
+Agent: I'm going to apply that to your account right now. (typing sounds) (pause) Done. You should see that reflected on your next bill. Is there anything else I can help you with today?
+
+Customer: I guess that's it. Thanks for trying, Derek. I appreciate it.
+
+Agent: Of course. I'm sorry we couldn't get it working right away. If you do get a new router and run into any issues, please don't hesitate to reach out. We're here 24/7.
+
+Customer: Will do. Thanks again.
+
+Agent: Thank you for calling Frontier, and have a great rest of your day!
+
+Customer: You too. Bye.
+
+Agent: Bye.

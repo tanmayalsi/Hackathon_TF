@@ -1,0 +1,141 @@
+Agent: Thank you for calling Frontier Communications. This is Marcus speaking. How can I help you today?
+
+Customer: Yeah, hi. So, um, my internet has been down since this morning and I really need to get it back up. I work from home and I've got meetings all afternoon, so...
+
+Agent: I completely understand. That's frustrating, especially when you're working from home. Let me pull up your account here. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, got it. I'm pulling that up now. And what's the name on the account?
+
+Customer: David Chen.
+
+Agent: Perfect, David. So just to confirm, you're saying your internet went down this morning? Do you remember what time that was?
+
+Customer: Yeah, around 8 o'clock, I'd say. I was about to start a call with a client and nothing. Just... nothing.
+
+Agent: Okay, and are you still not seeing any connection right now?
+
+Customer: No. I mean, my router's on, the lights are on, but I can't connect to anything. My phone's on cellular right now.
+
+Agent: Got it. Well, let me start by asking a few quick questions to troubleshoot. First, do you see any lights on the modem itself? The actual modem, not the router?
+
+Customer: Um... (pause) I'm looking at it now. Yeah, I see... there's a power light, and there's like a green light next to it.
+
+Agent: Okay, good. And do you see any other lights? There should be a few of them.
+
+Customer: There's... yeah, there's like one that's blinking orange or yellow, I think. Is that bad?
+
+Agent: The blinking orange light typically means the modem is trying to connect. That's actually not unusual, but let me have you try a few things. First, can you unplug the modem? Just pull the power cable right out.
+
+Customer: Sure, unplugging now. (pause) Done.
+
+Agent: Okay, and while that's unplugged, can you also unplug the router?
+
+Customer: Yeah, it's unplugged too.
+
+Agent: Perfect. Now let's wait about 30 seconds and let them completely power down. (pause) Just give me a second. (typing sounds)
+
+Customer: Are you still there?
+
+Agent: Yeah, I'm right here. Just checking a few things on your account. Okay, go ahead and plug the modem back in first.
+
+Customer: (pause) Okay, it's plugged in. The lights are coming back on.
+
+Agent: Good. Now plug the router back in.
+
+Customer: (pause) All right. Lights are coming back on the router too.
+
+Agent: Great. This can sometimes take a minute or two for everything to reconnect. While we wait, David, have there been any recent storms or weather in your area? Sometimes that can affect the line.
+
+Customer: Oh, actually, yeah. It was pretty stormy last night. Really windy. Could that cause this?
+
+Agent: It definitely could. We've had some outages reported in certain areas from that storm. Let me check the outage map for your address real quick. (typing sounds) Okay, I'm not seeing any widespread outages in your zip code right now, but let me check your specific location... 
+
+Customer: How much longer? I'm starting to get nervous about this.
+
+Agent: Just one more second. (pause) All right, I'm not showing any outages on our end. So we should be good. Are you seeing any lights on the modem now that it's had a minute to boot up?
+
+Customer: Um, I've got the power light, and... okay, the orange one is still blinking, but I think it might be blinking slower?
+
+Agent: Hmm. Okay, and you still don't have internet on any of your devices?
+
+Customer: No, nothing. I tried my laptop and my phone on Wi-Fi and both of them show the network is available but it says "no internet."
+
+Agent: All right, so the Wi-Fi network itself is broadcasting, but there's no internet connection getting to the modem. Okay. Let me have you try one more thing. Can you look on the back of your modem and do a hard reset? There should be a small button, usually recessed, that says "reset" on it.
+
+Customer: I see it. Do I just press it?
+
+Agent: Yes, but hold it down for about 10 seconds. That's going to reset the modem completely, so we'll have to set everything back up, but it might clear out whatever's causing the issue.
+
+Customer: (pause) Okay, I'm holding it... (pause) and... (pause) okay, it's resetting. All the lights went out.
+
+Agent: That's normal. It should take a couple minutes to fully boot back up. While that's happening, I'm going to need to verify a few things on the account side. Did you set up your own modem, or did we install that for you?
+
+Customer: You guys did, when I signed up like... six months ago, I think?
+
+Agent: Okay, and you haven't changed anything with it since then? No new devices or anything like that?
+
+Customer: No, everything's been working fine until this morning.
+
+Agent: Understood. (pause) Okay, the modem should be almost done restarting now. Are you seeing any lights come back on?
+
+Customer: Yeah, they're starting to... okay, the power light's back, and the orange one's back to blinking.
+
+Agent: Still orange and blinking?
+
+Customer: Yeah. That doesn't seem right.
+
+Agent: (pause) It does seem like the modem might not be getting a signal from our network. Let me check something. Have you noticed any damage to any cables outside your home? Any visible lines or anything?
+
+Customer: Oh, um... I didn't think to look. Let me check. (pause) I'm going outside now. (pause) Okay, I'm looking and... I don't know, everything looks pretty normal to me. There's the line coming from the pole...
+
+Agent: Can you see if there's any visible damage? Anything hanging or loose?
+
+Customer: (pause) It all looks okay from what I can see. I'm not really an expert though.
+
+Agent: That's all right. It might be that there's damage we can't see, especially if it was a particularly strong storm. In that case, we'd likely need to send a technician out to check the line and the connection point.
+
+Customer: How long would that take? Like I said, I really need to get this working today if possible.
+
+Agent: Let me check our technician availability. (typing sounds) (pause) I'm seeing that we have availability tomorrow morning between 8 AM and 12 PM, or we might be able to get someone out later today, but it would probably be around 5 or 6 PM at the earliest.
+
+Customer: (frustrated) Could you do later today? I really can't take the whole morning off tomorrow.
+
+Agent: I can definitely put in a request for this afternoon. Let me try to schedule that for you. Can you be home this afternoon?
+
+Customer: Yeah, I should be able to make that work. What time are we talking?
+
+Agent: (typing sounds) I'm getting a callback window, which means a technician will call you within a two-hour window before they come out. The earliest I can get them is around 4 PM, so they'd call you somewhere between 2 and 4 in the afternoon. Does that work?
+
+Customer: Yeah, that works. That'd be better than nothing.
+
+Agent: Great. I'm going to get that scheduled for you right now. Just to make sure I have the right number, what's the best number for them to reach you on?
+
+Customer: 555-0147, that's the home number.
+
+Agent: Perfect. And before I finish up here, let me try one more quick thing. Can you look at the back of the modem again and tell me if there's a cable that looks disconnected or loose?
+
+Customer: (pause) No, they all look pretty secure from here.
+
+Agent: Okay. Well, I've got you scheduled for this afternoon, David. The technician will call you within that 2 to 4 PM window, and they should be able to get your line checked out and get you back up and running. In the meantime, just leave the modem and router powered on so we can monitor them from our end. Is there anything else I can help you with?
+
+Customer: No, I think that's it. So you're saying this is probably a line issue from the storm?
+
+Agent: It's the most likely scenario given that the modem is trying to connect but not getting a signal, and especially with the weather you mentioned. The technician will be able to diagnose the exact issue and get it fixed for you.
+
+Customer: All right. Well, I hope so. I really need this working today.
+
+Agent: I understand. And if for some reason we can't get someone out this afternoon, we'll make sure to get you in first thing tomorrow morning as a priority. Your confirmation number is 847291. Do you have that?
+
+Customer: Yeah, 847291.
+
+Agent: Perfect. Well, thanks for calling Frontier Communications, David, and I'm sorry you're experiencing this issue. We'll get you taken care of this afternoon.
+
+Customer: Thanks, Marcus. I appreciate it.
+
+Agent: You're welcome. Have a good day.
+
+Customer: You too.
+
+(call ends)

@@ -1,0 +1,91 @@
+# Frontier Communications - Technical Support Call
+
+Agent: Thank you for calling Frontier Communications technical support. My name is Marcus. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet just went out completely. I've been without it for like an hour now and I'm not sure what's going on.
+
+Agent: I'm sorry to hear that. We'll get this figured out for you. Can I get your account number or the phone number associated with your account, please?
+
+Customer: Yeah, it's 555-0847. That's my phone number on the account.
+
+Agent: (typing sounds) Okay, perfect. And what name is this account under?
+
+Customer: David Chen.
+
+Agent: Got it, David. Let me pull up your account here. (pause) Alright, I'm looking at your service address. Can you confirm that's still 4127 Maple Street in Springfield?
+
+Customer: Yeah, that's correct.
+
+Agent: Great. So you're saying your internet is completely down right now? Are you able to see any lights on your modem or router?
+
+Customer: Um, let me look. (pause) Yeah, so the modem has a red light on it. Like, the power light is red, not green like it usually is.
+
+Agent: Okay, that's helpful information. That typically indicates the modem is either not fully powered on or there's an issue with the connection from our side. Let's start with the basics. Can you locate the power cord to your modem and make sure it's firmly connected to both the modem and the wall outlet?
+
+Customer: Yeah, okay. (pause) Yeah, it looks pretty secure. Let me try unplugging it just to be safe.
+
+Agent: Sure, go ahead and unplug it. Wait about 30 seconds, and then plug it back in. This will do a hard reset.
+
+Customer: Okay... (pause) It's unplugged. I'm counting down. (longer pause) Alright, plugging it back in now. (pause) Hmm, the light is still red.
+
+Agent: It might take a minute or so to boot back up. Let's give it about a minute and see if anything changes.
+
+Customer: Okay. (pause) Still red, man. This is really frustrating. I have work calls this afternoon.
+
+Agent: I completely understand. Let me check our service map in your area to see if there are any known outages. (typing sounds) (pause) Alright, I'm not seeing any active outages reported in your neighborhood at this time. Let me ask you a few more questions. When you look at your modem, how many lights do you see total?
+
+Customer: Um... there's like four lights. One on top, and then a few below it.
+
+Agent: Can you tell me what color each one is? Starting from the left?
+
+Customer: Sure. The first one—like the top one—that's the red one we talked about. Then there's a green light, a green light, and the fourth one is off, I think.
+
+Agent: Okay, so just to clarify—the power light is red, and that's the one that should be green?
+
+Customer: Yeah, exactly.
+
+Agent: (pause) Alright, that's definitely the issue. That red power light means the modem isn't receiving proper power or there's an issue with the device itself. Let me have you try something. Can you check the actual outlet you're plugging the modem into? Maybe try plugging something else into that outlet—like a lamp—just to make sure the outlet itself is working?
+
+Customer: Good idea. (pause) Let me grab a lamp... (pause) Yeah, the lamp turns on just fine, so the outlet is good.
+
+Agent: Okay, so the outlet is working. Let me try one more thing with the power adapter. Do you see any damage to the power cord at all? Any fraying, burns, or anything like that?
+
+Customer: (pause) No, it looks fine to me. Looks normal.
+
+Agent: Alright. At this point, it's sounding like the modem itself might be having a hardware issue. Before we go down that route though, let me just double-check something on our end. (typing sounds) (pause) Give me just one second here... (longer pause) Okay, I'm showing that your modem is registered to your account and everything looks good from our provisioning side. 
+
+Customer: So what does that mean?
+
+Agent: It means the problem is likely with the modem device itself rather than something on our network. Unfortunately, a red power light typically indicates the modem needs to be replaced. However, let me try one last thing. Are you able to access the modem settings at all? Do you have a computer or phone you could use?
+
+Customer: I could try. Let me grab my phone. (pause) Okay, I'm here. What do I do?
+
+Agent: Go ahead and open your WiFi settings. Do you see your Frontier network showing up at all?
+
+Customer: (pause) No. I don't see it. There's nothing coming up.
+
+Agent: Alright, yeah, that confirms that the modem isn't broadcasting. (pause) David, I think what we're looking at here is a hardware failure. The good news is that as a Frontier customer, I can get a replacement modem sent out to you. The bad news is [inaudible] typically takes 3 to 5 business days to arrive.
+
+Customer: Seriously? I need internet before then. I have important work stuff. Can't you guys expedite it or anything?
+
+Agent: Let me see what I can do. (typing sounds) (pause) I can add a priority flag to your replacement request, which might get it to you in 2 to 3 business days instead. That's really the fastest I can do from here.
+
+Customer: [inaudible] This is really not ideal, but... I guess that's better than five days. Can you at least set that up?
+
+Agent: Absolutely. I'm going to process this right now. (typing sounds) (pause) Okay, I've submitted the replacement modem request with expedited shipping. You should receive a shipping notification within the next 24 hours with a tracking number.
+
+Customer: Alright. Is there anything I can do in the meantime? Any way to get this working?
+
+Agent: Unfortunately, with the modem not powering on correctly, there's not really anything we can do on the troubleshooting end. The device needs to be replaced. I wish I had better news for you.
+
+Customer: Yeah, okay. Well, I appreciate you trying, I guess.
+
+Agent: I really am sorry about this, David. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. Just... get that modem here as fast as you can, alright?
+
+Agent: I will make a note on your account that this is time-sensitive. You should have that replacement within a couple of days. Thank you for being a Frontier customer, and I apologize again for the inconvenience.
+
+Customer: Thanks. Bye.
+
+Agent: Bye now.

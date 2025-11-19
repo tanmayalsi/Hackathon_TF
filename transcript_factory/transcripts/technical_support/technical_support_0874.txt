@@ -1,0 +1,139 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi Derek, yeah, so my internet just went down about an hour ago and I can't get it back online. I've tried unplugging everything but nothing's working.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot this. Let me pull up your account real quick. (typing sounds) Can I get the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (pause) (typing sounds) Alright, I've got you here. So you mentioned your internet went down about an hour ago. Have you experienced any outages in your area recently, or is this the first time?
+
+Customer: No, this is the first time. Like, it was working fine this morning and then just... nothing. The router's on, the lights are blinking, but my phone won't connect to it.
+
+Agent: Okay, so the router is powered on. That's good. Do you see any red or orange lights on the modem or router, or are they all the normal color?
+
+Customer: Um... (pause) they're like... greenish? I think? One of them's blinking. The modem has a green light that's solid, and then there's like a white one that keeps blinking.
+
+Agent: Alright, that's actually normal behavior. So here's what I'd like you to do for me. Can you locate the power cable on the modem—that's the box that Frontier provided—and just unplug it for me?
+
+Customer: Yeah, I already did that actually. I left it unplugged for like... I dunno, five minutes or so, and then plugged it back in.
+
+Agent: Good, good. That's the first thing I would've suggested anyway. (pause) And when you plugged it back in, did the lights come back up the same way, or did anything change?
+
+Customer: They just came right back up the same way. Green light on the modem, and then the white light's still blinking on the router.
+
+Agent: Okay, and when you try to connect your phone or another device to the WiFi, what happens? Does it find the network?
+
+Customer: Yeah, it finds it. I can see the network name, but when I try to connect, it just says it can't connect. It's like... it recognizes it's there but won't actually let me on.
+
+Agent: (typing sounds) Hmm, that's interesting. So the network is broadcasting, it's just not accepting connections. Do you have another device you could try? A laptop, tablet, anything like that?
+
+Customer: I've got a laptop. Let me grab it. (pause) Okay, I'm holding it now.
+
+Agent: Great. Can you try connecting to the WiFi network on the laptop and let me know what happens?
+
+Customer: (pause) Yeah, it's asking for my password. Let me enter it... (pause) Okay, I typed it in, and... it's just spinning. It's been spinning for like twenty seconds now.
+
+Agent: Alright, let's give it a moment. Sometimes these things take a minute to process.
+
+Customer: (pause) Still spinning. (pause) Nope, it just timed out. Says "unable to connect."
+
+Agent: I see. Okay, let me check something on our end. (typing sounds) (pause) I'm not showing any outages in your area, and your service is showing as active on our system. So the issue is likely with the router itself.
+
+Customer: So what do I do? Like... is it broken?
+
+Agent: It might be, but let me try a couple more things before we determine that. Can you access the modem directly? Do you have an ethernet cable?
+
+Customer: An ethernet cable? I... I'm not sure. I might have one somewhere, but I'd have to dig through some stuff.
+
+Agent: If you can find one, that would really help. What I want to do is connect your laptop directly to the modem with the ethernet cable. That'll bypass the router and tell us whether the problem is with the router or with your internet connection itself.
+
+Customer: (pause) Okay, hold on, let me look. (background noise of drawers opening) This is gonna take me a minute...
+
+Agent: No problem, take your time. I'll be right here.
+
+Customer: (pause) Alright, I found one. (pause) Now what?
+
+Agent: Perfect. So go ahead and unplug the power from your router—just the router, not the modem. We want to take that out of the equation.
+
+Customer: Okay, unplugging it now. (pause) Done.
+
+Agent: Great. Now take that ethernet cable and plug one end into the modem, and the other end into your laptop.
+
+Customer: (pause) Okay... plugged in. (pause) Now what?
+
+Agent: Now let's see if your laptop recognizes that it has an internet connection. Just give it a few seconds and let me know what comes up.
+
+Customer: (pause) Hmm. (pause) Nothing's really... happening? Like, my laptop's showing that it's connected to ethernet, but I can't actually get to any websites.
+
+Agent: (pause) Okay. So you're getting a wired connection, but still no internet access. (typing sounds) Let me check if there's maybe a provisioning issue on our end. Can you try opening a web browser and going to any website? Like Google or something?
+
+Customer: Yeah, let me try Google. (pause) [inaudible] nope, it's just loading and loading. It's not going anywhere.
+
+Agent: And it's just spinning indefinitely?
+
+Customer: Yeah. I waited like thirty seconds and nothing happened.
+
+Agent: (pause) Alright. This is... (pause) Let me escalate this a bit. I'm going to check with our technical backend team to see if there's a service issue that we're not catching on the surface. Can you hold for just a moment?
+
+Customer: Sure, go ahead.
+
+Agent: (hold music) (pause) (approximately 45 seconds of hold time)
+
+Agent: Okay, I'm back. I've checked with our technical team and I'm not seeing any reported issues in your area, and your service is definitely active on our system. However, given that we're not getting internet connectivity through either WiFi or a wired connection, I do believe your modem might be experiencing a hardware failure.
+
+Customer: Really? So it's just... broken?
+
+Agent: It appears that way, unfortunately. The good news is that we can get you a replacement modem sent out. Typically that would arrive within three to five business days.
+
+Customer: (sigh) Three to five days? I need internet before that. I work from home.
+
+Agent: I completely understand how frustrating that is. Let me see what I can do. Can you hold on for just one more second? I'm going to check if we have any expedited shipping options available.
+
+Customer: Okay...
+
+Agent: (pause) (typing sounds) Unfortunately, with your service location, I'm not able to expedite the shipping beyond standard delivery. However, I do want to make a note on your account about this issue. When the modem arrives, you'll just need to unplug the old one, plug in the new one, and it should activate automatically.
+
+Customer: So there's nothing you can do to get it to me faster?
+
+Agent: I wish I could. I know it's not ideal. Is there any possibility you could use mobile hotspot from your phone in the meantime?
+
+Customer: (pause) Yeah, I guess I could, but my data plan isn't unlimited, so...
+
+Agent: I understand. What I can do is apply a service credit to your account for the inconvenience and the downtime you'll experience while waiting for the replacement. That would be about $15 for the three to five day period.
+
+Customer: (pause) Okay, well... I guess that's something. But I'm still gonna be without internet for nearly a week.
+
+Agent: I know, and I really do apologize for that. Unfortunately, without a physical way to get the modem to you faster, that's the best option I have available. Let me go ahead and put in that replacement order right now. (typing sounds) (pause) Alright, you should receive a confirmation email within the next few minutes with the tracking information.
+
+Customer: So that's just it then? I'm just without internet for a week?
+
+Agent: That is the case, yes. Unless you have a retail location near you where you could pick up a replacement modem in person. Let me check if there's one nearby.
+
+Customer: I mean, there might be. I'm in the 94612 area.
+
+Agent: (typing sounds) (pause) Let me see... (pause) Unfortunately, I'm not showing any retail locations in that zip code that would have a loaner modem available. Your nearest option would be about forty minutes away.
+
+Customer: (sigh) Yeah, that's not gonna work for me.
+
+Agent: I'm really sorry about this situation. I wish I had a better solution for you. Is there anything else I can help you with today?
+
+Customer: No, I guess not. I'll just... wait for the modem.
+
+Agent: Alright. Is there anything I can clarify about the replacement order or the credit I've applied?
+
+Customer: No, I think I've got it. When the modem comes, I just set it up and it should work, right?
+
+Agent: Exactly. Plug it in, and it should activate automatically. You shouldn't need to do anything else. And again, I really apologize for the inconvenience. Is there a good phone number to reach you if we need to follow up?
+
+Customer: The number you have on file should be fine.
+
+Agent: Perfect. Well, thank you for your patience today, and we'll have you back online as soon as possible.
+
+Customer: Thanks, Derek.
+
+Agent: You're welcome. Have a good day.
+
+Customer: You too.
+
+(end call)

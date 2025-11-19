@@ -1,0 +1,115 @@
+Agent: Thank you for calling Frontier Communications. This is Marcus speaking. How can I help you today?
+
+Customer: Hi, yeah, so my internet has been down since this morning and I really need to get it working. I've got work calls coming up in like an hour.
+
+Agent: Oh, I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll get you sorted out. Can I get the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, I'm looking at that now. And what's the name on the account?
+
+Customer: David Chen.
+
+Agent: Perfect, David. I've got you here. So you're in the Scottsdale area, is that correct?
+
+Customer: Yeah, that's right.
+
+Agent: Great. Okay, so your internet is completely down right now? Like, no connectivity at all?
+
+Customer: Correct. Nothing. I tried unplugging my router and plugging it back in, but still nothing.
+
+Agent: That's a good first step, thanks for trying that. So let me ask you this—when you look at your modem, the ONT unit, are there any lights on it? Do you see any green or red lights?
+
+Customer: Um... (pause) Let me go look at it. (background noise of footsteps) Okay, so I'm looking at it now. I see... it looks like the power light is on, it's green. But the other lights, they're not lit up. Like, they're all off.
+
+Agent: Okay, so just the power light. That's helpful. The other lights being off typically means the modem isn't detecting a connection from our line. Let me have you try something for me. Can you unplug the power cable from the back of the ONT for about 30 seconds and then plug it back in?
+
+Customer: Sure, doing that now. (pause) Unplugged. I'll just... wait here for a second. (longer pause) Okay, plugging it back in now.
+
+Agent: Great. And while that's booting back up, let me just verify... have there been any storms in your area recently? Any weather issues?
+
+Customer: Actually, yeah, now that you mention it, there was a pretty bad thunderstorm last night. Pretty intense.
+
+Agent: Ah, that could definitely be related then. Sometimes lightning strikes or power surges can affect the equipment. Let me know when the lights start coming back on the modem.
+
+Customer: Okay, so the power light came back on, it's green again. But I'm still not seeing the other lights turn on. It's been like... (pause) ...about 20 seconds now.
+
+Agent: Yeah, it can take a minute or so to fully boot up. Give it another 30 seconds and then let me know.
+
+Customer: (pause, sounds of typing in background) Alright, it's been about a minute now. Still just the power light. This doesn't look good.
+
+Agent: Hmm, yeah, that is unusual. So we should be seeing at least a "link" light or something indicating connection to the network. Since the power light is on but we're not getting any other indicators, it could be a few things. Let me ask you this—do you see any kind of ethernet cable running from the ONT? There should be a cable going in or coming out of it.
+
+Customer: Oh, yeah, there's definitely a cable. It's plugged in the back.
+
+Agent: Okay, good. Can you check and make sure that cable is firmly seated? Sometimes they can get jostled loose, especially during storms or if there's been someone moving around back there.
+
+Customer: (pause) Pushing on it now. Yeah, it seems pretty tight already. But let me... (grunting sound) ...try pressing it in a little harder, just to be sure.
+
+Agent: Yep, good call.
+
+Customer: Did that. Still nothing. The lights are still off.
+
+Agent: Okay. And you're not seeing any damage to the cable itself? Any visible cracks or burns or anything like that?
+
+Customer: No, it looks fine. It's just a normal cable.
+
+Agent: Alright. You know, with the storm you mentioned, it's possible we might be looking at an issue with the line itself coming into your home, or possibly the ONT took a surge hit. I'd like to check one more thing with you though. Do you have access to your router? Your WiFi router?
+
+Customer: Yeah, it's right here actually.
+
+Agent: Perfect. Can you check the lights on that? Are any of them illuminated?
+
+Customer: (pause) No, nothing. It's completely dark. Not a single light on it.
+
+Agent: Hmm, okay. Well, that actually might mean there's no power getting to it, or it's not getting a signal from the modem. Try unplugging the router and plugging it back in, and also check to make sure the power adapter is firmly plugged into the wall outlet.
+
+Customer: Okay. (sounds of plugging) The adapter is definitely plugged in. I unplugged the router. Let me plug it back in now. (pause) Lights should be... (longer pause) ...okay, I'm seeing one light come on now. It's amber colored, I think. And there's a power light that's white.
+
+Agent: Okay, so we're getting somewhere. The router's getting power at least. The amber light typically means it's not getting a connection from the modem. So it's the same issue—the modem isn't transmitting the signal. Let me see what I can do on my end here. (typing sounds, pause) David, I'm looking at your connection status here and it's showing as offline. The modem isn't registering on our network at all.
+
+Customer: So what does that mean? What's the problem?
+
+Agent: Well, it could be a few things. The most likely scenario, given that storm you had, is that either the modem suffered some electrical damage, or there's a line issue on our end. Let me check for any outages or issues in your area. (pause, typing sounds) I'm not seeing any active outages in Scottsdale right now, so it's probably not a widespread network issue.
+
+Customer: So it's my modem then? Or your line?
+
+Agent: That's what we need to figure out. I can definitely schedule a technician to come out and check the line and potentially replace your modem if that's the issue. The soonest I can get someone out there would be... (pause) ...tomorrow between 12 and 4 PM. Would that work for you?
+
+Customer: Tomorrow? I need this working today. I have meetings this afternoon.
+
+Agent: I completely understand. Let me see if there's anything else we can troubleshoot remotely before we go that route. One more thing—have you tried plugging the ethernet cable directly into your computer? Just to test if you can get a wired connection at all?
+
+Customer: I have a laptop. Let me try that. (background noise, pause) Okay, plugging the cable directly in now. (pause) Okay, it's plugged in. Let me check the settings...
+
+Agent: What are you seeing?
+
+Customer: (pause) Nothing. It's not registering the connection. It's not showing any network activity.
+
+Agent: Okay, that confirms that the modem is not sending out a signal. David, I've done pretty much all I can do from here remotely. The issue is definitely with either the modem or the line coming into your house. In either case, we're going to need a technician out there to diagnose and fix it.
+
+Customer: But I really need this today. Can you not just... I don't know, send a signal or something to fix it?
+
+Agent: I wish it were that simple, believe me. But what we're dealing with here is likely a hardware issue on the modem itself, or a physical line problem. Those require a technician to physically come out and inspect and replace equipment. Let me check if there's any earlier availability... (pause, typing sounds) I'm seeing if we have any same-day appointments available. (longer pause) Unfortunately, everything's booked for today. The earliest is that 12 to 4 PM window tomorrow. I apologize for that.
+
+Customer: (frustrated sigh) This is really not ideal. Is there anything you can do?
+
+Agent: I know this is frustrating. Here's what I can do for you—I can put a priority flag on your account for tomorrow's appointment to make sure they come as early in that window as possible, ideally closer to noon. I can also give you a credit on your account for the day of service you've lost. That way, we're making it right. But as far as getting it working today, without a technician, I don't have any other options available.
+
+Customer: (pause) Alright, fine. Let's do the appointment tomorrow.
+
+Agent: Perfect. And just to confirm, you'll be home between 12 and 4 PM tomorrow?
+
+Customer: Yeah, I'll make sure I am.
+
+Agent: Great. You should receive a confirmation text and email with the appointment details. The technician will have all your information. Is there anything else I can help clarify before we wrap up?
+
+Customer: No, I guess not. I just hope they can fix it.
+
+Agent: Understood. I really do apologize for the inconvenience, especially with your work calls. We'll get this sorted out for you tomorrow. Thank you for being a Frontier customer, and thanks for calling in today.
+
+Customer: Thanks.
+
+Agent: Have a good day, David.
+
+Customer: You too.

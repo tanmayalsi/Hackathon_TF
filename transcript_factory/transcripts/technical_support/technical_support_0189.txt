@@ -1,0 +1,159 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. So my internet has been down since this morning and I'm not sure what's going on. I work from home and I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me help you troubleshoot this. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0847.
+
+Agent: (typing sounds) Okay, I'm pulling up your account here... Alright, I've got you. Your service address is 247 Maple Street, correct?
+
+Customer: Yes, that's right.
+
+Agent: Perfect. So your internet went down this morning. Has there been any weather in your area? We've had some reports of storms...
+
+Customer: No, actually it's been pretty clear all day. That's what's weird about it.
+
+Agent: Okay, that helps. Let me start with some basic troubleshooting. Can you tell me what you're seeing right now? Is the modem powered on?
+
+Customer: Yeah, the modem's on. I can see some lights on it, but... I think one of them is red? Usually they're all green or blue or whatever.
+
+Agent: Okay, which light is red? Is it the power light, the online light, or...?
+
+Customer: Uh, it's not the power one. It's like... the second light from the left. It's definitely red.
+
+Agent: That would be your online indicator. So that's showing red, which means the modem isn't connecting to our network. Let's try a restart. Can you unplug the modem for me?
+
+Customer: (pause) Sure, doing that now.
+
+Agent: Perfect. While that's unplugged, let's also check your router. Can you see if the router is still powered on?
+
+Customer: Yeah, the router's on too. It's got the normal lights it usually has.
+
+Agent: Good. Go ahead and unplug that as well, please.
+
+Customer: Okay, unplugging it... (pause) Done.
+
+Agent: Great. Let's leave those unplugged for about thirty seconds. That'll give them a full reset.
+
+(silence for approximately 30 seconds)
+
+Agent: Alright, go ahead and plug the modem back in first.
+
+Customer: (sound of plugging in) Okay, it's plugged in.
+
+Agent: Give it a moment to boot up. This usually takes about a minute or two. While we're waiting, have you noticed any service interruptions recently, or is this the first time?
+
+Customer: No, this is the first time. I've had Frontier for like three years and it's been pretty solid until today.
+
+Agent: That's good to know. Okay, now go ahead and plug the router back in.
+
+Customer: (plugging in) Got it. (pause) So how long should I wait before...
+
+Agent: Let's give it another minute or two to fully boot up. In the meantime, can you describe what lights you're seeing on the modem now?
+
+Customer: Um, the power light is green now. But that online light is still... (pause) ...still looks red to me.
+
+Agent: It's still red? That's odd. Sometimes during the reboot process it takes a moment to reconnect. Let me check something on my end. (typing sounds) 
+
+(pause)
+
+Agent: Okay, so I'm not seeing your modem as connected to our network on my end either. That's actually very helpful information. Can you tell me... is the power cable from the wall outlet to the modem secure?
+
+Customer: (sound of looking around) Yeah, I mean... it seems fine. It's plugged in.
+
+Agent: Okay, and is the coaxial cable—that's the cable that connects the wall outlet to the modem—is that plugged in securely?
+
+Customer: The wall cable thing? Let me check. (pause) Yeah, it's... it's plugged in. Though now that I'm looking at it, there's a splitter here. Is that... could that be the problem?
+
+Agent: It could be, potentially. Do you have any other devices plugged into that splitter?
+
+Customer: Just the modem. Oh, and there used to be a cable box but I removed that like a month ago.
+
+Agent: Ah, okay. When you removed the cable box, did you cap off that other port on the splitter?
+
+Customer: Cap it? I'm not sure what you mean. I just... unplugged it.
+
+Agent: So the port is just open without anything connected to it?
+
+Customer: Yeah, exactly.
+
+Agent: Let me try something here. Can you grab a coax cable terminator cap—it's a small metal cap—or even if you have some electrical tape, we can try capping off that unused port. That could sometimes cause signal issues.
+
+Customer: (pause) I... I don't think I have anything like that. Could I just, like, use... I don't know, a bottle cap or something?
+
+Agent: Unfortunately, that wouldn't work. The signal needs proper shielding. But you know what, let me check with you—do you have a neighbor nearby, or is there a Home Depot or electronics store close to you?
+
+Customer: There's a Best Buy like five minutes away.
+
+Agent: Perfect. Those caps are usually really cheap, under five dollars. But before you do that, let me try something else. Try physically disconnecting the modem from the splitter entirely and connecting the wall outlet cable directly to the modem. That way we can see if the splitter itself is the issue.
+
+Customer: Oh, okay, that's a good idea. (sounds of disconnecting and reconnecting) Alright, I've got it connected directly to the modem now.
+
+Agent: Great. Give it a moment to recognize the signal change.
+
+(pause)
+
+Customer: Still red. The light's still red.
+
+Agent: Hmm. Okay. (typing sounds) Let me check our system again for your account and your area. (pause) Have you experienced any outages recently? Any power blips or anything like that?
+
+Customer: Not that I noticed, but I guess I wasn't home most of yesterday.
+
+Agent: Okay. So looking at my end, I'm still not detecting your modem. The connection just isn't coming through. Let me ask you a few more things. The serial number on the modem—can you read it to me? It's usually on the back or the bottom of the unit.
+
+Customer: (sounds of moving the modem around) Okay, it says... FRN-MB8821-X4.
+
+Agent: (typing) And is that modem owned or leased from us?
+
+Customer: I think I own it. I bought it years ago.
+
+Agent: Alright, so given the age of the modem and the fact that it's not connecting at all, there's a possibility the modem itself may have failed. That would explain why the online light is consistently red regardless of our troubleshooting steps.
+
+Customer: So... I need a new modem?
+
+Agent: It's looking that way, but let me try one more thing before we go down that road. Can you try the master reset on the modem? There's usually a small reset button on the back that you hold for about ten seconds.
+
+Customer: (pause) I'm looking... I don't really see a button, but there might be something tiny. This thing is kind of old. (longer pause) Oh wait, is it this little hole here?
+
+Agent: That could be it. You might need a paperclip or something thin to press it.
+
+Customer: (rustling sounds) Okay, I've got a paperclip. (pause) Holding it in... one... two... three...
+
+Agent: Keep holding it for about ten seconds total.
+
+Customer: (pause) Okay, I'm at ten.
+
+Agent: Let me release it.
+
+Customer: (pause) The lights went out and now they're coming back on. (pause) Okay, power light's green again, but the online light... (longer pause) ...still red.
+
+Agent: Yeah, unfortunately that confirms what I was suspecting. The modem isn't establishing a connection with our network, and resetting it didn't help. At this point, I think we're looking at a modem failure.
+
+Customer: So what do I need to do? Can I get a replacement modem from you guys?
+
+Agent: Absolutely. We can definitely help you with that. The quickest way would be to either visit a Frontier store location to pick up a replacement unit, or we can ship one to you. If we ship it, it typically takes three to five business days to arrive.
+
+Customer: Three to five days? That's... I really need my internet working sooner than that. Is there a store nearby?
+
+Agent: Let me check. (typing sounds) Do you know your zip code?
+
+Customer: 55423.
+
+Agent: (typing) Okay, there is a Frontier service center about eight miles from your location. They're open until 6 PM today if you want to head over there. They can set you up with a replacement modem right away.
+
+Customer: Okay, and they'll have the right modem for me?
+
+Agent: They should be able to help you out. When you go in, just let them know what you're experiencing and they can get you set up. You might want to bring your account number with you—that's 555-0847.
+
+Customer: Yeah, I can do that. Thanks.
+
+Agent: You're welcome. I apologize that we couldn't get it working over the phone. Is there anything else I can help clarify before you head out?
+
+Customer: No, I think that's it. Thanks again, Derek.
+
+Agent: Thank you for calling Frontier Communications, and sorry again for the inconvenience. We'll get you back online soon!
+
+Customer: Appreciate it. Bye.
+
+Agent: Bye now!

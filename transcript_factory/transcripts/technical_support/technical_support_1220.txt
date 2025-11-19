@@ -1,0 +1,109 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, so my internet has been down since this morning and I really need to get it working. I've got some important files I need to access for work.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot. Let me pull up your account here. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, I've got you here. So your internet went down this morning... Have you tried unplugging your modem and router yet? Sometimes that can resolve the issue pretty quickly.
+
+Customer: No, I haven't. How long do I leave them unplugged?
+
+Agent: Just give it about thirty seconds. That'll clear out the cache and let everything reset. Go ahead and do that now and I'll stay on the line with you.
+
+Customer: Okay, unplugging now... (pause) Alright, they're both unplugged.
+
+Agent: Perfect. Now let's wait about thirty seconds... (pause) Okay, go ahead and plug the modem back in first. The modem is the device that connects to your wall outlet and usually has the Frontier logo on it.
+
+Customer: Right, yeah, I'm plugging that in now. (pause) Okay, it's back on.
+
+Agent: Great. Now plug the router in as well.
+
+Customer: (pause) Done. So now we wait for it to boot back up?
+
+Agent: Exactly. This should take a couple of minutes. While we wait, can you tell me... are you seeing any lights on the modem right now?
+
+Customer: Um, yeah, there's some blinking lights. Green and amber lights blinking.
+
+Agent: That's normal while it's booting up. Once it fully restarts, you should see a solid green light, usually labeled as "online" or "internet." Let me know when you see that.
+
+Customer: (pause) Okay... I'm waiting... (pause) Alright, yeah, I see a solid green light now.
+
+Agent: Excellent. Now can you try opening a web browser and see if you can pull up a website? Maybe Google or something simple.
+
+Customer: (pause) (typing sounds) Uh... no, it's still not loading. It's just... the page won't load.
+
+Agent: Okay, let's try a few more things. Sometimes there can be an issue with the connection to the modem itself. Can you check your Wi-Fi? Are you connected to the Frontier network?
+
+Customer: Let me check... (pause) Yeah, I'm connected. It shows I'm connected to FrontierWifi. The signal strength looks good too.
+
+Agent: Good, good. And you're not using ethernet cable, you're on Wi-Fi?
+
+Customer: Right, just Wi-Fi.
+
+Agent: Okay, let me ask you this... is your modem showing any red lights or amber lights right now? Any indicator lights that look different or concerning?
+
+Customer: (pause) There's... well, there's one amber light near the bottom. It says something about... (inaudible) ...I can't quite make out what it says on the label.
+
+Agent: Can you get a little closer and see if you can read what that light indicates?
+
+Customer: (pause) Okay, it says... "Ethernet" or something like that? It's hard to read with the lighting in here.
+
+Agent: Got it. That's probably fine. That light indicates the ethernet port. That wouldn't affect your Wi-Fi. (pause) Let me check on our end here if there are any service issues in your area. (typing sounds) (pause) I'm not seeing any outages reported in your zip code, so it should be working.
+
+Customer: So what else can we try?
+
+Agent: Let's do a factory reset on your router. That's a bit more involved than a simple restart. Do you have a paperclip or a small pen handy?
+
+Customer: Yeah, one second... (pause) Okay, I've got a paperclip.
+
+Agent: Perfect. On the back of your router, there should be a small recessed button labeled "reset." You're going to press and hold that button for about ten seconds. This will reset the router back to factory settings.
+
+Customer: (pause) Alright, I'm looking at the back... Yeah, I see it. I'm pressing it... (pause) Holding... (pause) Okay, I've been holding it for about ten seconds.
+
+Agent: Great. Now the router should restart and go through its boot sequence again. This'll take a few minutes. We'll need to wait and see if that helps.
+
+Customer: (pause) (pause) How much longer do you think before I know if this worked?
+
+Agent: Should be about two to three minutes total. Once you see the lights stabilize, try connecting again and let me know what happens.
+
+Customer: (pause) Okay, still blinking... (pause) Alright, the lights stopped blinking... but I'm still not getting internet. Same issue.
+
+Agent: Hmm. Okay, let me check something else on my end. (typing sounds) (pause) I'm looking at your modem signal and I am seeing a connection, which is good. But your service might have been suspended for some reason. Can I ask... is your account current? Are there any outstanding payments?
+
+Customer: No, no, I paid my bill online last week. Everything should be current.
+
+Agent: Okay, let me verify that here... (typing sounds) (pause) Yes, I see the payment was received. Your account is in good standing. (pause) So that's not it.
+
+Customer: This is really frustrating. What else could it be?
+
+Agent: I understand, and I apologize. At this point, it could be a few things. It might be an issue with the ONT, which is the device outside your home that receives the fiber signal. It's possible there's a hardware issue with your modem or router. Or there could be something on our network side that I'm not detecting from here.
+
+Customer: So... what does that mean? Can you fix it?
+
+Agent: Well, I've done what I can remotely. What I'd recommend is scheduling a technician visit. They can come out and check the ONT, check all the connections, and if needed, replace the modem or router. That's usually the best way to diagnose these kinds of issues when remote troubleshooting doesn't resolve it.
+
+Customer: How long would that take? Like, when could they come out?
+
+Agent: (typing sounds) Let me check availability... We have some slots open. We could get someone out to you tomorrow between 1 PM and 5 PM, or the day after tomorrow in the morning, between 8 AM and noon.
+
+Customer: Tomorrow between 1 and 5 would work better for me.
+
+Agent: Perfect. I'm going to schedule that for you. The technician will call you about thirty minutes before arrival to confirm. Is the phone number on file still good?
+
+Customer: Yeah, that's fine.
+
+Agent: Excellent. So to recap, we've restarted your modem and router, done a factory reset on the router, and I'm not seeing any account issues or service outages. A technician will be at your home tomorrow between 1 and 5 PM to investigate further. Your confirmation number is 447829. Is there anything else I can help you with today?
+
+Customer: No, I guess that's it. I just hope they can get this fixed tomorrow.
+
+Agent: I completely understand. I'm sorry we couldn't resolve this over the phone, but the technician should be able to get to the root of the problem. Thank you for being patient with me today, and we appreciate your business with Frontier.
+
+Customer: Yeah, thanks. I'll talk to you guys tomorrow, I guess.
+
+Agent: Have a great day, and we'll see you tomorrow.
+
+Customer: Bye.
+
+Agent: Bye.

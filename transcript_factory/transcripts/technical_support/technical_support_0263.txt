@@ -1,0 +1,109 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. So my internet just... it's completely down. I've been without service for like two hours now and I'm trying to work from home and it's really frustrating.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll get this sorted out for you. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, got it. I see you're in the Riverside area. And just to confirm, you're experiencing a complete outage—no internet connection at all?
+
+Customer: Right, nothing. The router's not working, the modem—I don't know, it's all dead basically.
+
+Agent: Okay. Well, before we dig too deep, let me ask you a few quick questions. Are you able to see any lights on your modem or router right now?
+
+Customer: Um... let me look. (pause) No, actually. There's nothing. No lights at all on either device.
+
+Agent: Alright. So they're both completely dark. Have you tried unplugging them and plugging them back in?
+
+Customer: No, not yet. Should I do that?
+
+Agent: Yeah, that's actually a good first step. Why don't you go ahead and unplug the modem first—that's the device that connects directly to the wall outlet. Then wait about 30 seconds and plug it back in.
+
+Customer: Okay, unplugging now. (pause) Alright, it's unplugged. I'm waiting... thirty seconds, right?
+
+Agent: That's right. While you're doing that, let me just check on your account. I'm not seeing any outages reported in your area, so this might be device-specific.
+
+Customer: (pause) Okay, plugging it back in now.
+
+Agent: Great. So while that boots back up, go ahead and unplug the router as well. That's the wireless device.
+
+Customer: (pause) Okay, done. Should I wait again?
+
+Agent: Yes, give it about 30 seconds, same as before.
+
+Customer: Alright. (longer pause) Plugging it back in. (pause) So how long does it usually take for these things to boot up?
+
+Agent: It usually takes about two to three minutes for everything to get fully connected. While we're waiting, I'm also going to check if there might be any issues on our end. Let me put you on a brief hold—this should just take a minute.
+
+Customer: Okay.
+
+Agent: (hold music plays, then stops) Alright, I'm back. I'm not seeing anything on our end that would cause an outage. Let me ask you—do you see any lights on the modem now?
+
+Customer: (pause) Yeah, actually I see... the power light is on. But I don't see the internet light. Shouldn't there be an internet light?
+
+Agent: Okay, so you should see the internet light come on once the connection is established. Sometimes that takes a minute. Are you also seeing any other lights?
+
+Customer: There's like a... I think it says WAN? There's a light that's orange or amber colored.
+
+Agent: Okay, that's your WAN light. That orange or amber color actually indicates it's trying to connect but hasn't fully synced yet. Let me have you check the cable that's running from the wall outlet to the modem. Can you make sure that's plugged in securely?
+
+Customer: (pause) I'm looking at it. It's... I mean, it looks plugged in to me. Do you want me to unplug it and plug it back in?
+
+Agent: Yeah, let's try that.
+
+Customer: (rustling sounds) Okay, unplugging. (pause) Plugging back in. Still orange.
+
+Agent: Still orange. Alright. Let me ask you—is that the coaxial cable? Does it have a threaded connector on the end?
+
+Customer: Yeah, I think so. It looks like a regular cable connector.
+
+Agent: Okay. Try twisting that connection at the wall a little bit. Sometimes these can work loose and it breaks the connection.
+
+Customer: (pause) Alright, I'm twisting it. Uh... no change. Still orange.
+
+Agent: Hmm. Okay. Let me check something. Have you experienced any weather recently? Any storms or heavy rain?
+
+Customer: Actually, now that you mention it, there was a pretty bad thunderstorm last night. Could that have caused something?
+
+Agent: It's definitely possible. Power surges from lightning strikes can sometimes affect equipment. Let me ask you this—are you able to try a different coaxial cable if you have one available? Or do you have access to any other Frontier equipment you might be able to test with?
+
+Customer: [inaudible] No, I don't think so. This is the setup I've had for a few years now.
+
+Agent: Okay. Well, the fact that the modem is powering on is a good sign, but that amber WAN light isn't progressing to a solid green, which suggests there's a connectivity issue. This could be a few things—it could be the equipment was affected by the power surge, it could be an issue with the line coming into your home, or it could be on our network side. 
+
+Customer: So what do we do?
+
+Agent: Well, I want to try one more thing. Can you access the modem's admin panel? If you open a web browser and type in 192.168.0.1, it should bring up the modem settings.
+
+Customer: (pause) My browser won't load anything. It's like... nothing's connecting.
+
+Agent: Right, of course. Without an internet connection, that won't work. I apologize. At this point, I think we need to either get a technician out to your location to check the line and potentially replace your equipment, or we can try sending you a replacement modem to see if that resolves it.
+
+Customer: How long would a technician take? I really need this working today.
+
+Agent: (typing sounds) Let me check our availability. (pause) The earliest I'm showing is tomorrow between 8 AM and 5 PM. We can also expedite a modem replacement and have it shipped out today, but delivery would typically be 3-5 business days.
+
+Customer: Tomorrow? That's the soonest?
+
+Agent: I'm afraid so. We've had a lot of weather-related calls today, which is probably why we're booked up. But I can definitely get you scheduled for tomorrow. Would the 8 AM to 5 PM window work for you?
+
+Customer: I guess it has to. This is really frustrating though. I have important calls scheduled.
+
+Agent: I completely understand. I'm really sorry about this. Let me get you set up for that appointment. Do you have a mobile number we can use to contact you before the technician arrives?
+
+Customer: Yeah, it's 555-0198.
+
+Agent: Perfect. (typing sounds) Alright, I've scheduled a technician appointment for tomorrow, Monday, between 8 AM and 5 PM. We'll call you at 555-0198 about 30 minutes before the technician arrives. Is there anything else I can help you with today?
+
+Customer: No, I think that's... I mean, I guess not. I just hope this gets fixed tomorrow.
+
+Agent: I hope so too. I'm really sorry we couldn't get this resolved over the phone today. Just so you have it, your ticket number is 4829-FT-556. If you need anything before the technician arrives, feel free to call us back and reference that number. Thank you for being a Frontier customer, and we apologize for the inconvenience.
+
+Customer: Alright, thanks I guess.
+
+Agent: Have a good day.
+
+Customer: You too. Bye.
+
+Agent: Bye.

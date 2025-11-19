@@ -1,0 +1,103 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. So, uh, my internet has been down since this morning and I'm not sure what's going on. I really need to get this fixed because I'm working from home today.
+
+Agent: I'm sorry to hear that. I understand how frustrating that can be. Let me pull up your account here. (typing sounds) Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, I've got you here. I see the service address is 412 Maple Street. Is that correct?
+
+Customer: Yeah, that's right.
+
+Agent: Perfect. So you're saying your internet went down this morning? Did anything happen before it went down? Like a storm, power outage, anything like that?
+
+Customer: No, nothing that I noticed. I was just working and then suddenly everything just... stopped. The Wi-Fi signal disappeared.
+
+Agent: Alright. Well, let's troubleshoot this together. First things first—can you tell me what you're seeing right now? Is your modem powered on?
+
+Customer: Um, yeah, it's on. I can see the lights are lit up and everything.
+
+Agent: Okay, good. And do you see any red lights on the modem, or are they all green or blue?
+
+Customer: (pause) Let me look closer... I see, like, a green light and then there's an orange one that's blinking.
+
+Agent: Okay, so there's an orange light blinking. That usually indicates it's trying to establish a connection. Do you see any lights specifically labeled "internet" or "online"?
+
+Customer: Uh, yeah, there's one that says "online" and it's... it's not lit up at all. It's dark.
+
+Agent: Alright, that would explain why you don't have internet. The modem's not connecting to our network. Let's try a restart. Can you unplug the modem for me? Just pull it out of the outlet.
+
+Customer: (pause) Okay, it's unplugged.
+
+Agent: Great. Leave it unplugged for about 30 seconds. Just while we wait here.
+
+Customer: (pause) Alright, it's been like... I'd say half a minute.
+
+Agent: Perfect. Go ahead and plug it back in for me.
+
+Customer: (pause) Okay, plugging it back in now. (pause) Okay, it's back on.
+
+Agent: Good. Now we're gonna wait for it to fully boot up. This usually takes a couple of minutes. While we're waiting, let me ask—have you had any recent issues with your internet? Any flickering or slow speeds before this morning?
+
+Customer: No, actually it's been working great. This is the first real problem I've had since I got it installed like three months ago.
+
+Agent: That's good to know. Okay, so what we're looking at now—do you see any changes in those lights?
+
+Customer: (pause) Hmm, let me see... The orange one is still blinking, and that online light is still dark.
+
+Agent: (pause) Still dark. Okay. Let me check on our end to see if there are any service outages in your area. (typing sounds) (pause) I'm not showing any outages right now. (pause) Have you tried restarting your router as well? Sometimes if you have a separate router—
+
+Customer: Oh, yeah, I do have a separate router. It's a white one, kind of older.
+
+Agent: Okay, let's restart that too. Do you see the power cable on it?
+
+Customer: Yeah, I got it. (pause) Unplugged.
+
+Agent: Great. And go ahead and leave that unplugged for about 30 seconds too.
+
+Customer: (pause) Okay. (pause) Alright, plugging it back in.
+
+Agent: Perfect. Now, while that's booting up, I'm going to check our system to see if we're showing your modem as active. (typing sounds) (pause) Hmm, that's odd. I'm not seeing your modem registering on our network right now, which would match what we're seeing with those lights.
+
+Customer: So what does that mean? Is my equipment broken or...?
+
+Agent: Well, it could be a few things. It might be an issue with your modem, it could be a line issue on our end at your location, or there could be a problem with the outside equipment. Let me ask you—do you have any cable TV or phone service with us as well?
+
+Customer: Just internet. That's all.
+
+Agent: Okay. And looking outside your house, do you see any cables coming in? Like, coming from a box on the pole or on your house?
+
+Customer: (pause) Yeah, I see a box on the side of the house. There's a cable running to it from the pole.
+
+Agent: That's your fiber termination box. Can you tell me if there are any lights on it? Like, is it powered?
+
+Customer: (pause) It's, uh... I don't see any lights actually. Is there supposed to be a light on it?
+
+Agent: Yes, there should be. It should have at least one or two indicator lights. If there are no lights at all, that could indicate a power issue or a problem with the box itself. Is there a power cord running to it?
+
+Customer: (pause) Yeah, I see a cord going down... probably to an outlet inside. Let me check. (background noise) (pause) [inaudible] ...okay, so the outlet seems fine. I plugged my phone charger in and it worked.
+
+Agent: Good. So the outlet is working. Can you try unplugging the power to that box and plugging it back in? Just give it a second.
+
+Customer: (pause) Okay, unplugging it now. (pause) And back in. (pause) Still... still nothing. No lights.
+
+Agent: (pause) Alright. Unfortunately, it looks like there may be an issue with your fiber termination box, or possibly something with the line itself. At this point, I think we're going to need to get a technician out to your location to diagnose what's going on.
+
+Customer: A technician? How long would that take? I really need my internet back today.
+
+Agent: Let me see what we have available. (typing sounds) (pause) We have some availability tomorrow between 12 and 4 PM, or we do have an earlier slot the day after tomorrow at 8 AM.
+
+Customer: (sigh) Tomorrow afternoon is better for me. Can I do that?
+
+Agent: Absolutely. Let me get that scheduled for you. (typing sounds) You're all set for tomorrow between noon and 4 PM. A technician will come out and assess the issue. In the meantime, is there anything else I can help you with?
+
+Customer: No, I guess that's it. I just hope you guys can figure this out because I really need to work.
+
+Agent: I completely understand. We'll get this resolved for you. You should receive a confirmation text and email about your appointment. If you have any other questions, feel free to give us a call back. Thank you for choosing Frontier, and we apologize for the inconvenience.
+
+Customer: Thanks, I appreciate it.
+
+Agent: Thank you for calling. Have a good day.
+
+Customer: You too.

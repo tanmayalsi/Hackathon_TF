@@ -1,0 +1,101 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hey, yeah, hi. So my internet has been down since this morning and I have no idea what's going on. I've got work calls in like an hour and I really need to get this fixed.
+
+Agent: Oh man, I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll get to the bottom of this. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147. That's the landline we have with you guys.
+
+Agent: (typing sounds) Perfect, thank you. I'm showing here that you're on our Fiber 1 Gig plan. When you say the internet went down this morning, do you remember what time that was approximately?
+
+Customer: Um, I'd say around 7 AM? Maybe a little before. I woke up and tried to check my email and nothing was loading.
+
+Agent: Okay, and have you tried restarting your modem and router yet?
+
+Customer: Yeah, I did that actually. Right when I noticed it wasn't working. I unplugged everything for like... I don't know, thirty seconds? And plugged it back in. Still nothing.
+
+Agent: Alright, that's a good first step. So when you say nothing's working—do you see any lights on the modem at all? Are they lit up, blinking, anything like that?
+
+Customer: Um, let me look at it. (pause) So the power light is on—that's solid green. But I'm looking at the other lights and... (pause) the internet light? That one's red. Is that bad?
+
+Agent: Yeah, the red light on the internet port usually indicates a connection issue. That's helpful. And the router—do you see lights on that as well?
+
+Customer: (pause) The router has... okay, so the power is on, but everything else is basically dark. Nothing's really lit up besides the power.
+
+Agent: Got it. That tells me we might be dealing with a signal issue from our end. Let me check something on my end. (typing sounds, pause) I'm looking at the connection data here and... hmm. Are you able to see a little white label on the side or back of your modem? It should have some numbers on it.
+
+Customer: Yeah, yeah, I see it. What am I looking for?
+
+Agent: There should be a serial number there. Can you read me the first six characters? Should be a mix of letters and numbers.
+
+Customer: Okay, so it says... FN6... 8T... 2B. FN68T2B.
+
+Agent: (typing sounds) Okay, and one more thing—are you able to get physically close to the modem and tell me if there are any cables that might have come loose? Sometimes they can wiggle out.
+
+Customer: Let me check. (pause) No, they all look pretty secure to me. There's the power cable and then... the other one going to the wall. They're both plugged in pretty tight.
+
+Agent: Alright. Let me try a couple things on my end here. I'm going to send a signal reset to your modem. This might take just a minute or two to process. You should actually see the lights blink a bit.
+
+Customer: Okay, I'm watching it. (pause) Yeah, I'm seeing... the lights are flickering a little bit now.
+
+Agent: Good, good. That's expected. Just give it about sixty seconds to fully reboot and reconnect.
+
+Customer: (pause) Alright, it's been a minute. Um... (pause) The internet light is still red though. And the router still doesn't have anything.
+
+Agent: Okay, let me try one more thing. Can you unplug the modem for me? Just pull the power cable out completely.
+
+Customer: Doing it now. (pause) Alright, it's unplugged.
+
+Agent: Now let's leave it unplugged for a full minute. I know it seems like a long time, but this can sometimes clear things out.
+
+Customer: Sure, I can wait. (long pause) Okay, about a minute's gone by.
+
+Agent: Alright, go ahead and plug it back in.
+
+Customer: (pause) Plugging it in... okay. Power's coming back on. (pause) The lights are... power light is green again, but the others are still not coming on like they should be.
+
+Agent: Okay. How long has it been since you plugged it back in?
+
+Customer: Maybe thirty seconds?
+
+Agent: Give it another minute or so. Sometimes it takes a little while to fully boot up and establish the connection. I know this is taking a while, and I appreciate your patience here.
+
+Customer: Yeah, no problem. I'm just hoping we get this sorted before my meeting. (pause) Okay, it's been about a minute and a half now. Still the same situation. Just the power light. Everything else is dark.
+
+Agent: (pause, typing sounds) Alright, so I'm not seeing a signal coming through on our end for your modem at all. And that combined with what you're seeing on your end with the red internet light... this is pointing to either a modem issue or possibly a connection problem on our network side.
+
+Customer: So what does that mean? Like, is my modem broken?
+
+Agent: It could be, but I can't say for certain from here. What I'd like to do is have one of our technicians come out to your place to take a look. They can test the line, check the connections, and if needed, swap out the modem for a replacement.
+
+Customer: How soon can someone come out? I really need this working today.
+
+Agent: Let me check our availability. (typing sounds, pause) Our next available appointment in your area is tomorrow between 9 AM and 12 PM. I know that's not ideal for you right now, but unfortunately that's the soonest we have.
+
+Customer: Tomorrow? Seriously? This is really not good for me. Is there any way to get someone out today?
+
+Agent: I completely understand your frustration. Let me see... (typing sounds, pause) Unfortunately no, we're completely booked for today. The technician slots filled up pretty quickly. But the good news is that you would have this resolved first thing tomorrow, and I can actually flag this as a priority so the tech knows to come earlier in that window.
+
+Customer: (sighs) Alright, I guess I don't have much choice. Can you at least make sure that happens?
+
+Agent: Absolutely. I'm going to make a note here that this is urgent. Your appointment is scheduled for tomorrow, 9 AM to 12 PM. A technician will call you thirty minutes before they arrive. Is the phone number I have on file the best way to reach you?
+
+Customer: Yeah, that's the number you called me at. The 555-0147.
+
+Agent: Perfect. I have that down. And just to recap real quick—is there anything else you'd like me to add to the service notes? Any other issues you've noticed?
+
+Customer: No, I mean... I've just got no internet. That's the main problem.
+
+Agent: Okay, I hear you. Well, I apologize that we couldn't get this resolved over the phone, but our tech team tomorrow should be able to take care of this for you pretty quickly. In the meantime, is there anything else I can help you with?
+
+Customer: No, I think that's it. Just... hopefully tomorrow goes smooth.
+
+Agent: I'm confident it will. And hey, if for some reason the tech needs to contact me or there's any follow-up needed, they'll make sure to reach out. Your service reference number for this ticket is 4829-FX. Keep that handy just in case. Is there anything else before I let you go?
+
+Customer: No, that's all. Thanks, I guess.
+
+Agent: You're welcome, and again, I apologize for the inconvenience. We really do appreciate your business, and we'll get you back online tomorrow. Have a good day.
+
+Customer: Thanks. Bye.
+
+Agent: Bye now.

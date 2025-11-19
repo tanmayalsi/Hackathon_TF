@@ -1,0 +1,135 @@
+Agent: Thank you for calling Frontier Communications. My name is Marcus. How can I help you today?
+
+Customer: Hey, yeah, hi. Um, my internet has been down since this morning and I'm not sure what's going on. I need to get this fixed pretty soon if possible.
+
+Agent: I'm sorry to hear that, sir. I'd be happy to help you troubleshoot. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, thank you. And can I get a name to go with that account?
+
+Customer: It's David Chen.
+
+Agent: Perfect, David. And just to confirm, you're experiencing a complete internet outage? Like, nothing's coming through at all?
+
+Customer: Yeah, completely down. The router's on, I can see the lights... well, some of the lights are on, but I'm not getting any connection to anything.
+
+Agent: Alright, let me pull up your account here. (pause) Okay, I'm seeing your account is active and there don't appear to be any service issues on our end at the moment. Let's start with some basic troubleshooting. Can you tell me what lights you're seeing on your router? Like, which ones are lit up?
+
+Customer: Um... (pause) so I'm looking at it right now. The power light is on, that's green. There's like a blue light that's blinking, and then... I think there's one that's not lit at all?
+
+Agent: Okay, so the blue blinking light—that's typically the internet activity light, so that would actually be a good sign if it's just blinking. The one that's not lit—can you describe where it is on the router? Is it on the left side, right side?
+
+Customer: It's... I'm not really sure. This is a newer router you guys sent me like six months ago, so I'm not super familiar with all the lights. It's kind of in the middle area, I think.
+
+Agent: No problem. Can you walk over to the router for me? And let's try the most basic fix first—I'd like you to unplug it completely, wait about thirty seconds, and plug it back in.
+
+Customer: Okay, yeah, I can do that. (pause) Unplugging it now. (pause) Alright, it's out. I'm waiting... (pause) Okay, thirty seconds have passed. Plugging it back in. (pause) Alright, it's back on.
+
+Agent: Great. Now let's give it a minute to fully boot up. While we're waiting, David, have you noticed anything else unusual today? Any storms, power outages, or anything like that?
+
+Customer: No, nothing like that. It was working fine when I went to bed last night. I woke up this morning and just... nothing.
+
+Agent: Okay. (pause) Alright, has it been a minute?
+
+Customer: Yeah, about a minute, I'd say.
+
+Agent: Perfect. Can you try connecting to your Wi-Fi network now? Do you see your Frontier network appearing in your available networks?
+
+Customer: (pause) Yeah, I'm seeing it. It's there. Let me try connecting... (pause) Okay, so it's connecting, but... (pause) It's not connecting. It keeps asking me to enter the password again.
+
+Agent: Hmm, alright. Can you try entering the password one more time? And this would be the password on the sticker on the back of your router—does that look correct?
+
+Customer: (pause) Okay, trying again... [inaudible] Yeah, it's the same password I've been using, so... (pause) Nope, still not connecting. It's just hanging, and then it disconnects and kicks me back out.
+
+Agent: Okay, let's try something else. Can you unplug the modem? Do you have a separate modem from the router?
+
+Customer: Wait, I think I just have the one device. It's like an all-in-one thing, right?
+
+Agent: Yes, it's probably a gateway device—so it's both the modem and router combined. That's fine. So go ahead and unplug that one device again, and this time let's leave it unplugged for about two minutes.
+
+Customer: Two minutes? Okay. (pause) Yeah, it's unplugged. I'll just... wait here, I guess. (pause) So this happens sometimes? Like, is this a known issue?
+
+Agent: Occasionally we do see devices that need a longer reset, so it's worth trying. It could also be a line issue, but we'll figure that out. (pause) How much longer do you think until two minutes?
+
+Customer: (pause) Maybe another thirty seconds or so?
+
+Agent: Perfect. (pause) Alright, go ahead and plug it back in now.
+
+Customer: (pause) Okay, it's plugged in. All the lights are booting back up. (pause) Alright, everything's on again.
+
+Agent: Good. Let's give it another two minutes to fully boot this time.
+
+Customer: Two minutes again? (pause) Okay.
+
+(pause, background noise of customer tapping)
+
+Agent: So while we're waiting, have you had any issues with your service before, or is this the first time?
+
+Customer: First time, actually. It's been pretty solid up until today.
+
+Agent: That's good to hear. Okay, I think two minutes have passed. Can you try connecting to the Wi-Fi again?
+
+Customer: (pause) Yeah, let me try... (pause) Same thing. It's not connecting. It's just... it's not even asking for the password this time. It's just saying "unable to connect" and giving up.
+
+Agent: Okay. And when you say it's not asking for the password, that usually means it's not even recognizing the network is available. So the Wi-Fi network—is it still showing up in your available networks list?
+
+Customer: (pause) Let me look... Yeah, I can still see the Frontier network name, but it's not connecting to it at all.
+
+Agent: Alright, David, I'm going to check something on my end. (typing sounds) (pause) I'm going to place you on a brief hold while I run a line test to see if there's an issue with the connection coming into your home. It should only be about a minute. Is that okay?
+
+Customer: Yeah, that's fine.
+
+Agent: Thank you.
+
+(hold music)
+
+Agent: Okay, David, thanks for holding. So I ran the line test, and I'm actually seeing something on our end. The line is testing as active, but there's some signal degradation happening. I can't see what's causing it from my end, though. Let me ask you—when you look at the gateway device, is the cable that's running into the back of it, is it plugged in securely?
+
+Customer: (pause) Yeah, I'm looking at it now. It seems pretty secure. It's one of those coax cables, right? It looks fine to me.
+
+Agent: Okay, just to be thorough, can you try unplugging it and plugging it back in? Sometimes those connections can get a little loose.
+
+Customer: (pause) Sure. (pause) Okay, unplugging it now... and plugging it back in. (pause) There we go, it's back in.
+
+Agent: Good. And do you have any other cables running into that device? Any ethernet cables connected to it?
+
+Customer: No, just that coax cable.
+
+Agent: Alright. Let's give it a moment, and then try connecting to the Wi-Fi again.
+
+Customer: (pause) Okay, trying now... (pause) Nope. Same thing. Still not connecting.
+
+Agent: (pause) Okay. David, I've tried several troubleshooting steps and we're still not seeing a connection. Given that the line test is showing some signal degradation, I think what we might be looking at here is either an issue with the line coming into your home, or possibly a hardware issue with the gateway device itself. Let me escalate this for you.
+
+Customer: Okay... (pause) What does that mean, exactly?
+
+Agent: What I mean is, I'd like to get you scheduled for a technician visit. They can come out, test the line, check the gateway device, and see what's going on. Usually we can get someone out within the next 24 to 48 hours. Would that work for you?
+
+Customer: I mean... yeah, I guess so. But I'm without internet until then?
+
+Agent: Unfortunately, yes. I apologize for that. But the technician should be able to resolve it when they come out. Do you have a preferred day or time window?
+
+Customer: Uh, tomorrow morning would be best, if that's possible.
+
+Agent: Let me check availability. (typing sounds) (pause) Tomorrow we have a window between 8 AM and 12 PM available at your address. Does that work?
+
+Customer: Yeah, that works. That's fine.
+
+Agent: Perfect. And just to make sure, you'll be home during that time?
+
+Customer: Yeah, I'll be there.
+
+Agent: Great. I'm going to get that scheduled for you. The technician will call you about thirty minutes before they arrive. Their number is going to show up as Frontier Communications. Can I get the best number to reach you at?
+
+Customer: It's 555-0147, same as the account.
+
+Agent: Perfect. So just to recap, David, we have a technician scheduled for tomorrow, 8 AM to 12 PM window at your address. They'll diagnose the issue, and if it's a hardware issue, they may have a replacement device with them, or they can order one for you. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. I'm just... I'm frustrated that it's not working, but I appreciate you trying.
+
+Agent: I completely understand, and I sincerely apologize for the inconvenience. We'll get this resolved for you tomorrow. Thank you for being a Frontier customer, David, and thanks for calling in today.
+
+Customer: Thanks. Have a good day.
+
+Agent: You too. Goodbye.

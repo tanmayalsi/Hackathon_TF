@@ -1,0 +1,83 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, um, my internet's been down since this morning and I've tried unplugging everything and nothing's working.
+
+Agent: I'm sorry to hear that. I'd be happy to help you troubleshoot. Let me pull up your account here. (typing sounds) Can I get your phone number or account number?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (pause) (typing sounds) Okay, I've got you here. And you're saying your internet went down this morning?
+
+Customer: Yeah, like around 9 AM I think. I tried to work from home and nothing would load. The router's still on, the lights are blinking and everything, but I can't get online.
+
+Agent: Alright, let's start with some basic troubleshooting. First, can you tell me what lights you're seeing on the router? Are they all green or are some of them red or amber?
+
+Customer: Um... (pause) Let me look. Okay, so the power light is green, and there's like a blue light, and then there's one that's... it looks orange? Or amber, I guess.
+
+Agent: Okay, so the orange light—do you know which light that is? Is it the internet light, the WiFi light, or one of the port lights?
+
+Customer: I'm not really sure. (laughs awkwardly) I'm not super tech-savvy. But it's like... the second light from the left?
+
+Agent: No worries at all. That's typically the internet connection light. When that's orange or amber, it usually means there's a connectivity issue with the modem itself. Let's try doing a hard reset. I want you to unplug the router from the power for about 30 seconds, okay?
+
+Customer: Okay, unplugging it now. (pause) How long did you say?
+
+Agent: About 30 seconds. You can count to 30 or just wait a bit.
+
+Customer: (pause) (background noise of plugging in) Alright, plugging it back in now.
+
+Agent: Great. Now let's give it a minute or two to fully boot back up. While that's happening, can you tell me—have there been any storms in your area recently? Any weather events that might have affected your service?
+
+Customer: No, nothing like that. It's been pretty clear out. But actually, now that I think about it, there was construction happening on my street yesterday. Like, the utility company was out here digging around.
+
+Agent: Ah, that could definitely be a factor. They might have damaged the line coming to your house. But let's see if the reset helps first. Are the lights looking any different now?
+
+Customer: (pause) Um, no. Still the same. The orange one is still there.
+
+Agent: Okay, the light not changing tells me we might have a line issue. Let me check something on my end here. (typing sounds) I'm going to run a line test on your connection. (pause) (more typing)
+
+Customer: Is that... is that going to take a while?
+
+Agent: No, just a moment. (pause) (typing sounds) Hmm, okay. So the test isn't showing a signal coming to your house at all. That does suggest the line might be damaged or disconnected, possibly from that construction work you mentioned.
+
+Customer: Oh man, really? So what does that mean? How long until it's fixed?
+
+Agent: Well, here's what I can do. I'm going to create a trouble ticket and schedule a technician to come out and inspect the line. They'll be able to determine if there's physical damage and get it repaired. Let me see what appointments we have available. (typing sounds) (pause) We have availability tomorrow between 8 AM and 12 PM, or Thursday afternoon between 1 and 5 PM.
+
+Customer: Tomorrow morning would be better for me if possible.
+
+Agent: Perfect, I'll get you on the schedule for tomorrow between 8 and 12. Before I finish up, let me just try one more thing. Can you check if you have a backup battery backup device? It might look like a black box near your modem. Sometimes there's a battery backup unit that might need resetting too.
+
+Customer: (pause) Yeah, there's like a black box thing. Um, should I unplug that too?
+
+Agent: Go ahead and unplug that for 30 seconds as well. And then plug the modem back in after, not the box itself.
+
+Customer: Okay. (pause) (background noise) (pause) Alright, plugged the modem back in.
+
+Agent: Let me see if anything changed. (typing sounds) (pause) Unfortunately, still no signal on our end. I think we're definitely looking at a line issue here. The good news is our tech team should be able to resolve this pretty quickly tomorrow.
+
+Customer: Yeah, okay. So there's nothing else I can try tonight? I really need to get some work done.
+
+Agent: I know this is frustrating. Unfortunately, if there's a line issue, there isn't much we can do from the customer side. But I do want to apologize for the inconvenience. Once the technician gets there tomorrow, they should have you back up and running pretty quickly. The appointment window is 8 AM to 12 PM. Is there a number where they can reach you if they're running early or late?
+
+Customer: It's the same number you called, 555-0147.
+
+Agent: (typing sounds) Got it. Now, I'm also going to add a $15 service credit to your account for today's outage.
+
+Customer: Oh, well... thank you. I appreciate that.
+
+Agent: You're welcome. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. When should I expect the technician?
+
+Agent: You should receive a text message and an email confirmation of your appointment shortly. If anything changes or you need to reschedule, you can call us back or use the appointment details in the email. Okay?
+
+Customer: Okay, sounds good. Thanks for your help.
+
+Agent: You're welcome, and again, I apologize for the trouble. We appreciate your business with Frontier, and we'll get you back online tomorrow. Have a good evening.
+
+Customer: You too, thanks.
+
+Agent: Thank you for calling Frontier Communications. Goodbye.
+
+Customer: Bye.

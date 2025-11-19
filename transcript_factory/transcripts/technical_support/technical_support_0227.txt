@@ -1,0 +1,133 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet went out this morning and I can't get it back online. I've been without it for like two hours now and I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll get you taken care of. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, I'm seeing an account here for... is this 237 Maple Street?
+
+Customer: Yeah, that's right.
+
+Agent: Perfect. And your name?
+
+Customer: James. James Mitchell.
+
+Agent: Great, James. I've got your account up. I'm showing you're on our Fiber 200 plan. So let me ask you a few questions first. When you say your internet went out—did you notice anything before it stopped working? Like, was it getting slower or did it just suddenly disconnect?
+
+Customer: It just... it was fine when I went to bed last night, and this morning when I tried to check my email, nothing. The router's lights aren't even on.
+
+Agent: Okay, the lights aren't on. That's helpful information. So let's start with the basics. Can you look at your modem and router right now? I'm assuming you have both?
+
+Customer: Yeah, yeah, I'm looking at them. They're both in my office.
+
+Agent: Great. Are they plugged in?
+
+Customer: (pause) Of course they're plugged in. I mean... yeah, they are.
+
+Agent: I didn't mean to insult you there, James. Sometimes it's just the simple things, you know? I had a customer last week whose cat unplugged theirs. (chuckles) But okay, so they're definitely plugged in. Can you tell me what you're seeing on the modem? Is there any light at all?
+
+Customer: Um... no. Nothing. It's completely dark. The router too.
+
+Agent: Alright, and do you know if there's a power switch on the back of the modem, or is it just the power cord?
+
+Customer: (sounds of movement) Let me check... No, I don't see a switch. Just the cord.
+
+Agent: Okay, perfect. Here's what I want you to do. Can you unplug the modem for me? Just the modem for now.
+
+Customer: Okay, unplugging it now.
+
+Agent: Good. And can you leave it unplugged for about thirty seconds? We're going to do a hard reset here.
+
+Customer: Yeah, sure. (pause) It's been about thirty seconds.
+
+Agent: Alright, go ahead and plug it back in for me.
+
+Customer: Okay. (pause) Plugging it back in now. (pause) Okay... still nothing. No lights coming on at all.
+
+Agent: Hmm. Okay, that's... let me check something on my end. (typing sounds) James, I'm not seeing any service outages in your area, which is good news. But let me ask—do you have any other outlets nearby that you could try plugging the modem into? Just to rule out that it's not a power issue with that particular outlet?
+
+Customer: Oh, good idea. Um... (sounds of movement, unplugging) Let me try the one by my desk here. (pause) Plugging it in... (pause) Nope. Still nothing.
+
+Agent: Okay, it's definitely not the outlet then. James, I think your modem might have experienced a power surge or it's gone bad. That sometimes happens with electrical storms or if there's an issue with your home's electrical system. Have you had any storms recently, or do you remember if the power went out at your place?
+
+Customer: Actually, you know what? Now that you mention it, we did have that big storm come through yesterday. Pretty intense stuff. Power flickered a couple times.
+
+Agent: That would do it. So what we're looking at here is likely a hardware failure. Now, I can send you a replacement modem. The good news is that service calls and hardware replacements are covered under your account. But I do want to try one more thing before we go down that road, if that's okay?
+
+Customer: Yeah, sure. What do you want me to try?
+
+Agent: Can you check your router? Is it showing any lights at all? Sometimes the modem goes but the router will still have power.
+
+Customer: (sounds of movement) Let me see... No, it's dark too. But wait, maybe the surge affected the whole power strip. Let me check if the power strip is even on. (sounds of unplugging and replugging) Okay, so I flipped the power strip off and back on, and... (pause) ...nothing still.
+
+Agent: Okay. So both devices aren't responding. Are there any other devices plugged into that power strip that are working? Like a lamp or anything?
+
+Customer: Uh... (pause) Yeah, actually, my desk lamp is on and it's working fine. So the power strip is fine.
+
+Agent: Interesting. So power is getting to the strip but not your modem or router. Let me ask—are they plugged directly into the power strip or are they using power adapters?
+
+Customer: They're... I think they're using those adapter blocks. Yeah, both of them have those little black power brick things.
+
+Agent: Okay, that's actually really common. Those adapters can sometimes fail. Let me think here... (pause) James, I'm pretty confident at this point that the power adapters on both devices have failed, likely from that power surge. The modem is definitely going to need to be replaced, and honestly, the router probably does too.
+
+Customer: Both of them? That seems... I don't know, that seems like a lot.
+
+Agent: I understand. But surge damage to electronics can affect multiple devices at once, especially if they're on the same power strip. The good news is I can get both replaced under your service agreement.
+
+Customer: How long does that take? Like, when would I get them?
+
+Agent: (typing sounds) Well, I can have our technician out to you as early as tomorrow. Or, if you want to pick them up yourself, we have a local service center—
+
+Customer: Tomorrow? I really need internet today. Is there any way...?
+
+Agent: I wish I could get someone out there faster, James. Let me see what I can do here. (pause) Unfortunately, our next available technician appointment in your area is tomorrow between 2 and 4 PM. I don't have any same-day slots available. 
+
+Customer: (sighs) Okay, I mean, I guess that's better than nothing. But are you sure that's what the problem is? Could it be something else?
+
+Agent: Well, I mean, without physically seeing the equipment, I can't be 100% certain, but given that both the modem and router lost power at the exact same time, and they're both using external power adapters, and you had a power surge... the math really points to those adapters failing. We could try replacing just the power adapter on the modem first, if you wanted to go that route, but I don't have a way to send that to you quickly.
+
+Customer: You don't have any adapters locally I could just pick up?
+
+Agent: (pause, typing sounds) Let me check... (pause) We have adapters at our service center, but I'd need to make sure we have the exact right specifications for your modem model. What model modem do you have? It should be on the front or back of the device.
+
+Customer: Um, it's... (sounds of moving things) I can't really see it. It's pretty dusty back there. Can't you just tell me what model it should be based on my account?
+
+Agent: Good question. (typing sounds) Okay, so we provisioned a Frontier-issued modem to you about four years ago. It's a... it looks like it would be the Arista Q3000 model. But since it's not powering on, even if you got the adapter, I'm not confident that would solve your problem completely. If the modem itself got damaged from the surge, the adapter won't help.
+
+Customer: So you're saying I might replace the adapter and still not have internet?
+
+Agent: There's that possibility, yes. I don't want to send you on a wild goose chase. Honestly, I think the safest bet is to have the tech come out and replace both devices tomorrow. That way we know everything will be working properly.
+
+Customer: (frustrated) Alright, alright. Tomorrow between 2 and 4 PM?
+
+Agent: That's what I have available. Let me get that scheduled for you. (typing sounds) I've got a technician appointment in your name for tomorrow, April 15th, between 2 and 4 PM. You should receive a confirmation email and a text message. The tech will bring both a new modem and router to replace your current ones.
+
+Customer: Okay. Anything I need to do to prepare or...?
+
+Agent: Just make sure you have someone home to let the technician in. They'll need access to where your equipment is. The whole process should take about 30 to 45 minutes. Once they install the new equipment, everything should be up and running again.
+
+Customer: And you're sure that's going to fix it?
+
+Agent: I'm about 90% confident based on what we've troubleshot. The surge damage scenario is pretty straightforward. But I want to be honest with you—there's always a small chance there could be something else going on with the line itself or your connection port, though that's unlikely. But the tech will check all of that when they arrive.
+
+Customer: I guess that's fair. Um, is there anything I can do without internet today? Like, do I need to do anything right now?
+
+Agent: Not really, no. Just make sure your modem and router stay unplugged until the technician can install the new ones. And if by some miracle they turn back on, don't use them—just leave them off.
+
+Customer: Alright. Thanks, I guess. This is just really inconvenient timing.
+
+Agent: I completely understand, James. I know internet outages are frustrating, especially when it's not something you could have prevented. I wish we could get you fixed up faster. But the good news is you'll be back online by tomorrow afternoon.
+
+Customer: Yeah, okay. Well, I appreciate your help.
+
+Agent: You're welcome. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. I'll just wait for the technician tomorrow.
+
+Agent: Perfect. Thank you for being a Frontier customer, James. Have a good rest of your day, and we'll see you tomorrow.
+
+Customer: Thanks. Bye.
+
+Agent: Bye now.

@@ -1,0 +1,101 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, thanks for picking up. Um, my internet's been down since this morning and I'm not really sure what's going on. I work from home so this is kind of a big deal.
+
+Agent: Oh, I'm sorry to hear that. I completely understand how frustrating that can be. Let me pull up your account here. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, got it. I'm looking at your account now. I see you're on our 500 megabit fiber plan. And you said your internet went down this morning?
+
+Customer: Yeah, sometime around like 8 AM. I was just sitting here and everything just... stopped. No internet, nothing. I've tried unplugging the router a couple times but it's not coming back.
+
+Agent: Alright, let's go through some troubleshooting steps. First, can you tell me what you're seeing right now? Is the router powered on?
+
+Customer: Yes, it's on. It's got the lights on and everything, but like... I don't know, one of them seems off? There's usually a green light that indicates internet connection and that one's not on right now.
+
+Agent: Okay, that's actually really helpful information. So the router itself is on but the internet indicator light isn't illuminated. That typically means the connection between the router and our network isn't established. Can you look at the modem for me? That's the separate device, usually a bit larger, with the Frontier branding on it?
+
+Customer: Oh, um... let me see. Yeah, I see it. It's right there next to the router. Um, it's on too. The lights are... (pause) ...there's a green light, a yellow light, and a red light on it. Is that normal?
+
+Agent: Okay, so that red light is actually what I want to focus on. That typically indicates a problem. Red usually means there's no signal coming in from outside. Let me ask you—have there been any storms in your area recently, or any construction work?
+
+Customer: (pause) No, no storms. But actually, now that you mention it, there was... yeah, there was a utility truck in my neighborhood yesterday. I didn't think anything of it at the time but... could that be related?
+
+Agent: It's possible. Sometimes service interruptions can happen after utility work in the area. Let me check if there are any known outages in your area. (typing sounds) Hmm, I'm not seeing any active outages reported for your neighborhood. But let me try a few more things. Can you unplug the modem for me? Just the modem, not the router yet.
+
+Customer: Sure, give me a second. (pause) Okay, it's unplugged.
+
+Agent: Great. Can you leave that unplugged for about 30 seconds while I check a few things on my end?
+
+Customer: No problem. Just sitting here... (pause) ...alright, should be about 30 seconds now.
+
+Agent: Okay, go ahead and plug it back in for me, please.
+
+Customer: (pause) Plugging it back in now. (pause) Okay, it's back on. The lights are... they're doing their thing, they're kind of cycling through like they usually do. But I'm still not seeing that green internet light yet.
+
+Agent: And on the router, are you seeing anything different?
+
+Customer: (pause) No, same thing. Still no green internet light.
+
+Agent: Okay. Let me have you do the same thing with the router. Go ahead and unplug that for 30 seconds as well.
+
+Customer: Okay. (pause) Unplugged. (pause) Alright, 30 seconds... (pause) plugging it back in.
+
+Agent: Perfect.
+
+Customer: (pause) Okay, it's back on. It's going through the startup sequence again but... (pause) ...no, same thing. Nothing's coming through. The lights aren't... it's still not showing that connection.
+
+Agent: (typing sounds) I'm looking at your modem from my end here, and I'm actually not seeing it connect to our network at all. That's consistent with what you're seeing with the red light. Now, can you tell me—when's the last time everything was working normally?
+
+Customer: Um, yesterday evening, I think? I was on video calls all afternoon, everything was fine. I went to bed, and when I woke up this morning and tried to check my email, nothing.
+
+Agent: Alright. And you mentioned the utility truck yesterday. I want to rule some things out. Can you do me a favor and go look at where your service comes into your house? Usually there's an optical terminal or a box on the outside of your home.
+
+Customer: Yeah, sure. Let me... (pause) ...okay, I'm looking outside. I can see a gray box mounted on the side of my house. Um, is that it?
+
+Agent: Yes, that's the one. Can you see if there are any cables loose or anything that looks obviously disconnected?
+
+Customer: (pause) Hmm, let me look closer. There's some cables going into it, they look pretty... they all look connected to me. But, um, wait—there's something. There's like a bright orange flag or something tied to the cable near the box. Is that... is that normal?
+
+Agent: An orange flag? That's actually... that's a marker that utility work was done. That might be the issue. It's possible that during the utility work yesterday, something got disrupted with your line. I'm going to be honest with you—this is probably something that's going to need a technician to come out and investigate physically. It could be anything from a loose connection to damage to the line itself.
+
+Customer: Okay, so I can't fix this myself?
+
+Agent: Unfortunately, not in this case. Since it appears to be something external to your house, and we're not seeing the modem establish any connection to our network, we really need to have a tech come out. Let me get you scheduled. What days work best for you this week?
+
+Customer: I mean... I need this fixed as soon as possible. Could someone come out like... today?
+
+Agent: (typing sounds) Let me check our availability... (pause) ...I can get someone out to you tomorrow between 1 and 5 PM. Would that work?
+
+Customer: (sighs) Tomorrow? I really needed it today.
+
+Agent: I completely understand. Unfortunately, today's pretty booked up. Tomorrow is the earliest we have available. We do have appointments at 8 AM to 12 PM as well if that's better for you?
+
+Customer: Yeah, okay, the 8 to 12 slot is fine.
+
+Agent: Perfect. Let me get that confirmed for you. So tomorrow morning, between 8 AM and 12 PM, we'll have a technician out to your location. They'll investigate the external connection and hopefully get that sorted out. Is there anything else I can help you with before we wrap up here?
+
+Customer: No, I think that's it. So... is there any chance this could be resolved before the tech comes out? Like, is there anything else I can try?
+
+Agent: Unfortunately, at this point, I think we've done what we can from here. Since the issue appears to be external to your home and the modem isn't connecting to our network, there's not much else I can troubleshoot remotely. But the technician tomorrow should be able to pinpoint the issue pretty quickly.
+
+Customer: Alright, I guess I'll just have to wait then. This is really frustrating.
+
+Agent: I totally understand. We really appreciate your patience, and I'm sorry you've had to deal with this. Is there anything I can note on your account for the technician, anything else we should know?
+
+Customer: Just... try to get here as early as possible tomorrow, if you can? I've got a bunch of meetings I need to reschedule.
+
+Agent: I'll make a note of that right now. "Customer requests early arrival." We'll do our best. The technician will have all the information they need. Your appointment is confirmed for tomorrow, 8 AM to 12 PM. Is there a number where they can reach you if they need to?
+
+Customer: Yeah, it's 555-0147, the number on the account.
+
+Agent: Perfect. Well, thank you for choosing Frontier, and again, I'm sorry for the inconvenience. We'll get this resolved for you tomorrow.
+
+Customer: Okay, thanks Derek.
+
+Agent: You're welcome. Have a good rest of your day.
+
+Customer: You too, bye.
+
+Agent: Bye.

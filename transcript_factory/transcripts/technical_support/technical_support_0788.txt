@@ -1,0 +1,105 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, thanks for picking up. So, um, my internet went out this morning and I've been without service for like... I don't know, maybe four hours now? I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll see what we can do. Can I get the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, and what's the name on the account?
+
+Customer: It's Michael Chen. C-H-E-N.
+
+Agent: Perfect, Michael. I've got you here. So your service went down this morning around... what time would you say that was?
+
+Customer: It was right around 8 AM. I was just getting ready to work from home and boom—nothing. The modem's still powered on, the lights are blinking, but I can't get online.
+
+Agent: Alright, I see you're on our 500 Mbps fiber plan. Okay, so the modem is powered on and you're seeing lights on it. Can you tell me what color those lights are and whether they're solid or blinking?
+
+Customer: Um, let me look at it. (pause) So there's a green light that's solid, and then there's like an orange or amber light that's just... it's blinking pretty fast actually.
+
+Agent: Okay, that's helpful. The orange light typically indicates a connection issue. Let me have you try a few things. First, can you unplug the modem from the power outlet?
+
+Customer: Yeah, sure. (rustling sounds) Okay, it's unplugged.
+
+Agent: Great. Leave it unplugged for about 30 seconds while I check a few things on my end.
+
+Customer: (pause) Okay, I'm just sitting here looking out the window. (nervous laugh) This is taking longer than I expected today.
+
+Agent: I totally understand. You know, I'm actually seeing a signal on your line right now, which is good news and bad news. The bad news is it's pretty weak. Have you experienced any weather recently in your area?
+
+Customer: Oh, yeah actually. We had a pretty bad storm last night around 11. Lots of lightning and everything. You think that could've caused it?
+
+Agent: That's definitely possible. Fiber lines can sometimes be affected by severe weather. But let's not jump to conclusions yet. Go ahead and plug the modem back in now.
+
+Customer: (rustling sounds) Okay, plugged back in. (pause) Waiting for it to boot up...
+
+Agent: Perfect. While that's happening, let me ask—are you able to see any of the fiber equipment outside your house? Like the small box typically mounted near your home?
+
+Customer: There's like a gray box on the side of my house, yeah. Is that it?
+
+Agent: That's probably it, yes. Can you take a quick look at that and let me know if you see any visible damage or if anything looks out of place?
+
+Customer: (pause) Hold on, I'll go check. (footsteps, door opens) Okay, yeah, I see it. Um... there's nothing that looks obviously broken? But now that you mention it, there's a little bit of dirt or dust on it, which is weird because it usually looks pretty clean.
+
+Agent: Hmm, that's interesting. Alright, come back inside and let me know what the modem lights are looking like now.
+
+Customer: (footsteps) Okay, I'm back. (pause) The green light is still solid, but that orange light is still blinking. Nothing changed.
+
+Agent: Alright, let me try one more thing with you. I'm going to do a remote reboot from here. Can you give me about two minutes and then check again?
+
+Customer: Yeah, no problem. So like... you're doing that right now?
+
+Agent: (typing sounds) Yep, sending it through now. Should kick in in just a moment.
+
+Customer: Okay. Hey, real quick—is this storm thing something I should be worried about? Like, is my equipment damaged?
+
+Agent: That's a good question. Honestly, it's hard to say without physically inspecting it, but if there was a surge, it might've affected some components. Let's see if this reboot helps. Can you check the modem now?
+
+Customer: (pause) Okay, looking at it... green light is solid, orange is still blinking. Still no internet. I tried opening a webpage and it's still not loading.
+
+Agent: Okay, that's... that's not what I was hoping for. Let me try something different. Can you tell me—when you look at your modem, are there any lights that are red or does anything look damaged on the unit itself?
+
+Customer: No, nothing's red. It all looks fine physically. The thing's not hot or anything either.
+
+Agent: Okay, good to know. (pause) I'm showing that your line signal is fluctuating quite a bit, which is unusual. It's almost like there's an intermittent connection issue. Do you have any other Frontier equipment in your home besides the modem?
+
+Customer: Um, I think there might be another box in my garage? I'm not really sure what it's for, to be honest. The installer put it in there years ago.
+
+Agent: That might be the optical network terminal. Can you check if that has power going to it?
+
+Customer: (background noise, footsteps) Yeah, it's got a light on it. It's blue and solid. Is that normal?
+
+Agent: A solid blue light is actually what we want to see, so that's good. Michael, I'm going to be honest with you—with the signal issues I'm seeing here combined with the storm you had last night, it really seems like there might be physical damage somewhere on the line or the equipment. Unfortunately, I'm not able to resolve this over the phone.
+
+Customer: Oh no... so what does that mean? Do I have to wait forever for a technician?
+
+Agent: I wish I had better news. I can absolutely schedule a technician to come out and do a full inspection. They'd be able to check the outside line, the connections, and the equipment. We typically have appointments available within the next 2 to 3 business days, depending on your availability.
+
+Customer: (frustrated sigh) So I'm without internet for the next few days potentially?
+
+Agent: I understand your frustration. Is there any chance you could be home today or tomorrow? Sometimes we do have same-day appointments depending on our technician schedule for your area.
+
+Customer: Not today, but I could potentially do tomorrow afternoon.
+
+Agent: Let me check what we have available. (typing sounds, brief hold music) Okay, I'm showing we can get a technician out to you tomorrow between 2 and 6 PM. Does that work for you?
+
+Customer: Yeah, that's... that'll have to work. I guess I can work from a coffee shop or something.
+
+Agent: Great. I've got that scheduled for you. Your appointment is confirmation number 847293. The technician will call you about 30 minutes before they arrive. Is the phone number 555-0147 the best way to reach you?
+
+Customer: Yeah, that's my cell.
+
+Agent: Perfect. I'm also going to put a note on your account that this is weather-related and a priority. If we're able to identify it as a line issue on our end, we might be able to get someone out sooner, so keep an eye on your email as well.
+
+Customer: Okay, thank you. I mean... I'm not thrilled about this, but I appreciate you trying to help.
+
+Agent: I'm sorry we couldn't get it working today, Michael. I wish I had a quicker solution for you. Your technician tomorrow will get this sorted out. Is there anything else I can help you with?
+
+Customer: No, I think that's it. Thanks again.
+
+Agent: Thank you for calling Frontier Communications. We appreciate your business, and again, sorry about the service interruption. Have a good rest of your day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

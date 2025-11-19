@@ -1,0 +1,139 @@
+Agent: Thank you for calling Frontier Communications, this is Marcus speaking. How can I help you today?
+
+Customer: Hey, yeah, thanks for picking up. So, um, my internet's been down since this morning and I really need to get it back up. I work from home and I have meetings coming up.
+
+Agent: Oh no, I'm sorry to hear that. I completely understand how frustrating that must be. Let me pull up your account here. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147. That's the phone number on the account.
+
+Agent: (typing sounds) Okay, got it. I'm looking at your account now. And you said your internet's been down since this morning?
+
+Customer: Yeah, since around... I dunno, maybe 8 or 9 AM? I tried restarting the modem and router a few times but nothing's working.
+
+Agent: Alright, well that's good that you already tried restarting. That actually eliminates one troubleshooting step for us. Let me ask you a few quick questions. Are you seeing any lights on the modem right now? Like, is it powered on?
+
+Customer: Um, yeah, let me look at it. (pause) Yeah, I see... okay, so I see a blue light, and there's like a red light blinking next to it. Is that normal?
+
+Agent: Okay, so the blue light is good—that means it has power. But that red light blinking... that usually indicates a connection issue. That's what we're going to focus on here. Can you see if there's a light that says "internet" or maybe "online" on the modem?
+
+Customer: (pause) Yeah, I see one that says "internet." It's... it's red. Is that bad?
+
+Agent: Yeah, that red light on the internet indicator—that confirms that your modem isn't connecting to our network. Okay, here's what we're going to do. I'm going to walk you through a full restart of the modem and router. This usually fixes these connection issues.
+
+Customer: Okay, sure.
+
+Agent: Alright, so first, can you unplug the modem from the power outlet? Just pull the power cable out.
+
+Customer: (pause) Okay, done.
+
+Agent: Great. Now let's wait about thirty seconds. Just... give it a moment. (pause) Okay, while we wait, let me also ask—are you using the router that we provided, or do you have your own?
+
+Customer: Uh, it's the one you guys gave me. The white box thing.
+
+Agent: Perfect, that's what I needed to know. Alright, go ahead and unplug that router as well.
+
+Customer: (pause) Yeah, it's unplugged.
+
+Agent: Excellent. Now let's wait another thirty seconds or so, just to make sure everything powers down completely. (pause) Okay, while we're waiting, are you in an area where you've had any weather recently? Any storms or anything?
+
+Customer: No, not that I'm aware of. It's been pretty clear actually.
+
+Agent: Okay, good to know. Alright, go ahead and plug the modem back in first. That's the one that should have the cables running to it.
+
+Customer: (pause) Okay, plugged in. I can see it's booting back up.
+
+Agent: Good. Now while that's coming back online, go ahead and plug the router back in as well.
+
+Customer: (pause) Okay, router's plugged in too.
+
+Agent: Perfect. So now we're going to give it a couple of minutes to fully boot up and establish a connection. While we wait, can you tell me if you've noticed any issues with your service recently? Any outages or slowdowns before today?
+
+Customer: No, nothing. It's been working fine up until this morning. Really sudden.
+
+Agent: Hmm, okay. (typing sounds) Let me check our system here for any outages in your area. (pause) I'm not seeing any widespread outages reported, so this is likely isolated to your connection. Alright, let me ask you—are you seeing any changes in those lights yet?
+
+Customer: (pause) Um, the internet light is still red. The modem's still booting up, I think. Some of the other lights are... they're turning on now.
+
+Agent: Okay, good, so it's progressing. Let's give it another minute or so. (pause) Okay, checking now—is that internet light still red, or has it changed?
+
+Customer: Still red. Yeah, it's still red.
+
+Agent: Alright, um, okay. Let me try a different approach here. Can you check the cables for me? I want to make sure the coaxial cable—that's the cable with the little metal connectors on the end—is firmly connected to the modem.
+
+Customer: (pause) Yeah, I'm looking at the back of the modem. I see the cable... let me just wiggle it a bit to make sure it's tight.
+
+Agent: Perfect.
+
+Customer: (pause) Yeah, it seems pretty secure. I don't think that's it.
+
+Agent: Okay, and is there any visible damage to that cable at all? Any kinks or anything?
+
+Customer: No, looks fine to me.
+
+Agent: Alright. Let me ask you—do you have a battery backup unit or anything between your modem and the wall outlet? Like a UPS?
+
+Customer: Uh, I don't think so. It's just plugged directly into the wall.
+
+Agent: Okay, that's fine. Um, alright, let me try something else. Can you hold down the reset button on the modem? That's usually a small button—you might need a paperclip or something to press it. It should be on the back.
+
+Customer: Oh, uh... (pause) Yeah, I see it. It's a little pinhole. Hold it for how long?
+
+Agent: Hold it for about ten to fifteen seconds. That will do a full factory reset of the modem.
+
+Customer: (pause) Okay, doing it now. (pause) It's reset. All the lights went out and now they're coming back on.
+
+Agent: Perfect. Okay, let's give it another minute to boot back up and initialize. (pause) You know what, while we're waiting, I'm going to check something on my end here. Let me see if I can ping your modem from our system. (typing sounds) (pause) Hmm, [inaudible]. Okay, um, I'm not getting a response from the modem on our network. That's... that's telling me that either there's an issue on our side with your line, or the modem itself might be having hardware problems.
+
+Customer: Oh no, really? So what does that mean?
+
+Agent: Well, let me ask you first—is that internet light blue now or is it still red?
+
+Customer: (pause) It's... it's still red. It's not changing.
+
+Agent: Yeah, okay. So that confirms what I'm seeing on my end. The modem isn't connecting to the network. Now, this could be a few things. It could be an issue with your line or equipment, or... honestly, it could be an issue on our infrastructure side as well. I want to be honest with you here.
+
+Customer: Okay...
+
+Agent: So here's what we're going to do. I'm actually going to open a work order for a technician to come out and investigate this further. They'll be able to check the line coming into your house and potentially swap out the modem if needed. Does that work for you?
+
+Customer: How long until they can come out? I really need this fixed soon. I have work stuff...
+
+Agent: I completely understand. Let me check availability. (typing sounds) (pause) I'm showing that our next available appointment is... tomorrow between 1 and 5 PM. Does that work with your schedule?
+
+Customer: Tomorrow? That's... I mean, there's nothing sooner?
+
+Agent: Unfortunately not today, but tomorrow is the earliest I have. I know that's not ideal.
+
+Customer: (pause) Alright, I guess that'll have to work. Can I do the morning though? I have meetings in the afternoon.
+
+Agent: Let me see... (typing sounds) Actually, I do have a 9 to 11 AM slot available tomorrow. Would that be better?
+
+Customer: Yeah, that's much better. Let's do that.
+
+Agent: Perfect. I'm going to get that scheduled for you. The technician will call you about thirty minutes before they arrive. Your appointment is tomorrow, [inaudible], from 9 to 11 AM. Is the phone number 555-0147 still the best way to reach you?
+
+Customer: Yeah, that's correct.
+
+Agent: Great. And just to confirm, are you still at the same address in the account?
+
+Customer: Yes, same address.
+
+Agent: Excellent. Alright, so I've got you all set up. Unfortunately, I wasn't able to get your service back online today, and I apologize for that. But the technician tomorrow should be able to get to the bottom of this and get you back up and running.
+
+Customer: Yeah, okay. I appreciate you trying, anyway. Is there anything I should do in the meantime?
+
+Agent: You know what, just leave everything plugged in as is. That way the technician can see the state it's in when they arrive. Don't do any more resets or anything. And if it miraculously comes back online before they arrive, just give us a call back and we can cancel the appointment.
+
+Customer: Will do. Thanks, Marcus.
+
+Agent: You're very welcome. Again, I'm sorry about the inconvenience, but we'll get this sorted out for you tomorrow morning. Is there anything else I can help you with today?
+
+Customer: No, that's everything. Thanks again.
+
+Agent: Alright, have a great day, and we'll see you tomorrow!
+
+Customer: Bye.
+
+Agent: Bye!
+
+(call ends)

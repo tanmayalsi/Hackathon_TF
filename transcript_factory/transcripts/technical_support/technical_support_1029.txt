@@ -1,0 +1,97 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, thanks for picking up. So, um, my internet just went out completely about an hour ago and I can't get it back up.
+
+Agent: Oh, I'm sorry to hear that. Let me help you troubleshoot that. Can I get your account number or the phone number associated with your account, please?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, thank you. And what's the name on the account?
+
+Customer: James Mitchell.
+
+Agent: Perfect, James. I've got your account pulled up here. I see you're on our fiber service in the Riverside area. So the internet just went out about an hour ago, you said?
+
+Customer: Yeah, around one o'clock this afternoon. I was working from home and everything was fine, then just... nothing. The modem's still lit up and everything, but there's no connection.
+
+Agent: Alright, okay. Let's start with some basic troubleshooting. First, can you tell me what lights you're seeing on the modem right now? Are any of them red or blinking?
+
+Customer: Um... (pause) so the power light is solid green, the internet light is... it's off, I think. Or maybe red? It's kind of hard to tell with this lighting.
+
+Agent: Okay, so the internet light is either off or red. That could indicate a connection issue on our end or with your equipment. Let's try a hard reset. Can you unplug the modem from the power source for me?
+
+Customer: Sure, just a second. (background noise of unplugging) Okay, it's unplugged.
+
+Agent: Great. Now leave it unplugged for about thirty seconds while we wait for it to fully power down.
+
+Customer: (pause) Alright, it's been about thirty seconds now.
+
+Agent: Perfect. Go ahead and plug it back in now.
+
+Customer: (background noise) Okay, plugging it back in... (pause) The lights are starting to come back up.
+
+Agent: Good. The modem should take about two to three minutes to fully reboot and reconnect to our network. While we're waiting, have there been any recent storms in your area or any changes to your setup recently?
+
+Customer: No storms that I know of. And, uh, nothing's changed. I mean, the internet's been working great until today.
+
+Agent: Okay, that's helpful. (pause) Do you have any other Frontier equipment, like a router, between the modem and your device?
+
+Customer: Yeah, I've got a wireless router connected to the modem.
+
+Agent: Alright. Once the modem finishes restarting, we might want to restart that as well, but let's give it another minute or so. Is the internet light showing any activity now?
+
+Customer: Hmm... no, it's still off. Or dim. It's definitely not solid green like it should be.
+
+Agent: Okay. It might just need a bit more time. (pause) Actually, James, while we're here, let me check the line status on my end. (typing sounds) I'm pulling up your service address now. It looks like... hmm... (pause) Interesting. There appears to be an issue on our network in your area. There was a fiber cut reported about ninety minutes ago in the Riverside zone.
+
+Customer: Oh, really? So it's not something I did wrong?
+
+Agent: No, no, not at all. This appears to be a network issue on our end. However, let me verify your specific service status. Can you confirm that the internet light is still not connecting? Any sign of life at all?
+
+Customer: No, nothing. Still dark or red, I can't really tell in this light. And my computer's not picking up any WiFi either.
+
+Agent: Right, okay. Since the modem itself isn't connecting to our network, that confirms it's on the infrastructure side. But let me have you try restarting the router anyway, just to be thorough. Go ahead and unplug that for thirty seconds as well.
+
+Customer: (background noise) Okay, unplugging it now... (pause) ...waiting... (pause) Alright, plugging it back in.
+
+Agent: Great. Give that a minute to restart and reconnect to the modem.
+
+Customer: (pause) Okay, it's back on. Hmm... still nothing though. My computer's still not showing any available networks.
+
+Agent: Yeah, I figured as much. So, we do show that fiber cut in your area was reported at 12:15 p.m. Our field teams should have already been dispatched. But let me look at the ticket status here. (typing sounds) (pause) It looks like they're estimating about... three to four hours for restoration in your zone.
+
+Customer: Three to four hours? So, I'm just out of luck for the rest of the day?
+
+Agent: I know that's frustrating, especially if you're working from home. Unfortunately, with a fiber infrastructure issue, there's not much we can do on the technical side from here. The field team has to physically repair the line. But I do see they have crews already en route.
+
+Customer: Is there any way to get an update on when it might be fixed? Like, can they push it faster?
+
+Agent: (pause) The estimate should be pretty accurate, but let me... I can add a priority note to your account that requests an update call once the line is restored. What's the best number to reach you at?
+
+Customer: It's the same number on file, 555-0147, or I've got a cell phone if you want that. It's 555-0891.
+
+Agent: Let me put that cell number down as the callback number. (typing sounds) Okay, I've added it to your account with a note. Once the crew completes the repair, you should hear from our network operations team within about thirty minutes.
+
+Customer: Alright, I guess that's better than nothing. So there's really nothing else I can try on my end?
+
+Agent: Unfortunately, no. Since we've already done a hard restart on both your modem and router, and the issue is confirmed to be on our infrastructure side, there's not much else we can troubleshoot. The good news is that this should be a temporary outage and once the line is repaired, you should be back up and running without any issues.
+
+Customer: Okay. Well, I appreciate you trying. This is just really inconvenient timing, you know? I've got a project deadline today.
+
+Agent: I completely understand, and I'm really sorry this happened. Is there anything else I can do for you in the meantime? I can send you an email confirmation of the outage and the crew dispatch, or make a note about potentially issuing a service credit for today's outage.
+
+Customer: (pause) Yeah, an email would be good. And, uh, about that credit... that would actually help. How much of a credit are we talking about?
+
+Agent: That's typically handled after the outage is restored based on the duration. Our standard is a prorated credit for the hours of service lost. Since this could potentially affect most of the afternoon, I'd estimate somewhere in the range of $5 to $10 depending on your plan, but the system will calculate it automatically once everything's back up.
+
+Customer: Okay, I guess that's fair. Thanks.
+
+Agent: You're welcome, James. I'm really sorry about this. The email confirmation should arrive in the next few minutes at the address on file. Is there anything else I can help you with today?
+
+Customer: No, that's it. Just... hopefully they get it fixed soon.
+
+Agent: I hope so too. Thank you for your patience, and we apologize for the inconvenience. You have a great rest of your day, and we'll get you back online as soon as possible.
+
+Customer: Thanks. Bye.
+
+Agent: Goodbye, James.

@@ -1,0 +1,99 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hi, yeah, um, my internet's been down since this morning and I really need to get it working. I have a work call in like an hour.
+
+Agent: Oh no, I'm sorry to hear that. We'll do our best to get you back online. Can I start by getting your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, let me pull that up here... Alright, I've got your account. I'm seeing you're on our Fiber 500 plan at 8342 Maple Drive, is that correct?
+
+Customer: Yes, that's right.
+
+Agent: Great. So your internet went down this morning. Have you tried unplugging the modem and router yet, just to do a quick restart?
+
+Customer: Um, I think so? I mean, I turned off the modem but I'm not sure if I waited long enough. How long should I wait?
+
+Agent: Good question. Go ahead and unplug the modem and the router right now if you don't mind. We'll wait about 30 seconds, then plug them back in. That usually clears out any temporary glitches.
+
+Customer: (background noise of unplugging) Okay, unplugged. I'm gonna count to 30... (pause) Alright, plugging it back in now.
+
+Agent: Perfect. Now go ahead and plug the router back in as well. While those are booting back up, do you see any lights on the front of the modem? Like a green light or anything?
+
+Customer: Yeah, there's... there's an orange light. Is that bad?
+
+Agent: Okay, an orange light usually means it's still booting up. Let's give it another 30 seconds or so. The light should turn green once it's fully connected. Can you check on that for me?
+
+Customer: (pause) Still orange... still orange... okay, it's turning green now. Oh, but there's another light that's blinking red.
+
+Agent: Which light is blinking red? Is it labeled on the modem?
+
+Customer: Um... (pause) it says WAN I think?
+
+Agent: Right, so the WAN light is red. That's actually the issue. The WAN light should be solid green. That indicates your connection to our network isn't being recognized. Let me ask you a couple questions. Is the cable that's plugged into the modem secure? The one coming from the wall?
+
+Customer: (background noise) Let me check... yeah, it looks pretty secure. Wait, let me try wiggling it a little... (pause) ...still just the red light.
+
+Agent: Okay. And you're sure that's the cable coming directly from the wall and not from another device?
+
+Customer: Yeah, it's definitely from the wall. We had Frontier installed about eight months ago, so I know which one it is.
+
+Agent: Understood. Let me check something on my end here. (typing sounds) I'm seeing that your account is active and provisioned correctly, so it's not an issue from our side. Since the WAN light is red, it's possible there's an issue with the connection at the line level. Have you experienced any weather recently? Or any work done outside your house?
+
+Customer: No, I mean... it rained a little last night but nothing crazy. No construction or anything.
+
+Agent: Alright. Unfortunately, we might be looking at a physical line issue or potentially a problem with the modem itself. Before we go down that road, let me try one more thing. Can you do a factory reset on the modem? There should be a small button on the back.
+
+Customer: A factory reset? Will that, like... erase everything?
+
+Agent: It will reset the modem to its default settings, but it won't affect anything on your devices. It's a pretty safe troubleshooting step. The button is usually recessed, so you might need a paperclip or something thin to press it.
+
+Customer: Okay, hold on... (pause) (background noise) ...I found it. Okay, I'm pressing it. It's taking a moment... (pause) ...the lights are all flashing now.
+
+Agent: Good, that means it's resetting. This should take about two to three minutes. While that's happening, let me just verify a few more things. Have you had any other service interruptions recently?
+
+Customer: No, this is the first time since we got it installed.
+
+Agent: Okay. And you have the standard equipment we provided, right? Not any third-party modem or router?
+
+Customer: Right, yeah, it's the one you guys gave us. It's that white box thing.
+
+Agent: Perfect. (pause) Alright, how are those lights looking now?
+
+Customer: Um, they're... they're mostly settled down. I've got the green lights back, but... yeah, the WAN light is still red.
+
+Agent: (sigh) Okay, so unfortunately the factory reset didn't resolve it. At this point, I'm fairly confident the issue is either with the line itself or the modem hardware has failed. Because we've ruled out the basic troubleshooting steps and the problem persists, I think we need to escalate this.
+
+Customer: What does that mean? How long will it take to fix?
+
+Agent: So I can schedule a technician to come out to your location. They can check the line and potentially replace the modem if that's the issue. The next available appointment I'm seeing is... (typing sounds) ...tomorrow between 12 and 4 PM. Would that work for you?
+
+Customer: Tomorrow? But I have to get this working for my work call in an hour. Isn't there anything you can do faster?
+
+Agent: I completely understand your frustration. Unfortunately, we don't have any same-day appointments available right now. But let me see... (pause) ...I can add you to our priority list and note that this is affecting your work. If a technician cancels or has an opening, we'll call you first. In the meantime, is there anything you can do on a mobile hotspot to get through your work call?
+
+Customer: (frustrated) I mean, yeah, I guess, but that defeats the purpose of having this service. This is really frustrating.
+
+Agent: I know, and I'm really sorry about this. Unfortunately, based on the troubleshooting we've done, the issue is something that requires a technician's hands-on assistance. I want to make sure we get this resolved correctly for you. Can I go ahead and schedule that technician visit for tomorrow, 12 to 4 PM?
+
+Customer: (pause) ...Yeah, fine. Sure.
+
+Agent: Great. And just to confirm, they'll be coming to 8342 Maple Drive, correct?
+
+Customer: Yes.
+
+Agent: Perfect. You should receive a confirmation email shortly, and we'll also call you if we have an earlier opening. Is there anything else I can help clarify before we wrap up?
+
+Customer: No, I think that's it. Just... please try to get someone out here sooner if you can.
+
+Agent: Absolutely. I'm gonna make a note on your account right now about the priority status. We really do appreciate your patience, and we'll do everything we can to get you back online as quickly as possible.
+
+Customer: Okay. Thank you.
+
+Agent: You're welcome. Thanks for calling Frontier, and again, we apologize for the inconvenience.
+
+Customer: Yeah, okay. Bye.
+
+Agent: Bye now.
+
+(call ends)

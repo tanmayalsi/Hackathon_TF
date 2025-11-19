@@ -1,0 +1,121 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet's been down since this morning and I'm not sure what's going on. I've got work from home stuff I need to do, so it's pretty urgent.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, I've got you here. And your name is... James Hartley?
+
+Customer: Yeah, that's right.
+
+Agent: Perfect. So you're experiencing a complete internet outage since this morning. Have you checked to make sure all your cables are plugged in correctly? Sometimes the modem or router can get jostled.
+
+Customer: Yeah, I already did that. The modem's lit up though—it's got some lights on it. They're just... I don't know, they're like, red and amber. Not the green ones that usually show up.
+
+Agent: Okay, okay. That's actually helpful. So the modem is powered on but you're not seeing stable green lights. Can you tell me which lights are red and which are amber?
+
+Customer: Um, let me see here. (pause) There's a power light that's green, so that's good. But then there's like a... I guess it says "internet" on the front? That one's red. And below it there's one that's amber colored.
+
+Agent: Got it. So the internet light is red and there's another one showing amber. That typically indicates a connectivity issue. Let me ask you a few questions. First, do you have a separate modem and router, or is it a combo unit?
+
+Customer: I think it's just one unit? It's a gray box. It came from you guys, or Frontier, when we set up service.
+
+Agent: Okay, so it's a combo unit. That's fine. Have you tried power cycling it? What I mean is, unplug it from the power outlet for about 30 seconds, then plug it back in and let it reboot?
+
+Customer: (pause) No, I haven't tried that yet. Should I do that now?
+
+Agent: Yeah, that would be great. Go ahead and do that for me, and I'll stay on the line. Just unplug the power cable and count to about 30 seconds.
+
+Customer: (background noise of movement) Okay, unplugging it now. (pause) Alright, 30 seconds... (pause) Plugging it back in. (pause) The lights are blinking... a bunch of them are blinking now.
+
+Agent: That's normal. It's rebooting. Just give it about two to three minutes to fully restart. In the meantime, let me ask... have there been any storms in your area recently, or any other disruptions you've noticed?
+
+Customer: Um, not that I'm aware of. It was fine last night. I went to bed around 11, and when I woke up this morning around 7, I tried to check my email and nothing was working.
+
+Agent: Alright. And you haven't moved anything or changed any settings that you know of?
+
+Customer: No, definitely not. I haven't touched anything.
+
+Agent: (typing sounds) Okay, I'm showing that... yeah, we're not detecting a signal from your modem on our end. That's the issue. (pause) How much time has passed now? Do you see any changes in the lights?
+
+Customer: Maybe like... a minute and a half? The lights are still blinking. There's green now mixed with the other colors. It's kind of a mess of blinking lights, honestly.
+
+Agent: (chuckles) Yeah, that's pretty normal during startup. Just give it another minute or so. While we wait, has this ever happened before?
+
+Customer: No, this is the first time. I've had pretty good service with Frontier for like... two years now? So this is weird.
+
+Agent: That's good to know. (pause) Okay, so how are those lights looking now?
+
+Customer: (pause) Uh... okay, the green one's staying solid now. And the... I think the internet light is staying green now too? The other ones are still kind of doing their thing though.
+
+Agent: Alright, that's progress. Try going to your computer or phone and see if you can connect to the WiFi network. Do you see the Frontier WiFi network available?
+
+Customer: (pause) Hold on, let me grab my phone. (pause) Okay, yeah, I'm looking at the networks. I see "Frontier-2847" in the list.
+
+Agent: Perfect. Go ahead and connect to that. You should find the password on the sticker on the back of the modem.
+
+Customer: (pause) Got it. (pause) Okay, connecting... (pause) It says it's connected.
+
+Agent: Great! Now try opening a web browser and going to google.com or any website. Can you access it?
+
+Customer: (pause) Loading... (longer pause) Nope. It's just spinning. It says it can't reach the page.
+
+Agent: Hmm. (pause) Okay, let's try one more thing. I want you to unplug the modem again, but this time also unplug your router if you have a separate one. Wait 30 seconds, then plug the modem back in first, and give it a full minute before connecting your router. Do you have a separate router?
+
+Customer: I don't think so... it's just the one box.
+
+Agent: Alright, just the modem then. Go ahead and unplug it again.
+
+Customer: (pause) Done. Thirty seconds?
+
+Agent: Yeah, 30 seconds. I'll wait.
+
+Customer: (pause) Okay. (pause) Plugging it back in. (pause) Lights are blinking again.
+
+Agent: [inaudible] Let me check something on my end while that's rebooting. (typing sounds) (pause) I'm seeing... yeah, we're still not detecting a connection from your unit. That's strange. (pause) How's it looking now?
+
+Customer: Still blinking. Most of them are green now, I think. There's like... one that's kind of an orange color still.
+
+Agent: (pause) Okay. Let me ask you this—are you in an apartment or a house?
+
+Customer: House. Why?
+
+Agent: Just trying to narrow things down. And when you signed up two years ago, did a technician come out and install everything, or did you self-install?
+
+Customer: A tech came out. They set it all up.
+
+Agent: Okay. (pause) Alright, I've been looking at the signal on our end, and I'm not picking up what I should be from your modem. There are a couple of things this could be. It might be an issue with the modem itself, or it could be a line issue on our side. Either way, I think we need to get a technician out to your place. I don't want to keep you troubleshooting without getting to the root cause, especially since you need this for work.
+
+Customer: Today? Can they come out today?
+
+Agent: (typing sounds) Let me check availability. (pause) What's your zip code?
+
+Customer: 48201.
+
+Agent: (typing sounds) (pause) The earliest I'm seeing is... tomorrow morning between 8 a.m. and 12 p.m., or we have a few afternoon slots the day after tomorrow. Which works better for you?
+
+Customer: (sigh) Tomorrow morning, I guess. I really need to get this fixed.
+
+Agent: I completely understand. I'm going to get that scheduled for you. Just to confirm, the address is 412 Maple Street?
+
+Customer: Yes, that's correct.
+
+Agent: Perfect. Your service appointment is scheduled for tomorrow between 8 a.m. and 12 p.m. A technician will come out and diagnose the issue. Can I get a phone number to reach you on?
+
+Customer: It's 555-0147, same as the account number.
+
+Agent: Great. You should receive a confirmation email shortly as well. And James, I apologize that we couldn't get this sorted out today over the phone, but the tech will take good care of you tomorrow.
+
+Customer: Alright. Thanks for trying anyway. Hopefully they can fix it quickly.
+
+Agent: I hope so too. Is there anything else I can help you with today?
+
+Customer: No, that's it.
+
+Agent: Perfect. Thank you for choosing Frontier Communications, and we'll see you tomorrow morning. Have a great day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

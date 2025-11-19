@@ -1,0 +1,99 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet has been down since this morning and I'm not sure what's going on. I really need to get it fixed.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and see what we can find out. Can I get your account number or the phone number associated with your account?
+
+Customer: Yeah, it's 555-0147.
+
+Agent: (typing sounds) Okay, I've got you here. Account for Michael Rodriguez at 2841 Willow Street. Is that correct?
+
+Customer: Yes, that's right.
+
+Agent: Perfect. So you mentioned your internet went down this morning. Have you had any recent storms or power outages in your area?
+
+Customer: No, actually. It's been nice all day. I woke up around 8 AM and just tried to check my email, and nothing was loading. Then I realized the router lights weren't on.
+
+Agent: Okay, good information. Let's start with some basic troubleshooting. First, can you check if your modem and router are powered on? The modem should have some lights on the front of it.
+
+Customer: (pause) Yeah, I'm looking at it right now. Um, there's no lights on at all. Should I check if it's plugged in?
+
+Agent: Yes, absolutely. Can you trace the power cable from the modem and make sure it's firmly connected to both the modem and the wall outlet?
+
+Customer: (sounds of movement) Okay, let me see... yeah, it looks like it's plugged in. The outlet works though—I tested it with my phone charger.
+
+Agent: Alright, so the outlet is working. Let me have you try a hard reset. Unplug the modem from the power outlet, wait about 30 seconds, and then plug it back in.
+
+Customer: (unplugging sound) Okay, unplugging now. I'm gonna wait... (long pause) ...alright, plugging it back in.
+
+Agent: Great. Give it a minute or so to boot back up. You should see some lights come on. Let me know when you see activity on the modem.
+
+Customer: (pause) Hmm, I'm waiting but... nope. Still nothing. No lights at all.
+
+Agent: (pause) Okay, that's unusual. When you look at the power cable, is there any visible damage to it? Any fraying or burns?
+
+Customer: Let me look closer... (pause) No, it looks fine to me. The cable looks totally normal.
+
+Agent: And you're certain that outlet is working? Maybe try plugging your phone charger back in, just to double-check.
+
+Customer: (sounds of movement) Yeah, I just did. My phone charger is working fine.
+
+Agent: Okay. Unfortunately, it sounds like the modem itself might be the issue here. But before we go down that route, let me try one more thing. Do you have a different power cable you could try? Maybe from another device?
+
+Customer: Um... (pause) I have a laptop charger, but it's a different connector.
+
+Agent: No, it would need to be the same type. Does your router have a separate power supply?
+
+Customer: Oh, yeah! My router has its own power adapter. Let me try... (sounds of unplugging) Okay, I'm swapping the cables.
+
+Agent: (typing sounds) Let me know what happens.
+
+Customer: (pause) Still nothing on the modem. The router is on though—I can see its lights.
+
+Agent: Okay, so the router's working but the modem isn't responding. That's telling me it's likely a hardware failure with the modem itself. Let me check something on my end real quick. (pause, typing sounds) I'm pulling up your service address and checking if there are any outages reported in your neighborhood.
+
+Customer: Okay, thank you.
+
+Agent: (longer pause) No, I'm not seeing any outages on our end. Everything in your area is operating normally. I'm looking at your modem here in our system and it shows as offline, which matches what we're experiencing. The modem isn't communicating with our network.
+
+Customer: So... what does that mean? Like, is it definitely broken?
+
+Agent: It's very likely. When a modem completely fails to power on, it's usually a power supply issue within the device itself. Since we've ruled out the outlet and the power cable, the modem hardware is the most probable culprit.
+
+Customer: Man, of course. Can you send me a new one?
+
+Agent: Absolutely. I can definitely arrange that for you. Let me just get some information. Do you have any other phone numbers where we can reach you in case there's an issue with the shipment?
+
+Customer: (providing information) It's 555-0198.
+
+Agent: Perfect. (typing sounds) Okay, I've got that. I'm going to expedite a replacement modem to your address. It should arrive within 3 to 5 business days.
+
+Customer: Three to five days? I really need internet sooner than that. Is there any way to get it faster?
+
+Agent: Unfortunately, we're not able to do overnight shipping on equipment replacements at this time. The 3 to 5 business day window is our fastest option. I wish I had a quicker solution for you.
+
+Customer: (frustrated) Alright, well... I guess that's better than nothing. Is there anything I can do in the meantime?
+
+Agent: I understand the frustration. In the meantime, you could potentially use mobile hotspot from your phone if your cellular service allows it, just to have some connectivity. Once the modem arrives, the installation is pretty straightforward, but let me make sure you'll have the setup instructions.
+
+Customer: Yeah, okay. Do I need to do anything else before it arrives?
+
+Agent: You can leave the current modem unplugged. When the new one arrives, we'll include full instructions, but essentially you'll just plug it in, connect it to your router, and within a few minutes it should be up and running. If you run into any issues when it arrives, don't hesitate to give us a call back.
+
+Customer: Alright. So to be clear, I'm not getting internet for the next week or so?
+
+Agent: I apologize again for the inconvenience. Yes, based on the troubleshooting we did, it appears the modem has failed, and the replacement will take 3 to 5 business days to arrive.
+
+Customer: Yeah, this is really not ideal. I work from home.
+
+Agent: I completely understand. I'm really sorry we weren't able to get you back online today. Is there anything else I can help you with before we wrap up?
+
+Customer: (pause) No, I guess that's it. Just... send the modem as soon as you can, please.
+
+Agent: Absolutely. I'm sending that order through right now. You should receive a confirmation email within the next couple of hours, and it'll have tracking information once it ships. Thank you for calling Frontier, and again, I apologize for the trouble.
+
+Customer: Thanks. Okay, bye.
+
+Agent: Have a good day.
+
+(call ends)

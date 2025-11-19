@@ -1,0 +1,171 @@
+# Frontier Communications Support Call
+
+Agent: Thank you for calling Frontier Communications. This is Marcus speaking. How can I help you today?
+
+Customer: Yeah, hi. So my internet's been down since this morning and I have no idea what's going on. I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me pull up your account here and we'll see what we can do. Can I get your account number or the phone number associated with your account?
+
+Customer: It's 555-0147.
+
+Agent: (typing sounds) Okay, I've got you here. I'm showing service at 428 Maple Drive. Is that correct?
+
+Customer: Yes, that's right.
+
+Agent: Perfect. So your internet went down this morning around what time?
+
+Customer: Um, I'd say around 8 or 8:30. I tried turning the modem off and back on, but nothing. It's just... the lights aren't even coming on on it.
+
+Agent: Okay, so the modem's completely unresponsive. No lights at all. Let me ask you a few quick questions. Are you able to see if the power cable is firmly connected to the back of the modem?
+
+Customer: (pause) Yeah, I'm looking at it right now. The cable seems fine, it's plugged in pretty good.
+
+Agent: And is the power outlet itself working? Like, do you have any other devices plugged into that same outlet?
+
+Customer: I have a lamp next to it and... yeah, the lamp's working fine.
+
+Agent: Great, so the outlet's good. Okay, here's what I want you to try. Go ahead and unplug the power cable from the modem, and then wait about 30 seconds.
+
+Customer: Alright, unplugging it now. (pause) ...okay, it's unplugged. Just waiting...
+
+Agent: Perfect. While you're waiting, I'm actually seeing some activity on our end. We did have a brief service issue in your area this morning around 7 AM, but our systems show it resolved by about 9:15. So that might be related to what you're experiencing.
+
+Customer: Oh, so it's on your end? Like it should just come back on?
+
+Agent: Well, it's possible. But let's try this power reset first and see if that helps clear things up. Go ahead and plug the modem back in now.
+
+Customer: (pause) Okay, plugging it back in. (pause) Um... the lights are... wait, I'm seeing something now. There's a blue light coming on. Okay, and now there's... there's more lights. Yellow and green ones.
+
+Agent: That's a good sign. Yellow typically means it's still connecting, and green means you've got a good connection to our network. Give it just another 30 seconds or so and see if that yellow changes to green.
+
+Customer: (pause) Okay, it's still yellow and green. Most of the lights are green though.
+
+Agent: Good, good. And do you have internet access now? You could try opening a web browser or checking if your Wi-Fi is showing up on your phone.
+
+Customer: Let me try... (pause) ...no, I'm not seeing my Wi-Fi network. It's not showing up at all.
+
+Agent: Hmm, okay. So the modem seems to have power and it looks like it's connected, but the Wi-Fi isn't broadcasting. The yellow light you mentioned—is that on the Wi-Fi symbol or is it more toward the left side of the modem?
+
+Customer: It's like... in the middle area. There's a light that looks like it has bars on it.
+
+Agent: That's the Wi-Fi light. The fact that it's yellow rather than green suggests it's not fully established yet. Let me try something from my end. (typing sounds) I'm going to send a refresh signal to your modem. Just give me one moment here...
+
+Customer: Okay.
+
+Agent: (pause) Alright, I've sent that through. Can you check and see if anything's changed on the modem?
+
+Customer: (pause) ...no, it still looks the same. Yellow light on the Wi-Fi. The other lights are green though.
+
+Agent: Okay. Let me check the line status on our end here. (typing sounds) (pause) I'm seeing a pretty strong signal coming into your modem, so that's good. The issue might be with the modem itself. When's the last time you restarted it or did any kind of reset?
+
+Customer: I mean, just now when you had me unplug it. Before that, I don't know... weeks? Maybe longer.
+
+Agent: Okay, that could be part of it. Sometimes these modems just need a good, hard reset. What I want you to do now is hold down the reset button on the back of the modem. It's usually recessed, so you might need a paperclip or something to press it. Hold it for about 10 seconds.
+
+Customer: (pause) Alright, I'm looking for it. I see a little hole in the back. Is that it?
+
+Agent: That's probably it, yeah. Go ahead and try pressing that with something.
+
+Customer: Okay... (pause) ...I've got a paperclip here. (pause) Pressing it down now. (pause) ...and I'm holding it. (pause) The lights all went out.
+
+Agent: Perfect, that's what we want. That means it's resetting. Just let me know once the lights come back on.
+
+Customer: (pause) Okay, the lights are back... and they're doing the thing again. All these different lights coming on. (pause) ...now there's a lot of green. But that yellow Wi-Fi light is still there.
+
+Agent: Alright, and the Wi-Fi still isn't showing up on your phone, correct?
+
+Customer: No, it's not. I've waited like a full minute this time.
+
+Agent: (pause) Okay, let me check something on our end again. (typing sounds) (longer pause) Huh, that's strange. Everything on our side looks normal. The signal's good, no errors on the line. I'm wondering if this might be a hardware issue with the modem itself, specifically the Wi-Fi card.
+
+Customer: So like... it's broken? What do I do then?
+
+Agent: Well, let's try one more thing before we go down that road. Can you try plugging an ethernet cable directly into the modem? Do you have an ethernet cable handy?
+
+Customer: An ethernet cable? Um... I think I might have one somewhere. Can I call you back or... do I need to stay on the line?
+
+Agent: You can definitely go look. I'll hold right here.
+
+Customer: Okay, one second. (pause) (background noise of drawers opening) Give me a minute... (longer pause) ...I found one! Okay, I'm plugging it in. One end to the modem, one end to my laptop.
+
+Agent: Perfect. Do you have any internet connection now through that cable?
+
+Customer: (pause) I'm trying to open a website... it's... it's loading actually. It's loading! I think I'm getting internet now through the cable.
+
+Agent: Okay, excellent. So you've got a wired connection. This tells me that your modem is fine, but the Wi-Fi specifically is the problem. That's actually good news because—
+
+Customer: Wait, so I just have to use the cable? Like, I can't use Wi-Fi?
+
+Agent: Well, ideally we'd get the Wi-Fi working for you because I know that's more convenient. So here's what I want to try. Let me restart the Wi-Fi feature on the modem from my end. Just give me a second.
+
+Customer: Okay.
+
+Agent: (typing sounds) (pause) Alright, I've initiated a Wi-Fi restart. Can you check the modem again?
+
+Customer: (pause) The lights look the same. The yellow one is still... wait, is it supposed to blink or just be solid?
+
+Agent: It should be solid green when it's working properly.
+
+Customer: It's still yellow. And it's solid, not blinking.
+
+Agent: (pause) Okay. (typing sounds) I'm pulling up some diagnostics here, and I'm... I'm actually seeing something. It looks like your Wi-Fi module might not be responding. I'm going to be honest with you—this could mean that particular component in the modem has failed.
+
+Customer: So what does that mean? Do I need a new modem?
+
+Agent: It's likely, yes. I can definitely order a replacement for you, but here's the thing—if we send out a technician, they can bring you a new modem and make sure everything's installed and configured properly. Or, if you're comfortable, we can just mail you one and provide instructions on how to set it up yourself.
+
+Customer: How long would that take?
+
+Agent: A technician visit is usually 3 to 5 business days depending on our schedule in your area. The mail option would be maybe 5 to 7 business days.
+
+Customer: (pause) That's a long time. What about in the meantime? I need internet for work.
+
+Agent: I understand. Well, you do have the wired ethernet connection working, so you could potentially use that if you're able to keep your laptop close to where the modem is. It's not ideal, I know, but at least you have something.
+
+Customer: Yeah, but my laptop stays upstairs in my office and the modem is downstairs. (pause) Is there anything else you can try?
+
+Agent: (pause) Let me see... (typing sounds) I'm going to try one more restart sequence on the modem. Sometimes if the Wi-Fi card hasn't fully failed, a deep restart can bring it back. It's a long shot, but worth trying.
+
+Customer: Okay, go for it.
+
+Agent: (pause) Alright, I'm sending that command now. This might take a minute to process. (pause) How long have you been with Frontier, by the way?
+
+Customer: Um, about two years now, I think.
+
+Agent: Good, good. And have you had any service issues before this?
+
+Customer: No, not really. This is pretty unusual for me. (pause) Are the lights doing anything?
+
+Agent: Let me check the modem status on your end. What's the Wi-Fi light showing now?
+
+Customer: (pause) Still yellow. Hasn't changed at all.
+
+Agent: (pause) Yeah, I'm getting the same thing from our diagnostics. The module's just not responding to any of my commands. I'm sorry, but I think we're dealing with a hardware failure here. There's not much more I can troubleshoot from my end.
+
+Customer: So we're back to needing a new modem?
+
+Agent: Unfortunately, yes. I really wish I could get this working for you today, but it looks like the Wi-Fi card in your modem has failed. The good news is replacements are covered under your service agreement, so there's no cost to you.
+
+Customer: Okay... I guess I'll have to go with the technician option then since I need the internet sooner rather than later. Can you set that up?
+
+Agent: Absolutely. Let me get that scheduled for you. (typing sounds) What days work best for you this week? We have availability on Thursday between 8 AM and 12 PM, or Friday afternoon from 1 to 5 PM.
+
+Customer: Thursday morning would be better. The earlier the better.
+
+Agent: Perfect. I'm scheduling you for Thursday, 8 AM to 12 PM. A technician will come out with a new modem and get you all set up. We'll text you a confirmation with the technician's information. Is 555-0147 the best number to reach you?
+
+Customer: Yes, that's fine.
+
+Agent: Great. I've got everything set up here. Your service call is confirmed for Thursday morning. Again, I'm really sorry we couldn't get that Wi-Fi working for you today. Is there anything else I can help with?
+
+Customer: No, I think that's it. I guess I'll just use the ethernet cable until Thursday.
+
+Agent: That's a good plan. And hey, Thursday will get you all squared away. Thank you for being patient with us, and we appreciate your business with Frontier.
+
+Customer: Yeah, thanks for trying. I guess I'll see you Thursday.
+
+Agent: You got it. Have a good rest of your day.
+
+Customer: You too, bye.
+
+Agent: Bye now.

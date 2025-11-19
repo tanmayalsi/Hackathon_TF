@@ -1,0 +1,115 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. Um, my internet just went out completely. I've had service with you guys for like three years and this has never happened before. I need to get this fixed ASAP because I'm working from home.
+
+Agent: I'm sorry to hear that, sir. I totally understand how frustrating that must be. Let me pull up your account here and we'll get to the bottom of this. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147. Or you can use my phone number, it's 555-892-3421.
+
+Agent: (typing sounds) Perfect, I've got you here. Account for Michael Chen, service address on Maple Street in Boulder. Is that correct?
+
+Customer: Yes, that's me.
+
+Agent: Great. So you're saying you have no internet connection at all right now?
+
+Customer: Right, nothing. My WiFi isn't showing up, and I tried plugging directly into the modem with an ethernet cable and still nothing. The modem's been blinking red for the past like twenty minutes.
+
+Agent: Okay, that's helpful information. A red light typically indicates a connection issue on our end. Before we dig too deep into that, let me just walk through a couple of quick things. First, can you tell me if your modem is powered on? Is there any light that's solid, or is it all just blinking?
+
+Customer: Um, yeah it's on. The power light is solid green, but everything else is just... it's all red and blinking.
+
+Agent: Okay, good. And do you have a separate router, or are you using the modem-router combo we provided?
+
+Customer: I have the combo unit you guys gave me. I haven't touched anything, if that's what you're wondering.
+
+Agent: Not at all. Sometimes these things just happen. Alright, I'm going to have you do a quick restart of the modem. Can you locate the power cable in the back?
+
+Customer: (pause) Yeah, I see it. Should I just unplug it?
+
+Agent: Exactly. Just unplug it from the back of the modem and wait about thirty seconds. While you're doing that, I'm actually going to check if there are any service outages in your area. (typing sounds) Let me see here...
+
+Customer: Okay, it's unplugged. I'm waiting... 
+
+Agent: Perfect. While we're waiting, I'm not seeing any major outages in the Boulder area at the moment, so that's a good sign. Go ahead and plug that back in now.
+
+Customer: (pause) Alright, plugging it back in... and... (pause) okay, it's booting up. The lights are flashing like they normally do.
+
+Agent: Good. This usually takes about a minute or two for the modem to fully reconnect. While we wait, have you noticed any issues with the service before today? Any intermittent outages or slow speeds?
+
+Customer: No, nothing like that. It's been pretty solid. This is the first time this has happened.
+
+Agent: That's good to know. Okay, so about thirty seconds have passed. Are you seeing any changes in the lights yet?
+
+Customer: (pause) Uh... the power light is still green, which is good, but the connection light is still red. Everything else is still blinking.
+
+Agent: Hmm, that's not ideal. Let me check something on my end real quick. (typing sounds) I'm looking at your modem status here in our system and... (pause) it's showing as offline. That's concerning. Can you see the model number on the top or back of your modem?
+
+Customer: Yeah, it says... Model SR102-C.
+
+Agent: Perfect, thank you. That's one of our standard units. Okay, so the modem isn't connecting to our network, which means the issue is likely either with the modem itself or the line coming into your house. Let me have you check something. Can you look at the coaxial cable—that's the cable that screws into the back of the modem?
+
+Customer: The thick cable? 
+
+Agent: Yes, exactly. Can you check if it's firmly connected? Sometimes these can get a little loose.
+
+Customer: (pause) I'm looking at it... it looks pretty tight to me. Should I try to unscrew it and reconnect it?
+
+Agent: That's actually a great idea. Just give it a gentle try. Be careful not to force it though.
+
+Customer: Okay, I'm... (pause) ...twisting it. It actually did loosen up a bit! Let me tighten it back down. (pause) There, that should be snug now.
+
+Agent: Excellent. Let's see if that helps. Keep an eye on those lights and let me know in about a minute if anything changes.
+
+Customer: (long pause) Okay... still red. Nothing's changed. The connection light is still red.
+
+Agent: Alright, that didn't do it. Let me try a different approach. I'm going to reboot your modem from our system here and see if that helps establish a connection. This might take a couple of minutes.
+
+Customer: Okay, yeah, go ahead.
+
+Agent: (typing sounds) Initiating the reboot now. You might see the lights flashing and the modem cycling through its startup sequence.
+
+Customer: (pause) Yeah, I see it. The lights are all going through their thing... okay, it's settling down... and... (pause) ...nope. Red light again.
+
+Agent: (pause) Okay, unfortunately the modem isn't establishing a connection. I'm seeing in the system that it's still showing as offline. Let me just double-check something. Are you in an apartment or a house?
+
+Customer: A house. We're the only ones here.
+
+Agent: Okay, that rules out a few things. You know what, I think we might have an issue with either the external line or the modem itself. Let me see what I can do here... (typing sounds) I'm going to create a service ticket for you. Since we can't resolve this over the phone, we're going to need to send a technician out to your location to check both the external line and potentially replace the modem.
+
+Customer: How long is that going to take? I really need my internet back up. I have a meeting at 2 PM.
+
+Agent: I completely understand. Let me see what availability we have. (pause, typing sounds) Okay, so our next available appointment window is... it looks like tomorrow between 9 AM and 12 PM, or we have Thursday afternoon from 1 to 5 PM. What would work better for you?
+
+Customer: [inaudible] I mean, I really can't wait until Thursday. Can't they come today?
+
+Agent: I'm checking our schedule right now, and unfortunately all of our technicians are booked solid for today. I know this is really inconvenient, especially with your meeting this afternoon. Is there any possibility you could use mobile hotspot or maybe work from a different location until we get this sorted?
+
+Customer: (frustrated) I mean... I have limited data on my phone so that's not really an ideal solution. But I guess I don't have a choice. Tomorrow morning would be better than Thursday.
+
+Agent: Perfect. I'm going to get you scheduled for tomorrow between 9 AM and 12 PM. Just to confirm everything, your service address is 447 Maple Street in Boulder, correct?
+
+Customer: Yes, that's right.
+
+Agent: Great. And just a heads up, the technician may need access to your attic or crawl space depending on where the external line enters your home. Is that going to be accessible for them?
+
+Customer: Um, yeah, that should be fine.
+
+Agent: Wonderful. Alright, Michael, I've created ticket number 5847-FRN for you. The technician will call you about thirty minutes before they arrive tomorrow, just so you can plan accordingly. You should receive a confirmation email shortly with all the details.
+
+Customer: Okay, so that's tomorrow morning, 9 to 12.
+
+Agent: That's correct. And just to recap what we attempted today—we restarted the modem, checked the coaxial connection, and rebooted from our end, but unfortunately the modem still isn't connecting to our network. So the technician will investigate the external line and potentially replace the modem unit.
+
+Customer: Alright, I appreciate you trying. I'm just frustrated because I really needed this working today.
+
+Agent: I completely understand your frustration, and I'm sorry we couldn't get it resolved remotely. But I'm confident our technician will have you back up and running quickly tomorrow morning. Is there anything else I can help you with today?
+
+Customer: No, I think that's it. Thanks for your help, Derek.
+
+Agent: You're very welcome, Michael. We really appreciate your business, and again, I apologize for the inconvenience. Someone will be in touch with you tomorrow. Have a great day.
+
+Customer: You too, bye.
+
+Agent: Bye now.
+
+(call ends)

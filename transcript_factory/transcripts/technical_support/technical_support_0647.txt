@@ -1,0 +1,135 @@
+# Frontier Communications Support Call
+
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Yeah, hi. So, um, my internet just went out and I'm not sure what's going on. I've been without service for like... I don't know, maybe an hour now?
+
+Agent: Oh, I'm sorry to hear that. Let me definitely get that sorted out for you. Can I grab your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0147.
+
+Agent: (typing sounds) Okay, one second here... And what's the name on the account?
+
+Customer: James Martinez.
+
+Agent: Perfect, James. I've got you pulled up here. I see your account is located on Maple Street in... looks like Cedar Falls?
+
+Customer: Yeah, that's right.
+
+Agent: Great. So you mentioned the internet just went out about an hour ago. Did anything happen right before that? Like a storm, a power outage, anything like that?
+
+Customer: No, nothing. It was working fine this morning and then I went to check something online around noon and just... nothing. The modem's lights are all dark.
+
+Agent: Okay, so the modem isn't showing any lights at all. That usually means it's not getting power or there might be an issue with the equipment itself. Can you walk me through what you're seeing right now?
+
+Customer: Yeah, so I'm looking at it now and... like, there's nothing. No lights. It's usually got that blue light on it, and the green one that blinks? Neither of those are on.
+
+Agent: Right, right. So first thing I'd like to try is just doing a power cycle. Can you unplug the modem from the power outlet for me?
+
+Customer: (pause) Okay, it's unplugged.
+
+Agent: Good. While that's unplugged, can you check if the power cable is plugged in firmly to the back of the modem? Sometimes they come a little loose.
+
+Customer: (pause) Yeah, it... it looks pretty tight to me. Looks fine.
+
+Agent: Okay, and the outlet itself, do you have anything else plugged into that outlet that you could test? Just to make sure the outlet's working?
+
+Customer: Um, let me see. I could plug in my phone charger real quick.
+
+Agent: Yeah, that'd be great.
+
+Customer: (pause) Okay, so my phone charger is working fine. So the outlet's good.
+
+Agent: Perfect. So we know it's not the outlet. Go ahead and plug the modem back in now.
+
+Customer: (pause) Okay, plugging it back in... (pause) And... nothing. Still no lights.
+
+Agent: Still nothing, okay. Hmm. (pause) Let me take a look on our end here to see if there's any service alerts in your area or any issues we're aware of... (typing sounds) 
+
+Customer: Is there an outage or something?
+
+Agent: Let me check... No, I'm not seeing any active outages in Cedar Falls at the moment. The system shows your line should be active. Do you have a backup battery on the modem at all, like a battery backup unit?
+
+Customer: I... I don't think so? It's just the modem. It came with the Frontier installation.
+
+Agent: Okay, and how long have you had that modem with us?
+
+Customer: Oh, maybe three or four years? Something like that.
+
+Agent: Okay. And just to confirm—are you looking at a black box, rectangular shaped, about yay big? (gestures)
+
+Customer: Yeah, that sounds like it. It's got Frontier written on it.
+
+Agent: Good, good. Alright, so let me try something else. What I'd like you to do is hold down the reset button on the modem for about ten seconds. There should be a small button, usually recessed, somewhere on the back or bottom of the unit.
+
+Customer: (pause) A reset button... let me look here... (pause) I see a little hole on the back. Is that it?
+
+Agent: That could be it, yeah. Be careful though, because that's a hard reset. Do you have a pen or something thin you can use to press it?
+
+Customer: (background noise) Yeah, I've got a pen. (pause) Okay, I'm pressing it... (pause) ...and I'm holding it... (pause) Still holding... (pause) Okay, I let go.
+
+Agent: Great. Now give it about thirty seconds to boot back up and see if we get any lights.
+
+Customer: (pause) Okay, I'm watching it... (pause) Still nothing. The lights aren't coming on.
+
+Agent: Alright, still nothing. (pause) You know what, James, I'm wondering if maybe the modem itself has just... failed. Especially if it's been a few years. That does happen sometimes. But before we go down that road, let me try one more thing. Can you check the connection on the cable line itself? The coaxial cable that's screwed into the back of the modem?
+
+Customer: (pause) Okay, so I'm looking at the back and... it's screwed in pretty tight.
+
+Agent: Is it loose at all, or does it feel secure?
+
+Customer: No, it feels fine. Definitely tight.
+
+Agent: Okay. And where does that cable come from? Do you know where the main line comes into your house?
+
+Customer: Um, I think it comes in from outside somewhere. I'm not really sure, honestly.
+
+Agent: That's okay. Let me see if I can at least check the signal on our end. (typing sounds) (pause) Hmm. Okay, so I'm showing that we're not picking up any signal coming from your modem, which... that's definitely unusual.
+
+Customer: What does that mean?
+
+Agent: Well, it could mean a couple of things. Either the modem isn't communicating with our network at all, which usually points to a hardware failure, or it could be an issue with the line coming into your house. When's the last time you remember it working normally?
+
+Customer: This morning. I was checking my email, everything was fine. And then I just... didn't check it for a few hours, and when I did, it was gone.
+
+Agent: Okay. And you didn't hear any loud noises, any popping sounds, anything like that?
+
+Customer: No, nothing like that.
+
+Agent: Alright, well... (pause) I hate to say this, James, but based on what we're seeing on both ends here—the modem not powering on properly, no signal coming back to us—I'm fairly confident the modem has failed. It happens, unfortunately. But let me try one last thing. Let me escalate this to our technical team and see if they can do a remote line test to make absolutely sure it's not something on our infrastructure side.
+
+Customer: Okay, yeah. I mean, I'd like to know for sure.
+
+Agent: I'm going to put you on a brief hold here while I get them on the line. This should just take a minute or two.
+
+Customer: Okay.
+
+Agent: (hold music plays) (pause) (pause) Okay, I'm back, James. I spoke with the team and they actually need to do a more comprehensive line check, but unfortunately they're pretty backed up right now. We can either schedule a technician to come out to your house—they could probably be there tomorrow morning or early afternoon—or we can try to get you a replacement modem shipped out today, and you could try that first to see if it solves the problem.
+
+Customer: How much is that going to cost me?
+
+Agent: Well, the technician visit would be $99.99 if it's found to be a modem issue. But if we ship you a replacement modem, that's free. We can just bill you for the overnight shipping, which is usually around... (typing sounds) ...looks like about $19.99 for expedited delivery. But honestly, given what we're seeing, I'd strongly recommend trying the replacement modem first since it's more likely to resolve this.
+
+Customer: (pause) Yeah, okay. I can do that. When would I get it?
+
+Agent: It should arrive tomorrow by noon, usually. And it's really straightforward to swap out—you'd just unplug your current modem, unplug the cable, plug the new one in, and you should be good to go. Instructions will be included in the box.
+
+Customer: Okay, alright. Let's do that.
+
+Agent: Perfect. Let me get that processed for you right now. (typing sounds) (pause) Okay, so I've got your replacement modem order submitted. It'll ship out within the next hour and you should see it tomorrow. You'll get a tracking number sent to the email on file—that's... (pause) ...jamartinez at gmail dot com, correct?
+
+Customer: Yeah, that's right.
+
+Agent: Great. I'll send that over right away. Now, just to set expectations, sometimes it can take twenty-four to forty-eight hours for your service to fully provision once you plug in the new modem, but usually it's much faster than that. In the meantime, is there anything else I can help you with?
+
+Customer: (pause) No, I think that's it. I'll just wait for the modem to arrive and try it out.
+
+Agent: Sounds good. And James, if for some reason the new modem doesn't solve the problem, just give us a call back and we can schedule that technician visit to check the line. Okay?
+
+Customer: Okay, will do. Thanks for your help.
+
+Agent: You're welcome. I appreciate your patience today, and we'll get you back online as soon as possible. Thank you for being a Frontier customer, and you have a great day.
+
+Customer: You too. Bye.
+
+Agent: Bye now.

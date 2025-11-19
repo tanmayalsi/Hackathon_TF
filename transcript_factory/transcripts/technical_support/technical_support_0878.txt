@@ -1,0 +1,141 @@
+Agent: Thank you for calling Frontier Communications. My name is Derek. How can I help you today?
+
+Customer: Hey, yeah, uh, my internet's been down since this morning and I'm not sure what's going on. I really need to get this fixed.
+
+Agent: I'm sorry to hear that. I know how frustrating that can be. Let me help you troubleshoot this. Can I get your account number or the phone number associated with your account?
+
+Customer: Sure, it's... (pause) ...555-0147.
+
+Agent: (typing sounds) Okay, thank you. And your name?
+
+Customer: James. James Mitchell.
+
+Agent: Perfect, James. I'm pulling up your account now. So the internet went down this morning, you said?
+
+Customer: Yeah, around 8 AM. I was working from home and it just... stopped. No warning or anything. I've got a modem and a router combo unit, I think? The white box thing.
+
+Agent: Okay, that sounds like our standard gateway unit. Alright, so the first thing I'm going to have you do is just look at that white box and tell me what lights you're seeing on it. Are any of them lit up?
+
+Customer: Um, let me go look. (pause) Yeah, I'm looking at it now. I see... there's like a power light that's on, I think? And then there's one that's... it's like blinking red? Is that bad?
+
+Agent: Okay, the blinking red light typically indicates either a connection issue or a service problem. Have you tried restarting the gateway yet?
+
+Customer: No, I haven't done anything yet. I just called you guys right away. What do I need to do?
+
+Agent: No problem. Go ahead and unplug the power cable from the back of the gateway unit for me, okay?
+
+Customer: (pause) Okay, unplugging it now. (pause) Alright, it's unplugged.
+
+Agent: Great. Go ahead and wait about 30 seconds for it to fully power down. I know that sounds like a long time, but it helps clear the cache.
+
+Customer: (pause) ...Okay, waiting. (pause) Is 30 seconds up?
+
+Agent: Go ahead and plug it back in now.
+
+Customer: (plugging sounds) Alright, it's back in. Now what?
+
+Agent: Now we just let it boot back up. That should take about a minute or two. Can you tell me when you start seeing lights come back on?
+
+Customer: Uh, yeah, I see the power light came back. And now... (pause) ...okay, there's another light that's like, greenish-blue maybe? It's on now too.
+
+Agent: Okay, that's good. What about the other lights? Are any of them still red?
+
+Customer: (pause) Yeah, actually, the one that was blinking red earlier is still... it's still red. It's not blinking anymore, but it's solid red.
+
+Agent: (pause) Okay, that's... hmm. That's not quite what we want to see. Let me just check a few things on my end here. (typing sounds) Alright, I'm showing that your service is active on the account. Let me try to ping your gateway from here.
+
+Customer: Um... is that... what does that mean, exactly?
+
+Agent: Right, sorry. I'm just checking if I can communicate with your modem from our end to see if there's a signal reaching it.
+
+Customer: Oh, okay.
+
+Agent: (typing sounds) (pause) Alright, so the ping isn't going through, which means the gateway isn't connecting to our network properly. Let me ask you a couple of things. Do you have any cable splitters connected to the line coming into your house?
+
+Customer: A... cable splitter? I don't think so? I mean, I have the cable line coming in and it just goes straight to the gateway.
+
+Agent: Okay, that's good. And is there any visible damage to the cable itself? Any kinks or anything like that?
+
+Customer: (pause) Let me look... No, it looks fine to me. It's just... it's just a normal cable.
+
+Agent: Alright. Can you try disconnecting the cable from the gateway and then reconnecting it? Sometimes they can come loose.
+
+Customer: (pause) Sure. (sounds of unplugging) Okay, I've unplugged it. Now I'm plugging it back in. (plugging sound) It's back in.
+
+Agent: Great. And what lights are you seeing now?
+
+Customer: Um... the red light is still there. It's still solid red.
+
+Agent: (pause) Okay. Let me have you try one more thing. On the gateway itself, do you see a small reset button? It might be recessed in a little hole.
+
+Customer: A reset button? (pause) I think... yeah, I think I see one. It's like, really small?
+
+Agent: That's the one. I'm going to need you to hold that down for about 10 seconds with a paperclip or something thin.
+
+Customer: Okay, wait, hold on. Let me find a paperclip. (pause) Alright, I've got one. (pause) Pushing in... how long did you say?
+
+Agent: About 10 seconds.
+
+Customer: (pause) Okay, counting... (pause) ...that should be about 10. Letting go now.
+
+Agent: Good. The gateway should restart. Let's give it another minute or two to boot back up completely.
+
+Customer: (pause) Alright. (pause) Okay, the lights are coming back on again...
+
+Agent: What are you seeing?
+
+Customer: Power light is on. The other lights are coming on. But that red light... (pause) ...it's back. Solid red again.
+
+Agent: (pause) Okay, James, I'm going to be honest with you. The fact that we're not getting a connection from the gateway and the red light is persisting even after the reset suggests that either there's an issue with the gateway unit itself or there's a signal issue coming from the line into your house.
+
+Customer: Oh no. So what does that mean? How do I fix it?
+
+Agent: Well, ideally, we'd want to send a technician out to your location to check the line and potentially replace the gateway if it's faulty. But let me try one more thing before we go down that route. Let me check if there are any known outages in your area.
+
+Customer: (pause) Is there one?
+
+Agent: (typing sounds) (pause) No, I'm not seeing any outages reported in your neighborhood. Your service should be up and running.
+
+Customer: So my internet's just broken then? Like, the equipment is broken?
+
+Agent: It's looking that way based on what we're seeing here. I'd really like to get a technician out to you to diagnose exactly what's going on. They can test the line, check the signal levels, and we can get you a replacement gateway if needed.
+
+Customer: When could someone come out? I really need my internet back. I'm working from home and my boss is going to [inaudible]...
+
+Agent: I completely understand. Let me check availability. (typing sounds) (pause) Okay, I can get someone out to you tomorrow between 1 and 5 PM. Would that work for you?
+
+Customer: Tomorrow? Can't anyone come out today?
+
+Agent: Let me see if there's any same-day availability. (pause) Unfortunately, our technicians are fully booked for today, but tomorrow is the earliest we can get someone out there.
+
+Customer: (pause) Alright, I guess that'll have to work. Do I need to do anything else in the meantime?
+
+Agent: No, just leave the gateway unplugged and leave it as is. The technician will take care of everything when they arrive. Do you have a preferred window between 1 and 5?
+
+Customer: Earlier would be better. Like, 1 o'clock if possible?
+
+Agent: (typing sounds) Okay, I'm scheduling you for a 1 PM appointment tomorrow. You'll receive a confirmation email at... (pause) ...the email we have on file is jmitchell at... is that still current?
+
+Customer: That one works, yeah.
+
+Agent: Perfect. And the service address is... (reading) ...1847 Maple Drive?
+
+Customer: That's right.
+
+Agent: Great. So to recap, you've got a technician scheduled for tomorrow at 1 PM. They'll call you about 30 minutes before they arrive. Is there a phone number we should use to reach you?
+
+Customer: The number you called me on is fine.
+
+Agent: Okay, perfect. And James, I do apologize for the inconvenience. I know this is frustrating, especially when you need to work.
+
+Customer: Yeah, it's pretty frustrating. Hopefully it'll be fixed tomorrow.
+
+Agent: Hopefully so. If anything changes or if you're able to get it working before the technician arrives, just give us a call back and we can cancel the appointment. But otherwise, we'll see you tomorrow at 1.
+
+Customer: Will do. Thanks, I guess.
+
+Agent: You're welcome, James. Thank you for choosing Frontier Communications, and we'll get this resolved for you tomorrow.
+
+Customer: Okay. Bye.
+
+Agent: Bye now.
