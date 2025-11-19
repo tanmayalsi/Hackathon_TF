@@ -17,10 +17,12 @@ const SOCIAL_MEDIA_TIME_RANGES = [
   { label: 'Last 24 Hours', hours: 24 },
   { label: 'Last Week', hours: 168 },
   { label: 'Last Month', hours: 720 },
+  { label: 'Last 3 Months', hours: 2160 },
+  { label: 'All Time', hours: 87600 }, // 10 years
 ];
 
 export default function SocialMediaPage() {
-  const [selectedHours, setSelectedHours] = useState(24); // Default 24 hours
+  const [selectedHours, setSelectedHours] = useState(2160); // Default Last 3 Months to show all data
   const [selectedPosts, setSelectedPosts] = useState<SocialMediaPost[]>([]);
   const [showResponseGenerator, setShowResponseGenerator] = useState(false);
   const [filters, setFilters] = useState({
