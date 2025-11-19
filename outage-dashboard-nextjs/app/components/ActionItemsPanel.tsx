@@ -10,6 +10,8 @@ import {
   Check, 
   X,
   AlertCircle,
+  ChevronLeft,
+  ChevronRight,
 } from 'lucide-react';
 import { useGenerateActionItems, useActionItems } from '@/lib/social-hooks';
 import { getPriorityColor, getDepartmentColor, formatSocialTimestamp } from '@/lib/utils';
@@ -22,6 +24,8 @@ interface ActionItemsPanelProps {
 export function ActionItemsPanel({ hours }: ActionItemsPanelProps) {
   const [expandedItems, setExpandedItems] = useState<Set<string>>(new Set());
   const [localActionItems, setLocalActionItems] = useState<ActionItem[]>([]);
+  const [currentPage, setCurrentPage] = useState(1);
+  const itemsPerPage = 5;
   
   const { mutate: generateActionItems, isPending: isGenerating } = useGenerateActionItems();
   const { data: actionItemsData } = useActionItems();
@@ -30,6 +34,7 @@ export function ActionItemsPanel({ hours }: ActionItemsPanelProps) {
     generateActionItems(hours, {
       onSuccess: (data) => {
         setLocalActionItems(data.actionItems);
+        setCurrentPage(1); // Reset to first page when new items are generated
       },
     });
   };
@@ -59,8 +64,14 @@ export function ActionItemsPanel({ hours }: ActionItemsPanelProps) {
   const pendingItems = displayItems.filter((item) => item.status !== 'done' && item.status !== 'dismissed');
   const completedItems = displayItems.filter((item) => item.status === 'done' || item.status === 'dismissed');
 
-  // Group by department
-  const itemsByDepartment = pendingItems.reduce((acc, item) => {
+  // Pagination calculations
+  const totalPages = Math.ceil(pendingItems.length / itemsPerPage);
+  const startIndex = (currentPage - 1) * itemsPerPage;
+  const endIndex = startIndex + itemsPerPage;
+  const paginatedPendingItems = pendingItems.slice(startIndex, endIndex);
+
+  // Group paginated items by department
+  const itemsByDepartment = paginatedPendingItems.reduce((acc, item) => {
     if (!acc[item.department]) {
       acc[item.department] = [];
     }
@@ -218,6 +229,49 @@ export function ActionItemsPanel({ hours }: ActionItemsPanelProps) {
               </div>
             </div>
           ))}
+
+          {/* Pagination Controls */}
+          {totalPages > 1 && (
+            <div className="flex items-center justify-center gap-2 pt-4 border-t border-gray-200">
+              <button
+                onClick={() => setCurrentPage((prev) => Math.max(1, prev - 1))}
+                disabled={currentPage === 1}
+                className="p-2 rounded border-2 border-black hover:bg-gray-100 disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
+                title="Previous page"
+              >
+                <ChevronLeft className="w-4 h-4" />
+              </button>
+              
+              <div className="flex items-center gap-1">
+                {Array.from({ length: totalPages }, (_, i) => i + 1).map((pageNum) => (
+                  <button
+                    key={pageNum}
+                    onClick={() => setCurrentPage(pageNum)}
+                    className={`px-3 py-1 rounded border-2 border-black transition-colors ${
+                      currentPage === pageNum
+                        ? 'bg-black text-white'
+                        : 'bg-white hover:bg-gray-100'
+                    }`}
+                  >
+                    {pageNum}
+                  </button>
+                ))}
+              </div>
+
+              <button
+                onClick={() => setCurrentPage((prev) => Math.min(totalPages, prev + 1))}
+                disabled={currentPage === totalPages}
+                className="p-2 rounded border-2 border-black hover:bg-gray-100 disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
+                title="Next page"
+              >
+                <ChevronRight className="w-4 h-4" />
+              </button>
+
+              <span className="ml-4 text-sm text-gray-600">
+                Showing {startIndex + 1}-{Math.min(endIndex, pendingItems.length)} of {pendingItems.length}
+              </span>
+            </div>
+          )}
 
           {/* Completed Items */}
           {completedItems.length > 0 && (
