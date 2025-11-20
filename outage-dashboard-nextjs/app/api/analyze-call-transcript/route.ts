@@ -1,13 +1,16 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { prisma } from '@/lib/db';
-import type { CallTranscriptAnalysis } from '@/types';
+import type { CallTranscriptAnalysis, CallTranscriptAnalysisResponse } from '@/types';
 
 export async function POST(request: NextRequest) {
   try {
     const body = await request.json();
     const { callId, includeTranscript = false } = body;
 
+    console.log(`📞 Received request to analyze call_id: ${callId}`);
+
     if (!callId) {
+      console.error('❌ Error: callId is required');
       return NextResponse.json(
         { error: 'callId is required' },
         { status: 400 }
@@ -16,15 +19,17 @@ export async function POST(request: NextRequest) {
 
     const apiKey = process.env.ANTHROPIC_API_KEY;
     if (!apiKey) {
+      console.error('❌ Error: Anthropic API key not configured');
       return NextResponse.json(
         { error: 'Anthropic API key not configured' },
         { status: 500 }
       );
     }
 
-    console.log(`Analyzing call transcript for call_id ${callId} using Claude AI...`);
+    console.log(`🔍 Analyzing call transcript for call_id ${callId} using Claude AI...`);
 
     // READ-ONLY: Fetch call data with transcript
+    console.log(`📊 Fetching call data from database...`);
     const callData = await prisma.$queryRaw<any[]>`
       SELECT 
         cd.call_id,
@@ -43,6 +48,7 @@ export async function POST(request: NextRequest) {
     `;
 
     if (callData.length === 0) {
+      console.error(`❌ Error: Call with ID ${callId} not found.`);
       return NextResponse.json(
         { error: 'Call not found' },
         { status: 404 }
@@ -50,8 +56,10 @@ export async function POST(request: NextRequest) {
     }
 
     const call = callData[0];
+    console.log(`✅ Call data retrieved for customer ${call.customer_name}`);
 
     // Prepare prompt for Claude
+    console.log(`🤖 Preparing Claude API request...`);
     const prompt = `You are an expert customer service analyst. Analyze this customer support call transcript and provide detailed insights.
 
 **Call Information:**
@@ -104,6 +112,7 @@ Focus on detecting:
 Be objective and base your analysis strictly on the transcript content.`;
 
     // Call Claude API
+    console.log(`🌐 Calling Claude API...`);
     const claudeResponse = await fetch('https://api.anthropic.com/v1/messages', {
       method: 'POST',
       headers: {
@@ -112,7 +121,7 @@ Be objective and base your analysis strictly on the transcript content.`;
         'anthropic-version': '2023-06-01',
       },
       body: JSON.stringify({
-        model: 'claude-3-5-sonnet-20241022',
+        model: 'claude-sonnet-4-20250514',
         max_tokens: 2000,
         messages: [
           {
@@ -125,12 +134,13 @@ Be objective and base your analysis strictly on the transcript content.`;
 
     if (!claudeResponse.ok) {
       const errorText = await claudeResponse.text();
-      console.error('Claude API error:', errorText);
-      throw new Error('Claude API request failed');
+      console.error(`❌ Claude API error: ${claudeResponse.status}`, errorText);
+      throw new Error(`Claude API request failed: ${claudeResponse.status} - ${errorText}`);
     }
 
     const claudeData = await claudeResponse.json();
     const analysisText = claudeData.content[0].text;
+    console.log('📝 Raw Claude response content:', analysisText);
 
     // Parse Claude's response
     let analysis;
@@ -140,9 +150,11 @@ Be objective and base your analysis strictly on the transcript content.`;
                         analysisText.match(/\{[\s\S]*\}/);
       const jsonText = jsonMatch ? (jsonMatch[1] || jsonMatch[0]) : analysisText;
       analysis = JSON.parse(jsonText);
+      console.log('✅ Parsed AI analysis successfully');
     } catch (parseError) {
-      console.error('Failed to parse Claude response:', analysisText);
-      throw new Error('Failed to parse AI analysis');
+      console.error('❌ Failed to parse Claude response:', analysisText);
+      console.error('Parse Error:', parseError);
+      throw new Error(`Failed to parse AI analysis: ${String(parseError)}`);
     }
 
     // Construct the response
@@ -167,17 +179,23 @@ Be objective and base your analysis strictly on the transcript content.`;
 
     console.log(`✅ Call ${callId} analyzed: Sentiment=${result.sentimentAnalysis.sentiment}, Churn=${result.churnLikelihood.level}`);
 
-    return NextResponse.json({
+    const response: CallTranscriptAnalysisResponse = {
       analysis: result,
       generatedAt: new Date().toISOString(),
-    });
+    };
+
+    return NextResponse.json(response);
 
   } catch (error) {
-    console.error('Error analyzing call transcript:', error);
+    console.error('❌ Error in analyze-call-transcript API:', error);
+    console.error('Error details:', error instanceof Error ? error.message : String(error));
+    console.error('Error stack:', error instanceof Error ? error.stack : 'No stack trace');
     return NextResponse.json(
-      { error: 'Failed to analyze call transcript', details: String(error) },
+      { 
+        error: 'Failed to analyze call transcript', 
+        details: error instanceof Error ? error.message : String(error),
+      },
       { status: 500 }
     );
   }
 }
-

@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import { motion } from 'framer-motion';
-import { X, Loader2, TrendingDown, Phone, Mail, DollarSign, AlertTriangle, Lightbulb, Eye } from 'lucide-react';
+import { X, Loader2, TrendingDown, Phone, Mail, DollarSign, AlertTriangle, Lightbulb, Eye, CheckCircle2, ChevronDown, ChevronUp } from 'lucide-react';
 import { useChurnAnalysis } from '@/lib/churn-hooks';
 import { CallTranscriptDetail } from './CallTranscriptDetail';
 import type { AtRiskCustomer } from '@/types';
@@ -16,6 +16,7 @@ export function CustomerChurnAnalysis({ customer, onClose }: CustomerChurnAnalys
   const { data: analysis, isLoading } = useChurnAnalysis(customer.customerId, 720);
   const [selectedCallId, setSelectedCallId] = useState<number | null>(null);
   const [selectedCallNumber, setSelectedCallNumber] = useState<number>(0);
+  const [isChurnSignalsExpanded, setIsChurnSignalsExpanded] = useState(false);
 
   const getRiskColor = (level: string) => {
     switch (level) {
@@ -138,43 +139,155 @@ export function CustomerChurnAnalysis({ customer, onClose }: CustomerChurnAnalys
                 </div>
               </div>
 
-              {/* Churn Signals */}
-              <div>
-                <h3 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">
-                  <AlertTriangle className="w-5 h-5 text-orange-600" />
-                  Churn Risk Signals
-                </h3>
-                <div className="space-y-3">
-                  {analysis.churnSignals.length === 0 && (
-                    <p className="text-gray-600 text-sm">No significant churn signals detected.</p>
-                  )}
-                  {analysis.churnSignals.map((signal, index) => (
-                    <motion.div
-                      key={index}
-                      initial={{ opacity: 0, x: -10 }}
-                      animate={{ opacity: 1, x: 0 }}
-                      transition={{ delay: index * 0.05 }}
-                      className="p-4 bg-white rounded-lg border border-gray-200 hover:shadow-md transition-shadow"
-                    >
-                      <div className="flex items-start gap-3">
-                        <span className={`px-2 py-1 rounded text-xs font-semibold border ${getSeverityColor(signal.severity)}`}>
-                          {signal.severity.toUpperCase()}
-                        </span>
-                        <div className="flex-1">
-                          <div className="text-sm font-medium text-gray-900 mb-1">
-                            {signal.type.replace('_', ' ').toUpperCase()}
-                          </div>
-                          <div className="text-sm text-gray-700">{signal.evidence}</div>
-                          {signal.timestamp && (
-                            <div className="text-xs text-gray-500 mt-2">
-                              {new Date(signal.timestamp).toLocaleString()}
-                            </div>
-                          )}
-                        </div>
+              {/* Overall Call History Analysis - AI Powered */}
+              {analysis.overallCallAnalysis && (
+                <div className="bg-gradient-to-br from-indigo-50 to-purple-50 rounded-xl p-6 border-2 border-indigo-200">
+                  <h3 className="text-lg font-bold text-gray-900 mb-4 flex items-center gap-2">
+                    <Lightbulb className="w-5 h-5 text-indigo-600" />
+                    AI Analysis: Complete Call History
+                  </h3>
+
+                  {/* Summary */}
+                  <div className="mb-4 p-4 bg-white rounded-lg border border-indigo-100">
+                    <div className="text-sm font-semibold text-indigo-900 mb-2">Executive Summary</div>
+                    <p className="text-gray-700 text-sm leading-relaxed">{analysis.overallCallAnalysis.summary}</p>
+                  </div>
+
+                  <div className="grid grid-cols-2 gap-4">
+                    {/* Key Themes */}
+                    <div className="bg-white rounded-lg p-4 border border-indigo-100">
+                      <div className="text-sm font-semibold text-gray-900 mb-3">Key Themes</div>
+                      <ul className="space-y-2">
+                        {analysis.overallCallAnalysis.keyThemes.map((theme, index) => (
+                          <li key={index} className="flex items-start gap-2 text-sm text-gray-700">
+                            <span className="text-indigo-600 font-bold mt-0.5">•</span>
+                            <span>{theme}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+
+                    {/* Sentiment Trend */}
+                    <div className="bg-white rounded-lg p-4 border border-indigo-100">
+                      <div className="text-sm font-semibold text-gray-900 mb-3">Sentiment Trend</div>
+                      <p className="text-sm text-gray-700 leading-relaxed">{analysis.overallCallAnalysis.sentimentTrend}</p>
+                    </div>
+
+                    {/* Escalation Pattern */}
+                    <div className="bg-white rounded-lg p-4 border border-indigo-100">
+                      <div className="text-sm font-semibold text-gray-900 mb-3">Issue Escalation</div>
+                      <p className="text-sm text-gray-700 leading-relaxed">{analysis.overallCallAnalysis.escalationPattern}</p>
+                    </div>
+
+                    {/* Churn Risk Factors */}
+                    <div className="bg-white rounded-lg p-4 border border-red-100">
+                      <div className="text-sm font-semibold text-red-900 mb-3 flex items-center gap-1">
+                        <AlertTriangle className="w-4 h-4" />
+                        Churn Risk Factors
                       </div>
-                    </motion.div>
-                  ))}
+                      <ul className="space-y-2">
+                        {analysis.overallCallAnalysis.churnRiskFactors.map((factor, index) => (
+                          <li key={index} className="flex items-start gap-2 text-sm text-gray-700">
+                            <span className="text-red-600 font-bold mt-0.5">⚠</span>
+                            <span>{factor}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  </div>
+
+                  {/* Positive Indicators */}
+                  {analysis.overallCallAnalysis.positiveIndicators.length > 0 && (
+                    <div className="mt-4 p-4 bg-green-50 rounded-lg border border-green-200">
+                      <div className="text-sm font-semibold text-green-900 mb-3 flex items-center gap-1">
+                        <CheckCircle2 className="w-4 h-4" />
+                        Positive Indicators
+                      </div>
+                      <ul className="space-y-2">
+                        {analysis.overallCallAnalysis.positiveIndicators.map((indicator, index) => (
+                          <li key={index} className="flex items-start gap-2 text-sm text-gray-700">
+                            <span className="text-green-600 font-bold mt-0.5">✓</span>
+                            <span>{indicator}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
+
+                  {/* Recommended Actions */}
+                  <div className="mt-4 p-4 bg-blue-50 rounded-lg border border-blue-200">
+                    <div className="text-sm font-semibold text-blue-900 mb-3">Recommended Actions</div>
+                    <ul className="space-y-2">
+                      {analysis.overallCallAnalysis.recommendedActions.map((action, index) => (
+                        <li key={index} className="flex items-start gap-2 text-sm text-gray-700">
+                          <span className="text-blue-600 font-bold mt-0.5">{index + 1}.</span>
+                          <span>{action}</span>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
                 </div>
+              )}
+
+              {/* Churn Signals - Collapsible */}
+              <div className="bg-white rounded-xl p-5 border border-gray-200">
+                <button
+                  onClick={() => setIsChurnSignalsExpanded(!isChurnSignalsExpanded)}
+                  className="w-full flex items-center justify-between text-left"
+                >
+                  <h3 className="text-lg font-bold text-gray-900 flex items-center gap-2">
+                    <AlertTriangle className="w-5 h-5 text-orange-600" />
+                    Keyword-Based Churn Risk Signals
+                    <span className="text-sm font-normal text-gray-500">
+                      ({analysis.churnSignals.length} signal{analysis.churnSignals.length !== 1 ? 's' : ''})
+                    </span>
+                  </h3>
+                  {isChurnSignalsExpanded ? (
+                    <ChevronUp className="w-5 h-5 text-gray-500" />
+                  ) : (
+                    <ChevronDown className="w-5 h-5 text-gray-500" />
+                  )}
+                </button>
+
+                {isChurnSignalsExpanded && (
+                  <motion.div
+                    initial={{ height: 0, opacity: 0 }}
+                    animate={{ height: 'auto', opacity: 1 }}
+                    exit={{ height: 0, opacity: 0 }}
+                    transition={{ duration: 0.3 }}
+                    className="mt-4 space-y-3"
+                  >
+                    {analysis.churnSignals.length === 0 && (
+                      <p className="text-gray-600 text-sm">No significant churn signals detected.</p>
+                    )}
+                    {analysis.churnSignals.map((signal, index) => (
+                      <motion.div
+                        key={index}
+                        initial={{ opacity: 0, x: -10 }}
+                        animate={{ opacity: 1, x: 0 }}
+                        transition={{ delay: index * 0.05 }}
+                        className="p-4 bg-gray-50 rounded-lg border border-gray-200 hover:shadow-md transition-shadow"
+                      >
+                        <div className="flex items-start gap-3">
+                          <span className={`px-2 py-1 rounded text-xs font-semibold border ${getSeverityColor(signal.severity)}`}>
+                            {signal.severity.toUpperCase()}
+                          </span>
+                          <div className="flex-1">
+                            <div className="text-sm font-medium text-gray-900 mb-1">
+                              {signal.type.replace('_', ' ').toUpperCase()}
+                            </div>
+                            <div className="text-sm text-gray-700">{signal.evidence}</div>
+                            {signal.timestamp && (
+                              <div className="text-xs text-gray-500 mt-2">
+                                {new Date(signal.timestamp).toLocaleString()}
+                              </div>
+                            )}
+                          </div>
+                        </div>
+                      </motion.div>
+                    ))}
+                  </motion.div>
+                )}
               </div>
 
               {/* Sentiment Journey */}

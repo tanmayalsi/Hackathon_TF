@@ -194,6 +194,15 @@ export interface ChurnAnalysis {
     aiReasoning?: string; // NEW: AI's explanation for this sentiment
     churnIndicators?: string[]; // NEW: Specific churn signals detected by AI
   }>;
+  overallCallAnalysis?: {
+    summary: string;
+    keyThemes: string[];
+    sentimentTrend: string;
+    escalationPattern: string;
+    churnRiskFactors: string[];
+    positiveIndicators: string[];
+    recommendedActions: string[];
+  };
   retentionStrategy?: RetentionStrategy;
   callHistory: {
     totalCalls: number;
