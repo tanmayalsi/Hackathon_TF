@@ -45,24 +45,11 @@ model Customer {
   location                         String    @map("location") @db.VarChar(255)
   created_at                       DateTime  @default(now()) @map("created_at") @db.Timestamp(6)
   updated_at                       DateTime  @default(now()) @updatedAt @map("updated_at") @db.Timestamp(6)
-  contact_phone                    String?   @map("contact_phone") @db.VarChar(50)
+  contact_phone                    String    @map("contact_phone") @db.VarChar(50)
   multi_site                       Boolean   @default(false) @map("multi_site")
-  subscription_tier                String?   @map("subscription_tier") @db.VarChar(50)
-  industry                         String?   @map("industry") @db.VarChar(100)
+  subscription_tier                String    @map("subscription_tier") @db.VarChar(50)
+  industry                         String    @map("industry") @db.VarChar(100)
 
   @@map("customers")
-  @@schema("public")
-}
-
-model SocialMediaData {
-  id            Int      @id @default(autoincrement()) @map("id")
-  username      String   @map("username") @db.VarChar(255)
-  social_media  String   @map("social_media") @db.VarChar(50)
-  comment       String   @map("comment") @db.Text
-  location      String   @map("location") @db.VarChar(255)
-  timestamp     DateTime @map("timestamp") @db.Timestamp(6)
-  category      String   @map("category") @db.VarChar(255)
-
-  @@map("social_media_data")
   @@schema("public")
 }

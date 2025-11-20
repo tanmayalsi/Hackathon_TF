@@ -5,6 +5,7 @@ import type {
   ChurnAnalysis,
   ChurnBatchAnalysisResponse,
   ChurnInsightsResponse,
+  CallTranscriptAnalysisResponse,
 } from '@/types';
 
 interface ChurnAnalysisRequest {
@@ -115,6 +116,34 @@ export function useGenerateRetentionPlan() {
       }
       return response.json();
     },
+  });
+}
+
+export function useAnalyzeCallTranscript(callId: number | null, includeTranscript: boolean = false) {
+  return useQuery({
+    queryKey: ['call-transcript-analysis', callId, includeTranscript],
+    queryFn: async (): Promise<CallTranscriptAnalysisResponse> => {
+      if (!callId) {
+        throw new Error('Call ID is required');
+      }
+      const response = await fetch('/api/analyze-call-transcript', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          callId,
+          includeTranscript,
+        }),
+      });
+      if (!response.ok) {
+        const error = await response.json();
+        throw new Error(error.error || 'Failed to analyze call transcript');
+      }
+      return response.json();
+    },
+    enabled: !!callId, // Only run if callId is provided
+    staleTime: 10 * 60 * 1000, // 10 minutes - longer since this is expensive
   });
 }
 

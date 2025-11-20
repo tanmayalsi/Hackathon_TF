@@ -3,6 +3,15 @@ import { prisma } from '@/lib/db';
 import { loadSocialMediaData } from '@/lib/social-data-loader';
 import type { ChurnAnalysis, ChurnSignal } from '@/types';
 
+interface CallSentimentAnalysis {
+  callId: number;
+  callNumber: number;
+  score: number; // 0-100
+  sentiment: 'positive' | 'neutral' | 'negative' | 'very_negative';
+  reasoning: string;
+  churnIndicators: string[];
+}
+
 // Churn keywords to detect in transcripts
 const CHURN_KEYWORDS = {
   high: ['cancel', 'canceling', 'disconnect', 'terminate', 'switching', 'competitor', 'terrible', 'worst', 'done', 'fed up'],
@@ -71,6 +80,134 @@ function getRiskLevel(score: number): 'low' | 'medium' | 'high' {
   if (score >= 70) return 'high';
   if (score >= 40) return 'medium';
   return 'low';
+}
+
+// NEW: AI-powered sentiment analysis for all calls
+async function analyzeCallsSentimentWithAI(calls: any[], apiKey: string): Promise<CallSentimentAnalysis[]> {
+  if (!calls || calls.length === 0) {
+    return [];
+  }
+
+  console.log(`🤖 Analyzing ${calls.length} calls with Claude AI...`);
+
+  // Prepare batch prompt for Claude
+  const callsContext = calls.map((call, index) => {
+    const duration = Math.round((new Date(call.enddatetime).getTime() - new Date(call.startdatetime).getTime()) / 60000);
+    return `
+Call #${index + 1}:
+- Call ID: ${call.call_id}
+- Date: ${new Date(call.startdatetime).toLocaleString()}
+- Duration: ${duration} minutes
+- Reason: ${call.call_reason}
+- Transcript: "${call.transcript.substring(0, 1500)}${call.transcript.length > 1500 ? '...' : ''}"
+`;
+  }).join('\n---\n');
+
+  const prompt = `You are analyzing customer support call transcripts to assess sentiment and churn risk. 
+
+Analyze each of the following ${calls.length} calls and provide a sentiment score and churn assessment for EACH call.
+
+${callsContext}
+
+For EACH call, provide analysis in this exact JSON format:
+
+{
+  "callAnalyses": [
+    {
+      "callNumber": 1,
+      "score": <number 0-100, where 0=very negative, 50=neutral, 100=very positive>,
+      "sentiment": "<positive|neutral|negative|very_negative>",
+      "reasoning": "<1-2 sentence explanation of the sentiment>",
+      "churnIndicators": ["<any specific churn signals detected, e.g., 'mentioned canceling', 'comparing to competitors'>"]
+    }
+  ]
+}
+
+Guidelines:
+- Score 70-100: Customer is satisfied, issue resolved, positive tone
+- Score 50-69: Neutral, routine inquiry, no strong emotions
+- Score 30-49: Customer frustrated but issue being addressed
+- Score 0-29: Very negative, angry, threatening to cancel
+
+Return ONLY the JSON, no other text.`;
+
+  try {
+    const claudeResponse = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-api-key': apiKey,
+        'anthropic-version': '2023-06-01',
+      },
+      body: JSON.stringify({
+        model: 'claude-3-5-sonnet-20241022',
+        max_tokens: 4000,
+        messages: [
+          {
+            role: 'user',
+            content: prompt,
+          },
+        ],
+      }),
+    });
+
+    if (!claudeResponse.ok) {
+      console.error('Claude API error:', await claudeResponse.text());
+      throw new Error('Claude API request failed');
+    }
+
+    const claudeData = await claudeResponse.json();
+    const analysisText = claudeData.content[0].text;
+
+    // Parse Claude's response
+    let parsedAnalysis;
+    try {
+      const jsonMatch = analysisText.match(/```json\n?([\s\S]*?)\n?```/) || 
+                        analysisText.match(/\{[\s\S]*\}/);
+      const jsonText = jsonMatch ? (jsonMatch[1] || jsonMatch[0]) : analysisText;
+      parsedAnalysis = JSON.parse(jsonText);
+    } catch (parseError) {
+      console.error('Failed to parse Claude response:', analysisText);
+      throw new Error('Failed to parse AI sentiment analysis');
+    }
+
+    // Map to our format with call IDs
+    const sentimentAnalyses: CallSentimentAnalysis[] = parsedAnalysis.callAnalyses.map((analysis: any, index: number) => ({
+      callId: calls[index].call_id,
+      callNumber: index + 1,
+      score: analysis.score,
+      sentiment: analysis.sentiment,
+      reasoning: analysis.reasoning,
+      churnIndicators: analysis.churnIndicators || [],
+    }));
+
+    console.log(`✅ AI sentiment analysis complete: ${sentimentAnalyses.length} calls analyzed`);
+    return sentimentAnalyses;
+
+  } catch (error) {
+    console.error('Error in AI sentiment analysis:', error);
+    // Fallback to keyword-based analysis if AI fails
+    console.log('⚠️ Falling back to keyword-based analysis');
+    return calls.map((call, index) => {
+      const keywords = detectChurnKeywords(call.transcript || '');
+      let score = 75; // Default neutral-positive
+      
+      if (keywords.found) {
+        if (keywords.severity === 'high') score = 25;
+        else if (keywords.severity === 'medium') score = 50;
+        else score = 65;
+      }
+
+      return {
+        callId: call.call_id,
+        callNumber: index + 1,
+        score,
+        sentiment: score >= 70 ? 'positive' : score >= 50 ? 'neutral' : score >= 30 ? 'negative' : 'very_negative',
+        reasoning: keywords.found ? `Detected keywords: ${keywords.keywords.join(', ')}` : 'No significant sentiment detected',
+        churnIndicators: keywords.found ? keywords.keywords : [],
+      };
+    });
+  }
 }
 
 export async function POST(request: NextRequest) {
@@ -190,8 +327,61 @@ export async function POST(request: NextRequest) {
       });
     }
 
-    // Calculate sentiment journey (mock based on call patterns)
-    const sentimentJourney = calculateSentimentJourney(calls);
+    // AI-powered sentiment analysis for all calls
+    const apiKey = process.env.ANTHROPIC_API_KEY;
+    let sentimentJourney = [];
+    let aiChurnAnalysis = {
+      overallReasoning: '',
+      keyChurnFactors: [] as string[],
+    };
+
+    if (apiKey && calls.length > 0) {
+      try {
+        // Analyze ALL calls with Claude AI
+        const aiSentimentAnalyses = await analyzeCallsSentimentWithAI(calls, apiKey);
+        
+        // Convert to sentiment journey format
+        sentimentJourney = aiSentimentAnalyses.map((analysis, index) => ({
+          callId: analysis.callId,
+          callNumber: analysis.callNumber,
+          date: calls.find(c => c.call_id === analysis.callId)?.startdatetime.toISOString().split('T')[0] || '',
+          timestamp: calls.find(c => c.call_id === analysis.callId)?.startdatetime.toISOString() || '',
+          score: analysis.score,
+          sentiment: analysis.sentiment,
+          aiReasoning: analysis.reasoning, // NEW: Add AI reasoning to each point
+          churnIndicators: analysis.churnIndicators, // NEW: Add specific churn indicators
+        }));
+
+        // Extract churn signals from AI analysis
+        aiSentimentAnalyses.forEach(analysis => {
+          if (analysis.churnIndicators.length > 0 && analysis.score < 50) {
+            churnSignals.push({
+              type: 'transcript_keyword',
+              severity: analysis.score < 30 ? 'high' : 'medium',
+              evidence: `AI detected: ${analysis.churnIndicators.join(', ')} - ${analysis.reasoning}`,
+              timestamp: calls.find(c => c.call_id === analysis.callId)?.startdatetime.toISOString(),
+              callId: analysis.callId,
+            });
+          }
+        });
+
+        // Generate overall churn analysis using Claude
+        const allChurnIndicators = aiSentimentAnalyses.flatMap(a => a.churnIndicators).filter(Boolean);
+        if (allChurnIndicators.length > 0) {
+          aiChurnAnalysis.keyChurnFactors = [...new Set(allChurnIndicators)]; // Unique factors
+        }
+
+        console.log(`✅ AI sentiment journey generated: ${sentimentJourney.length} calls analyzed`);
+      } catch (error) {
+        console.error('Failed to analyze calls with AI:', error);
+        // Fallback to keyword-based if AI fails
+        sentimentJourney = calculateSentimentJourney(calls);
+      }
+    } else {
+      // Fallback to keyword-based if no API key
+      console.log('⚠️ No API key found, using keyword-based sentiment analysis');
+      sentimentJourney = calculateSentimentJourney(calls);
+    }
 
     // Calculate risk score
     const riskScore = calculateRiskScore(churnSignals, callHistory);
@@ -249,37 +439,52 @@ export async function POST(request: NextRequest) {
 }
 
 function calculateSentimentJourney(calls: any[]) {
-  // Group calls by date and calculate sentiment
-  const callsByDate = calls.reduce((acc: any, call) => {
-    const date = call.startdatetime.toISOString().split('T')[0];
-    if (!acc[date]) {
-      acc[date] = [];
+  if (!calls || calls.length === 0) {
+    return [];
+  }
+
+  // Create one sentiment point per call (don't group by date)
+  const sentimentPoints = calls.map((call, index) => {
+    // Calculate sentiment based on keywords in this specific call
+    let sentimentScore = 75; // Start neutral-positive
+    
+    const keywords = detectChurnKeywords(call.transcript || '');
+    if (keywords.found) {
+      if (keywords.severity === 'high') sentimentScore -= 30;
+      else if (keywords.severity === 'medium') sentimentScore -= 15;
+      else sentimentScore -= 5;
+    } else {
+      // No issues found - positive sentiment
+      sentimentScore = 85;
     }
-    acc[date].push(call);
-    return acc;
-  }, {});
 
-  return Object.entries(callsByDate)
-    .map(([date, dateCalls]: [string, any]) => {
-      // Calculate sentiment based on keywords
-      let sentimentScore = 75; // Start neutral
-      dateCalls.forEach((call: any) => {
-        const keywords = detectChurnKeywords(call.transcript);
-        if (keywords.severity === 'high') sentimentScore -= 30;
-        else if (keywords.severity === 'medium') sentimentScore -= 15;
-      });
+    sentimentScore = Math.max(0, Math.min(100, sentimentScore));
 
-      sentimentScore = Math.max(0, Math.min(100, sentimentScore));
+    let sentiment: 'positive' | 'neutral' | 'negative' | 'very_negative';
+    if (sentimentScore >= 70) sentiment = 'positive';
+    else if (sentimentScore >= 50) sentiment = 'neutral';
+    else if (sentimentScore >= 30) sentiment = 'negative';
+    else sentiment = 'very_negative';
 
-      let sentiment: 'positive' | 'neutral' | 'negative' | 'very_negative';
-      if (sentimentScore >= 70) sentiment = 'positive';
-      else if (sentimentScore >= 50) sentiment = 'neutral';
-      else if (sentimentScore >= 30) sentiment = 'negative';
-      else sentiment = 'very_negative';
+    // Use full datetime for better granularity
+    const datetime = call.startdatetime instanceof Date 
+      ? call.startdatetime.toISOString()
+      : new Date(call.startdatetime).toISOString();
 
-      return { date, score: sentimentScore, sentiment };
-    })
-    .sort((a, b) => a.date.localeCompare(b.date));
+    return { 
+      date: datetime, 
+      score: sentimentScore, 
+      sentiment,
+      callId: call.call_id,
+      callNumber: index + 1
+    };
+  });
+
+  // Sort by datetime (already sorted DESC from query, so reverse for chronological)
+  sentimentPoints.reverse();
+
+  console.log(`📊 Generated ${sentimentPoints.length} sentiment data points from ${calls.length} calls`);
+  return sentimentPoints;
 }
 
 function calculateAccountValue(servicePlan: string): number {

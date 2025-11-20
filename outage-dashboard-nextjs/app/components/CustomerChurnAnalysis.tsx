@@ -1,8 +1,10 @@
 'use client';
 
+import { useState } from 'react';
 import { motion } from 'framer-motion';
-import { X, Loader2, TrendingDown, Phone, Mail, DollarSign, AlertTriangle, Lightbulb } from 'lucide-react';
+import { X, Loader2, TrendingDown, Phone, Mail, DollarSign, AlertTriangle, Lightbulb, Eye } from 'lucide-react';
 import { useChurnAnalysis } from '@/lib/churn-hooks';
+import { CallTranscriptDetail } from './CallTranscriptDetail';
 import type { AtRiskCustomer } from '@/types';
 
 interface CustomerChurnAnalysisProps {
@@ -12,6 +14,8 @@ interface CustomerChurnAnalysisProps {
 
 export function CustomerChurnAnalysis({ customer, onClose }: CustomerChurnAnalysisProps) {
   const { data: analysis, isLoading } = useChurnAnalysis(customer.customerId, 720);
+  const [selectedCallId, setSelectedCallId] = useState<number | null>(null);
+  const [selectedCallNumber, setSelectedCallNumber] = useState<number>(0);
 
   const getRiskColor = (level: string) => {
     switch (level) {
@@ -82,8 +86,8 @@ export function CustomerChurnAnalysis({ customer, onClose }: CustomerChurnAnalys
 
           {analysis && (
             <div className="space-y-6">
-              {/* Risk Score Gauge */}
-              <div className="bg-gradient-to-br from-gray-50 to-gray-100 rounded-xl p-6 border border-gray-200">
+                {/* Risk Score Gauge */}
+                <div className="bg-gradient-to-br from-gray-50 to-gray-100 rounded-xl p-6 border border-gray-200">
                 <h3 className="text-lg font-bold text-gray-900 mb-4">Risk Assessment</h3>
                 <div className="flex items-center gap-8">
                   <div className="relative w-32 h-32">
@@ -174,37 +178,208 @@ export function CustomerChurnAnalysis({ customer, onClose }: CustomerChurnAnalys
               </div>
 
               {/* Sentiment Journey */}
-              {analysis.sentimentJourney.length > 0 && (
-                <div>
-                  <h3 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">
-                    <TrendingDown className="w-5 h-5 text-purple-600" />
-                    Sentiment Journey
-                  </h3>
-                  <div className="bg-white rounded-lg border border-gray-200 p-4">
-                    <div className="flex items-end gap-2 h-32">
-                      {analysis.sentimentJourney.map((point, index) => {
-                        const height = (point.score / 100) * 100;
-                        const color = point.score >= 70 ? 'bg-green-500' : point.score >= 50 ? 'bg-yellow-500' : 'bg-red-500';
-                        return (
-                          <div key={index} className="flex-1 flex flex-col items-center justify-end group relative">
-                            <div
-                              className={`w-full ${color} rounded-t transition-all hover:opacity-80`}
-                              style={{ height: `${height}%` }}
-                            >
-                              <div className="absolute bottom-full mb-2 left-1/2 transform -translate-x-1/2 bg-gray-900 text-white text-xs px-2 py-1 rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap pointer-events-none">
-                                {point.date}: {point.score} ({point.sentiment})
-                              </div>
-                            </div>
-                            <div className="text-xs text-gray-500 mt-1 truncate w-full text-center">
-                              {new Date(point.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
-                            </div>
-                          </div>
-                        );
-                      })}
+              <div>
+                <h3 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">
+                  <TrendingDown className="w-5 h-5 text-purple-600" />
+                  AI-Powered Sentiment Journey
+                </h3>
+                {analysis.sentimentJourney && analysis.sentimentJourney.length > 0 && analysis.sentimentJourney[0].aiReasoning && (
+                  <div className="mb-4 p-3 bg-indigo-50 rounded-lg border border-indigo-200">
+                    <div className="flex items-start gap-2">
+                      <Lightbulb className="w-4 h-4 text-indigo-600 mt-0.5 flex-shrink-0" />
+                      <div className="text-sm">
+                        <span className="font-semibold text-indigo-900">AI Analysis:</span>
+                        <span className="text-indigo-800"> Each call has been analyzed by Claude AI for sentiment and churn indicators. Hover over any point to see detailed AI reasoning.</span>
+                      </div>
                     </div>
                   </div>
-                </div>
-              )}
+                )}
+                {analysis.sentimentJourney && analysis.sentimentJourney.length > 0 ? (
+                  <div className="bg-white rounded-lg border border-gray-200 p-6">
+                    <div className="flex gap-4">
+                      {/* Y-axis */}
+                      <div className="flex flex-col justify-between text-xs text-gray-500 py-2" style={{ width: '40px' }}>
+                        <span>100</span>
+                        <span>75</span>
+                        <span>50</span>
+                        <span>25</span>
+                        <span>0</span>
+                      </div>
+                      
+                      {/* Chart area */}
+                      <div className="flex-1 relative" style={{ height: '200px' }}>
+                        {/* Horizontal grid lines */}
+                        <div className="absolute inset-0 flex flex-col justify-between pointer-events-none">
+                          {[100, 75, 50, 25, 0].map((val) => (
+                            <div key={val} className="w-full border-t border-gray-200"></div>
+                          ))}
+                        </div>
+                        
+                        {/* Sentiment zones - background colors */}
+                        <div className="absolute inset-0 flex flex-col pointer-events-none">
+                          <div className="flex-[30] bg-green-50"></div>
+                          <div className="flex-[20] bg-yellow-50"></div>
+                          <div className="flex-[50] bg-red-50"></div>
+                        </div>
+                        
+                        {/* SVG for line chart */}
+                        <svg 
+                          className="absolute inset-0 w-full h-full" 
+                          viewBox="0 0 100 200"
+                          preserveAspectRatio="none"
+                          style={{ overflow: 'visible' }}
+                        >
+                          <defs>
+                            <linearGradient id="sentimentGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+                              <stop offset="0%" stopColor="#10b981" stopOpacity="0.2" />
+                              <stop offset="30%" stopColor="#f59e0b" stopOpacity="0.15" />
+                              <stop offset="50%" stopColor="#ef4444" stopOpacity="0.1" />
+                            </linearGradient>
+                          </defs>
+                          
+                          {/* Fill area under line */}
+                          {analysis.sentimentJourney.length > 1 && (
+                            <polygon
+                              points={`0,200 ${analysis.sentimentJourney.map((point, index) => {
+                                const x = (index / (analysis.sentimentJourney.length - 1)) * 100;
+                                const y = (100 - point.score) * 2;
+                                return `${x},${y}`;
+                              }).join(' ')} 100,200`}
+                              fill="url(#sentimentGradient)"
+                            />
+                          )}
+                          
+                          {/* Line path */}
+                          {analysis.sentimentJourney.length > 1 && (
+                            <polyline
+                              points={analysis.sentimentJourney.map((point, index) => {
+                                const x = (index / (analysis.sentimentJourney.length - 1)) * 100;
+                                const y = (100 - point.score) * 2;
+                                return `${x},${y}`;
+                              }).join(' ')}
+                              fill="none"
+                              stroke="#3b82f6"
+                              strokeWidth="0.5"
+                              strokeLinecap="round"
+                              strokeLinejoin="round"
+                            />
+                          )}
+                        </svg>
+                        
+                        {/* Data points */}
+                        <div className="absolute inset-0">
+                          {analysis.sentimentJourney.map((point: any, index) => {
+                            const xPercent = analysis.sentimentJourney.length === 1 
+                              ? 50 
+                              : (index / (analysis.sentimentJourney.length - 1)) * 100;
+                            const yPercent = 100 - point.score;
+                            const color = point.score >= 70 ? 'bg-green-500' : point.score >= 50 ? 'bg-yellow-500' : 'bg-red-500';
+                            
+                            return (
+                              <div
+                                key={index}
+                                className="absolute group"
+                                style={{
+                                  left: `${xPercent}%`,
+                                  top: `${yPercent}%`,
+                                  transform: 'translate(-50%, -50%)',
+                                }}
+                              >
+                                {/* Point */}
+                                <button
+                                  onClick={() => {
+                                    setSelectedCallId(point.callId);
+                                    setSelectedCallNumber(point.callNumber || index + 1);
+                                  }}
+                                  className={`w-4 h-4 ${color} rounded-full border-2 border-white shadow-lg cursor-pointer hover:scale-125 transition-transform z-10`}
+                                />
+                                
+                                {/* Tooltip with AI reasoning and View Details button */}
+                                <div className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-3 bg-gray-900 text-white text-xs px-3 py-2 rounded opacity-0 group-hover:opacity-100 transition-opacity z-20 shadow-lg pointer-events-none group-hover:pointer-events-auto max-w-xs">
+                                  <div className="font-semibold">Call #{point.callNumber || index + 1}</div>
+                                  <div>{new Date(point.timestamp || point.date).toLocaleString('en-US', { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' })}</div>
+                                  <div>Score: {point.score}/100</div>
+                                  <div className="capitalize">{point.sentiment.replace('_', ' ')}</div>
+                                  {point.aiReasoning && (
+                                    <div className="mt-2 pt-2 border-t border-gray-700 text-gray-300 text-xs">
+                                      <div className="font-semibold text-indigo-300">AI Analysis:</div>
+                                      <div className="whitespace-normal">{point.aiReasoning}</div>
+                                    </div>
+                                  )}
+                                  {point.churnIndicators && point.churnIndicators.length > 0 && (
+                                    <div className="mt-1 text-red-300 text-xs">
+                                      <div className="font-semibold">⚠️ Churn Signals:</div>
+                                      <div className="whitespace-normal">{point.churnIndicators.join(', ')}</div>
+                                    </div>
+                                  )}
+                                  <button
+                                    onClick={(e) => {
+                                      e.stopPropagation();
+                                      setSelectedCallId(point.callId);
+                                      setSelectedCallNumber(point.callNumber || index + 1);
+                                    }}
+                                    className="mt-2 w-full px-2 py-1 bg-indigo-600 hover:bg-indigo-700 rounded text-white font-medium text-xs flex items-center justify-center gap-1 transition-colors"
+                                  >
+                                    <Eye className="w-3 h-3" />
+                                    View Full AI Analysis
+                                  </button>
+                                  {/* Arrow */}
+                                  <div className="absolute top-full left-1/2 transform -translate-x-1/2 -mt-1">
+                                    <div className="border-4 border-transparent border-t-gray-900"></div>
+                                  </div>
+                                </div>
+                              </div>
+                            );
+                          })}
+                        </div>
+                        
+                        {/* X-axis labels - show call numbers with dates */}
+                        <div className="absolute -bottom-10 left-0 right-0 flex justify-between text-xs text-gray-500">
+                          {analysis.sentimentJourney.map((point: any, index) => {
+                            const xPercent = analysis.sentimentJourney.length === 1 
+                              ? 50 
+                              : (index / (analysis.sentimentJourney.length - 1)) * 100;
+                            return (
+                              <div 
+                                key={index} 
+                                className="absolute text-center transform -translate-x-1/2"
+                                style={{ left: `${xPercent}%` }}
+                              >
+                                <div className="font-medium text-gray-700">Call #{point.callNumber || index + 1}</div>
+                                <div className="text-xs text-gray-500 mt-0.5">
+                                  {new Date(point.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
+                                </div>
+                              </div>
+                            );
+                          })}
+                        </div>
+                      </div>
+                    </div>
+                    
+                    {/* Legend */}
+                    <div className="flex justify-center gap-6 mt-20 text-xs text-gray-600">
+                      <span className="flex items-center gap-2">
+                        <span className="w-3 h-3 bg-green-500 rounded-full"></span>
+                        Positive (70-100)
+                      </span>
+                      <span className="flex items-center gap-2">
+                        <span className="w-3 h-3 bg-yellow-500 rounded-full"></span>
+                        Neutral (50-69)
+                      </span>
+                      <span className="flex items-center gap-2">
+                        <span className="w-3 h-3 bg-red-500 rounded-full"></span>
+                        Negative (0-49)
+                      </span>
+                    </div>
+                  </div>
+                ) : (
+                  <div className="bg-gray-50 rounded-lg border border-gray-200 p-6 text-center">
+                    <p className="text-gray-600 text-sm">
+                      No sentiment journey data available. Customer may have limited recent interaction history.
+                    </p>
+                  </div>
+                )}
+              </div>
 
               {/* Retention Strategy */}
               {analysis.retentionStrategy && (
@@ -291,6 +466,16 @@ export function CustomerChurnAnalysis({ customer, onClose }: CustomerChurnAnalys
           </div>
         )}
       </motion.div>
+
+      {/* Call Transcript Detail Modal */}
+      {selectedCallId && (
+        <CallTranscriptDetail
+          callId={selectedCallId}
+          callNumber={selectedCallNumber}
+          customerName={customer.name}
+          onClose={() => setSelectedCallId(null)}
+        />
+      )}
     </motion.div>
   );
 }

@@ -1,95 +1,35 @@
-// Database types
-export interface CallData {
-  call_id: number;
-  customer_id: string;
-  startdatetime: Date;
-  enddatetime: Date;
+// Outage data types
+export interface OutageData {
+  zip: string;
+  count: number;
+  avgDuration: number;
+  coordinates: [number, number];
+  customerIds: string[];
+  severity: 'low' | 'medium' | 'high';
 }
 
-export interface TranscriptData {
+export interface TimelineData {
+  timestamp: string;
+  callCount: number;
+}
+
+export interface Stats {
+  totalCalls: number;
+  uniqueCustomers: number;
+  avgDuration: number;
+  lastCallTime: string;
+}
+
+export interface OutageTranscript {
   call_id: number;
   customer_id: string;
   call_reason: string;
   transcript: string;
-}
-
-export interface Customer {
-  customer_id: string;
+  startdatetime: Date;
+  enddatetime: Date;
   customer_name: string;
-  service_plan: string;
-  service_address: string;
-  provisioned_bandwidth_down_mbps: number;
-  provisioned_bandwidth_up_mbps: number;
-  router_serial_number: string;
-  account_status: string;
-  email: string;
-  location: string; // ZIP code
-  created_at: Date;
-  updated_at: Date;
-  contact_phone: string;
-  multi_site: boolean;
-  subscription_tier: string;
-  industry: string;
-}
-
-// API Response types
-export interface ZipCoordinate {
-  lat: number;
-  lon: number;
-  city: string;
-}
-
-export interface OutageDataPoint {
-  zip_code: string;
-  call_count: number;
-  avg_duration: number;
-  coordinates: ZipCoordinate;
-  customer_ids: string[];
-}
-
-export interface OutageDataResponse {
-  data: OutageDataPoint[];
-  timestamp: string;
-  time_range_hours: number;
-}
-
-export interface TimelineDataPoint {
-  timestamp: string;
-  call_count: number;
-  hour_label: string;
-}
-
-export interface TimelineDataResponse {
-  data: TimelineDataPoint[];
-  time_range_hours: number;
-}
-
-export interface StatsResponse {
-  total_calls: number;
-  unique_customers: number;
-  avg_duration_minutes: number;
-  last_call_time: string | null;
-  time_range_hours: number;
-}
-
-// Component Props types
-export interface TimeRangeOption {
-  label: string;
-  hours: number;
-}
-
-export interface MapMarkerData {
-  position: [number, number];
-  zipCode: string;
-  callCount: number;
-  avgDuration: number;
-  city: string;
-}
-
-export interface HeatmapPoint {
-  lat: number;
-  lng: number;
-  intensity: number;
+  location: string;
+  duration_minutes: number;
 }
 
 // Social Media types
@@ -116,7 +56,6 @@ export interface SentimentDataPoint {
   positive: number;
   negative: number;
   neutral: number;
-  total: number;
 }
 
 export interface CategoryCount {
@@ -136,32 +75,30 @@ export interface LocationSentiment {
 export interface PlatformCount {
   platform: string;
   count: number;
-  percentage: number;
 }
 
 export interface SentimentDataResponse {
-  timeSeriesData: SentimentDataPoint[];
+  timeSeries: SentimentDataPoint[];
   categoryBreakdown: CategoryCount[];
   locationSentiment: LocationSentiment[];
   platformDistribution: PlatformCount[];
-  overallStats: {
-    totalPosts: number;
-    positivePercentage: number;
-    negativePercentage: number;
-    neutralPercentage: number;
+  overallSentiment: {
+    positive: number;
+    negative: number;
+    neutral: number;
   };
-  timeRangeHours: number;
 }
 
 export interface ActionItem {
   id: string;
   title: string;
   description: string;
-  priority: 'urgent' | 'high' | 'medium' | 'low';
-  department: 'Sales' | 'Support' | 'PR' | 'Tech';
+  priority: 'high' | 'medium' | 'low';
+  department: 'customer_service' | 'technical' | 'pr' | 'sales' | 'product';
+  estimatedImpact: string;
   relatedPostIds: number[];
   relatedPosts?: SocialMediaPost[];
-  status?: 'pending' | 'done' | 'dismissed';
+  status: 'pending' | 'in_progress' | 'done' | 'dismissed';
 }
 
 export interface ActionItemsResponse {
@@ -195,14 +132,19 @@ export interface SocialChatResponse {
 
 export interface ResponseDraft {
   postId: number;
-  originalComment: string;
-  draftResponse: string;
+  originalPost: {
+    username: string;
+    platform: string;
+    comment: string;
+  };
+  suggestedResponse: string;
   tone: string;
+  keyPoints: string[];
 }
 
 export interface ResponseGeneratorRequest {
   postIds: number[];
-  tone?: 'professional' | 'empathetic' | 'promotional';
+  tone: 'professional' | 'friendly' | 'apologetic' | 'promotional';
   template?: string;
 }
 
@@ -243,9 +185,14 @@ export interface ChurnAnalysis {
   riskLevel: 'low' | 'medium' | 'high';
   churnSignals: ChurnSignal[];
   sentimentJourney: Array<{
+    callId: number;
+    callNumber: number;
     date: string;
+    timestamp: string;
     score: number;
     sentiment: 'positive' | 'neutral' | 'negative' | 'very_negative';
+    aiReasoning?: string; // NEW: AI's explanation for this sentiment
+    churnIndicators?: string[]; // NEW: Specific churn signals detected by AI
   }>;
   retentionStrategy?: RetentionStrategy;
   callHistory: {
@@ -301,4 +248,62 @@ export interface ChurnInsightsResponse {
   };
   recommendations: string[];
   timeRangeHours: number;
+}
+
+// NEW: Deep Call Analysis types
+export interface CallTranscriptAnalysis {
+  callId: number;
+  customerId: string;
+  customerName: string;
+  callDate: string;
+  duration: number;
+  callReason: string;
+  
+  // AI-powered sentiment analysis
+  sentimentAnalysis: {
+    overallScore: number; // 0-100
+    sentiment: 'very_positive' | 'positive' | 'neutral' | 'negative' | 'very_negative';
+    confidence: number; // 0-1
+    emotionalTone: string[]; // e.g., ['frustrated', 'anxious', 'hopeful']
+  };
+  
+  // AI-powered churn prediction
+  churnLikelihood: {
+    score: number; // 0-100
+    level: 'very_low' | 'low' | 'medium' | 'high' | 'critical';
+    confidence: number; // 0-1
+    reasoning: string;
+  };
+  
+  // Key insights from Claude
+  keyInsights: {
+    mainIssues: string[];
+    customerConcerns: string[];
+    positiveSignals: string[];
+    negativeSignals: string[];
+    urgency: 'low' | 'medium' | 'high';
+  };
+  
+  // Recommended actions
+  recommendedActions: Array<{
+    action: string;
+    priority: 'low' | 'medium' | 'high';
+    rationale: string;
+  }>;
+  
+  // Transcript summary
+  summary: string;
+  
+  // Raw transcript (optional)
+  transcript?: string;
+}
+
+export interface CallTranscriptAnalysisRequest {
+  callId: number;
+  includeTranscript?: boolean;
+}
+
+export interface CallTranscriptAnalysisResponse {
+  analysis: CallTranscriptAnalysis;
+  generatedAt: string;
 }
